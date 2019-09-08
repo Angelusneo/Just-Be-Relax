@@ -52,7 +52,9 @@
 .sound-picker button:nth-child(3) {
   background: #6a2;
 }
-
+.sound-picker button:nth-child(3) {
+  background: #83a;
+}
 .sound-picker button img {
   height: 100%;
 }
