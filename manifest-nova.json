@@ -11,22 +11,22 @@
     "orientation": "any",
     "icons": [
     {
-      "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/android-icon-192x192nova.png?raw=true",
+      "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/android-icon-192x192-nova.png?raw=true",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/android-icon-256x256nova.png?raw=true",
+      "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/android-icon-256x256-nova.png?raw=true",
       "type": "image/png",
       "sizes": "256x256"
     },
     {
-      "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/android-icon-384x384nova.png?raw=true",
+      "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/android-icon-384x384-nova.png?raw=true",
       "type": "image/png",
       "sizes": "384x384"
     },
     {
-      "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/android-icon-512x512nova.png?raw=true",
+      "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/android-icon-512x512-nova.png?raw=true",
       "type": "image/png",
       "sizes": "512x512"
     },
