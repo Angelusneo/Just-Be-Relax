@@ -1,6 +1,6 @@
 {
-    "short_name": "Solum Radio",
-    "name": "Solum",
+    "short_name": "Solum",
+    "name": "Solum Radio",
     "lang": "es",
     "description": "Top Radio Stations",
     "start_url": "https://solumradio.blogspot.com/",
@@ -8,7 +8,7 @@
     "theme_color": "#000000",
     "dir": "ltr",
     "display": "standalone",
-    "orientation": "portrait",
+    "orientation": "any",
     "icons": [
     {
       "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/android-icon-192x192-.png?raw=true",
