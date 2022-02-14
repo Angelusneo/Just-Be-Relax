@@ -3,7 +3,7 @@
     "name": "Nova Radio",
     "lang": "es",
     "description": "Radios Stations Online",
-    "start_url": "https://novaradiostations.blogspot.com/?homescreen=1",
+    "start_url": "https://novaradiostations.blogspot.com/",
     "background_color": "#00aae7",
     "theme_color": "#fff",
     "dir": "auto",
