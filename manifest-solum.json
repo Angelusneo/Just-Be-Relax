@@ -3,7 +3,7 @@
     "name": "Solum Radio",
     "lang": "es",
     "description": "Top Radio Stations",
-    "start_url": "https://solumradio.blogspot.com/",
+    "start_url": "https://solumradio.blogspot.com/?homescreen=1",
     "background_color": "#000000",
     "theme_color": "#ff5c00",
     "dir": "auto",
