@@ -5,7 +5,7 @@
     "description": "Top Radio Stations",
     "start_url": "https://solumradio.blogspot.com/",
     "background_color": "#000000",
-    "theme_color": "#ff5c00",
+    "theme_color": "#000000",
     "dir": "auto",
     "display": "standalone",
     "orientation": "any",
