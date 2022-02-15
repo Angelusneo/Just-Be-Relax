@@ -1,0 +1,95 @@
+{
+	"short_name": "Menú",
+	"name": "Menú Bar",
+	"lang": "en",
+	"description": "Menú Bar",
+	"start_url": "https://menubarqr.blogspot.com/",
+	"background_color": "#cb202d",
+	"theme_color": "#cb202d",
+	"dir": "auto",
+	"display": "standalone",
+	"orientation": "any",
+	"icons": [
+		{
+		  "src": "https://angelusneo.github.io/Just-Be-Relax/android-icon-192x192-menu.png",
+		  "type": "image/png",
+		  "sizes": "192x192" 
+		},
+		{
+		  "src": "https://angelusneo.github.io/Just-Be-Relax/android-icon-256x256-menu.png",
+		  "type": "image/png",
+		  "sizes": "256x256"
+		},
+		{
+		  "src": "https://angelusneo.github.io/Just-Be-Relax/android-icon-384x384-menu.png",
+		  "type": "image/png",
+		  "sizes": "384x384"
+		},
+		{
+		  "src": "https://angelusneo.github.io/Just-Be-Relax/android-icon-512x512-menu.png",
+		  "type": "image/png",
+		  "sizes": "512x512"
+		},
+		{
+		  "src": "https://angelusneo.github.io/Just-Be-Relax/apple-icon-180x180-menu.png",
+		  "type": "image/png",
+		  "sizes": "180x180"
+		},
+		{
+		  "src": "https://angelusneo.github.io/Just-Be-Relax/apple-icon-152x152-menu.png",
+		  "type": "image/png",
+		  "sizes": "152x152"
+		},
+		{
+		  "src": "https://angelusneo.github.io/Just-Be-Relax/apple-icon-144x144-menu.png",
+		  "type": "image/png",
+		  "sizes": "144x144"
+		},
+		{
+		  "src": "https://angelusneo.github.io/Just-Be-Relax/apple-icon-120x120-menu.png",
+		  "type": "image/png",
+		  "sizes": "120x120"
+		},
+		{
+		  "src": "https://angelusneo.github.io/Just-Be-Relax/apple-icon-114x114-menu.png",
+		  "type": "image/png",
+		  "sizes": "114x114"
+		},
+		{
+		  "src": "https://angelusneo.github.io/Just-Be-Relax/favicon-96x96-menu.png",
+		  "type": "image/png",
+		  "sizes": "96x96"
+		},
+		{
+		  "src": "https://angelusneo.github.io/Just-Be-Relax/apple-icon-76x76-menu.png",
+		  "type": "image/png",
+		  "sizes": "76x76"
+		},
+		{
+		  "src": "https://angelusneo.github.io/Just-Be-Relax/apple-icon-72x72-menu.png",
+		  "type": "image/png",
+		  "sizes": "72x72"
+		},
+		{
+		  "src": "https://angelusneo.github.io/Just-Be-Relax/apple-icon-60x60-menu.png",
+		  "type": "image/png",
+		  "sizes": "60x60"
+		},
+		{
+		  "src": "https://angelusneo.github.io/Just-Be-Relax/apple-icon-57x57-menu.png",
+		  "type": "image/png",
+		  "sizes": "57x57"
+		},
+		{
+		  "src": "https://angelusneo.github.io/Just-Be-Relax/favicon-32x32-menu.png",
+		  "type": "image/png",
+		  "sizes": "32x32"
+		},
+		{
+		  "src": "https://angelusneo.github.io/Just-Be-Relax/favicon-16x16-menu.png",
+		  "type": "image/png",
+		  "sizes": "16x16"
+		}
+	  ],
+	  "prefer_related_applications": false
+	}
