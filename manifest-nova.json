@@ -5,7 +5,7 @@
     "description": "Radios Stations Online",
     "start_url": "https://novaradiostations.blogspot.com/",
     "background_color": "#2285da",
-    "theme_color": "#2285da",
+    "theme_color": "#000000",
     "dir": "auto",
     "display": "standalone",
     "orientation": "any",
