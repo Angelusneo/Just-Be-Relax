@@ -1,0 +1,95 @@
+{
+	"short_name": "Nando",
+	"name": "Radio Nando",
+	"lang": "es",
+	"description": "Radio Online",
+	"start_url": "https://radionando.blogspot.com/",
+	"background_color": "#00aae7",
+	"theme_color": "#ffffff",
+	"dir": "auto",
+    "display": "standalone",
+    "orientation": "any",
+    "icons": [
+    {
+      "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/android-icon-192x192-Nando.png?raw=true",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/android-icon-256x256-Nando.png?raw=true",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/android-icon-384x384-Nando.png?raw=true",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/android-icon-512x512-Nando.png?raw=true",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/apple-icon-180x180-Nando.png?raw=true",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/apple-icon-152x152-Nando.png?raw=true",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/apple-icon-144x144-Nando.png?raw=true",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/apple-icon-120x120-Nando.png?raw=true",
+      "type": "image/png",
+      "sizes": "120x120"
+    },
+    {
+      "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/apple-icon-114x114-Nando.png?raw=true",
+      "type": "image/png",
+      "sizes": "114x114"
+    },
+    {
+      "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/favicon-96x96-Nando.png?raw=true",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/apple-icon-76x76-Nando.png?raw=true",
+      "type": "image/png",
+      "sizes": "76x76"
+    },
+    {
+      "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/apple-icon-72x72-Nando.png?raw=true",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/apple-icon-60x60-Nando.png?raw=true",
+      "type": "image/png",
+      "sizes": "60x60"
+    },
+    {
+      "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/apple-icon-57x57-Nando.png?raw=true",
+      "type": "image/png",
+      "sizes": "57x57"
+    },
+    {
+      "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/favicon-32x32-Nando.png?raw=true",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/favicon-16x16-Nando.png?raw=true",
+      "type": "image/png",
+      "sizes": "16x16"
+    }
+],
+"prefer_related_applications": false
+}
