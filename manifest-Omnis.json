@@ -4,7 +4,7 @@
 	"lang": "es",
 	"description": "Radio Online",
 	"start_url": "https://omnisradio.blogspot.com/",
-	"background_color": "#ff1100",
+	"background_color": "#072653",
 	"theme_color": "#ffffff",
 	"dir": "auto",
     "display": "standalone",
