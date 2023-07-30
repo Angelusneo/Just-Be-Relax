@@ -1,0 +1,500 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ES:BLAZE" group-title="España",ES:BLAZE
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50328
+#EXTINF:-1 tvg-name="ES:BLOOMBERG" group-title="España",ES:BLOOMBERG
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50334
+#EXTINF:-1 tvg-name="ES:DISCOVERY CHANNELHD" group-title="España",ES:DISCOVERY CHANNELHD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50340
+#EXTINF:-1 tvg-name="ES:GALICIA TV" group-title="España",ES:GALICIA TV
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50343
+#EXTINF:-1 tvg-name="ES:MOVISTAR COMEDIA HD" group-title="España",ES:MOVISTAR COMEDIA HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50347
+#EXTINF:-1 tvg-name="ES:Movistar F\\'f3rmula 1 HD" group-title="España",ES:Movistar F\\'f3rmula 1 HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50360
+#EXTINF:-1 tvg-name="ES:Movistar Deportes HD" group-title="España",ES:Movistar Deportes HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50362
+#EXTINF:-1 tvg-name="ES:GOL TV" group-title="España",ES:GOL TV
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50364
+#EXTINF:-1 tvg-name="ES:Eurosport 1 HD" group-title="España",ES:Eurosport 1 HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50365
+#EXTINF:-1 tvg-name="ES:Mega HD" group-title="España",ES:Mega HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50369
+#EXTINF:-1 tvg-name="ES:FDF HD" group-title="España",ES:FDF HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50372
+#EXTINF:-1 tvg-name="ES:Cosmo HD" group-title="España",ES:Cosmo HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50379
+#EXTINF:-1 tvg-name="ES:Comedy Central HD" group-title="España",ES:Comedy Central HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50380
+#EXTINF:-1 tvg-name="ES:CANAL COCINA" group-title="España",ES:CANAL COCINA
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50381
+#EXTINF:-1 tvg-name="ES:BLAZE" group-title="España",ES:BLAZE
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50385
+#EXTINF:-1 tvg-name="ES:Be Mad HD" group-title="España",ES:Be Mad HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50386
+#EXTINF:-1 tvg-name="ES:AXN WHITE HD" group-title="España",ES:AXN WHITE HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50388
+#EXTINF:-1 tvg-name="ES:AXN HD" group-title="España",ES:AXN HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50389
+#EXTINF:-1 tvg-name="ES:AMC HD" group-title="España",ES:AMC HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50391
+#EXTINF:-1 tvg-name="ES:HOLLYWOOD HD" group-title="España",ES:HOLLYWOOD HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50394
+#EXTINF:-1 tvg-name="ES:TNT HD" group-title="España",ES:TNT HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50397
+#EXTINF:-1 tvg-name="ES:TCM HD" group-title="España",ES:TCM HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50399
+#EXTINF:-1 tvg-name="ES:ODESEA" group-title="España",ES:ODESEA
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50404
+#EXTINF:-1 tvg-name="ES:MOVISTAR CINE N" group-title="España",ES:MOVISTAR CINE N
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50411
+#EXTINF:-1 tvg-name="ES:MOVISTAR ACCION HD" group-title="España",ES:MOVISTAR ACCION HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50413
+#EXTINF:-1 tvg-name="ES:La Sexta HD" group-title="España",ES:La Sexta HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50414
+#EXTINF:-1 tvg-name="ES:Antena 3 HD" group-title="España",ES:Antena 3 HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50416
+#EXTINF:-1 tvg-name="DAZN F1 SD EXTRA\\" tvg-logo="http://tutv.online:2080/images/576ee8e4e86c52b345a9de8b8c855b08.png" group-title="FORMULA 1",DAZN F1 SD EXTRA\\
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110563
+#EXTINF:-1 tvg-name="DAZN F1 FHD\\" tvg-logo="http://tutv.online:2080/images/576ee8e4e86c52b345a9de8b8c855b08.png" group-title="FORMULA 1",DAZN F1 FHD\\
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110564
+#EXTINF:-1 tvg-name="DAZN F1 FHD EXTRA\\" tvg-logo="http://tutv.online:2080/images/576ee8e4e86c52b345a9de8b8c855b08.png" group-title="FORMULA 1",DAZN F1 FHD EXTRA\\
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110566
+#EXTINF:-1 tvg-name="DAZN F1 FHD EXTRA\\" tvg-logo="http://tutv.online:2080/images/576ee8e4e86c52b345a9de8b8c855b08.png" group-title="FORMULA 1",DAZN F1 FHD EXTRA\\
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110567
+#EXTINF:-1 tvg-name="CUL | ANIMAL PLANET HD" tvg-logo="http://castlempire.site:8080/images/aae991412079ecdaced1d38f47aa8ff2.png" group-title="Mundo y Cultura ⭐️",CUL | ANIMAL PLANET HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71677
+#EXTINF:-1 tvg-name="CUL | ANIMAL PLANET" tvg-logo="http://castlempire.site:8080/images/aae991412079ecdaced1d38f47aa8ff2.png" group-title="Mundo y Cultura ⭐️",CUL | ANIMAL PLANET
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71678
+#EXTINF:-1 tvg-name="CUL | DISCOVERY CHANNEL" tvg-logo="http://castlempire.site:8080/images/7c7d12fbcb69f196ec77a69a4eb98c06.png" group-title="Mundo y Cultura ⭐️",CUL | DISCOVERY CHANNEL
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71680
+#EXTINF:-1 tvg-name="CUL | DISCOVERY H&H HD" tvg-logo="http://castlempire.site:8080/images/925d58786f53174f313d5514b39785c7.png" group-title="Mundo y Cultura ⭐️",CUL | DISCOVERY H&H HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71681
+#EXTINF:-1 tvg-name="CUL | DISCOVERY H&H" tvg-logo="http://castlempire.site:8080/images/925d58786f53174f313d5514b39785c7.png" group-title="Mundo y Cultura ⭐️",CUL | DISCOVERY H&H
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71682
+#EXTINF:-1 tvg-name="CUL | DISCOVERY SCIENCE HD" tvg-logo="http://castlempire.site:8080/images/e6b927dd4382fa7d1c3777f0118c80ee.png" group-title="Mundo y Cultura ⭐️",CUL | DISCOVERY SCIENCE HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71683
+#EXTINF:-1 tvg-name="CUL | DISCOVERY SCIENCE" tvg-logo="http://castlempire.site:8080/images/e6b927dd4382fa7d1c3777f0118c80ee.png" group-title="Mundo y Cultura ⭐️",CUL | DISCOVERY SCIENCE
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71684
+#EXTINF:-1 tvg-name="CUL | DISCOVERY THEATER HD" tvg-logo="http://castlempire.site:8080/images/39eea37ba3161fb37f7010934c62bde0.png" group-title="Mundo y Cultura ⭐️",CUL | DISCOVERY THEATER HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71685
+#EXTINF:-1 tvg-name="CUL | DISCOVERY THEATER" tvg-logo="http://castlempire.site:8080/images/39eea37ba3161fb37f7010934c62bde0.png" group-title="Mundo y Cultura ⭐️",CUL | DISCOVERY THEATER
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71686
+#EXTINF:-1 tvg-name="CUL | DISCOVERY TURBO HD" tvg-logo="http://castlempire.site:8080/images/c16fc0d14378a500c14fae4069b74807.png" group-title="Mundo y Cultura ⭐️",CUL | DISCOVERY TURBO HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71687
+#EXTINF:-1 tvg-name="CUL | DISCOVERY WORLD HD" tvg-logo="http://castlempire.site:8080/images/fabefbee131472b446ae0feb87026d13.png" group-title="Mundo y Cultura ⭐️",CUL | DISCOVERY WORLD HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71689
+#EXTINF:-1 tvg-name="CUL | DISCOVERY WORLD" tvg-logo="http://castlempire.site:8080/images/fabefbee131472b446ae0feb87026d13.png" group-title="Mundo y Cultura ⭐️",CUL | DISCOVERY WORLD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71690
+#EXTINF:-1 tvg-name="CUL | H2 HD" tvg-logo="http://castlempire.site:8080/images/5677c2d37108e6dbf1266d4f4a61e301.PNG" group-title="Mundo y Cultura ⭐️",CUL | H2 HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71693
+#EXTINF:-1 tvg-name="CUL | H2" tvg-logo="http://castlempire.site:8080/images/5677c2d37108e6dbf1266d4f4a61e301.PNG" group-title="Mundo y Cultura ⭐️",CUL | H2
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71694
+#EXTINF:-1 tvg-name="CUL | HISTORY CHANNEL HD" tvg-logo="http://castlempire.site:8080/images/ded5e060d8dab8d4317c3568834c94cf.png" group-title="Mundo y Cultura ⭐️",CUL | HISTORY CHANNEL HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71695
+#EXTINF:-1 tvg-name="CUL | HISTORY CHANNEL" tvg-logo="http://castlempire.site:8080/images/ded5e060d8dab8d4317c3568834c94cf.png" group-title="Mundo y Cultura ⭐️",CUL | HISTORY CHANNEL
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71696
+#EXTINF:-1 tvg-name="BRASIL | ESPN HD" tvg-logo="http://tutv.online:2080/images/e5201819d3e4187443741d8a4812c22f.png" group-title=" **LA LIGA ESPAÑA**⚽",BRASIL | ESPN HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96831
+#EXTINF:-1 tvg-name="DAZN LALIGA 1 FHD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 1 FHD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96841
+#EXTINF:-1 tvg-name="DAZN LALIGA 1 FHD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 1 FHD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96842
+#EXTINF:-1 tvg-name="DAZN LALIGA 1 FHD EXTRA" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 1 FHD EXTRA
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96839
+#EXTINF:-1 tvg-name="DAZN LALIGA 1 FHD EXTRA" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 1 FHD EXTRA
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96840
+#EXTINF:-1 tvg-name="DAZN LALIGA 1 HD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 1 HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96837
+#EXTINF:-1 tvg-name="DAZN LALIGA 1 HD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 1 HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96838
+#EXTINF:-1 tvg-name="DAZN LALIGA 1 SD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 1 SD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96835
+#EXTINF:-1 tvg-name="DAZN LALIGA 1 SD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 1 SD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96836
+#EXTINF:-1 tvg-name="DAZN LALIGA 2 FHD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 2 FHD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96849
+#EXTINF:-1 tvg-name="DAZN LALIGA 2 FHD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 2 FHD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96850
+#EXTINF:-1 tvg-name="DAZN LALIGA 2 FHD EXTRA" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 2 FHD EXTRA
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96847
+#EXTINF:-1 tvg-name="DAZN LALIGA 2 FHD EXTRA" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 2 FHD EXTRA
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96848
+#EXTINF:-1 tvg-name="DAZN LALIGA 2 HD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 2 HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96846
+#EXTINF:-1 tvg-name="DAZN LALIGA 2 SD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 2 SD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96843
+#EXTINF:-1 tvg-name="DAZN LALIGA 2 SD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 2 SD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96844
+#EXTINF:-1 tvg-name="DAZN MOVISTAR 1 FHD EXTRA" tvg-logo="http://tutv.online:2080/images/5bf5e1493ba2c9dae1ef84222d00edae.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN MOVISTAR 1 FHD EXTRA
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96820
+#EXTINF:-1 tvg-name="DAZN MOVISTAR 1 SD" tvg-logo="http://tutv.online:2080/images/5bf5e1493ba2c9dae1ef84222d00edae.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN MOVISTAR 1 SD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96819
+#EXTINF:-1 tvg-name="DEPORTES HD | SKY SPORTS 16" tvg-logo="http://tutv.online:2080/images/d80bf9d86d51572e9284c63976a635b7.jpg" group-title=" **LA LIGA ESPAÑA**⚽",DEPORTES HD | SKY SPORTS 16
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96810
+#EXTINF:-1 tvg-name="ES | GOL TV" tvg-logo="http://tutv.online:2080/images/3d9af0ff6a2b762f8c30ec4650f98395.jpg" group-title=" **LA LIGA ESPAÑA**⚽",ES | GOL TV
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96834
+#EXTINF:-1 tvg-name="ES | La Liga Smartbank TV opc 2" tvg-logo="http://tutv.online:2080/images/41eb9f26d7c5f0481cae1f523993562a.png" group-title=" **LA LIGA ESPAÑA**⚽",ES | La Liga Smartbank TV opc 2
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96852
+#EXTINF:-1 tvg-name="ES | La Liga Smartbank TV opc 2" tvg-logo="http://tutv.online:2080/images/41eb9f26d7c5f0481cae1f523993562a.png" group-title=" **LA LIGA ESPAÑA**⚽",ES | La Liga Smartbank TV opc 2
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96854
+#EXTINF:-1 tvg-name="ES | La Liga Smartbank TV opc 2" tvg-logo="http://tutv.online:2080/images/41eb9f26d7c5f0481cae1f523993562a.png" group-title=" **LA LIGA ESPAÑA**⚽",ES | La Liga Smartbank TV opc 2
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96855
+#EXTINF:-1 tvg-name="ES | M. LALIGA FHD" tvg-logo="http://tutv.online:2080/images/9ee1c22366af7a65264a8e23851a407f.png" group-title=" **LA LIGA ESPAÑA**⚽",ES | M. LALIGA FHD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96828
+#EXTINF:-1 tvg-name="ES | Movistar LaLiga HD" group-title=" **LA LIGA ESPAÑA**⚽",ES | Movistar LaLiga HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96825
+#EXTINF:-1 tvg-name="ES | SKY SPORTS LALIGA" tvg-logo="http://tutv.online:2080/images/bf49debe86a2415099b16e966a610def.png" group-title=" **LA LIGA ESPAÑA**⚽",ES | SKY SPORTS LALIGA
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96811
+#EXTINF:-1 tvg-name="PT | ELEVEN 1 HD" tvg-logo="http://tutv.online:2080/images/c84c6a1794d251f582b796a99cf6b184.png" group-title=" **LA LIGA ESPAÑA**⚽",PT | ELEVEN 1 HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96832
+#EXTINF:-1 tvg-name="AR | EL TRECE INTERNACIONAL" tvg-logo="http://54.39.156.227:2080/images/9deb62123fb01257aeb6a057bb6225e7.png" group-title="LATINO",AR | EL TRECE 
+#EXTINF:-1 tvg-name="CH : StarPlay MARVEL HD" tvg-logo="data:image/jpeg;base64,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" group-title="LATINO",CH : StarPlay MARVEL HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/72946
+#EXTINF:-1 tvg-name="Águila o sol (1938)" tvg-logo="http://tutv.online:2080/images/03a9d6c5a3aec6d33a387a531962c5cc.jpg" group-title="CANTINFLAS",Águila o sol (1938)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8602.mp4
+#EXTINF:-1 tvg-name="Así es mi tierra (1937)" tvg-logo="http://tutv.online:2080/images/81d3be27c866d916eea38988c9e3e5e3.jpg" group-title="CANTINFLAS",Así es mi tierra (1937)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8603.mp4
+#EXTINF:-1 tvg-name="Ahí está el detalle (1940)" tvg-logo="http://tutv.online:2080/images/4d109c91e259868874072fe6f21f6d40.jpg" group-title="CANTINFLAS",Ahí está el detalle (1940)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8604.mp4
+#EXTINF:-1 tvg-name="Cantinflas boxeador (1940)" tvg-logo="http://tutv.online:2080/images/6117bfb3140e8c5f52d9fb97e746106f.jpg" group-title="CANTINFLAS",Cantinflas boxeador (1940)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8608.mp4
+#EXTINF:-1 tvg-name="El Patrullero 777 (1978)" tvg-logo="http://tutv.online:2080/images/f87349d17ff2ddc09a9297c1dcde66ae.jpg" group-title="CANTINFLAS",El Patrullero 777 (1978)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8609.mp4
+#EXTINF:-1 tvg-name="El profe (1971)" tvg-logo="http://tutv.online:2080/images/b6c73d84b4f84243332404378611595a.jpg" group-title="CANTINFLAS",El profe (1971)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8610.mp4
+#EXTINF:-1 tvg-name="Cantinflas (2014)" tvg-logo="http://tutv.online:2080/images/2cdf559b08828d8c4709ee333c7b7831.jpg" group-title="CANTINFLAS",Cantinflas (2014)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8612.mp4
+#EXTINF:-1 tvg-name="Si yo fuera diputado (1952)" tvg-logo="http://tutv.online:2080/images/6c4a15200a4af4ffbf7b072f38e2f546.jpg" group-title="CANTINFLAS",Si yo fuera diputado (1952)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8614.mp4
+#EXTINF:-1 tvg-name="Soy un prófugo (1946)" tvg-logo="http://tutv.online:2080/images/1c99b3b4b9e569c5884e59a96b12c5ab.jpg" group-title="CANTINFLAS",Soy un prófugo (1946)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8615.mp4
+#EXTINF:-1 tvg-name="Por mis pistolas (1968)" tvg-logo="http://tutv.online:2080/images/dfe030830e14524eedb6bab900fdd200.jpg" group-title="CANTINFLAS",Por mis pistolas (1968)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8617.mp4
+#EXTINF:-1 tvg-name="Águila o sol (1938)" tvg-logo="http://54.39.156.227:2080/images/03a9d6c5a3aec6d33a387a531962c5cc.jpg" group-title="CANTINFLAS",Águila o sol (1938)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8618.mkv
+#EXTINF:-1 tvg-name="Ahí está el detalle (1940)" tvg-logo="http://54.39.156.227:2080/images/4d109c91e259868874072fe6f21f6d40.jpg" group-title="CANTINFLAS",Ahí está el detalle (1940)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8619.mkv
+#EXTINF:-1 tvg-name="Así es mi tierra (1937)" tvg-logo="http://54.39.156.227:2080/images/81d3be27c866d916eea38988c9e3e5e3.jpg" group-title="CANTINFLAS",Así es mi tierra (1937)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8620.avi
+#EXTINF:-1 tvg-name="¡A Volar Joven! (1947)" tvg-logo="http://54.39.156.227:2080/images/6da89faa7726d4d0338a7f75c5102de5.jpg" group-title="CANTINFLAS",¡A Volar Joven! (1947)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8621.mkv
+#EXTINF:-1 tvg-name="Caballero a la Medida (1954)" tvg-logo="http://54.39.156.227:2080/images/169bd155ca492416628a4e6f93e79f80.jpg" group-title="CANTINFLAS",Caballero a la Medida (1954)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8622.mkv
+#EXTINF:-1 tvg-name="Carnaval en el trópico (1942)" tvg-logo="http://tutv.online:2080/images/53c98ed5902ab7e6506a66481b23edbb.jpg" group-title="CANTINFLAS",Carnaval en el trópico (1942)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8623.mkv
+#EXTINF:-1 tvg-name="Conserje en Condominio (1974)" tvg-logo="http://54.39.156.227:25461/images/b4f983d8ce60ac858a175be13e3fbdcd.jpg" group-title="CANTINFLAS",Conserje en Condominio (1974)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8624.mkv
+#EXTINF:-1 tvg-name="El Analfabeto (1961)" tvg-logo="http://54.39.156.227:2080/images/822f1cf5f120126e12172effd29409c3.jpg" group-title="CANTINFLAS",El Analfabeto (1961)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8625.mkv
+#EXTINF:-1 tvg-name="El barrendero (1982)" tvg-logo="http://54.39.156.227:2080/images/f5512176fff6a5af7d43e79c79367378.jpg" group-title="CANTINFLAS",El barrendero (1982)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8626.mkv
+#EXTINF:-1 tvg-name="El Bolero de Raquel (1957)" tvg-logo="http://54.39.156.227:2080/images/5416ea3a51ccc2bed410444c146e639d.jpg" group-title="CANTINFLAS",El Bolero de Raquel (1957)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8627.mkv
+#EXTINF:-1 tvg-name="El bombero atómico (1952)" tvg-logo="http://54.39.156.227:2080/images/a9d76267114b5260223fed1445c6ccd9.jpg" group-title="CANTINFLAS",El bombero atómico (1952)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8628.mkv
+#EXTINF:-1 tvg-name="El Extra (1962)" tvg-logo="http://54.39.156.227:2080/images/1aa83046c68c14c154ef57a0c13ef8c7.jpg" group-title="CANTINFLAS",El Extra (1962)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8629.mkv
+#EXTINF:-1 tvg-name="El Gendarme Desconocido (1941)" tvg-logo="http://54.39.156.227:2080/images/592158809c5ce32cd1fb07025672e7c7.jpg" group-title="CANTINFLAS",El Gendarme Desconocido (1941)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8630.avi
+#EXTINF:-1 tvg-name="El Mago (1949)" tvg-logo="http://54.39.156.227:2080/images/041ea5e29c9f9df03979e36a0b46d168.jpg" group-title="CANTINFLAS",El Mago (1949)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8631.mkv
+#EXTINF:-1 tvg-name="El ministro y yo (1977)" tvg-logo="http://54.39.156.227:2080/images/daaa0d46e5b9b10c9f8d10f553fe3234.jpg" group-title="CANTINFLAS",El ministro y yo (1977)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8632.mkv
+#EXTINF:-1 tvg-name="El Padrecito (1964)" tvg-logo="http://54.39.156.227:2080/images/95740cb2fb3d997b4d13ae640b0c6e18.jpg" group-title="CANTINFLAS",El Padrecito (1964)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8633.mkv
+#EXTINF:-1 tvg-name="El Patrullero 777 (1978)" tvg-logo="http://54.39.156.227:2080/images/f87349d17ff2ddc09a9297c1dcde66ae.jpg" group-title="CANTINFLAS",El Patrullero 777 (1978)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8634.mkv
+#EXTINF:-1 tvg-name="El Portero (1950)" tvg-logo="http://54.39.156.227:2080/images/528bf496df530309bd5a100d91479a9a.jpg" group-title="CANTINFLAS",El Portero (1950)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8635.mkv
+#EXTINF:-1 tvg-name="El profe (1971)" tvg-logo="http://54.39.156.227:2080/images/b6c73d84b4f84243332404378611595a.jpg" group-title="CANTINFLAS",El profe (1971)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8636.mkv
+#EXTINF:-1 tvg-name="El Señor Doctor (1965)" tvg-logo="http://54.39.156.227:2080/images/6e4711d756703b84dcc6008d62a6d232.jpg" group-title="CANTINFLAS",El Señor Doctor (1965)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8637.mkv
+#EXTINF:-1 tvg-name="El señor fotógrafo (1953)" tvg-logo="http://54.39.156.227:2080/images/4b39fb662acc116bffae809888459272.jpg" group-title="CANTINFLAS",El señor fotógrafo (1953)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8638.mkv
+#EXTINF:-1 tvg-name="El Siete Machos (1951)" tvg-logo="http://54.39.156.227:2080/images/70d554f5fad1ddc979c1c394b1c55ced.jpg" group-title="CANTINFLAS",El Siete Machos (1951)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8639.mkv
+#EXTINF:-1 tvg-name="El Signo de la Muerte (1939)" tvg-logo="http://54.39.156.227:2080/images/c1e34cb36f2c6142aa37a3dd4c80ac42.jpg" group-title="CANTINFLAS",El Signo de la Muerte (1939)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8640.mkv
+#EXTINF:-1 tvg-name="El Supersabio (1948)" tvg-logo="http://54.39.156.227:2080/images/3f58098ff3e1622d9bb2b53d943c7b30.jpg" group-title="CANTINFLAS",El Supersabio (1948)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8641.mkv
+#EXTINF:-1 tvg-name="Festival de la comedia (1939)" tvg-logo="http://54.39.156.227:2080/images/209961a6ee9970957b58daec8dfe598c.jpg" group-title="CANTINFLAS",Festival de la comedia (1939)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8642.mkv
+#EXTINF:-1 tvg-name="Los Tres Mosqueteros (1942)" tvg-logo="http://54.39.156.227:2080/images/7ac67b9a1e56b92b6f02387f1c95fd8e.jpg" group-title="CANTINFLAS",Los Tres Mosqueteros (1942)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8643.mkv
+#EXTINF:-1 tvg-name="Ni sangre ni arena (1941)" tvg-logo="http://54.39.156.227:2080/images/de48b2a78bb5e4a2728b2999423e817c.jpg" group-title="CANTINFLAS",Ni sangre ni arena (1941)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8644.mkv
+#EXTINF:-1 tvg-name="Por mis pistolas (1968)" tvg-logo="http://54.39.156.227:2080/images/dfe030830e14524eedb6bab900fdd200.jpg" group-title="CANTINFLAS",Por mis pistolas (1968)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8645.mkv
+#EXTINF:-1 tvg-name="Sube y baja (1959)" tvg-logo="http://54.39.156.227:2080/images/d748b8bb9f19c3d8d7cc1784fd2f3d79.jpg" group-title="CANTINFLAS",Sube y baja (1959)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8646.mp4
+#EXTINF:-1 tvg-name="Su excelencia (1967)" tvg-logo="http://54.39.156.227:2080/images/b4db12e6d37eac92100458dfb7dd8d88.jpg" group-title="CANTINFLAS",Su excelencia (1967)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8647.mkv
+#EXTINF:-1 tvg-name="Un día con el Diablo (1945)" tvg-logo="http://54.39.156.227:2080/images/256ac1c0a342c57055f14d66e780e949.jpg" group-title="CANTINFLAS",Un día con el Diablo (1945)
+http://tutv.online:2080/movie/f3d6c8e2/d6s5x2z3/8648.mp4
+#EXTINF:-1 tvg-name="ES | BARCA TV FHD" tvg-logo="http://54.39.156.227:2080/images/a872efbfc9a5280bf0e9c3c267ce7a31.png" group-title="DEPORTES ESPAÑA",ES | BARCA TV FHD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/57034
+#EXTINF:-1 tvg-name="ES | DAZN FORMULA 1 ES" tvg-logo="http://54.39.156.227:2080/images/5af84c8b2cde6ee106335f31c80b8738.png" group-title="DEPORTES ESPAÑA",ES | DAZN FORMULA 1 ES
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/57013
+#EXTINF:-1 tvg-name="ES | DAZN MOVISTAR HD 1" tvg-logo="http://54.39.156.227:2080/images/3a3c5baf91b83732b9b9e7327ed286f2.png" group-title="DEPORTES ESPAÑA",ES | DAZN MOVISTAR HD 1
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/57008
+#EXTINF:-1 tvg-name="ES | DAZN MOVISTAR HD 2" tvg-logo="http://54.39.156.227:2080/images/3a3c5baf91b83732b9b9e7327ed286f2.png" group-title="DEPORTES ESPAÑA",ES | DAZN MOVISTAR HD 2
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/57010
+#EXTINF:-1 tvg-name="ES | EUROSPORT" tvg-logo="http://54.39.156.227:2080/images/f25c543946919d2105118e8202a57aa5.jpg" group-title="DEPORTES ESPAÑA",ES | EUROSPORT
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/57019
+#EXTINF:-1 tvg-name="ES | GOL TV FHD" tvg-logo="http://54.39.156.227:2080/images/cc467daa2635d3433e2035dfb25f99ec.png" group-title="DEPORTES ESPAÑA",ES | GOL TV FHD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/57026
+#EXTINF:-1 tvg-name="ES | GOL TV HD" tvg-logo="http://54.39.156.227:2080/images/cc467daa2635d3433e2035dfb25f99ec.png" group-title="DEPORTES ESPAÑA",ES | GOL TV HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/57025
+#EXTINF:-1 tvg-name="ES | MOVISTAR  GOLF" tvg-logo="http://54.39.156.227:2080/images/176af5b5b14424c55527c87895d8ecb1.png" group-title="DEPORTES ESPAÑA",ES | MOVISTAR  GOLF
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/57036
+#EXTINF:-1 tvg-name="ES | MOVISTAR  VAMOS FHD" tvg-logo="http://54.39.156.227:2080/images/18f717dfca7a2d7815f39e3cc4794292.png" group-title="DEPORTES ESPAÑA",ES | MOVISTAR  VAMOS FHD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/56969
+#EXTINF:-1 tvg-name="ES | MOVISTAR DEPORTES" tvg-logo="http://54.39.156.227:2080/images/986afd46736153962b49ebbf7bf95071.png" group-title="DEPORTES ESPAÑA",ES | MOVISTAR DEPORTES
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/56984
+#EXTINF:-1 tvg-name="ES | MOVISTAR DEPORTES 2" tvg-logo="http://54.39.156.227:2080/images/87b89fe891e82d721e4dcfb59ebdf7f9.png" group-title="DEPORTES ESPAÑA",ES | MOVISTAR DEPORTES 2
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/56988
+#EXTINF:-1 tvg-name="ES | MOVISTAR DEPORTES HD" tvg-logo="http://54.39.156.227:2080/images/986afd46736153962b49ebbf7bf95071.png" group-title="DEPORTES ESPAÑA",ES | MOVISTAR DEPORTES HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/56985
+#EXTINF:-1 tvg-name="ES | MOVISTAR LIGA CAMPEONES FHD" tvg-logo="http://54.39.156.227:2080/images/77c6ac285371a53cc813542087ca75b0.png" group-title="DEPORTES ESPAÑA",ES | MOVISTAR LIGA CAMPEONES FHD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/56994
+#EXTINF:-1 tvg-name="ES | MOVISTAR LIGA CAMPEONES HD" tvg-logo="http://54.39.156.227:2080/images/77c6ac285371a53cc813542087ca75b0.png" group-title="DEPORTES ESPAÑA",ES | MOVISTAR LIGA CAMPEONES HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/56993
+#EXTINF:-1 tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 2 FHD" tvg-logo="http://54.39.156.227:2080/images/77c6ac285371a53cc813542087ca75b0.png" group-title="DEPORTES ESPAÑA",ES | MOVISTAR LIGA DE CAMPEONES 2 FHD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/57000
+#EXTINF:-1 tvg-name="ES | TELEDEPORTES" tvg-logo="http://54.39.156.227:2080/images/29f8ba69399d7c54fd226c38385aa334.png" group-title="DEPORTES ESPAÑA",ES | TELEDEPORTES
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/57027
+#EXTINF:-1 tvg-name="DEPORTES | Adrenalina" tvg-logo="http://castlempire.site:8080/images/1acaab30036c256563b51a1d1a32be66.jpg" group-title="DEPORTES HD ⚽",DEPORTES | Adrenalina
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71780
+#EXTINF:-1 tvg-name="Deportes | Afizzionados HD" tvg-logo="http://castlempire.site:8080/images/c0219474a8405a7fa0237d3ae0eb9712.jpg" group-title="DEPORTES HD ⚽",Deportes | Afizzionados HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71778
+#EXTINF:-1 tvg-name="DEPORTES | AyM Sports" tvg-logo="http://castlempire.site:8080/images/64e50f497e29756b9289f84e7aa10ca6.jpg" group-title="DEPORTES HD ⚽",DEPORTES | AyM Sports
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71783
+#EXTINF:-1 tvg-name="DEPORTES | BARCA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdk8OB6ryqByIqfV1RkM31UiR600YmFxq_J1i_U82EIVqbAPx&s" group-title="DEPORTES HD ⚽",DEPORTES | BARCA TV
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71811
+#EXTINF:-1 tvg-name="DEPORTES | Bein Sports 1" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032015/bein_sport_0.png?itok=bInPGhZh" group-title="DEPORTES HD ⚽",DEPORTES | Bein Sports 1
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71790
+#EXTINF:-1 tvg-name="DEPORTES | Bein Sports 4" tvg-logo="http://castlempire.site:8080/images/05f1c1d3b1b218d655a2318e3477800b.jpg" group-title="DEPORTES HD ⚽",DEPORTES | Bein Sports 4
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71791
+#EXTINF:-1 tvg-name="DEPORTES | Bein Sports 5" tvg-logo="http://castlempire.site:8080/images/4d59afa605f97c051d8cb271dc39cfd6.jpg" group-title="DEPORTES HD ⚽",DEPORTES | Bein Sports 5
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71792
+#EXTINF:-1 tvg-name="DEPORTES | Bein Sports 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRi_zlTqpqBDNupeZlApFh3YVKnZPou2kyMePH_-SNK_I63_KkG" group-title="DEPORTES HD ⚽",DEPORTES | Bein Sports 6
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71793
+#EXTINF:-1 tvg-name="DEPORTES | BEIN SPORTS LA LIGA" tvg-logo="https://www.vertelevision.tv/wp-content/uploads/2017/02/beIN-Sports-LaLiga.jpg" group-title="DEPORTES HD ⚽",DEPORTES | BEIN SPORTS LA LIGA
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71789
+#EXTINF:-1 tvg-name="DEPORTES | Bein sports N 2" tvg-logo="http://castlempire.site:8080/images/05f1c1d3b1b218d655a2318e3477800b.jpg" group-title="DEPORTES HD ⚽",DEPORTES | Bein sports N 2
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71787
+#EXTINF:-1 tvg-name="DEPORTES | GOL TV ESP" tvg-logo="http://castlempire.site:8080/images/d21cf3f28df92aef3e6585042635d72b.jpg" group-title="DEPORTES HD ⚽",DEPORTES | GOL TV ESP
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71814
+#EXTINF:-1 tvg-name="DEPORTES | GOLF LATINO HD" tvg-logo="http://tutv.online:2080/images/73c4be08b50e7b9e21ce8ab25a6c530a.jpg" group-title="DEPORTES HD ⚽",DEPORTES | GOLF LATINO HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71809
+#EXTINF:-1 tvg-name="DEPORTES | GOLTV" tvg-logo="http://castlempire.site:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="DEPORTES HD ⚽",DEPORTES | GOLTV
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71864
+#EXTINF:-1 tvg-name="DEPORTES | LA LIGA TV BAR" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.i8TP_Bk5v9.jpg" group-title="DEPORTES HD ⚽",DEPORTES | LA LIGA TV BAR
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71795
+#EXTINF:-1 tvg-name="DEPORTES | M. LIGA DE CAMPEONES" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.i8TP_Bk5v9.jpg" group-title="DEPORTES HD ⚽",DEPORTES | M. LIGA DE CAMPEONES
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71796
+#EXTINF:-1 tvg-name="DEPORTES | MOVISTAR DEPORTES" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-deportes1.jpg.pagespeed.ic.Y_aHNvRJD4.jpg" group-title="DEPORTES HD ⚽",DEPORTES | MOVISTAR DEPORTES
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71836
+#EXTINF:-1 tvg-name="DEPORTES | MOVISTAR DEPORTES HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-deportes1.jpg.pagespeed.ic.Y_aHNvRJD4.jpg" group-title="DEPORTES HD ⚽",DEPORTES | MOVISTAR DEPORTES HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71797
+#EXTINF:-1 tvg-name="DEPORTES | MOVISTAR DEPORTES HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-deportes1.jpg.pagespeed.ic.Y_aHNvRJD4.jpg" group-title="DEPORTES HD ⚽",DEPORTES | MOVISTAR DEPORTES HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71798
+#EXTINF:-1 tvg-name="DEPORTES | MOVISTAR F1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtjXX7xq6KMk3gW1coW8diaxL4XTPzPPGXpXbi9Tpl6SmXSDbd&s" group-title="DEPORTES HD ⚽",DEPORTES | MOVISTAR F1 HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71812
+#EXTINF:-1 tvg-name="DEPORTES | MOVISTAR GOLF HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-golf.jpg.pagespeed.ic.lKGt5sk6A_.jpg" group-title="DEPORTES HD ⚽",DEPORTES | MOVISTAR GOLF HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71810
+#EXTINF:-1 tvg-name="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD" tvg-logo="http://castlempire.site:8080/images/86d306539b2719121379e80234b4235c.jpg" group-title="DEPORTES HD ⚽",DEPORTES | MOVISTAR LA LIGA MULTI 1 HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71800
+#EXTINF:-1 tvg-name="DEPORTES | MOVISTAR LIGA DE CAMPEONES" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.i8TP_Bk5v9.jpg" group-title="DEPORTES HD ⚽",DEPORTES | MOVISTAR LIGA DE CAMPEONES
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71801
+#EXTINF:-1 tvg-name="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.i8TP_Bk5v9.jpg" group-title="DEPORTES HD ⚽",DEPORTES | MOVISTAR LIGA DE CAMPEONES HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71802
+#EXTINF:-1 tvg-name="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.i8TP_Bk5v9.jpg" group-title="DEPORTES HD ⚽",DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71803
+#EXTINF:-1 tvg-name="DEPORTES | NBC Sports Bay Area" tvg-logo="http://castlempire.site:8080/images/e2b229852dafd30ec7b5099f8a6ef93e.jpg" group-title="DEPORTES HD ⚽",DEPORTES | NBC Sports Bay Area
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71850
+#EXTINF:-1 tvg-name="DEPORTES | NBC Sports Boston" tvg-logo="http://castlempire.site:8080/images/e2b229852dafd30ec7b5099f8a6ef93e.jpg" group-title="DEPORTES HD ⚽",DEPORTES | NBC Sports Boston
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71851
+#EXTINF:-1 tvg-name="DEPORTES | SKY Sports-Golf" tvg-logo="http://castlempire.site:8080/images/7d55d4ff425edfceb318b6ae7405920d.jpg" group-title="DEPORTES HD ⚽",DEPORTES | SKY Sports-Golf
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71861
+#EXTINF:-1 tvg-name="DEPORTES | SportsNet One" tvg-logo="http://castlempire.site:8080/images/867a53df739d8f03de080b70500cf788.png" group-title="DEPORTES HD ⚽",DEPORTES | SportsNet One
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71856
+#EXTINF:-1 tvg-name="DEPORTES | SPORTV" tvg-logo="http://castlempire.site:8080/images/3b2fdcbe9790be3b0e1eb2e55a72babb.png" group-title="DEPORTES HD ⚽",DEPORTES | SPORTV
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71853
+#EXTINF:-1 tvg-name="DEPORTES | TENNIS CHANEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJKEDr4hvyZRcA_SgGtlYJtVQn25C3prTfuBnWTTpwWuw52FQo&s" group-title="DEPORTES HD ⚽",DEPORTES | TENNIS CHANEL
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71838
+#EXTINF:-1 tvg-name="DEPORTES | TUDN" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-tudn.jpg" group-title="DEPORTES HD ⚽",DEPORTES | TUDN
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71767
+#EXTINF:-1 tvg-name="DEPORTES | TVC Deportes" tvg-logo="http://castlempire.site:8080/images/ca4631de1baa1aaffc95336b3945c504.png" group-title="DEPORTES HD ⚽",DEPORTES | TVC Deportes
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71779
+#EXTINF:-1 tvg-name="DEPORTES | TVG" group-title="DEPORTES HD ⚽",DEPORTES | TVG
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71858
+#EXTINF:-1 tvg-name="DEPORTES | TyC Sports" tvg-logo="http://castlempire.site:8080/images/057a6c9bbc85c08bd6202e830da44fcb.png" group-title="DEPORTES HD ⚽",DEPORTES | TyC Sports
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71830
+#EXTINF:-1 tvg-name="DEPORTES | UFC TV" tvg-logo="http://castlempire.site:8080/images/cc691c1f06d485fb6db86816b9104e2c.png" group-title="DEPORTES HD ⚽",DEPORTES | UFC TV
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71839
+#EXTINF:-1 tvg-name="DEPORTES | Win Sports" tvg-logo="http://castlempire.site:8080/images/0490c7d6ebd8f068e449b87271212be4.jpg" group-title="DEPORTES HD ⚽",DEPORTES | Win Sports
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71834
+#EXTINF:-1 tvg-name="DEPORTES | Win Sports +" tvg-logo="http://castlempire.site:8080/images/0490c7d6ebd8f068e449b87271212be4.jpg" group-title="DEPORTES HD ⚽",DEPORTES | Win Sports +
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71863
+#EXTINF:-1 tvg-name="DEPORTES | Yes Network" tvg-logo="http://castlempire.site:8080/images/7ba73fcf05dcc6eb87b3d86da9034f16.jpg" group-title="DEPORTES HD ⚽",DEPORTES | Yes Network
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71849
+#EXTINF:-1 tvg-name="DEPORTES | TUDNn" tvg-logo="http://tutv.online:2080/images/7242725f839f02bf6d3dc190077da0c0.jpg" group-title="DEPORTES HD ⚽",DEPORTES | TUDNn
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/122746
+#EXTINF:-1 tvg-name="Premium | A&E (Lat) HD" tvg-logo="http://castlempire.site:8080/images/e8faaf5ba3adf6336ba216780cbf1044.png" group-title="Entretenimiento ⭐️",Premium | A&E (Lat) HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71727
+#EXTINF:-1 tvg-name="Premium | A&E (MX) HD" tvg-logo="http://castlempire.site:8080/images/e8faaf5ba3adf6336ba216780cbf1044.png" group-title="Entretenimiento ⭐️",Premium | A&E (MX) HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71726
+#EXTINF:-1 tvg-name="Premium | E! Entertainment HD" tvg-logo="http://castlempire.site:8080/images/1828ac2961aa0c88b09c37589b1d1ec8.png" group-title="Entretenimiento ⭐️",Premium | E! Entertainment HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71729
+#EXTINF:-1 tvg-name="Premium | Glitz HD" tvg-logo="http://castlempire.site:8080/images/5207e53bee306137b4225ae1a5eda24a.png" group-title="Entretenimiento ⭐️",Premium | Glitz HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71733
+#EXTINF:-1 tvg-name="Premium | H2 HD" tvg-logo="http://castlempire.site:8080/images/5677c2d37108e6dbf1266d4f4a61e301.PNG" group-title="Entretenimiento ⭐️",Premium | H2 HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71720
+#EXTINF:-1 tvg-name="Premium | Hola TV HD" tvg-logo="http://castlempire.site:8080/images/093d5eafd930e37de9d994df15bbe3d6.png" group-title="Entretenimiento ⭐️",Premium | Hola TV HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71734
+#EXTINF:-1 tvg-name="Premium | I SAT (Lat) HD" tvg-logo="http://castlempire.site:8080/images/f2f0f116fcb46560618e52c48c9ed325.png" group-title="Entretenimiento ⭐️",Premium | I SAT (Lat) HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71741
+#EXTINF:-1 tvg-name="Premium | I SAT (MX) HD" tvg-logo="http://castlempire.site:8080/images/f2f0f116fcb46560618e52c48c9ed325.png" group-title="Entretenimiento ⭐️",Premium | I SAT (MX) HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71740
+#EXTINF:-1 tvg-name="Premium | Lifetime HD" tvg-logo="http://castlempire.site:8080/images/0c4408d480b783ccb279ea84bedda77a.png" group-title="Entretenimiento ⭐️",Premium | Lifetime HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71731
+#EXTINF:-1 tvg-name="Premium | MAS CHIC (MX) HD" tvg-logo="http://castlempire.site:8080/images/f7e528850743269b51cd8bbbbf2b38e9.png" group-title="Entretenimiento ⭐️",Premium | MAS CHIC (MX) HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71742
+#EXTINF:-1 tvg-name="Premium | Nat Geo Mundo HD" tvg-logo="http://castlempire.site:8080/images/5364cc71cd1653362b5dd4bf3cdd5d86.png" group-title="Entretenimiento ⭐️",Premium | Nat Geo Mundo HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71725
+#EXTINF:-1 tvg-name="Premium | Nat Geo Wild (MX) HD" tvg-logo="http://castlempire.site:8080/images/2a9aa59cdd17306f6a32aa390789254d.png" group-title="Entretenimiento ⭐️",Premium | Nat Geo Wild (MX) HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71723
+#EXTINF:-1 tvg-name="Premium | Sundance HD" tvg-logo="http://castlempire.site:8080/images/e0c5b9e900880ee502a08edf6cb5795a.png" group-title="Entretenimiento ⭐️",Premium | Sundance HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71737
+#EXTINF:-1 tvg-name="Premium | TruTV HD" tvg-logo="https://vignette1.wikia.nocookie.net/logosfake/images/5/57/TruTV_Anglosaw_current_logo_%28Trendon_attacks%29.png/revision/latest?cb=20160112065824" group-title="Entretenimiento ⭐️",Premium | TruTV HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71746
+#EXTINF:-1 tvg-name="Premium | Unicable HD" tvg-logo="http://castlempire.site:8080/images/433a0c2924b3cddbf7d8efbcdc167def.png" group-title="Entretenimiento ⭐️",Premium | Unicable HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71743
+#EXTINF:-1 tvg-name="Premium | Wobi HD" tvg-logo="http://castlempire.site:8080/images/7374309283ef8c5fa1abf6d5c1cb8452.png" group-title="Entretenimiento ⭐️",Premium | Wobi HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71744
+#EXTINF:-1 tvg-name="CUL | INVESTIGATION DISCOVERY HD" tvg-logo="http://castlempire.site:8080/images/c99033f970a968286a3387c079426629.png" group-title="Mundo y Cultura ⭐️",CUL | INVESTIGATION DISCOVERY HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71699
+#EXTINF:-1 tvg-name="Telemundo Boston HD" tvg-logo="http://tutv.online:36995/images/3d4726eea4728e0e83fbc464d8844c00.png" group-title="Telemundo",Telemundo Boston HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/19479
+#EXTINF:-1 tvg-name="Telemundo Las Vegas HD" tvg-logo="http://tutv.online:36995/images/df1f7a9fcc5c6667018a4069ad75e3ac.png" group-title="Telemundo",Telemundo Las Vegas HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/19487
+#EXTINF:-1 tvg-name="Telemundo Miami HD" tvg-logo="http://tutv.online:36995/images/92aee004ae890b52ce6f9513fe504dc5.png" group-title="Telemundo",Telemundo Miami HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/19483
+#EXTINF:-1 tvg-name="Telemundo New York HD" tvg-logo="http://tutv.online:36995/images/87ea458274b862d99ec1595f13fbe486.png" group-title="Telemundo",Telemundo New York HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/19482
+#EXTINF:-1 tvg-name="Univision Miami HD" tvg-logo="http://tutv.online:36995/images/33b45ceb921f54695d3f3398842a18e6.png" group-title="Univision",Univision Miami HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/19496
+#EXTINF:-1 tvg-name="Univision New York HD" tvg-logo="http://tutv.online:36995/images/b7edcccbe0a12090e98a2f5f0bde2f5c.png" group-title="Univision",Univision New York HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/19497
+#EXTINF:-1 tvg-name="VIP FHD | A&E HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ae_hd.jpg" group-title="VIP FULL-HD (+30 Mbps)⭐️",VIP FHD | A&E HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/72094
+#EXTINF:-1 tvg-name="VIP FHD | AMC HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/amc_us_hd.jpg" group-title="VIP FULL-HD (+30 Mbps)⭐️",VIP FHD | AMC HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/72093
+#EXTINF:-1 tvg-name="VIP FHD | Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_HD.svg/761px-Animal_Planet_HD.svg.png" group-title="VIP FULL-HD (+30 Mbps)⭐️",VIP FHD | Animal Planet HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/72061
+#EXTINF:-1 tvg-name="VIP FHD | Comedy Central HD" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWUAAACNCAMAAABYO5vSAAAAyVBMVEX39/cAAAD/xAD/xQD7+/v9/f3/xwD3+Pv3+Prx8fHc3Nzg4ODZ2dk+Pj7/wgD3+f5lZWUhISG7u7uEhIRKSkrS0tKenp7MzMzr6+t5eXnz8/OLi4unp6csLCwXFxfl5eU1NTXExMSxsbFtbW0LCwtWVlb57sqVlZVOTk5/f3/39/D48980NDSsrKz49edbW1v65qz48NX66bX91VX57cH834n74pP82m765KH90kb82WT74Zj+ziT900/83XklJSX+zzD+yin912hYmCAaAAAYGElEQVR4nO1dCXuiSBNGbpMoxhwac6tRo4njfcUYZ/7/j/po6KP6QAHZ3Wf3o3ZnZ20ahNeiuu7WtJxyyimnnHLKKaeccsopp5xyyimnnHLKKaeccvo7yXVdB5H/9z99K/9Fch3P0/r9wbgT0ngw7Gue5+RgZ0aO5w47q910/9u2bQOR//d2P92tOkPNc/7p2/sPkOu4/dl8beu67mOL/oRk+AO6rdv7+aTv5ix9EjnOcLWxEcAI1QBbI/gTgBySYU9XAzfn6JTkeu5sg0UEQFUi22fw6UTzcoZOTq43XGxD4XAM5oDXt/NhjnNC8jGeb7EQjoGyjhbE7W6Q45yEvP7cphRgfATlcHG0d0MvxbeZVkBm9ATzyIR/IznaaKvzKB/j5VBA+3Jj1U+4DppWvdbs3t93m7W6qcLRtBoX1YcDE4ohNdTDRdWYQA314YYGf9kGHY/4InH8MHnjb1s3RIqBcsDP63ESdjbN2t1lAdNP61WC0bTOuyUwQRMnWPdPlwGVuKc0L8LRy8IrO8P6hefy9NTCU3r84cfe3ec5wdl8bZPpr/AezAo+6ektwXO72sJXgwG6CUAOcZ7HZ2frplfgqFez+An1O35C6VWA2fpFDtXgEeuBDD+wK1rXBSVV8Jkl1TFyWfONDF3D73mlM1/5Wz9E3mBqUCmRmJcTsrN1Kz/VLYdV7VGacM+zM0PuFj6lWaHzT0O5UHgPv9CsKfGk2L/FXza8ia0HGOs6x8rxUQ5wHsXj5nvVQ12BN7yqxIS7RoMKnB5EufhEhlunoly4fg5hbpGBEl0DrCaddRMXZVf7OgZnuewbgOXyYZgNe64d1+lUnIyI8qRVU094h89TZ+N1Ng4YD/BYSpQLpeDK5gUd+CS32KCntOKDvAxNaSV0Po+vl/Ov1WQyWX3Nd+tt5FSE8/QozOZNxDMRrjCLLxETmow9zTM2DNe5Lh19YcpHWpQL4cJmvVPY8TUBK5/HRNkdTpG1rITNns5nA9dD5DhO8Lc7mC2m6tkI5/XgmNSIfKYefgSlQEH0VKSPZL6yYSCBTYbn0zOdnBrlQhdd2mTvDWbmBl02rmIufc5wHSGA7c1koMm+ZBd5RCfLKKD3w4MwczK3VKlAvq0GL+hzm438VCoQoS59JsBNhRLD/hxMPjuK8q+jKLeDi7Df/TFgZqbIFJ7jsbIz3GIzj6OysV/1o731PtL91VpXyuntYZiZDvfrAll2F1QrCOECL/3HKzL+nplS90h1Y064X5BH5X7CmgLlZg3Shcaj/IQGXz+vgIJzFzLzD/kcLB5FOqEbj5Xd/jrwGosof8+OOts8rTM1VDgf4mawlNxhTckkYu8uxIVy1ks9eAYT4F4lyNGTEFHV2IJaNpPiDGXf2IAkohwctawi+8JwaWW/Kfqd2afLeHaf2//WbZmX17NYjmPH7XwrhUa0fQLusEHU/kD3/Ok+B+YWWBxvCEzMMHinyFGjpACUtgaUPw8KlM+ULzhFmdwREAlYEn+Qz13LZNriQ0yp/CdUkDlhsR1pca04x53sFew87Ue9B8xkY8aEr369NRvYpGUPWGFv/CsZK5GhBpSll3jpBy8K94skRRkaN+FdgGWgzl6tF9GHoiZvrtAt/hyWqwI5/Z1CPO8iL/GjeuALZtdZ1AYAjGLSZ8SKk1nnjMMb8RcSfiWK8kVclKne/VgPR+glukVqDzVjsbI38qWFgI89Segsdr3OVoZ5pTa2zWfKlZAP4LPT1RH8DBZlLbykccoEXYQsKEaIYqil4WUge8JfkGmOl1T292LpF87AllBO5loj15lKMNsdJTczqVuJuEW6nMOVhalSWEwKps1bOFpsw8GPOj09OcrslcILLv8LBiQ6sNQUqBccyuVlUjdxQK62k5h5P1S9EiZVte7VbxvTlkvgGaxPgWtNwdMRmsKv/CA1y5JLDKBPPih/V58qseSFM9dJ6B+TEccNob7WQpLvS9VLweB6UDMCs5yhE4iBipc00RdSFTTtgG5klM8tRuwGVChTEU9UYkvwxcZzEzkd36zm/ReL9OE7ZyUJ+JnitWAoNyNQpizzC6JMufQOoyxY4YGhK5p4VRnl2yYj9sKrUBbfHkGB8e8kprwINWXGyYtokRymyTkH0lw8Cea9Qp1jLBIh1NjiDl9INkpQbvGPjDQ887zNDzJjRWlh95KhrFlX3Omx3EQ+86GECoDyXA2hb0w7/cFsMhqNJrNB34kyu52F6ApR/GoJUL47iLLoevCfWfJK3x9G+S0hypyDJaabqL/XWUpWpBzVHKc/263tMMvI/2Ovd5Oh2jD0dgLM9lj6PbJC2cTmV5soXL7uQQUnAa2VLcrcYvBUjyUw3OHOhmbfWmWuOdpsidIzwgwNA0dT7M1MU/4kGx7l8kaalRXKRfyxTRY8JF+wofJExkoZowxNodtYrIwkwXiqUy/RVuEWdrTR2sapAywTBv009l5lhLvDLQ+zISnNGaFMNZGfG8LUbN18I5N/MkYZ3P1HMRYrB6h4szUBZCKxnevM1mUd59P6/zEMFnz1R/YTWT77aovAzOKUrFAmn0smMRVv6PvcJXZhm9g1WaHM1Ix4ujKBRRuFgnkngez0d6FHNEgwAiHX8JOPs8KC8eY8zJJkzghlutBdUx25S63wGg1tEEvvH0YZOYmRPSErXV5nG6x4itQBws/Gdib9Nr45CZfA8h9hRgKUW4dQ7tJJ5Mgb8Uc+aSYx0msSyqXrEqW7vw9l5IVYyhF+lDkgAyySvRLPc2Z87NUW7Gx289UIlNVWiYjyO4WgiCH9aVIALKJ4EJ9ZGgtbsv20k1BGy6A45H0FmjTHwTqXphEO2gvp59nwvmpBZ2Yofx6zsN8OWNjU/ftgEfukXWJDxLHTlVCO7y2i1vptNihrkvMCWSyKNCNZePgwC+e6Y14yr/vcYQZXRMSMqf7X0FtEneihpdEgsFVNGGbF7EqNtPcTUKYRr2pWKAvkTeRkLl3+v1D/EB3JzpK3TXhlDojdKM8n8ZE/Age0yFnUPXphiu6FlwazHlqSXI4tMVgQDCwgWaKM3EjxyRaWQHfAr3981IR58a+1CGL+M5W3txYmE5DIWx3wNeVfyt7kO1JEpOrkG57O/xKU3f4+jrggLK1vhQXO41Ni9vzVG+Tu2zCTwQKaP3Ofg0EazzzjI7AN+G4H5K949DBJLEiOMvOJwJhOlijvDBnlwJIzdF2l2W348301g4OZV5kt+ibSnDPNPO81i8Tdy5wFTKYwORPGM6l0/9BE3z368egLQ/gwhcSgtwm9Qtmh7MxEJP3X3p7OR7PObLQIytNEVUPUA/dQZpS/OInCJCyLhSA3z+NtmCgA8wkp4zH+bvERZWRYgPyqAjJTNBCZuhFRjsnLwC8ENc4MeXltCDDq9tfA9QL3sucMV1udX/8kdc43ACEzf/OCmQV2uhhW/EjtVogJSJnFaTFM/cMvADBKNPh6FLDqQkOjVQnlGFkvpqUxkNtcEDgrlJ2RwYsLH8Q+iGq7nvaFDRasQC8HopbR4VAWDRO2WL3XgwQt5hyv8Elphd6FL7GtIntmnGFIfZyBXsdFp8LVkSjMWCoxlKtnF4CeRZTR0bPaLXBec+HJ7Hh5zQtlfdsRMwe88Z5IDb287shtBvp7XpfjBTPA5LLy/l5pC4/EhTF7/gQxa40zSoQTLoO4NZUw9yLKPB3P+XziIiJZoYyWLlIcFfxHlfPm9KfYM72fqIrevSVn/vEaNcjsE+kn9IybragJRLmjiUWhRCjS9Crs/KCvQ+tUlHk3clYoe0tOwdB/K7OR3eE+lNfqvAJf6kCYhTwjyVijRHItzqImYNY064T/Q3eQyaLLYaiPOiHeTkT5jX+wjFB2hza/7nXUAVfHt6ONXVSml38UwvwtHI7iVRZA+lRP6GH1lyYW4fcZ/G4X/MCluPolQ7kkhJ0yQtmZ2ExaGIbo62HkrTbj6Ewvl1OYf/OuDM0symk66MbZam52VRM+iB1Dlb2fMHuIpXNhE4Jpg+EJp1XvgDvPBmVvZ3OsHJm6qckuJniZb8jLopKhmY2K/EgtGOMxFQU+PZYqRFiV2GW0zoGsjtTlFDJjOpQrUtQpK17mjGv9K011tRZEs2EjDSmUbZqfl/wTPTb5amurJgLTBWmh5DcgFQt0tSMmBHU51VKj3HuV67+zQdkXy8CvrNuDlLlG3gJqzGVFYqL13AWPdn1bF+/abDSBsfFzfwEmUM8mCVpRCVEX7YzQj28JlbJHUG5f9u5rUkmylhnKY+jx1Kdpr+OMOJRVqVy+gXXRvL9rte661XNN1TbAMp+r3Xd/wtXnTYOfUD8PiSZ1auHnZ/r5Gc8o8h8FetaUh+sNM6qPAZ2SCA+enBk0/PR5SoERXAegHFHRapKswKigu2lKeYP0CDSQFQOCCW2qSZwtjqtu6diM44R4kKFcnqRtSuR0oFwuR2SM/7+Sx0WidHWidwxCcYBIr9z/PWWFspujfIAQykY2vGznKEcRL5f1E+SyncvlSAIeub9RxxBViIP6gGKN52ZEaBMRR6MfIWJCjDOPkqAvi26e2BRDX9Z8ffnzqtJ7q9w/XHD6cvFMRefhwTr+CCtzz/FYI/Jkcn5dGKsrFfWAnkMSRhvkVPFAEkK2H3RjyFne8ci3/aDEUNl+xVtg9Za6zPYTq58Ihe55YluDVEVaen5mHvCqopCeULLgD15fKW08dhN8NDYrbxEXKVGVLMS7zI6LSck/ltkUXPmXn+QljEC5zaMMOibEQ/lShTKiXk1ldxKP9V/ixUfwUIwNfXvAJ3eo37W3hnJZ9slpCg/zHS5+j4kySwA7EeVC4UrBziT6wrvxs/Mvc67PeZSW4X0d8i9rNuypKPmXVY7PQqGFj8ZD+Ycy88koF1oNcf2laLb/irifO9wakMT0LEJBreA8qu2kv4hCC1t0OknliZhwmn08lNm7fDrKUs4eqJrnCtozjPtBUpaboP4we1Rkso2O+0GUxbhfxPKG27XFRfmHXC8DlMVaHJMFc1p/BcooyxsDrGOYZYZ1huuwpkffT1SdNLwlLDwWjZKi3JAP0wvSz+KiTLksC5T5EkmW7OifB289y3wMgZtngvxFnRpYy9VpRy7iCdIZGS8L+Righ8Vl6/6+xZ4oYKnYKJOGJJmgzLWq4942WG2dXW7RxBDInnO5RU5/bhs2oKUYykZeDIDyb17FAImwV0Vk+dVZLhFKnWMo34UO87PwL01EmYSfIMq+VRKeQS/yi1xEgyg/oLGbBxYj4TNQYRYpzGbPjpfdtQSzPR9rQT85x9MGiy2ffOQj+iXnyTGUy9OINHGfc3EaHObul1vEr7C3g2QMcyj/UqCMTWCLteGw2PkM5WrYBkpj6zBc5UwYlOzBm88w51NKq/VBW+9WKOdzvgadmelhwU+BBAbgZb7CR5nzidTnt9cw7HSwgwbfsCF8mXmUMRzKZicAZaybs4gfWOX47P42vGyG+ctzEeWgnrJcLutlrpc7kdx/eMGMdG7Iy0L+Mg10gvzli8v3C9rvOD7K4aOegDKQwB8gJZ3PBvlU4Z9FLr4S5gAzg/RxxwgbktxFufgQ5T1/ddYlDErCOvPaJEA51AxOQdmkKQVPLF5KSkrwnSq5PIO6EpSeJZShGZE9bcVmI8gkASiXefORpQH1NDUlQTnIkz8FZVUVi3mO4cUW6hPz/2VbIyWL5kiUjZFcI8XxMi8w1KWp3IwEKAfpzKehTJM+WBdLrA22SbYecydlXO83UtRQqkEW9IvQRQ2am6wFmI7V+yVCObhIRiiz8gqsx12SSop7sICkR9l1xoI/BzWak+p0lOJCCul5U4NrbvKVsHaVQ5kROV1A+alxIsqsbdy5OHRNCo1L7LKpUXa9wc4WX3ukz8lFPDLIUqzJmRkG5OXEddgA5et3SnekpEzMUvTV3JNWP9rqiEpfeuod9WrRC6dG2ekvkN9Hav7mjddCi3wJ4/Jeym4OagUhL4tteo72FIiwsJ8Fq4Q2nWuYJ2ly9HZe6OtC9Lgm5QjaZSp9f4zfqNOIvpScPsiS5lQNiZF3yv4YpPVOOEfMZ8wK5TviZq9ap1glVJFjIS6aH3pmEUwrJ6Hseh3azkLu9aI5qO1vFMjl9UzR62XG9u0JZiXv9RIT5SvyP2/peBlZ2JZVZ7mgpFCWVWRaVEKThqppUPYXvY3OuG6sqNLxZlNlu/CyvVaV7bgD5qwLq12li2aF8ju1bmqNFCjfV31qgmjCJcnJpV49X9OkpRnkXpOj7JKNuYjKpe7B1dmJDWnLZXvZUTdonhocymW5eVpmEoMi1kqDskT3VI8j0PvCmN4sqRJOjnJ/y73benmqDOM5ntZZTPeoMNj/t2xvv+ediD1XnSXc6ksllbNEmTYnqBERfQLKlJVZVZtvpdCrXKZGOeg0wllpu4hoqeu5aBPh2WjWGQ/6btS2tg7YtC64qqr2JzuUKdO1iF/tBJSp35PapkHcpsHacIRHU6x+a+xeIygbBzK2wg2xD22HjZrwYP0CvyGp+nwClEstShW8/gCUKZBtotWlR5lZd0KFN4n/4bhgCpSdscDLkZ0+45D7RcSFgb1Fcss+LZlVcsj28xUvU8w3SI3yPZtjse5H8Ot+pedlZ2EIKBu7lHu3u76iLJiKZblFnQYLIONY2PLpEGVxt6mUKLdhJ+gGGQ2r5qlgxrXLqaySqdjmWp8m2nmAkNP/E6iE0IZR6izHe4nHRxm0FjoJZdgdkDIBrtekGw1U06PsDmxp/6g0ffG9wbch9Ic53hc/qjtUfJTFxI4EKLefnmg0oQ3KgGkzgl+4UwaRSrjBWipeRo5kqQX4KmHXdtdVdPjTJf8Tfnz1Hg9wRmyUNZOv00uAcrNR1FQN46gdeXcT7oFEFJmfEySGUP6IYd4c3dWMu8RwKcVbDyTYqfcrKSaNSAUoC1XxiSxsELV5Yd8dsbEguXhan5y7lHfrM7arBHvvjH6XZZA3ke+Dcu+di8f782TR1VCYgsYYCVFGOTDiHihSXBVScLepUdY2skvTiMjMksjRZnvVBnTraKHDFOZLUkwe7iNVeW0I2YjHUebdzQlRZr276Bwzol67gJvop/Yvo+26FGSsJ8f2RPNNwtk30o2lk9FWJciEUZ2l2BONhICum3yeHNSXySZTQi4+tw1MYs8nFevPxBEaCXKYfARRVm7JcQDmtQJl3bC3i0E00K7jDr6UGwOGG8/1F7PxTH0q0796N/4K2Kgx9yOfwVWpQmqoUOY21EiKstSWNjrLrhAa4Qzla3BnTXWTOgGw4VQJs6+cTVdjV71X5WC0sUkzUFFcIJXbGc0WG+XXcY/y0rsW94pLVFfCbZ6RFGXWReMRH49umBRuTyL2FMUUq0e+29+oYPYpSN0aDfpauO1qsPGq2x+MdmvmFBJB/g7sGmc0WS6Gyq9rRHYJCpS7eDmfxJSAiYOJJQZLVw99+EWhaQdHH8XTUFZuA0Vh9hVqe/1nt/harVZfi92fby7jU+LlP+HC547HnbEa5Wh1qRY/S5x2xgDPnRhldieBnwK00q69EqIaM8rKOwll5OtRbu0Zig7oU7IFElAuL4h24Ub776L2CL5PUPHAwnTMZ5Qi7leC5zI9rsqyTbkEkhNRDtrgHyDWj5lD2BYigltF9FBB5rvqXnFAIiHKoGVfcpRB82w0QPU4kMLHjJfrk3kZVTFsDm7cLprQ0AYh9B3XaDQV3HxLjiVDGdSApMgUoI3pfurQGISoNQD2J6Psv+Ir+yDOR6hsL2JbjHLzp7caZc6EtavMuEiTj8E8Gxaz198haiaYEoVyDE2OkjfYREvnY2RMEznzTO31jlbxfNy9gu42rx8lBV2HKH++BJ9egF3YqIQzXrim3/giL7BgxOq+4FEWlMaXf2lZ1vvjS0CPXIDBrP7g4XfLPFfd2keUq1xNrjZR7KAai+z42w6Tu7fqN83bbve2elPkraeikviD0KHX4GfwF+E8f42iNBUMFevhP2LnpzqmYtS9JXtwtEfM6ncKjLeLfpqKbfNwc6j/MHnDxUFtQ6ZydBFrTlHk+vys9GxE0P6rn3Br55wC8rSZlFGkJnsZsdNfTjHIcfqTPyrPMScpNqOhk7a1UU6I3DB1a6uA2udy+/d0PutH7cCaUxJyPLc/Hi02661vrxgY4e16Mx91hhG5cjmloiBxS+v3B4PB2P/T74cjORP/JeRi+qfvI6eccsopp5xyyimnnHL6N9P/ALS4KDIV45Z5AAAAAElFTkSuQmCC" group-title="VIP FULL-HD (+30 Mbps)⭐️",VIP FHD | Comedy Central HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/72063
+#EXTINF:-1 tvg-name="VIP FHD | Discovery Channel HD" tvg-logo="https://selectra.mx/sites/default/files/styles/_default/public/images/logos/discovery-channel-logo-350x183.png?itok=e6NzDgq0" group-title="VIP FULL-HD (+30 Mbps)⭐️",VIP FHD | Discovery Channel HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/72065
+#EXTINF:-1 tvg-name="VIP FHD | Discovery Home & Health HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health-hd_m.png" group-title="VIP FULL-HD (+30 Mbps)⭐️",VIP FHD | Discovery Home & Health HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/72066
+#EXTINF:-1 tvg-name="VIP FHD | Discovery Investigation HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-id-hd_m.png" group-title="VIP FULL-HD (+30 Mbps)⭐️",VIP FHD | Discovery Investigation HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/72067
+#EXTINF:-1 tvg-name="VIP FHD | Discovery Kids HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Discovery_kids_hd_logo.png/revision/latest/scale-to-width-down/340?cb=20191225154303&path-prefix=es" group-title="VIP FULL-HD (+30 Mbps)⭐️",VIP FHD | Discovery Kids HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/72068
+#EXTINF:-1 tvg-name="VIP FHD | Discovery Theater HD" tvg-logo="https://i.ytimg.com/vi/P3I-giYVl7Y/maxresdefault.jpg" group-title="VIP FULL-HD (+30 Mbps)⭐️",VIP FHD | Discovery Theater HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/72091
+#EXTINF:-1 tvg-name="VIP FHD | ESPN + HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJYXkucjlieLbYtTxdDzbSIpQjpba32pk4eQ&usqp=CAU" group-title="VIP FULL-HD (+30 Mbps)⭐️",VIP FHD | ESPN + HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/72089
+#EXTINF:-1 tvg-name="VIP FHD | FX HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fx_us_hd.jpg" group-title="VIP FULL-HD (+30 Mbps)⭐️",VIP FHD | FX HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/72092
+#EXTINF:-1 tvg-name="VIP FHD | Paramount Network HD" tvg-logo="https://www.nicepng.com/png/full/141-1417654_paramount-network-spike-becomes-paramount-network.png" group-title="VIP FULL-HD (+30 Mbps)⭐️",VIP FHD | Paramount Network HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/72081
+#EXTINF:-1 tvg-name="VIP FHD | Telemundo Internacional HD" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjZ7kNdNZsW-RmVJsnIo745jVl7KjeL2Hz3neaCCw=s900-c-k-c0x00ffffff-no-rj" group-title="VIP FULL-HD (+30 Mbps)⭐️",VIP FHD | Telemundo Internacional HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/72097
+#EXTINF:-1 tvg-name="TVN 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",TVN 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110438
+#EXTINF:-1 tvg-name="TNT Series 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",TNT Series 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110439
+#EXTINF:-1 tvg-name="Sony 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",Sony 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110441
+#EXTINF:-1 tvg-name="STAR CHANNEL 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",STAR CHANNEL 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110442
+#EXTINF:-1 tvg-name="HBO POP 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",HBO POP 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110444
+#EXTINF:-1 tvg-name="HBO DUAL AUDIO 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",HBO DUAL AUDIO 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110445
+#EXTINF:-1 tvg-name="HBO Family 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",HBO Family 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110446
+#EXTINF:-1 tvg-name="HBO 2 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",HBO 2 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110447
+#EXTINF:-1 tvg-name="Golden 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",Golden 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110448
+#EXTINF:-1 tvg-name="GolTV 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",GolTV 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110449
+#EXTINF:-1 tvg-name="Fox Sports 3 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",Fox Sports 3 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110451
+#EXTINF:-1 tvg-name="ESPN 2 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",ESPN 2 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110452
+#EXTINF:-1 tvg-name="ESPN 2  4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",ESPN 2  4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110453
+#EXTINF:-1 tvg-name="Discovery 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",Discovery 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110454
+#EXTINF:-1 tvg-name="Discovery H&H 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",Discovery H&H 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110455
+#EXTINF:-1 tvg-name="Canal 13 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",Canal 13 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110457
+#EXTINF:-1 tvg-name="ESPN 3 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",ESPN 3 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110458
+#EXTINF:-1 tvg-name="ID 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",ID 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110460
+#EXTINF:-1 tvg-name="History Channel 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",History Channel 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110461
+#EXTINF:-1 tvg-name="History 2 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",History 2 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110462
+#EXTINF:-1 tvg-name="E! 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",E! 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110463
+#EXTINF:-1 tvg-name="ESPN 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",ESPN 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110468
+#EXTINF:-1 tvg-name="AMC 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",AMC 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110469
+#EXTINF:-1 tvg-name="A&E 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",A&E 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110470
+#EXTINF:-1 tvg-name="America TV 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",America TV 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110472
+#EXTINF:-1 tvg-name="CHV 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",CHV 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110473
+#EXTINF:-1 tvg-name="Animal Planet 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",Animal Planet 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110474
+#EXTINF:-1 tvg-name="Caracol 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",Caracol 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110477
+#EXTINF:-1 tvg-name="DHE 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",DHE 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110481
+#EXTINF:-1 tvg-name="Discovery World 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",Discovery World 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110484
+#EXTINF:-1 tvg-name="Nat Geo 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",Nat Geo 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110491
+#EXTINF:-1 tvg-name="HBO XTREME 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",HBO XTREME 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110492
+#EXTINF:-1 tvg-name="UNITEL 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",UNITEL 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110494
+#EXTINF:-1 tvg-name="Win Sports+ 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",Win Sports+ 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110496
+#EXTINF:-1 tvg-name="Win Sports 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",Win Sports 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110497
+#EXTINF:-1 tvg-name="Sun Channel 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",Sun Channel 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110498
+#EXTINF:-1 tvg-name="Studio Universal 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",Studio Universal 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110499
+#EXTINF:-1 tvg-name="Space 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",Space 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110500
+#EXTINF:-1 tvg-name="MEGA 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",MEGA 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110502
+#EXTINF:-1 tvg-name="Latina 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",Latina 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110503
+#EXTINF:-1 tvg-name="Las Estrellas 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",Las Estrellas 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110504
+#EXTINF:-1 tvg-name="La Red 4K" tvg-logo="http://tutv.online:2080/images/50eba4c53b77d63ce04e20dd46f8d5f6.png" group-title="⭐️CANALES 4K⭐️",La Red 4K
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110505
