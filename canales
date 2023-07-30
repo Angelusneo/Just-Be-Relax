@@ -1,22 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ES:BLAZE" group-title="España",ES:BLAZE
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50328
-#EXTINF:-1 tvg-name="ES:BLOOMBERG" group-title="España",ES:BLOOMBERG
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50334
 #EXTINF:-1 tvg-name="ES:DISCOVERY CHANNELHD" group-title="España",ES:DISCOVERY CHANNELHD
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50340
-#EXTINF:-1 tvg-name="ES:GALICIA TV" group-title="España",ES:GALICIA TV
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50343
 #EXTINF:-1 tvg-name="ES:MOVISTAR COMEDIA HD" group-title="España",ES:MOVISTAR COMEDIA HD
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50347
-#EXTINF:-1 tvg-name="ES:Movistar F\\'f3rmula 1 HD" group-title="España",ES:Movistar F\\'f3rmula 1 HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50360
-#EXTINF:-1 tvg-name="ES:Movistar Deportes HD" group-title="España",ES:Movistar Deportes HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50362
-#EXTINF:-1 tvg-name="ES:GOL TV" group-title="España",ES:GOL TV
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50364
-#EXTINF:-1 tvg-name="ES:Eurosport 1 HD" group-title="España",ES:Eurosport 1 HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50365
 #EXTINF:-1 tvg-name="ES:Mega HD" group-title="España",ES:Mega HD
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50369
 #EXTINF:-1 tvg-name="ES:FDF HD" group-title="España",ES:FDF HD
