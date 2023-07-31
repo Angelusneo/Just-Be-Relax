@@ -37,19 +37,19 @@ http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50399
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50411
 #EXTINF:-1 tvg-name="ES:MOVISTAR ACCION HD" group-title="España",ES:MOVISTAR ACCION HD
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50413
-#EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es" tvg-name="ESP-1: TVE ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2084px-Logo_TVE-Internacional.svg.png" group-title="ESPAÑA",ESP-1: TVE ᴴᴰ
+#EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es" tvg-name="ES: TVE ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2084px-Logo_TVE-Internacional.svg.png" group-title="ESPAÑA",ES: TVE ᴴᴰ
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126259
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ESP-1: TELECINCO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Telecinco_HDTV.png" group-title="ESPAÑA",ESP-1: TELECINCO HD
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES: TELECINCO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Telecinco_HDTV.png" group-title="ESPAÑA",ES: TELECINCO HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126260
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ESP-1: CUATRO HD" tvg-logo="https://www.actays.org/wp-content/uploads/2020/04/cuatro_logo_500_-1_343d.png" group-title="ESPAÑA",ESP-1: CUATRO HD
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES: CUATRO HD" tvg-logo="https://www.actays.org/wp-content/uploads/2020/04/cuatro_logo_500_-1_343d.png" group-title="ESPAÑA",ES: CUATRO HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126261
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ESP-1: ANTENA 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Antena3hd.png" group-title="ESPAÑA",ESP-1: ANTENA 3 HD
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES: ANTENA 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Antena3hd.png" group-title="ESPAÑA",ES: ANTENA 3 HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126262
-#EXTINF:-1 tvg-id="La2.es" tvg-name="ESP-1: LA 2 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png" group-title="ESPAÑA",ESP-1: LA 2 ᴴᴰ
+#EXTINF:-1 tvg-id="La2.es" tvg-name="ES: LA 2 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png" group-title="ESPAÑA",ES: LA 2 ᴴᴰ
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126263
-#EXTINF:-1 tvg-id="La1.es" tvg-name="ESP-1: LA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="ESPAÑA",ESP-1: LA 1 HD
+#EXTINF:-1 tvg-id="La1.es" tvg-name="ES: LA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="ESPAÑA",ES: LA 1 HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126264
-#EXTINF:-1 tvg-id="La1.es" tvg-name="ESP-1: LA 1 HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="ESPAÑA",ESP-1: LA 1 HD HEVC
+#EXTINF:-1 tvg-id="La1.es" tvg-name="ES: LA 1 HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="ESPAÑA",ES: LA 1 HD HEVC
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126265
 #EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="ES: TVE LA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="ESPAÑA",ES: TVE LA 1 HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126212
@@ -81,7 +81,7 @@ http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126315
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50414
 #EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES: LA SEXTA" group-title="ESPAÑA",ES: LA SEXTA
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126313
-#EXTINF:-1 tvg-id="DisneyChannelSpain.es" tvg-name="ESP-1: DISCOVERY CHANNEL HD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="ESPAÑA",ESP-1: DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="DisneyChannelSpain.es" tvg-name="ES: DISCOVERY CHANNEL HD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="ESPAÑA",ES: DISCOVERY CHANNEL HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126179
 #EXTINF:-1 tvg-id="DMAXSpain.es" tvg-name="ES: DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="ESPAÑA",ES: DMAX
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126180
@@ -95,111 +95,111 @@ http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126195
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126197
 #EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES: FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png" group-title="ESPAÑA",ES: FOX HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126198
-#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="ESP-1: MOVISTAR ACCION HD -" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1280px-Movistar_Acci%C3%B3n.svg.png" group-title="ESPAÑA",ESP-1: MOVISTAR ACCION HD -
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="ES: MOVISTAR ACCION HD -" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1280px-Movistar_Acci%C3%B3n.svg.png" group-title="ESPAÑA",ES: MOVISTAR ACCION HD -
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126217
-#EXTINF:-1 tvg-id="DisneyChannelSpain.es" tvg-name="ESP-1: MOVISTAR Disney HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Movistar_Disney.svg/1200px-Movistar_Disney.svg.png" group-title="ESPAÑA",ESP-1: MOVISTAR Disney HD
+#EXTINF:-1 tvg-id="DisneyChannelSpain.es" tvg-name="ES: MOVISTAR Disney HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Movistar_Disney.svg/1200px-Movistar_Disney.svg.png" group-title="ESPAÑA",ES: MOVISTAR Disney HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126218
-#EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-name="ESP-1: MOVISTAR CINE N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1529px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="ESPAÑA",ESP-1: MOVISTAR CINE N
+#EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-name="ES: MOVISTAR CINE N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1529px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="ESPAÑA",ES: MOVISTAR CINE N
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126219
-#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ESP-1: MoviStar ESTRENOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png" group-title="ESPAÑA",ESP-1: MoviStar ESTRENOS HD
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ES: MoviStar ESTRENOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png" group-title="ESPAÑA",ES: MoviStar ESTRENOS HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126220
-#EXTINF:-1 tvg-id="NationalGeographicSpain.es" tvg-name="ESP-1: NATIONAL GEOGRAPHIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="ESPAÑA",ESP-1: NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="NationalGeographicSpain.es" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="ESPAÑA",ES: NATIONAL GEOGRAPHIC HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126222
-#EXTINF:-1 tvg-id="NationalGeographicSpain.es" tvg-name="ESP-1: NATIONAL GEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="ESPAÑA",ESP-1: NATIONAL GEO WILD HD
+#EXTINF:-1 tvg-id="NationalGeographicSpain.es" tvg-name="ES: NATIONAL GEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="ESPAÑA",ES: NATIONAL GEO WILD HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126223
-#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ESP-1: ODISEA HVEC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="ESPAÑA",ESP-1: ODISEA HVEC
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES: ODISEA HVEC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="ESPAÑA",ES: ODISEA HVEC
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126226
-#EXTINF:-1 tvg-id="TCMSpain.es" tvg-name="ESP-1: TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/TCM_HD.png" group-title="ESPAÑA",ESP-1: TCM HD
+#EXTINF:-1 tvg-id="TCMSpain.es" tvg-name="ES: TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/TCM_HD.png" group-title="ESPAÑA",ES: TCM HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126230
-#EXTINF:-1 tvg-id="Telemadrid.es" tvg-name="ESP-1: TELEMADRID HD" tvg-logo="https://logos-download.com/wp-content/uploads/2019/01/Telemadrid_Logo_new.png" group-title="ESPAÑA",ESP-1: TELEMADRID HD
+#EXTINF:-1 tvg-id="Telemadrid.es" tvg-name="ES: TELEMADRID HD" tvg-logo="https://logos-download.com/wp-content/uploads/2019/01/Telemadrid_Logo_new.png" group-title="ESPAÑA",ES: TELEMADRID HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126231
-#EXTINF:-1 tvg-id="TNTSpain.es" tvg-name="ESP-1: TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TNT_HD.png" group-title="ESPAÑA",ESP-1: TNT HD
+#EXTINF:-1 tvg-id="TNTSpain.es" tvg-name="ES: TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TNT_HD.png" group-title="ESPAÑA",ES: TNT HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126232
-#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-1: VIAJAR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Canalviajar.png" group-title="ESPAÑA",ESP-1: VIAJAR HD
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES: VIAJAR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Canalviajar.png" group-title="ESPAÑA",ES: VIAJAR HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126234
-#EXTINF:-1 tvg-id="CanalHollywood.es" tvg-name="ESP-1: HOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Hollywood_HD.png" group-title="ESPAÑA",ESP-1: HOLLYWOOD HD
+#EXTINF:-1 tvg-id="CanalHollywood.es" tvg-name="ES: HOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Hollywood_HD.png" group-title="ESPAÑA",ES: HOLLYWOOD HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126235
-#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="ESP-1: AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="ESPAÑA",ESP-1: AMC HD
+#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="ES: AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="ESPAÑA",ES: AMC HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126238
-#EXTINF:-1 tvg-id="AXNEurope.gr" tvg-name="ESP-1: AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AXN_HD_Logo_2015.png/1200px-AXN_HD_Logo_2015.png" group-title="ESPAÑA",ESP-1: AXN HD
+#EXTINF:-1 tvg-id="AXNEurope.gr" tvg-name="ES: AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AXN_HD_Logo_2015.png/1200px-AXN_HD_Logo_2015.png" group-title="ESPAÑA",ES: AXN HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126240
-#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="ESP-1: AXN WHITE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/AXN_White_HD.png" group-title="ESPAÑA",ESP-1: AXN WHITE HD
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="ES: AXN WHITE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/AXN_White_HD.png" group-title="ESPAÑA",ES: AXN WHITE HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126241
-#EXTINF:-1 tvg-id="BeMad.es" tvg-name="ESP-1: BE MAD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png" group-title="ESPAÑA",ESP-1: BE MAD HD
+#EXTINF:-1 tvg-id="BeMad.es" tvg-name="ES: BE MAD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png" group-title="ESPAÑA",ES: BE MAD HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126243
-#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-1: BLAZE ᴴᴰ" tvg-logo="https://assets.stickpng.com/thumbs/5a5a5eb814d8c4188e0b0834.png" group-title="ESPAÑA",ESP-1: BLAZE ᴴᴰ
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES: BLAZE ᴴᴰ" tvg-logo="https://assets.stickpng.com/thumbs/5a5a5eb814d8c4188e0b0834.png" group-title="ESPAÑA",ES: BLAZE ᴴᴰ
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126244
-#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="ESP-1: MOVISTAR ACCION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1280px-Movistar_Acci%C3%B3n.svg.png" group-title="ESPAÑA",ESP-1: MOVISTAR ACCION HD
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="ES: MOVISTAR ACCION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1280px-Movistar_Acci%C3%B3n.svg.png" group-title="ESPAÑA",ES: MOVISTAR ACCION HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126245
-#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="ESP-1: MOVISTAR DRAMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1280px-Movistar_Drama.svg.png" group-title="ESPAÑA",ESP-1: MOVISTAR DRAMA HD
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="ES: MOVISTAR DRAMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1280px-Movistar_Drama.svg.png" group-title="ESPAÑA",ES: MOVISTAR DRAMA HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126246
-#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="ESP-1: COMEDIA HD" tvg-logo="https://2.bp.blogspot.com/-_rhWaodsTIk/U2Fd8GLB4TI/AAAAAAAAGc8/mjWpxsTFEYI/s1600/comedy-central-logo.png" group-title="ESPAÑA",ESP-1: COMEDIA HD
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="ES: COMEDIA HD" tvg-logo="https://2.bp.blogspot.com/-_rhWaodsTIk/U2Fd8GLB4TI/AAAAAAAAGc8/mjWpxsTFEYI/s1600/comedy-central-logo.png" group-title="ESPAÑA",ES: COMEDIA HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126248
-#EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-name="ESP-1: CINE ESPAÑOL Ñ ᴴᴰ" tvg-logo="https://www.espanoles.ch/wp-content/uploads/2017/01/cine-espanol.png" group-title="ESPAÑA",ESP-1: CINE ESPAÑOL Ñ ᴴᴰ
+#EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-name="ES: CINE ESPAÑOL Ñ ᴴᴰ" tvg-logo="https://www.espanoles.ch/wp-content/uploads/2017/01/cine-espanol.png" group-title="ESPAÑA",ES: CINE ESPAÑOL Ñ ᴴᴰ
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126249
-#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="ESP-1: AXN WHITE ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1280px-AXN_White_logo_%282015%29.svg.png" group-title="ESPAÑA",ESP-1: AXN WHITE ᴴᴰ
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="ES: AXN WHITE ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1280px-AXN_White_logo_%282015%29.svg.png" group-title="ESPAÑA",ES: AXN WHITE ᴴᴰ
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126250
-#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ESP-1: CALLE 13 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/1200px-Calle13_logo.svg.png" group-title="ESPAÑA",ESP-1: CALLE 13 HD
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES: CALLE 13 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/1200px-Calle13_logo.svg.png" group-title="ESPAÑA",ES: CALLE 13 HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126252
-#EXTINF:-1 tvg-name="ESP-1: COSMO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1280px-Cosmo_TV_logo.svg.png" group-title="ESPAÑA",ESP-1: COSMO HD
+#EXTINF:-1 tvg-name="ES: COSMO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1280px-Cosmo_TV_logo.svg.png" group-title="ESPAÑA",ES: COSMO HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126253
-#EXTINF:-1 tvg-id="FoxSpain.es" tvg-name="ESP-1: FOX ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png" group-title="ESPAÑA",ESP-1: FOX ᴴᴰ
+#EXTINF:-1 tvg-id="FoxSpain.es" tvg-name="ES: FOX ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png" group-title="ESPAÑA",ES: FOX ᴴᴰ
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126254
-#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-1: FOX LIFE HD." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/FOX_life_HD.png" group-title="ESPAÑA",ESP-1: FOX LIFE HD.
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES: FOX LIFE HD." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/FOX_life_HD.png" group-title="ESPAÑA",ES: FOX LIFE HD.
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126255
-#EXTINF:-1 tvg-id="Energy.es" tvg-name="ESP-1: ENERGY ᴴᴰ" tvg-logo="https://freepngimg.com/thumb/energy/30958-4-energy-hd.png" group-title="ESPAÑA",ESP-1: ENERGY ᴴᴰ
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="ES: ENERGY ᴴᴰ" tvg-logo="https://freepngimg.com/thumb/energy/30958-4-energy-hd.png" group-title="ESPAÑA",ES: ENERGY ᴴᴰ
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126257
-#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="ESP-1: COCINA TV ᴴᴰ" tvg-logo="https://tvepg.eu/img/spain/logo/canal_cocina.png" group-title="ESPAÑA",ESP-1: COCINA TV ᴴᴰ
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="ES: COCINA TV ᴴᴰ" tvg-logo="https://tvepg.eu/img/spain/logo/canal_cocina.png" group-title="ESPAÑA",ES: COCINA TV ᴴᴰ
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126258
 #EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="ES: CANAL COCINA" tvg-logo="https://www.pngitem.com/pimgs/m/80-800250_canal-cocina-hd-png-download.png" group-title="ESPAÑA",ES: CANAL COCINA
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126208
-#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-1: VIAJAR HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Canalviajar.png" group-title="ESPAÑA",ESP-1: VIAJAR HD HEVC
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES: VIAJAR HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Canalviajar.png" group-title="ESPAÑA",ES: VIAJAR HD HEVC
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126267
-#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="ESP-1: ACCION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1280px-Movistar_Acci%C3%B3n.svg.png" group-title="ESPAÑA",ESP-1: ACCION HD
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="ES: ACCION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1280px-Movistar_Acci%C3%B3n.svg.png" group-title="ESPAÑA",ES: ACCION HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126272
-#EXTINF:-1 tvg-id="HistoriaSpain.es" tvg-name="ESP-1: HISTORIA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" group-title="ESPAÑA",ESP-1: HISTORIA ᴴᴰ
+#EXTINF:-1 tvg-id="HistoriaSpain.es" tvg-name="ES: HISTORIA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" group-title="ESPAÑA",ES: HISTORIA ᴴᴰ
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126274
-#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ESP-1: MOVISTAR ESTRENOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png" group-title="ESPAÑA",ESP-1: MOVISTAR ESTRENOS
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ES: MOVISTAR ESTRENOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png" group-title="ESPAÑA",ES: MOVISTAR ESTRENOS
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126275
-#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ESP-1: ODISEA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="ESPAÑA",ESP-1: ODISEA FHD
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES: ODISEA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="ESPAÑA",ES: ODISEA FHD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126277
-#EXTINF:-1 tvg-name="ESP-1: COSMO HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1200px-Cosmo_TV_logo.svg.png" group-title="ESPAÑA",ESP-1: COSMO HEVC
+#EXTINF:-1 tvg-name="ES: COSMO HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1200px-Cosmo_TV_logo.svg.png" group-title="ESPAÑA",ES: COSMO HEVC
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126278
-#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="ESP-1: MOVISTAR DRAMA HD HEVC" tvg-logo="https://www.kindpng.com/picc/m/487-4873926_movistar-drama-hd-png-download.png" group-title="ESPAÑA",ESP-1: MOVISTAR DRAMA HD HEVC
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="ES: MOVISTAR DRAMA HD HEVC" tvg-logo="https://www.kindpng.com/picc/m/487-4873926_movistar-drama-hd-png-download.png" group-title="ESPAÑA",ES: MOVISTAR DRAMA HD HEVC
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126279
-#EXTINF:-1 tvg-id="CanalHollywood.es" tvg-name="ESP-1: HOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Hollywood_HD.png" group-title="ESPAÑA",ESP-1: HOLLYWOOD HD
+#EXTINF:-1 tvg-id="CanalHollywood.es" tvg-name="ES: HOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Hollywood_HD.png" group-title="ESPAÑA",ES: HOLLYWOOD HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126280
-#EXTINF:-1 tvg-id="FoxLifeSpain.es" tvg-name="ESP-1: FOX LIFE HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/FOX_life_HD.png" group-title="ESPAÑA",ESP-1: FOX LIFE HD HEVC
+#EXTINF:-1 tvg-id="FoxLifeSpain.es" tvg-name="ES: FOX LIFE HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/FOX_life_HD.png" group-title="ESPAÑA",ES: FOX LIFE HD HEVC
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126281
-#EXTINF:-1 tvg-id="FoxSpain.es" tvg-name="ESP-1: FOX HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/FOXHD_Logo.png" group-title="ESPAÑA",ESP-1: FOX HD HEVC
+#EXTINF:-1 tvg-id="FoxSpain.es" tvg-name="ES: FOX HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/FOXHD_Logo.png" group-title="ESPAÑA",ES: FOX HD HEVC
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126282
-#EXTINF:-1 tvg-id="MovistarClasicos.es" tvg-name="ESP-1: MOVISTAR CINE CLÁSICO HD" group-title="ESPAÑA",ESP-1: MOVISTAR CINE CLÁSICO HD
+#EXTINF:-1 tvg-id="MovistarClasicos.es" tvg-name="ES: MOVISTAR CINE CLÁSICO HD" group-title="ESPAÑA",ES: MOVISTAR CINE CLÁSICO HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/143844
-#EXTINF:-1 tvg-id="Somos.es" tvg-name="ESP-1: SOMOS ᴴᴰ" group-title="ESPAÑA",ESP-1: SOMOS ᴴᴰ
+#EXTINF:-1 tvg-id="Somos.es" tvg-name="ES: SOMOS ᴴᴰ" group-title="ESPAÑA",ES: SOMOS ᴴᴰ
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/143986
-#EXTINF:-1 tvg-id="ParamountChannelSpain.es" tvg-name="ESP-1: PARAMOUNT ᴴᴰ" group-title="ESPAÑA",ESP-1: PARAMOUNT ᴴᴰ
+#EXTINF:-1 tvg-id="ParamountChannelSpain.es" tvg-name="ES: PARAMOUNT ᴴᴰ" group-title="ESPAÑA",ES: PARAMOUNT ᴴᴰ
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/144035
-#EXTINF:-1 tvg-name="ESP-1: M+ Fest ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/2560px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA",ESP-1: M+ Fest ᴴᴰ
+#EXTINF:-1 tvg-name="ES: M+ Fest ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/2560px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA",ES: M+ Fest ᴴᴰ
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/162913
-#EXTINF:-1 tvg-name="ESP-1: MEGA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="ESPAÑA",ESP-1: MEGA ᴴᴰ
+#EXTINF:-1 tvg-name="ES: MEGA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="ESPAÑA",ES: MEGA ᴴᴰ
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/162915
-#EXTINF:-1 tvg-name="ESP-1: M+ CLÁSICOS ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Movistar-Cl%C3%A1sicos.png" group-title="ESPAÑA",ESP-1: M+ CLÁSICOS ᴴᴰ
+#EXTINF:-1 tvg-name="ES: M+ CLÁSICOS ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Movistar-Cl%C3%A1sicos.png" group-title="ESPAÑA",ES: M+ CLÁSICOS ᴴᴰ
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/162917
-#EXTINF:-1 tvg-id="TCMSpain.es" tvg-name="ESP-1: TCM HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/TCM_HD.png" group-title="ESPAÑA",ESP-1: TCM HD HEVC
+#EXTINF:-1 tvg-id="TCMSpain.es" tvg-name="ES: TCM HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/TCM_HD.png" group-title="ESPAÑA",ES: TCM HD HEVC
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126161
-#EXTINF:-1 tvg-id="SyfySpain.es" tvg-name="ESP-1: SYFY HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Syfy-HD-Logo.svg/1280px-Syfy-HD-Logo.svg.png" group-title="ESPAÑA",ESP-1: SYFY HD HEVC
+#EXTINF:-1 tvg-id="SyfySpain.es" tvg-name="ES: SYFY HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Syfy-HD-Logo.svg/1280px-Syfy-HD-Logo.svg.png" group-title="ESPAÑA",ES: SYFY HD HEVC
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126162
-#EXTINF:-1 tvg-id="NationalGeographicWildSpain.es" tvg-name="ESP-1: NATIONAL GEO WILD HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="ESPAÑA",ESP-1: NATIONAL GEO WILD HD HEVC
+#EXTINF:-1 tvg-id="NationalGeographicWildSpain.es" tvg-name="ES: NATIONAL GEO WILD HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="ESPAÑA",ES: NATIONAL GEO WILD HD HEVC
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126163
-#EXTINF:-1 tvg-id="MezzoLiveHD.fr" tvg-name="ESP-1: MEZZO LIVE HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="ESPAÑA",ESP-1: MEZZO LIVE HD HEVC
+#EXTINF:-1 tvg-id="MezzoLiveHD.fr" tvg-name="ES: MEZZO LIVE HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="ESPAÑA",ES: MEZZO LIVE HD HEVC
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126164
-#EXTINF:-1 tvg-id="TreceTV.es" tvg-name="ESP-1: TRECE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/13_TV.svg/1200px-13_TV.svg.png" group-title="ESPAÑA",ESP-1: TRECE TV
+#EXTINF:-1 tvg-id="TreceTV.es" tvg-name="ES: TRECE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/13_TV.svg/1200px-13_TV.svg.png" group-title="ESPAÑA",ES: TRECE TV
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126165
-#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="ESP-1: #0 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="ESPAÑA",ESP-1: #0 HD
+#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="ES: #0 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="ESPAÑA",ES: #0 HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126168
-#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ESP-1: CANAL ODISEA" tvg-logo="https://vercanalestv1.com/logos/odisea.png" group-title="ESPAÑA",ESP-1: CANAL ODISEA
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES: CANAL ODISEA" tvg-logo="https://vercanalestv1.com/logos/odisea.png" group-title="ESPAÑA",ES: CANAL ODISEA
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126175
-#EXTINF:-1 tvg-id="CanalSUR.us" tvg-name="ESP-1: CANAL SUR" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/canal-sur-logo-png-transparent.png" group-title="ESPAÑA",ESP-1: CANAL SUR
+#EXTINF:-1 tvg-id="CanalSUR.us" tvg-name="ES: CANAL SUR" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/canal-sur-logo-png-transparent.png" group-title="ESPAÑA",ES: CANAL SUR
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126177
 #EXTINF:-1 tvg-name="▂ ▄ ▅ ▆☆Culturales☆▆ ▅ ▄ ▂" group-title="ESPAÑA",▂ ▄ ▅ ▆☆Culturales☆▆ ▅ ▄ ▂
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126416
