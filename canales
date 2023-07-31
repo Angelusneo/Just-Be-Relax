@@ -1,42 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ES:BLAZE" group-title="España",ES:BLAZE
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50328
-#EXTINF:-1 tvg-name="ES:DISCOVERY CHANNELHD" group-title="España",ES:DISCOVERY CHANNELHD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50340
-#EXTINF:-1 tvg-name="ES:MOVISTAR COMEDIA HD" group-title="España",ES:MOVISTAR COMEDIA HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50347
-#EXTINF:-1 tvg-name="ES:Mega HD" group-title="España",ES:Mega HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50369
-#EXTINF:-1 tvg-name="ES:FDF HD" group-title="España",ES:FDF HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50372
-#EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-name="ES: FDF" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/fdf_circular_500_-2_8dd4.png" group-title="ESPAÑA",ES: FDF
-http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126199
-#EXTINF:-1 tvg-name="ES:Cosmo HD" group-title="España",ES:Cosmo HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50379
-#EXTINF:-1 tvg-name="ES:Comedy Central HD" group-title="España",ES:Comedy Central HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50380
-#EXTINF:-1 tvg-name="ES:CANAL COCINA" group-title="España",ES:CANAL COCINA
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50381
-#EXTINF:-1 tvg-name="ES:BLAZE" group-title="España",ES:BLAZE
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50385
-#EXTINF:-1 tvg-name="ES:Be Mad HD" group-title="España",ES:Be Mad HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50386
-#EXTINF:-1 tvg-name="ES:AXN WHITE HD" group-title="España",ES:AXN WHITE HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50388
-#EXTINF:-1 tvg-name="ES:AXN HD" group-title="España",ES:AXN HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50389
-#EXTINF:-1 tvg-name="ES:AMC HD" group-title="España",ES:AMC HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50391
-#EXTINF:-1 tvg-name="ES:HOLLYWOOD HD" group-title="España",ES:HOLLYWOOD HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50394
-#EXTINF:-1 tvg-name="ES:TNT HD" group-title="España",ES:TNT HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50397
-#EXTINF:-1 tvg-name="ES:TCM HD" group-title="España",ES:TCM HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50399
-#EXTINF:-1 tvg-name="ES:MOVISTAR CINE N" group-title="España",ES:MOVISTAR CINE N
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50411
-#EXTINF:-1 tvg-name="ES:MOVISTAR ACCION HD" group-title="España",ES:MOVISTAR ACCION HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50413
 #EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es" tvg-name="ES: TVE ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2084px-Logo_TVE-Internacional.svg.png" group-title="ESPAÑA",ES: TVE ᴴᴰ
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126259
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES: TELECINCO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Telecinco_HDTV.png" group-title="ESPAÑA",ES: TELECINCO HD
@@ -81,6 +43,44 @@ http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126315
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50414
 #EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES: LA SEXTA" group-title="ESPAÑA",ES: LA SEXTA
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126313
+#EXTINF:-1 tvg-name="ES:BLAZE" group-title="España",ES:BLAZE
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50328
+#EXTINF:-1 tvg-name="ES:DISCOVERY CHANNELHD" group-title="España",ES:DISCOVERY CHANNELHD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50340
+#EXTINF:-1 tvg-name="ES:MOVISTAR COMEDIA HD" group-title="España",ES:MOVISTAR COMEDIA HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50347
+#EXTINF:-1 tvg-name="ES:Mega HD" group-title="España",ES:Mega HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50369
+#EXTINF:-1 tvg-name="ES:FDF HD" group-title="España",ES:FDF HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50372
+#EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-name="ES: FDF" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/fdf_circular_500_-2_8dd4.png" group-title="ESPAÑA",ES: FDF
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126199
+#EXTINF:-1 tvg-name="ES:Cosmo HD" group-title="España",ES:Cosmo HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50379
+#EXTINF:-1 tvg-name="ES:Comedy Central HD" group-title="España",ES:Comedy Central HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50380
+#EXTINF:-1 tvg-name="ES:CANAL COCINA" group-title="España",ES:CANAL COCINA
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50381
+#EXTINF:-1 tvg-name="ES:BLAZE" group-title="España",ES:BLAZE
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50385
+#EXTINF:-1 tvg-name="ES:Be Mad HD" group-title="España",ES:Be Mad HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50386
+#EXTINF:-1 tvg-name="ES:AXN WHITE HD" group-title="España",ES:AXN WHITE HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50388
+#EXTINF:-1 tvg-name="ES:AXN HD" group-title="España",ES:AXN HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50389
+#EXTINF:-1 tvg-name="ES:AMC HD" group-title="España",ES:AMC HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50391
+#EXTINF:-1 tvg-name="ES:HOLLYWOOD HD" group-title="España",ES:HOLLYWOOD HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50394
+#EXTINF:-1 tvg-name="ES:TNT HD" group-title="España",ES:TNT HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50397
+#EXTINF:-1 tvg-name="ES:TCM HD" group-title="España",ES:TCM HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50399
+#EXTINF:-1 tvg-name="ES:MOVISTAR CINE N" group-title="España",ES:MOVISTAR CINE N
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50411
+#EXTINF:-1 tvg-name="ES:MOVISTAR ACCION HD" group-title="España",ES:MOVISTAR ACCION HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50413
 #EXTINF:-1 tvg-id="DisneyChannelSpain.es" tvg-name="ES: DISCOVERY CHANNEL HD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="ESPAÑA",ES: DISCOVERY CHANNEL HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126179
 #EXTINF:-1 tvg-id="DMAXSpain.es" tvg-name="ES: DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="ESPAÑA",ES: DMAX
