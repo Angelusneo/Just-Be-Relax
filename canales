@@ -9,6 +9,8 @@ http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50347
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50369
 #EXTINF:-1 tvg-name="ES:FDF HD" group-title="España",ES:FDF HD
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50372
+#EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-name="ES: FDF" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/fdf_circular_500_-2_8dd4.png" group-title="ESPAÑA",ES: FDF
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126199
 #EXTINF:-1 tvg-name="ES:Cosmo HD" group-title="España",ES:Cosmo HD
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50379
 #EXTINF:-1 tvg-name="ES:Comedy Central HD" group-title="España",ES:Comedy Central HD
@@ -31,16 +33,298 @@ http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50394
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50397
 #EXTINF:-1 tvg-name="ES:TCM HD" group-title="España",ES:TCM HD
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50399
-#EXTINF:-1 tvg-name="ES:ODESEA" group-title="España",ES:ODISEA
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50404
 #EXTINF:-1 tvg-name="ES:MOVISTAR CINE N" group-title="España",ES:MOVISTAR CINE N
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50411
 #EXTINF:-1 tvg-name="ES:MOVISTAR ACCION HD" group-title="España",ES:MOVISTAR ACCION HD
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50413
-#EXTINF:-1 tvg-name="ES:La Sexta HD" group-title="España",ES:La Sexta HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50414
+#EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es" tvg-name="ESP-1: TVE ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2084px-Logo_TVE-Internacional.svg.png" group-title="ESPAÑA",ESP-1: TVE ᴴᴰ
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126259
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ESP-1: TELECINCO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Telecinco_HDTV.png" group-title="ESPAÑA",ESP-1: TELECINCO HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126260
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ESP-1: CUATRO HD" tvg-logo="https://www.actays.org/wp-content/uploads/2020/04/cuatro_logo_500_-1_343d.png" group-title="ESPAÑA",ESP-1: CUATRO HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126261
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ESP-1: ANTENA 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Antena3hd.png" group-title="ESPAÑA",ESP-1: ANTENA 3 HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126262
+#EXTINF:-1 tvg-id="La2.es" tvg-name="ESP-1: LA 2 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png" group-title="ESPAÑA",ESP-1: LA 2 ᴴᴰ
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126263
+#EXTINF:-1 tvg-id="La1.es" tvg-name="ESP-1: LA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="ESPAÑA",ESP-1: LA 1 HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126264
+#EXTINF:-1 tvg-id="La1.es" tvg-name="ESP-1: LA 1 HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="ESPAÑA",ESP-1: LA 1 HD HEVC
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126265
+#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="ES: TVE LA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="ESPAÑA",ES: TVE LA 1 HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126212
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES: TVE LA 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La_2_HD.png/220px-La_2_HD.png" group-title="ESPAÑA",ES: TVE LA 2 HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126213
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES: ANTENA 3" group-title="ESPAÑA",ES: ANTENA 3
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126304
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES: ANTENA 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Antena3hd.png" group-title="ESPAÑA",ES: ANTENA 3 HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126214
 #EXTINF:-1 tvg-name="ES:Antena 3 HD" group-title="España",ES:Antena 3 HD
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50416
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES: ANTENA 3 FHD" group-title="ESPAÑA",ES: ANTENA 3 FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126306
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES: CUATRO HD" tvg-logo="https://www.grupoinfoshop.com/wp-content/uploads/cuatro.png" group-title="ESPAÑA",ES: CUATRO HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126215
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES: CUATRO HD" group-title="ESPAÑA",ESP-7: CUATRO HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126307
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES: CUATRO FHD" group-title="ESPAÑA",ESP-7: CUATRO FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126309
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES: TELECINCO" group-title="ESPAÑA",ES: TELECINCO
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126310
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES: TELECINCO FULLHD" group-title="ESPAÑA",ES: TELECINCO FULLHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126312
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES: LA SEXTA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="ESPAÑA",ES: LA SEXTA HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126216
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES: LA SEXTA  FHD" group-title="ESPAÑA",ES: LA SEXTA  FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126315
+#EXTINF:-1 tvg-name="ES:La Sexta HD" group-title="España",ES:La Sexta HD
+http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50414
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES: LA SEXTA" group-title="ESPAÑA",ES: LA SEXTA
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126313
+#EXTINF:-1 tvg-id="DisneyChannelSpain.es" tvg-name="ESP-1: DISCOVERY CHANNEL HD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="ESPAÑA",ESP-1: DISCOVERY CHANNEL HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126179
+#EXTINF:-1 tvg-id="DMAXSpain.es" tvg-name="ES: DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="ESPAÑA",ES: DMAX
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126180
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="ES: MOVISTAR COMEDIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png" group-title="ESPAÑA",ES: MOVISTAR COMEDIA HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126183
+#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-name="ES: TVE 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/900px-Logo_TVE-24h.svg.png" group-title="ESPAÑA",ES: TVE 24H
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126193
+#EXTINF:-1 tvg-id="MezzoLiveHD.fr" tvg-name="ES: MEZZO LIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="ESPAÑA",ES: MEZZO LIVE HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126195
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES: FOX LIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/FOX_life_HD.png" group-title="ESPAÑA",ES: FOX LIFE HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126197
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES: FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png" group-title="ESPAÑA",ES: FOX HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126198
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="ESP-1: MOVISTAR ACCION HD -" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1280px-Movistar_Acci%C3%B3n.svg.png" group-title="ESPAÑA",ESP-1: MOVISTAR ACCION HD -
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126217
+#EXTINF:-1 tvg-id="DisneyChannelSpain.es" tvg-name="ESP-1: MOVISTAR Disney HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Movistar_Disney.svg/1200px-Movistar_Disney.svg.png" group-title="ESPAÑA",ESP-1: MOVISTAR Disney HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126218
+#EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-name="ESP-1: MOVISTAR CINE N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1529px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="ESPAÑA",ESP-1: MOVISTAR CINE N
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126219
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ESP-1: MoviStar ESTRENOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png" group-title="ESPAÑA",ESP-1: MoviStar ESTRENOS HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126220
+#EXTINF:-1 tvg-id="NationalGeographicSpain.es" tvg-name="ESP-1: NATIONAL GEOGRAPHIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="ESPAÑA",ESP-1: NATIONAL GEOGRAPHIC HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126222
+#EXTINF:-1 tvg-id="NationalGeographicSpain.es" tvg-name="ESP-1: NATIONAL GEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="ESPAÑA",ESP-1: NATIONAL GEO WILD HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126223
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ESP-1: ODISEA HVEC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="ESPAÑA",ESP-1: ODISEA HVEC
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126226
+#EXTINF:-1 tvg-id="TCMSpain.es" tvg-name="ESP-1: TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/TCM_HD.png" group-title="ESPAÑA",ESP-1: TCM HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126230
+#EXTINF:-1 tvg-id="Telemadrid.es" tvg-name="ESP-1: TELEMADRID HD" tvg-logo="https://logos-download.com/wp-content/uploads/2019/01/Telemadrid_Logo_new.png" group-title="ESPAÑA",ESP-1: TELEMADRID HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126231
+#EXTINF:-1 tvg-id="TNTSpain.es" tvg-name="ESP-1: TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TNT_HD.png" group-title="ESPAÑA",ESP-1: TNT HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126232
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-1: VIAJAR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Canalviajar.png" group-title="ESPAÑA",ESP-1: VIAJAR HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126234
+#EXTINF:-1 tvg-id="CanalHollywood.es" tvg-name="ESP-1: HOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Hollywood_HD.png" group-title="ESPAÑA",ESP-1: HOLLYWOOD HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126235
+#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="ESP-1: AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="ESPAÑA",ESP-1: AMC HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126238
+#EXTINF:-1 tvg-id="AXNEurope.gr" tvg-name="ESP-1: AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AXN_HD_Logo_2015.png/1200px-AXN_HD_Logo_2015.png" group-title="ESPAÑA",ESP-1: AXN HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126240
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="ESP-1: AXN WHITE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/AXN_White_HD.png" group-title="ESPAÑA",ESP-1: AXN WHITE HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126241
+#EXTINF:-1 tvg-id="BeMad.es" tvg-name="ESP-1: BE MAD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png" group-title="ESPAÑA",ESP-1: BE MAD HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126243
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-1: BLAZE ᴴᴰ" tvg-logo="https://assets.stickpng.com/thumbs/5a5a5eb814d8c4188e0b0834.png" group-title="ESPAÑA",ESP-1: BLAZE ᴴᴰ
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126244
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="ESP-1: MOVISTAR ACCION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1280px-Movistar_Acci%C3%B3n.svg.png" group-title="ESPAÑA",ESP-1: MOVISTAR ACCION HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126245
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="ESP-1: MOVISTAR DRAMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1280px-Movistar_Drama.svg.png" group-title="ESPAÑA",ESP-1: MOVISTAR DRAMA HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126246
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="ESP-1: COMEDIA HD" tvg-logo="https://2.bp.blogspot.com/-_rhWaodsTIk/U2Fd8GLB4TI/AAAAAAAAGc8/mjWpxsTFEYI/s1600/comedy-central-logo.png" group-title="ESPAÑA",ESP-1: COMEDIA HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126248
+#EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-name="ESP-1: CINE ESPAÑOL Ñ ᴴᴰ" tvg-logo="https://www.espanoles.ch/wp-content/uploads/2017/01/cine-espanol.png" group-title="ESPAÑA",ESP-1: CINE ESPAÑOL Ñ ᴴᴰ
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126249
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="ESP-1: AXN WHITE ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1280px-AXN_White_logo_%282015%29.svg.png" group-title="ESPAÑA",ESP-1: AXN WHITE ᴴᴰ
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126250
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ESP-1: CALLE 13 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/1200px-Calle13_logo.svg.png" group-title="ESPAÑA",ESP-1: CALLE 13 HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126252
+#EXTINF:-1 tvg-name="ESP-1: COSMO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1280px-Cosmo_TV_logo.svg.png" group-title="ESPAÑA",ESP-1: COSMO HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126253
+#EXTINF:-1 tvg-id="FoxSpain.es" tvg-name="ESP-1: FOX ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png" group-title="ESPAÑA",ESP-1: FOX ᴴᴰ
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126254
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-1: FOX LIFE HD." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/FOX_life_HD.png" group-title="ESPAÑA",ESP-1: FOX LIFE HD.
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126255
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="ESP-1: ENERGY ᴴᴰ" tvg-logo="https://freepngimg.com/thumb/energy/30958-4-energy-hd.png" group-title="ESPAÑA",ESP-1: ENERGY ᴴᴰ
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126257
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="ESP-1: COCINA TV ᴴᴰ" tvg-logo="https://tvepg.eu/img/spain/logo/canal_cocina.png" group-title="ESPAÑA",ESP-1: COCINA TV ᴴᴰ
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126258
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="ES: CANAL COCINA" tvg-logo="https://www.pngitem.com/pimgs/m/80-800250_canal-cocina-hd-png-download.png" group-title="ESPAÑA",ES: CANAL COCINA
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126208
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-1: VIAJAR HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Canalviajar.png" group-title="ESPAÑA",ESP-1: VIAJAR HD HEVC
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126267
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="ESP-1: ACCION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1280px-Movistar_Acci%C3%B3n.svg.png" group-title="ESPAÑA",ESP-1: ACCION HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126272
+#EXTINF:-1 tvg-id="HistoriaSpain.es" tvg-name="ESP-1: HISTORIA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" group-title="ESPAÑA",ESP-1: HISTORIA ᴴᴰ
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126274
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ESP-1: MOVISTAR ESTRENOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png" group-title="ESPAÑA",ESP-1: MOVISTAR ESTRENOS
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126275
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ESP-1: ODISEA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="ESPAÑA",ESP-1: ODISEA FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126277
+#EXTINF:-1 tvg-name="ESP-1: COSMO HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1200px-Cosmo_TV_logo.svg.png" group-title="ESPAÑA",ESP-1: COSMO HEVC
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126278
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="ESP-1: MOVISTAR DRAMA HD HEVC" tvg-logo="https://www.kindpng.com/picc/m/487-4873926_movistar-drama-hd-png-download.png" group-title="ESPAÑA",ESP-1: MOVISTAR DRAMA HD HEVC
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126279
+#EXTINF:-1 tvg-id="CanalHollywood.es" tvg-name="ESP-1: HOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Hollywood_HD.png" group-title="ESPAÑA",ESP-1: HOLLYWOOD HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126280
+#EXTINF:-1 tvg-id="FoxLifeSpain.es" tvg-name="ESP-1: FOX LIFE HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/FOX_life_HD.png" group-title="ESPAÑA",ESP-1: FOX LIFE HD HEVC
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126281
+#EXTINF:-1 tvg-id="FoxSpain.es" tvg-name="ESP-1: FOX HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/FOXHD_Logo.png" group-title="ESPAÑA",ESP-1: FOX HD HEVC
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126282
+#EXTINF:-1 tvg-id="MovistarClasicos.es" tvg-name="ESP-1: MOVISTAR CINE CLÁSICO HD" group-title="ESPAÑA",ESP-1: MOVISTAR CINE CLÁSICO HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/143844
+#EXTINF:-1 tvg-id="Somos.es" tvg-name="ESP-1: SOMOS ᴴᴰ" group-title="ESPAÑA",ESP-1: SOMOS ᴴᴰ
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/143986
+#EXTINF:-1 tvg-id="ParamountChannelSpain.es" tvg-name="ESP-1: PARAMOUNT ᴴᴰ" group-title="ESPAÑA",ESP-1: PARAMOUNT ᴴᴰ
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/144035
+#EXTINF:-1 tvg-name="ESP-1: M+ Fest ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/2560px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA",ESP-1: M+ Fest ᴴᴰ
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/162913
+#EXTINF:-1 tvg-name="ESP-1: MEGA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="ESPAÑA",ESP-1: MEGA ᴴᴰ
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/162915
+#EXTINF:-1 tvg-name="ESP-1: M+ CLÁSICOS ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Movistar-Cl%C3%A1sicos.png" group-title="ESPAÑA",ESP-1: M+ CLÁSICOS ᴴᴰ
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/162917
+#EXTINF:-1 tvg-id="TCMSpain.es" tvg-name="ESP-1: TCM HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/TCM_HD.png" group-title="ESPAÑA",ESP-1: TCM HD HEVC
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126161
+#EXTINF:-1 tvg-id="SyfySpain.es" tvg-name="ESP-1: SYFY HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Syfy-HD-Logo.svg/1280px-Syfy-HD-Logo.svg.png" group-title="ESPAÑA",ESP-1: SYFY HD HEVC
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126162
+#EXTINF:-1 tvg-id="NationalGeographicWildSpain.es" tvg-name="ESP-1: NATIONAL GEO WILD HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="ESPAÑA",ESP-1: NATIONAL GEO WILD HD HEVC
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126163
+#EXTINF:-1 tvg-id="MezzoLiveHD.fr" tvg-name="ESP-1: MEZZO LIVE HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="ESPAÑA",ESP-1: MEZZO LIVE HD HEVC
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126164
+#EXTINF:-1 tvg-id="TreceTV.es" tvg-name="ESP-1: TRECE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/13_TV.svg/1200px-13_TV.svg.png" group-title="ESPAÑA",ESP-1: TRECE TV
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126165
+#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="ESP-1: #0 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="ESPAÑA",ESP-1: #0 HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126168
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ESP-1: CANAL ODISEA" tvg-logo="https://vercanalestv1.com/logos/odisea.png" group-title="ESPAÑA",ESP-1: CANAL ODISEA
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126175
+#EXTINF:-1 tvg-id="CanalSUR.us" tvg-name="ESP-1: CANAL SUR" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/canal-sur-logo-png-transparent.png" group-title="ESPAÑA",ESP-1: CANAL SUR
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126177
+#EXTINF:-1 tvg-name="▂ ▄ ▅ ▆☆Culturales☆▆ ▅ ▄ ▂" group-title="ESPAÑA",▂ ▄ ▅ ▆☆Culturales☆▆ ▅ ▄ ▂
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126416
+#EXTINF:-1 tvg-id="HistoriaSpain.es" tvg-name="ESP-8: HISTORIA" group-title="ESPAÑA",ESP-8: HISTORIA
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126417
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-8: HISTORIA HD" group-title="ESPAÑA",ESP-8: HISTORIA HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126418
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-8: HISTORIA FHD" group-title="ESPAÑA",ESP-8: HISTORIA FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126419
+#EXTINF:-1 tvg-name="ESP-8: DISCOVERY  CHANNEL" group-title="ESPAÑA",ESP-8: DISCOVERY  CHANNEL
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126420
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="ESP-8: CAZA Y PESCA HD" group-title="ESPAÑA",ESP-8: CAZA Y PESCA HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126421
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="ESP-8: CANAL COCINA HD" group-title="ESPAÑA",ESP-8: CANAL COCINA HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126422
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ESP-8: ODISEA" group-title="ESPAÑA",ESP-8: ODISEA
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126423
+#EXTINF:-1 tvg-id="NationalGeographicSpain.es" tvg-name="ESP-8: NATIONAL GEOGRAPHIC" group-title="ESPAÑA",ESP-8: NATIONAL GEOGRAPHIC
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126424
+#EXTINF:-1 tvg-id="NationalGeographicSpain.es" tvg-name="ESP-8: NATIONAL GEOGRAPHIC HD" group-title="ESPAÑA",ESP-8: NATIONAL GEOGRAPHIC HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126425
+#EXTINF:-1 tvg-id="Decasa.es" tvg-name="ESP-8: DECASA HD" group-title="ESPAÑA",ESP-8: DECASA HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126426
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-8: NATIONAL GEOGRAFIC WILD HD" group-title="ESPAÑA",ESP-8: NATIONAL GEOGRAFIC WILD HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126427
+#EXTINF:-1 tvg-id="NationalGeographicSpain.es" tvg-name="ESP-8: NATIONAL GEOGRAPHIC FULLHD" group-title="ESPAÑA",ESP-8: NATIONAL GEOGRAPHIC FULLHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126428
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-8: NATIONAL GEOGRAFIC WILD" group-title="ESPAÑA",ESP-8: NATIONAL GEOGRAFIC WILD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126429
+#EXTINF:-1 tvg-id="NationalGeographicWildSpain.es" tvg-name="ESP-8: NATIONAL GEOGRAFIC WILD FULLHD" group-title="ESPAÑA",ESP-8: NATIONAL GEOGRAFIC WILD FULLHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126430
+#EXTINF:-1 tvg-id="BeMad.es" tvg-name="ESP-8: BE MAD HD" group-title="ESPAÑA",ESP-8: BE MAD HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126431
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-8: DMAX" group-title="ESPAÑA",ESP-8: DMAX
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126432
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-8: TEN CRIMEN + INVESTIGATION" group-title="ESPAÑA",ESP-8: TEN CRIMEN + INVESTIGATION
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126433
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-8: BLAZE" group-title="ESPAÑA",ESP-8: BLAZE
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126434
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-8: Viajar" group-title="ESPAÑA",ESP-8: Viajar
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126435
+#EXTINF:-1 tvg-id="Viajar.es" tvg-name="ESP-8: VIAJAR HD" group-title="ESPAÑA",ESP-8: VIAJAR HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126436
+#EXTINF:-1 tvg-id="Viajar.es" tvg-name="ESP-8: VIAJAR FULLHD" group-title="ESPAÑA",ESP-8: VIAJAR FULLHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126437
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="ESP-8: CAZA  Y PESCA" group-title="ESPAÑA",ESP-8: CAZA  Y PESCA
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126438
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="ESP-8: CAZA Y PESCA FULLHD" group-title="ESPAÑA",ESP-8: CAZA Y PESCA FULLHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126439
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="ESP-8: DW ESPAÑA" group-title="ESPAÑA",ESP-8: DW ESPAÑA
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126441
+#EXTINF:-1 tvg-id="DisneyChannelSpain.es" tvg-name="ESP-8: DISCOVERY CHANNEL ESPAÑA" tvg-logo="https://img.favpng.com/3/0/4/discovery-channel-television-channel-logo-television-show-png-favpng-DJEGtsbP1wJr4hS5MBRQ3Z7jf.jpg" group-title="ESPAÑA",ESP-8: DISCOVERY CHANNEL ESPAÑA
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/153596
+#EXTINF:-1 tvg-name="▂ ▄ ▅ ▆☆ ESPAÑA CINE☆▆ ▅ ▄ ▂" group-title="ESPAÑA",▂ ▄ ▅ ▆ ESPAÑA CINE▆ ▅ ▄ ▂
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126316
+#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="ESP-3: DISTRITO TV" tvg-logo="https://distritotv.es/wp-content/uploads/2021/04/cropped-PROPUESTAS-LOGO-DISTRITO-TV-2-1.png" group-title="ESPAÑA",ESP-3: DISTRITO TV
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/150270
+#EXTINF:-1 tvg-name="ESP-3: MOVISTAR  0#" group-title="ESPAÑA",ESP-3: MOVISTAR  0#
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126317
+#EXTINF:-1 tvg-name="ESP-3: MOVISTAR 0# FULLHD" group-title="ESPAÑA",ESP-3: MOVISTAR 0# FULLHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126318
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ESP-3: MOVISTAR ESTRENOS HD" group-title="ESPAÑA",ESP-3: MOVISTAR ESTRENOS HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126319
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ESP-3: MOVISTAR ESTRENOS" group-title="ESPAÑA",ESP-3: MOVISTAR ESTRENOS
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126320
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ESP-3: MOVISTAR ESTRENOS FULLHD" group-title="ESPAÑA",ESP-3: MOVISTAR ESTRENOS FULLHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126321
+#EXTINF:-1 tvg-name="ESP-3: MOVISTAR ACCION HD" group-title="ESPAÑA",ESP-3: MOVISTAR ACCION HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126322
+#EXTINF:-1 tvg-name="ESP-3: MOVISTAR  ACCION" group-title="ESPAÑA",ESP-3: MOVISTAR  ACCION
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126323
+#EXTINF:-1 tvg-name="ESP-3: MOVISTAR ACCION FHD" group-title="ESPAÑA",ESP-3: MOVISTAR ACCION FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126324
+#EXTINF:-1 tvg-name="ESP-3: MOVISTAR COMEDIA" group-title="ESPAÑA",ESP-3: MOVISTAR COMEDIA
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126325
+#EXTINF:-1 tvg-name="ESP-3: MOVISTAR COMEDIA FHD" group-title="ESPAÑA",ESP-3: MOVISTAR COMEDIA FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126326
+#EXTINF:-1 tvg-name="ESP-3: MOVISTAR COMEDIA HD" group-title="ESPAÑA",ESP-3: MOVISTAR COMEDIA HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126327
+#EXTINF:-1 tvg-name="ESP-3: MOVISTAR DRAMA" group-title="ESPAÑA",ESP-3: MOVISTAR DRAMA
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126328
+#EXTINF:-1 tvg-name="ESP-3: MOVISTAR DRAMA HD" group-title="ESPAÑA",ESP-3: MOVISTAR DRAMA HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126329
+#EXTINF:-1 tvg-name="ESP-3: MOVISTAR DRAMA FHD" group-title="ESPAÑA",ESP-3: MOVISTAR DRAMA FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126330
+#EXTINF:-1 tvg-name="ESP-3: MOVISTAR DCINE Ã‘" group-title="ESPAÑA",ESP-3: MOVISTAR DCINE Ã‘
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126331
+#EXTINF:-1 tvg-name="ESP-3: MOVISTAR CINEDOC&ROLL" group-title="ESPAÑA",ESP-3: MOVISTAR CINEDOC&ROLL
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126332
+#EXTINF:-1 tvg-name="ESP-3: MOVISTAR CINEDOC&ROLL FHD" group-title="ESPAÑA",ESP-3: MOVISTAR CINEDOC&ROLL FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126333
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-3: HOLLYWOOD HD" group-title="ESPAÑA",ESP-3: HOLLYWOOD HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126334
+#EXTINF:-1 tvg-id="CanalHollywood.es" tvg-name="ESP-3: HOLLYWOOD" group-title="ESPAÑA",ESP-3: HOLLYWOOD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126335
+#EXTINF:-1 tvg-id="CanalHollywoodSpain.es" tvg-name="ESP-3: HOLLYWOOD FHD" group-title="ESPAÑA",ESP-3: HOLLYWOOD FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126336
+#EXTINF:-1 tvg-id="TCMSpain.es" tvg-name="ESP-3: TCM" group-title="ESPAÑA",ESP-3: TCM
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126337
+#EXTINF:-1 tvg-id="TCMSpain.es" tvg-name="ESP-3: TCM HD" group-title="ESPAÑA",ESP-3: TCM HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126338
+#EXTINF:-1 tvg-id="TCMSpain.es" tvg-name="ESP-3: TCM FHD" group-title="ESPAÑA",ESP-3: TCM FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126339
+#EXTINF:-1 tvg-id="SundanceTVSpain.es" tvg-name="ESP-3: SUNDANCE" group-title="ESPAÑA",ESP-3: SUNDANCE
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126340
+#EXTINF:-1 tvg-id="SundanceTVSpain.es" tvg-name="ESP-3: SUNDANCE FHD" group-title="ESPAÑA",ESP-3: SUNDANCE FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126341
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-3: DARK" group-title="ESPAÑA",ESP-3: DARK
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126342
+#EXTINF:-1 tvg-id="HBOXtremeHDLatinAmerica.us" tvg-name="ESP-3: EXTREMADURA" group-title="ESPAÑA",ESP-3: EXTREMADURA
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126343
+#EXTINF:-1 tvg-name="ESP-3: MOVISTAR CINEDOC&ROLL HD" group-title="ESPAÑA",ESP-3: MOVISTAR CINEDOC&ROLL HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126344
+#EXTINF:-1 tvg-id="ComedyCentralSpain.es" tvg-name="ESP-3: COMEDY CENTRAL HD" group-title="ESPAÑA",ESP-3: COMEDY CENTRAL HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126345
+#EXTINF:-1 tvg-id="XTRM.es" tvg-name="ESP-3: XTRM FULLHD" group-title="ESPAÑA",ESP-3: XTRM FULLHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126346
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-3: SOMOS" group-title="ESPAÑA",ESP-3: SOMOS
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126347
+#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="ESP-3: PARAMOUNT CHANNEL" group-title="ESPAÑA",ESP-3: PARAMOUNT CHANNEL
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126348
+#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="ESP-3: A3 CINE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png" group-title="ESPAÑA",ESP-3: A3 CINE SD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/135875
+#EXTINF:-1 tvg-name="ESP-3: MY TIME MOVIES FULLHD" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="ESPAÑA",ESP-3: MY TIME MOVIES FULLHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/162073
 #EXTINF:-1 tvg-name="DAZN F1 SD EXTRA\\" tvg-logo="http://tutv.online:2080/images/576ee8e4e86c52b345a9de8b8c855b08.png" group-title="FORMULA 1",DAZN F1 SD EXTRA\\
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110563
 #EXTINF:-1 tvg-name="DAZN F1 FHD\\" tvg-logo="http://tutv.online:2080/images/576ee8e4e86c52b345a9de8b8c855b08.png" group-title="FORMULA 1",DAZN F1 FHD\\
@@ -49,38 +333,6 @@ http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110564
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110566
 #EXTINF:-1 tvg-name="DAZN F1 FHD EXTRA\\" tvg-logo="http://tutv.online:2080/images/576ee8e4e86c52b345a9de8b8c855b08.png" group-title="FORMULA 1",DAZN F1 FHD EXTRA\\
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/110567
-#EXTINF:-1 tvg-name="CUL | ANIMAL PLANET HD" tvg-logo="http://castlempire.site:8080/images/aae991412079ecdaced1d38f47aa8ff2.png" group-title="Mundo y Cultura ⭐️",CUL | ANIMAL PLANET HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71677
-#EXTINF:-1 tvg-name="CUL | ANIMAL PLANET" tvg-logo="http://castlempire.site:8080/images/aae991412079ecdaced1d38f47aa8ff2.png" group-title="Mundo y Cultura ⭐️",CUL | ANIMAL PLANET
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71678
-#EXTINF:-1 tvg-name="CUL | DISCOVERY CHANNEL" tvg-logo="http://castlempire.site:8080/images/7c7d12fbcb69f196ec77a69a4eb98c06.png" group-title="Mundo y Cultura ⭐️",CUL | DISCOVERY CHANNEL
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71680
-#EXTINF:-1 tvg-name="CUL | DISCOVERY H&H HD" tvg-logo="http://castlempire.site:8080/images/925d58786f53174f313d5514b39785c7.png" group-title="Mundo y Cultura ⭐️",CUL | DISCOVERY H&H HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71681
-#EXTINF:-1 tvg-name="CUL | DISCOVERY H&H" tvg-logo="http://castlempire.site:8080/images/925d58786f53174f313d5514b39785c7.png" group-title="Mundo y Cultura ⭐️",CUL | DISCOVERY H&H
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71682
-#EXTINF:-1 tvg-name="CUL | DISCOVERY SCIENCE HD" tvg-logo="http://castlempire.site:8080/images/e6b927dd4382fa7d1c3777f0118c80ee.png" group-title="Mundo y Cultura ⭐️",CUL | DISCOVERY SCIENCE HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71683
-#EXTINF:-1 tvg-name="CUL | DISCOVERY SCIENCE" tvg-logo="http://castlempire.site:8080/images/e6b927dd4382fa7d1c3777f0118c80ee.png" group-title="Mundo y Cultura ⭐️",CUL | DISCOVERY SCIENCE
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71684
-#EXTINF:-1 tvg-name="CUL | DISCOVERY THEATER HD" tvg-logo="http://castlempire.site:8080/images/39eea37ba3161fb37f7010934c62bde0.png" group-title="Mundo y Cultura ⭐️",CUL | DISCOVERY THEATER HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71685
-#EXTINF:-1 tvg-name="CUL | DISCOVERY THEATER" tvg-logo="http://castlempire.site:8080/images/39eea37ba3161fb37f7010934c62bde0.png" group-title="Mundo y Cultura ⭐️",CUL | DISCOVERY THEATER
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71686
-#EXTINF:-1 tvg-name="CUL | DISCOVERY TURBO HD" tvg-logo="http://castlempire.site:8080/images/c16fc0d14378a500c14fae4069b74807.png" group-title="Mundo y Cultura ⭐️",CUL | DISCOVERY TURBO HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71687
-#EXTINF:-1 tvg-name="CUL | DISCOVERY WORLD HD" tvg-logo="http://castlempire.site:8080/images/fabefbee131472b446ae0feb87026d13.png" group-title="Mundo y Cultura ⭐️",CUL | DISCOVERY WORLD HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71689
-#EXTINF:-1 tvg-name="CUL | DISCOVERY WORLD" tvg-logo="http://castlempire.site:8080/images/fabefbee131472b446ae0feb87026d13.png" group-title="Mundo y Cultura ⭐️",CUL | DISCOVERY WORLD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71690
-#EXTINF:-1 tvg-name="CUL | H2 HD" tvg-logo="http://castlempire.site:8080/images/5677c2d37108e6dbf1266d4f4a61e301.PNG" group-title="Mundo y Cultura ⭐️",CUL | H2 HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71693
-#EXTINF:-1 tvg-name="CUL | H2" tvg-logo="http://castlempire.site:8080/images/5677c2d37108e6dbf1266d4f4a61e301.PNG" group-title="Mundo y Cultura ⭐️",CUL | H2
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71694
-#EXTINF:-1 tvg-name="CUL | HISTORY CHANNEL HD" tvg-logo="http://castlempire.site:8080/images/ded5e060d8dab8d4317c3568834c94cf.png" group-title="Mundo y Cultura ⭐️",CUL | HISTORY CHANNEL HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71695
-#EXTINF:-1 tvg-name="CUL | HISTORY CHANNEL" tvg-logo="http://castlempire.site:8080/images/ded5e060d8dab8d4317c3568834c94cf.png" group-title="Mundo y Cultura ⭐️",CUL | HISTORY CHANNEL
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71696
 #EXTINF:-1 tvg-name="BRASIL | ESPN HD" tvg-logo="http://tutv.online:2080/images/e5201819d3e4187443741d8a4812c22f.png" group-title=" **LA LIGA ESPAÑA**⚽",BRASIL | ESPN HD
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/96831
 #EXTINF:-1 tvg-name="DAZN LALIGA 1 FHD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 1 FHD
@@ -191,8 +443,6 @@ http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71789
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71787
 #EXTINF:-1 tvg-name="DEPORTES | GOL TV ESP" tvg-logo="http://castlempire.site:8080/images/d21cf3f28df92aef3e6585042635d72b.jpg" group-title="DEPORTES HD ⚽",DEPORTES | GOL TV ESP
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71814
-#EXTINF:-1 tvg-name="DEPORTES | GOLF LATINO HD" tvg-logo="http://tutv.online:2080/images/73c4be08b50e7b9e21ce8ab25a6c530a.jpg" group-title="DEPORTES HD ⚽",DEPORTES | GOLF LATINO HD
-http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71809
 #EXTINF:-1 tvg-name="DEPORTES | GOLTV" tvg-logo="http://castlempire.site:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="DEPORTES HD ⚽",DEPORTES | GOLTV
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71864
 #EXTINF:-1 tvg-name="DEPORTES | LA LIGA TV BAR" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.i8TP_Bk5v9.jpg" group-title="DEPORTES HD ⚽",DEPORTES | LA LIGA TV BAR
@@ -247,7 +497,3 @@ http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71863
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/71849
 #EXTINF:-1 tvg-name="DEPORTES | TUDNn" tvg-logo="http://tutv.online:2080/images/7242725f839f02bf6d3dc190077da0c0.jpg" group-title="DEPORTES HD ⚽",DEPORTES | TUDNn
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/122746
-
-
-#EXTINF:-1 tvg-logo="http://turvqpow.xyz:8080/images/55cb3ab23ce87ae15b074abe9e087007.jpg" group-title="PELICULAS",Érase una vez en Euskadi (2021)
-http://yorkshiredog.xyz:8080/movie/Juana/Juana/19614.mkv
