@@ -47,10 +47,6 @@ http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126315
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50414
 #EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES: LA SEXTA" group-title="ESPAÑA",ES: LA SEXTA
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126313
-#EXTINF:-1 tvg-name="ES: COSMO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1280px-Cosmo_TV_logo.svg.png" group-title="ESPAÑA",ES: COSMO HD
-http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126253
-#EXTINF:-1 tvg-name="ES: MOVISTAR 0# FULLHD" group-title="ESPAÑA",ES: MOVISTAR 0# FULLHD
-http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126318
 #EXTINF:-1 tvg-name="ES: MOVISTAR  0#" group-title="ESPAÑA",ES: MOVISTAR  0#
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126317
 #EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="ES: #0 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="ESPAÑA",ES: #0 HD
@@ -69,6 +65,8 @@ http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50369
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50372
 #EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-name="ES: FDF" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/fdf_circular_500_-2_8dd4.png" group-title="ESPAÑA",ES: FDF
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126199
+#EXTINF:-1 tvg-name="ES: COSMO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1280px-Cosmo_TV_logo.svg.png" group-title="ESPAÑA",ES: COSMO HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126253
 #EXTINF:-1 tvg-name="ES:Cosmo HD" group-title="España",ES:Cosmo HD
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50379
 #EXTINF:-1 tvg-name="ES: COSMO HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1200px-Cosmo_TV_logo.svg.png" group-title="ESPAÑA",ES: COSMO HEVC
@@ -279,6 +277,8 @@ http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126219
 http://tutv.online:2080/f3d6c8e2/d6s5x2z3/50411
 #EXTINF:-1 tvg-name="ES: MOVISTAR DCINE‘" group-title="ESPAÑA",ES: MOVISTAR DCINE‘
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126331
+#EXTINF:-1 tvg-name="ES: MOVISTAR ESTRENOS FULLHD" group-title="ESPAÑA",ES: MOVISTAR ESTRENOS FULLHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126318
 #EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ES: MOVISTAR ESTRENOS HD" group-title="ESPAÑA",ES: MOVISTAR ESTRENOS HD
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126319
 #EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ES: MOVISTAR ESTRENOS" group-title="ESPAÑA",ES: MOVISTAR ESTRENOS
