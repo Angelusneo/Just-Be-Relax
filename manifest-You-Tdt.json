@@ -5,7 +5,7 @@
 	"description": "Tv Online",
 	"start_url": "https://You-Tdt.blogspot.com/",
 	"background_color": "#05b49f",
-	"theme_color": "#000000",
+	"theme_color": "#ffffff",
 	"dir": "auto",
     "display": "fullscreen",
     "orientation": "any",
