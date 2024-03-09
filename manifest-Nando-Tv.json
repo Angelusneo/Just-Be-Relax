@@ -4,7 +4,7 @@
 	"lang": "es",
 	"description": "Tv Online",
 	"start_url": "https://nando-tv.blogspot.com/",
-	"background_color": "#05b49f",
+	"background_color": "#000000",
 	"theme_color": "#000000",
 	"dir": "auto",
 	"display": "fullscreen",
