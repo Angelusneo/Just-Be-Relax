@@ -7,7 +7,7 @@
 	"background_color": "#072653",
 	"theme_color": "#ffffff",
 	"dir": "auto",
-    "display": "standalone",
+    "display": "fullscreen",
     "orientation": "any",
     "icons": [
     {
