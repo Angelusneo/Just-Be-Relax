@@ -8,7 +8,7 @@
 	"theme_color": "#000000",
 	"dir": "auto",
 	"display": "fullscreen",
-	"orientation": "any",
+	"orientation": "landscape",
 	"icons": [
 		{
 		  "src": "https://angelusneo.github.io/Just-Be-Relax/android-icon-192x192-relax.png",
