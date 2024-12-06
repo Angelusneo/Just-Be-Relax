@@ -8,7 +8,7 @@
 	"theme_color": "#000000",
 	"dir": "auto",
     "display": "fullscreen",
-    "orientation": "landscape",
+    "orientation": "any",
     "icons": [
     {
       "src": "https://github.com/Angelusneo/Just-Be-Relax/blob/second/android-icon-192x192-You-Tdt.png?raw=true",
