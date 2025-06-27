@@ -5,7 +5,7 @@
 	"description": "Construccion de cerrajeria y estructuras metalicas",
 	"start_url": "https://metalurgica-sendon.blogspot.com/",
 	"background_color": "#000000",
-	"theme_color": "#00afe7",
+	"theme_color": "#000000",
 	"dir": "auto",
 	"display": "standalone",
 	"orientation": "any",
