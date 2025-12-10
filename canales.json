@@ -29,6 +29,13 @@
   },
   {
     "title": "Antena 3",
+    "url": "http://tmptv.sunduk.tv/CH14616/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicmQGrgxRS1ChSlTgRGHcTohJmGRp9FU8JOhvYB4sK3Dc6qWAOkyfTstpTSyRqQjF4o7K8uqM8JCT0-TD8_Fr9u1ZAT1R4y_ek7JJbjxtiXHcS6d7Bq2kjAwmdsU_-sDMO_7RBYjFxr8hybB5NBOOQGp9mYek3CmU98uSbxkTP6JTng6tUBgO0YDAV/s1600/antena-3.png",
+    "category": "Nacional",
+    "disabled": true
+  },
+  {
+    "title": "Antena 3",
     "url": "http://201.174.175.3:8000/play/a0ps/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicmQGrgxRS1ChSlTgRGHcTohJmGRp9FU8JOhvYB4sK3Dc6qWAOkyfTstpTSyRqQjF4o7K8uqM8JCT0-TD8_Fr9u1ZAT1R4y_ek7JJbjxtiXHcS6d7Bq2kjAwmdsU_-sDMO_7RBYjFxr8hybB5NBOOQGp9mYek3CmU98uSbxkTP6JTng6tUBgO0YDAV/s1600/antena-3.png",
     "category": "Nacional",
@@ -42,6 +49,13 @@
     "disabled": false
   },
   {
+    "title": "Cuatro",
+    "url": "http://tmptv.sunduk.tv/CH14631/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMdv0uLbnd1hTI_SoVq6qf3yH8w-8LodF-rsQ8SWJBYIXIR5Cm9UbpNszsTdxAonLb_tNT_5Tq1g9aTkNwlntIu8neoRfEJsY0eL9o2vlXeBZeCDoWI3FS60c9gbr1rjwTR9PKhEpVFLnYJNP3GXdm98cXgYr4yVnybnW4xDVAYQjILR-H1TGzLEp-/s1600/Cuatro.svg.png",
+    "category": "Nacional",
+    "disabled": false
+  },
+  {
     "title": "Telecinco",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX02/smil:220_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzD7Jz-YSOfmgI6PFi2Ui5tweirX5elCFBC0ig8UgyFx-wPGw16nPi6u_PaWE7snAR1qIegcog0ZpzeIQixyDcbyMsz2pQtHs5fbQzS3qwZbdu2Q-tFHx4L0bgTke3b6PpeoVnDikvZTVE6mykuQgtQKV4Qe1XH1L2F2P81UFWytBdox1-eWDyCol6/s1600/cinco.png",
@@ -49,8 +63,22 @@
     "disabled": false
   },
   {
+    "title": "Telecinco",
+    "url": "http://tmptv.sunduk.tv/CH14634/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzD7Jz-YSOfmgI6PFi2Ui5tweirX5elCFBC0ig8UgyFx-wPGw16nPi6u_PaWE7snAR1qIegcog0ZpzeIQixyDcbyMsz2pQtHs5fbQzS3qwZbdu2Q-tFHx4L0bgTke3b6PpeoVnDikvZTVE6mykuQgtQKV4Qe1XH1L2F2P81UFWytBdox1-eWDyCol6/s1600/cinco.png",
+    "category": "Nacional",
+    "disabled": false
+  },
+  {
     "title": "La Sexta",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX/smil:11_premium.smil/manifest.mpd",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWlus8DvSCbyAEuDdyXv5yrifmpVAuDscDBwmbf4ojfrUoEY0HX01e8G7WuuMpjL2lwgGsqwSnCuvpxijbh6oInf_OjnAs1YK-KAYzPpA5GtUTx62yAs7CTVFKcPBhUhZGwWmX6x2ucOPK5SzkOFtaCdl3OCxm9KaHfsIvtTzk5Cu-ENwqiJIlJ4KJ/s1600/LaSexta.png",
+    "category": "Nacional",
+    "disabled": false
+  },
+  {
+    "title": "La Sexta",
+    "url": "http://tmptv.sunduk.tv/CH16112/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWlus8DvSCbyAEuDdyXv5yrifmpVAuDscDBwmbf4ojfrUoEY0HX01e8G7WuuMpjL2lwgGsqwSnCuvpxijbh6oInf_OjnAs1YK-KAYzPpA5GtUTx62yAs7CTVFKcPBhUhZGwWmX6x2ucOPK5SzkOFtaCdl3OCxm9KaHfsIvtTzk5Cu-ENwqiJIlJ4KJ/s1600/LaSexta.png",
     "category": "Nacional",
     "disabled": false
@@ -182,6 +210,13 @@
     "disabled": false
   },
   {
+    "title": "Nova",
+    "url": "http://tmptv.sunduk.tv/CH16247/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzEDbrc1UfymIkmCSr339yppsEtO8XPrcwVQY6KV5BJPpl1Tu1MmzuURcqqNL_EVNj1sPif7ie3FyrVztfD01KGCGvFhVaQ8v88YA8cfn6kJkRxuAHSy4zZ0YFuwUamat3SBwXZ6wDy-Fo3Wis1Mm-KiaA40yGzClAf0LmUFpduwGC8uHB0ovIBats/s1600/nova.png",
+    "category": "Series",
+    "disabled": false
+  },
+  {
     "title": "Star Channel",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge4/smil:248_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv7Gv5JUmqIaPYIu8vhih-L8u03hn8QwprhGUEoIKbzGoEgeYJI2OzZhDPDGDkbVDyClc67x3cpihOh8CDu9hehPvHCJ_ORrYge1F6lur_vSay1H_pwiXZh18IhTtJ8QILMAFFsrtxKqcXLGWUDg-vnhM28YGWFyIGp-yElRUtXPMOfVZjLbAKftFW/s1600/Star_Channel.png",
@@ -238,6 +273,13 @@
     "disabled": false
   },
   {
+    "title": "Calle 13",
+    "url": "http://tmptv.sunduk.tv/CH16217/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRQ3TTL_VFt57HCgdm5ALD19_lwSysVJYjvWC1IqwVA_KJN1qH5mfzD6KqwTWqbbt1ySODIS77h1GL-2hfiwnDksQcasnECg86HSZwDSJQUcVRDXZppj-v_1iKueOVR5gOpbuxKM_jUlYXyFmpsx5wJbeFBEpF663c9HDlzzgJLCC4k_-KMJP6_RzW/s1600/calle3.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
     "title": "Paramount Network",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX02/smil:22_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Udkq48y3_B4WHq9j_Hy9YIJfpUfGh6R5uUMzczJO3Zau4ej4RI__BymqzO6EeQMTBF_sU30gxDDaIC_e0H75xx3vywVjlPNfeies7RVcPT0aTuD9TwbRBTNswFlYgCNheh6CqFswN_EUMQlsYTU-vlih3maSKVs1zoaXaHFMD4yH2QJDucAtEgAo/s1600/Paramount.png",
@@ -247,6 +289,13 @@
   {
     "title": "Paramount Network",
     "url": "https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Udkq48y3_B4WHq9j_Hy9YIJfpUfGh6R5uUMzczJO3Zau4ej4RI__BymqzO6EeQMTBF_sU30gxDDaIC_e0H75xx3vywVjlPNfeies7RVcPT0aTuD9TwbRBTNswFlYgCNheh6CqFswN_EUMQlsYTU-vlih3maSKVs1zoaXaHFMD4yH2QJDucAtEgAo/s1600/Paramount.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "Paramount Network",
+    "url": "http://tmptv.sunduk.tv/CH14622/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Udkq48y3_B4WHq9j_Hy9YIJfpUfGh6R5uUMzczJO3Zau4ej4RI__BymqzO6EeQMTBF_sU30gxDDaIC_e0H75xx3vywVjlPNfeies7RVcPT0aTuD9TwbRBTNswFlYgCNheh6CqFswN_EUMQlsYTU-vlih3maSKVs1zoaXaHFMD4yH2QJDucAtEgAo/s1600/Paramount.png",
     "category": "Cine",
     "disabled": false
@@ -360,6 +409,13 @@
     "title": "SOMOS",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge4/smil:104_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDKLU4p3qy6lK8Jzp3uuNf_xRfeqXrZ1Vl8pnhHpaSORf994ehUn1cR_mHzYMBSN3yN4PzmmjaNElrAtcZIPSOY9c8FwlZgCN8I-fu0ZrtgiPwuhYAxJm0bo527P0S2BRmI30qAQzZLAubUL_C295NxSe1ofgiBrHg8gCeg2nhPAjLK-tbgmJqEr1a/s1600/Somos.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "M+ Drama",
+    "url": "http://tmptv.sunduk.tv/CH16497/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMadsr6dYJdIz5vnV4BWzKfT8tlNDBmUuSqup-ZJ5f_EJtU4nEwtwI8ujNfspMNC5SDNd8HDjC0UzjwuYIJjTKoPTIXeb3nIhWvTJD94O0GZki8fuEnStmcYqnkmfgofPbI4-sPF_utCojQiDQR4pX0EAqTYZWkH92L9DWv0VtklbC2ajYSeUE4pBE/s1600/Drama_por_M.png",
     "category": "Cine",
     "disabled": false
   },
@@ -1744,7 +1800,7 @@
   },
   {
     "title": "Disney Jr",
-    "url": "http://104.238.205.28:8989/278542_.m3u8",
+    "url": "http://tmptv.sunduk.tv/CH16265/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP-KicQWTZzfll66LsnRPXWPmecmCu1vfUXeVnM2QSmy4HcF-eQfdOlqlIXFNKgoqCdvYiA3w6GWjtI5UQw2RJVNCnsblhv3ivBS82KAM4d2iRRQK1VgUCwbzum2HIQBTNaQlTi1WaGj15cc093V8JNgz5u-cZF4Lk2Erk-3GFaMP7cMOT8kZ9V7hv/s1600/Disney-Junior-Emblem.png",
     "category": "Animación",
     "disabled": false
@@ -1765,7 +1821,7 @@
   },
   {
     "title": "Nickelodeon",
-    "url": "http://104.238.205.28:8989/278544_.m3u8",
+    "url": "http://tmptv.sunduk.tv/CH16283/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXKGyE0N38QGedvhdJkzDS9WtItYFx6J_4mlbS1KWG1x4c3M9RwTYUVC2d2A4Jl13H1hCYvHWmmpJPoNnsHtKbq5nQlAU2Lq_7gP9pqPV4lzoRy_f2xWvkRYa2pulj-iEK3OUbP9tzZr3cDbLxrNwOdRRgv5xanvqfWUt9a4NfYjcIT7Rt-NvzJt6F/s1600/Nickelodeon.png",
     "category": "Animación",
     "disabled": false
@@ -1779,7 +1835,7 @@
   },
   {
     "title": "Nick Jr",
-    "url": "http://104.238.205.28:8989/278546_.m3u8",
+    "url": "http://tmptv.sunduk.tv/CH16325/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxikJMbecG5uTb23OYlA40QpnZMjgXL-FD5nxACF8CK6R1mWjomDZQ-MhHE6byqv_zWJg1I_fn2KMTZjS_sWzFUSsS5VlckePCs7C91tdOJBrk0qglR4EWf_gF4FBsdLUzRH5vbxrQwQ1jcoHMtUCei-r0R75dwnojA7EyW3UD0g11H9tCljyzKn45/s1600/NickJr.png",
     "category": "Animación",
     "disabled": false
@@ -1871,6 +1927,13 @@
   {
     "title": "Boing",
     "url": "http://tmptv.sunduk.tv/CH10651/index.m3u8",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Boing_Logo.svg/1200px-Boing_Logo.svg.png",
+    "category": "Animación",
+    "disabled": false
+  },
+  {
+    "title": "Boing",
+    "url": "http://tmptv.sunduk.tv/CH16262/index.m3u8",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Boing_Logo.svg/1200px-Boing_Logo.svg.png",
     "category": "Animación",
     "disabled": false
@@ -2450,6 +2513,13 @@
     "disabled": false
   },
   {
+    "title": "Caza y Pesca",
+    "url": "http://tmptv.sunduk.tv/CH16229/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Xbw8jMXa1bWk-gKtatSIeleD_XDjsSfSBLUYddhyxUx0Lum-yZAEXGJRAR8BS_wa1CVUAUWel63YQ_KlqhF37AQz2VW5jnvgOK2UVK7emujGKaYbrmmoGw8N_2GZqZrX_aHKYqUvEERoUw8N3xo_I4HUaw91_oM01DVG5GdLfpQocApK2g8BU9sC/s1600/Caza-pesca.png",
+    "category": "Entretenimiento",
+    "disabled": false
+  },
+  {
     "title": "Iberalia GO 100% Pesca",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge3/smil:36_premium.smil/playlist.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMIiGvrf5ux4LWxCjySPWzxXXhUSzDFSe7qG-zcmEJSN4_6wbvpUx21bhyphenhyphenyWAnjqflhDqT9gyY_y1jSSvI8C5TaVr0vxIMgX_h9WLVsHqi2VP_D71OSaiEB_5CJAogoMIfiJ_xqdruH52KeTSUV-2wiRSwOh-9PyUKtD2iqDWJ-5NGxcS0WlERoP0J/s1600/Iberalia%20pesca.png",
@@ -2564,6 +2634,13 @@
   {
     "title": "MTV",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge/smil:256_premium.smil/manifest.mpd",
+    "thumbnailUrl": "https://cdn.prod.website-files.com/6521ae7cdcc164cb31192e2c/6521ba4124a3bd0b7e56eb23_brand-logo-mtv-white.png",
+    "category": "Entretenimiento",
+    "disabled": false
+  },
+  {
+    "title": "MTV",
+    "url": "http://tmptv.sunduk.tv/CH16268/index.m3u8",
     "thumbnailUrl": "https://cdn.prod.website-files.com/6521ae7cdcc164cb31192e2c/6521ba4124a3bd0b7e56eb23_brand-logo-mtv-white.png",
     "category": "Entretenimiento",
     "disabled": false
@@ -3080,20 +3157,6 @@
     "disabled": false
   },
   {
-    "title": "DAZN 1",
-    "url": "http://tmptv.sunduk.tv/CH2401/index.m3u8",
-    "thumbnailUrl": "https://jungle-team.com/wp-content/uploads/2021/01/dazn1.png",
-    "category": "Deportes",
-    "disabled": false
-  },
-  {
-    "title": "DAZN 2",
-    "url": "http://tmptv.sunduk.tv/CH2403/index.m3u8",
-    "thumbnailUrl": "https://jungle-team.com/wp-content/uploads/2021/01/dazn2.png",
-    "category": "Deportes",
-    "disabled": false
-  },
-  {
     "title": "VIX TUDN",
     "url": "http://104.238.205.28:8989/278570_.m3u8",
     "thumbnailUrl": "https://directostv.teleame.com/wp-content/uploads/2022/09/TUDN-Me%CC%81xico-en-vivo-Online.png",
@@ -3136,6 +3199,55 @@
     "disabled": false
   },
   {
+    "title": "DAZN 1",
+    "url": "http://tmptv.sunduk.tv/CH15920/index.m3u8",
+    "thumbnailUrl": "https://jungle-team.com/wp-content/uploads/2021/01/dazn1.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "DAZN 2",
+    "url": "http://tmptv.sunduk.tv/CH15923/index.m3u8",
+    "thumbnailUrl": "https://jungle-team.com/wp-content/uploads/2021/01/dazn2.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "DAZN 3",
+    "url": "http://tmptv.sunduk.tv/CH16458/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1y8fMDX_94DhlJmt8OVt2s9tEevLteXCjK4S8wy8bsLVHUPaMa8lMW8lNxSjll_x059H5sgKRfvEVqQLkIVMN0fgJJ9Zj86LjnOYDtINB1NurdTe1Zq-Bi31rpL2P0invIq1KG_dppgOH84mCpSommLdgNPNDzJ7SDyDyBdWr1mr8viNQ9ooa8C64/s1600/DAZN_3.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "DAZN 4",
+    "url": "http://tmptv.sunduk.tv/CH16443/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-iSW1MMXapcj88tJLRH7fdNj9LBzJzUev0f-jUErjOQTNS9eE_JYaPoUo8hiByhBZqCaKL-cttt97BY16SsvGuTu0QlIsPPU52JC8kV80DF8D3-KDT378hC-b7CeY-2qJKLLv62pnuKp59oIXULYto47LG-AFBnDPVb5namcYIfI2KQjIWcb02Woq/s1600/Dazn%204.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "DAZN 4",
+    "url": "http://tmptv.sunduk.tv/CH16461/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-iSW1MMXapcj88tJLRH7fdNj9LBzJzUev0f-jUErjOQTNS9eE_JYaPoUo8hiByhBZqCaKL-cttt97BY16SsvGuTu0QlIsPPU52JC8kV80DF8D3-KDT378hC-b7CeY-2qJKLLv62pnuKp59oIXULYto47LG-AFBnDPVb5namcYIfI2KQjIWcb02Woq/s1600/Dazn%204.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "DAZN 4/2",
+    "url": "http://tmptv.sunduk.tv/CH16343/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyfPuWyYDlIUTZQZOCgtu2O8uB5eWAUFg8NkIDx0DjAxkGQSPBwOuWFPCMWU7uV5VKG2qgTQHJlyO7XwAX5jkQH6mSPK_2Hb-9CAaUE16pVcpKqraC5lPWujEicac2J3m4NGqUV5DltDszcZfUA5Kzne4N9Iu0_QKP88nACC6Jbsz966_lDJAeog0M/s1600/Dazn%204_2.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "DAZN F1",
+    "url": "http://tmptv.sunduk.tv/CH16163/index.m3u8",
+    "thumbnailUrl": "https://jungle-team.com/wp-content/uploads/2021/02/daznformula.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
     "title": "LaLiga Inside",
     "url": "https://daiconnect.com/live/hls/tvup/rk-ligainside/.m3u8",
     "thumbnailUrl": "https://contenidostv.b-cdn.net/images/spsimpleportfolio/laligasportstv/RbaHlAFO9I_UYt6dd0ZzgI65cc_icloN_400x200.png",
@@ -3150,9 +3262,30 @@
     "disabled": false
   },
   {
+    "title": "4 LaLiga ",
+    "url": "http://tmptv.sunduk.tv/CH16334/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwsv8mWemZt-kvWHSdD1ueuxfWwg-2dVlEohK4UWf0BQtrQY4IOw4WRI0VqLEYPxx2yE5eOd16EzUh3GTjY5v66tYtnI3GrJog4Qp-OVj8Haj1Ez8jq_MdV-Ico4iNAQN7F72a2Tlf-5Vscx0Rx6l6VBbjCHUABckFwB5Gf22TJ044ISXG-YmKqoxl/s1600/LaLiga-Logo.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
     "title": "M+ LaLiga ",
     "url": "http://tmptv.sunduk.tv/CH2143/index.m3u8",
     "thumbnailUrl": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/09/1_0_19_750F_420_1_C00000_0_0_0.png?resize=440%2C264&ssl=1",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "M+ LaLiga 2 ",
+    "url": "http://tmptv.sunduk.tv/CH16340/index.m3u8",
+    "thumbnailUrl": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/09/1_0_1_769D_41E_1_C00000_0_0_0.png?resize=440%2C264&ssl=1",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "M+ LaLiga 3 ",
+    "url": "http://tmptv.sunduk.tv/CH16449/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy5tP9QnUTQf4AnDnwUKUWHBbqYxsTtXPJhWKtGsFtY-Jgv72WChLqhr5_1rncnrtUYKvE3IFtewqxUwA5gLEcHas5cB77CxLyuQz5YGiH2eKjuVf68E6gFZg0JfPXb_wWd2Rk-2oMlergOjfySGbSrZEC-RBjNV9dtbaOsf8zH0Pct0T8lSFIw69G/s1600/LaLiga_TV_3.png",
     "category": "Deportes",
     "disabled": false
   },
@@ -3171,9 +3304,86 @@
     "disabled": false
   },
   {
+    "title": "Liga De Campeones ",
+    "url": "http://tmptv.sunduk.tv/CH16271/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAPG4D04EowF8CuE_TqJJi8O-dQZOdcIKwxcrj-WYEM4HgWL8w7EaV0Qi9qJtH0YdhVKdIGr2jtMJw9iI2b7dAU2Q7wWvAveMJfj3GdsmKq2zSEe7uW8IbjplkKQnI1AbrnJmHjwx8zmV7XkMnScSshV74BbOL8aMZf5_F4sUkDzp5Q1yIzDf0Ihhv/s1600/LigadeCampeones.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "Liga De Campeones 2 ",
+    "url": "http://tmptv.sunduk.tv/CH16455/index.m3u8",
+    "thumbnailUrl": "https://r2.thesportsdb.com/images/media/channel/logo/mngo1u1726843207.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "Liga De Campeones 4 ",
+    "url": "http://tmptv.sunduk.tv/CH16473/index.m3u8",
+    "thumbnailUrl": "https://r2.thesportsdb.com/images/media/channel/logo/s4w9nw1726843104.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
     "title": "Laliga Tv Hiipermotion",
     "url": "http://tmptv.sunduk.tv/CH8037/index.m3u8",
     "thumbnailUrl": "https://camisfutbol.es/cdn/shop/collections/Logo-HYPERMOTION_225e03d0-6ef5-4d64-b75a-ac58f4676ed4.png?v=1752160233&width=750",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "Laliga Tv Hiipermotion 3",
+    "url": "http://tmptv.sunduk.tv/CH16476/index.m3u8",
+    "thumbnailUrl": "https://camisfutbol.es/cdn/shop/collections/Logo-HYPERMOTION_225e03d0-6ef5-4d64-b75a-ac58f4676ed4.png?v=1752160233&width=750",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "M+ Deportes",
+    "url": "http://tmptv.sunduk.tv/CH15905/index.m3u8",
+    "thumbnailUrl": "https://r2.thesportsdb.com/images/media/channel/logo/jw11fx1654941293.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "M+ Deportes 2",
+    "url": "http://tmptv.sunduk.tv/CH16166/index.m3u8",
+    "thumbnailUrl": "https://r2.thesportsdb.com/images/media/channel/logo/20mkzl1748079058.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "M+ Deportes 3",
+    "url": "http://tmptv.sunduk.tv/CH16316/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlGJbSP9P5Qna7vd090brroSOillUzfDBobbJTMilRPrFrbWrgycc3KlygLsWqnfstybrkkWp5gfDaCuDUcE1uYMQOU9jey3uWg0NUUYWu5qkFxPv7BAksgy0L0tHebE8DcsFJ_qEzLGO-iYmyd_Sf-y5a-grdA73pgIGEzDbOAy9OYG-oLBt25cU9/s1600/deportes%203.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "M+ Deportes 4",
+    "url": "http://tmptv.sunduk.tv/CH16319/index.m3u8",
+    "thumbnailUrl": "https://r2.thesportsdb.com/images/media/channel/logo/wjvw2u1729330996.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "M+ Deportes 5",
+    "url": "http://tmptv.sunduk.tv/CH16322/index.m3u8",
+    "thumbnailUrl": "https://www.thesportsdb.com/images/media/channel/logo/9r0g0s1764785679.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "M+ Golf",
+    "url": "http://tmptv.sunduk.tv/CH16277/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMZpWA1VAJdHyW8so0tIixPRbFiD-YIvZhXsKhy_gMrikAHj8qYd7_2tO4RmTYMnoEdpj9A0opGK-MV3m3EHXzHU0WQ-vc6RCER_AJwKghPy-xA2nh4yiPeXFfY73JRHrtXNVfIoW7b3u6-2rNXkKQtjnS7SIbxT7UG0fOJZCjELAbEBgyrAqX0eZj/s1600/Golf.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "M+ Vamos",
+    "url": "http://tmptv.sunduk.tv/CH16501/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIxepbxStMzN955nqFIadQqlxqAtP8D369OphQdFsAbOClJ6tyxc3HgQXCuaFqRR59oQdyPXVX_cfPxpn4DCjXlLYdX2v1wQNFAHClBvR84TaHjapCAo1F2CTyNmLe55szHw804nOJG6PNHfCJ1s-uzWkUJHK56J-hqAgfQOCltlYCXOBPIoXuCE6M/s1600/Vamos_por_M.png",
     "category": "Deportes",
     "disabled": false
   },
