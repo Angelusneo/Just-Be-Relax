@@ -22,10 +22,10 @@
   },
   {
     "title": "Antena 3",
-    "url": "http://189.50.210.3:8008/play/a06s/index.m3u8",
+    "url": "http://tmptv.sunduk.tv/CH10567/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicmQGrgxRS1ChSlTgRGHcTohJmGRp9FU8JOhvYB4sK3Dc6qWAOkyfTstpTSyRqQjF4o7K8uqM8JCT0-TD8_Fr9u1ZAT1R4y_ek7JJbjxtiXHcS6d7Bq2kjAwmdsU_-sDMO_7RBYjFxr8hybB5NBOOQGp9mYek3CmU98uSbxkTP6JTng6tUBgO0YDAV/s1600/antena-3.png",
     "category": "Nacional",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Antena 3",
@@ -247,13 +247,6 @@
   {
     "title": "Paramount Network",
     "url": "https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Udkq48y3_B4WHq9j_Hy9YIJfpUfGh6R5uUMzczJO3Zau4ej4RI__BymqzO6EeQMTBF_sU30gxDDaIC_e0H75xx3vywVjlPNfeies7RVcPT0aTuD9TwbRBTNswFlYgCNheh6CqFswN_EUMQlsYTU-vlih3maSKVs1zoaXaHFMD4yH2QJDucAtEgAo/s1600/Paramount.png",
-    "category": "Cine",
-    "disabled": false
-  },
-  {
-    "title": "Paramount Network",
-    "url": "http://45.232.176.17:8000/play/a01r",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Udkq48y3_B4WHq9j_Hy9YIJfpUfGh6R5uUMzczJO3Zau4ej4RI__BymqzO6EeQMTBF_sU30gxDDaIC_e0H75xx3vywVjlPNfeies7RVcPT0aTuD9TwbRBTNswFlYgCNheh6CqFswN_EUMQlsYTU-vlih3maSKVs1zoaXaHFMD4yH2QJDucAtEgAo/s1600/Paramount.png",
     "category": "Cine",
     "disabled": false
@@ -794,6 +787,13 @@
     "title": "Andromeda",
     "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-656236cc5dbccec83a87b647.m3u8",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/RoddenberrysAndromeda.svg/1200px-RoddenberrysAndromeda.svg.png",
+    "category": "Series",
+    "disabled": false
+  },
+  {
+    "title": "Cheers",
+    "url": "https://jmp2.uk/plu-68f103545c876cf7307b4e37.m3u8",
+    "thumbnailUrl": "https://images.pluto.tv/channels/68f103545c876cf7307b4e37/colorLogoPNG.png",
     "category": "Series",
     "disabled": false
   },
@@ -1867,6 +1867,13 @@
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Boing_Logo.svg/1200px-Boing_Logo.svg.png",
     "category": "Animación",
     "disabled": true
+  },
+  {
+    "title": "Boing",
+    "url": "http://tmptv.sunduk.tv/CH10651/index.m3u8",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Boing_Logo.svg/1200px-Boing_Logo.svg.png",
+    "category": "Animación",
+    "disabled": false
   },
   {
     "title": "Toon Goggles ",
@@ -3164,6 +3171,13 @@
     "disabled": false
   },
   {
+    "title": "Laliga Tv Hiipermotion",
+    "url": "http://tmptv.sunduk.tv/CH8037/index.m3u8",
+    "thumbnailUrl": "https://camisfutbol.es/cdn/shop/collections/Logo-HYPERMOTION_225e03d0-6ef5-4d64-b75a-ac58f4676ed4.png?v=1752160233&width=750",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
     "title": "Sky Sports F1",
     "url": "http://tmptv.sunduk.tv/CH5539/index.m3u8",
     "thumbnailUrl": "https://tvprofil.com/img/kanali-logo/Sky_Sports_F1_GB_logo.png?1734014987",
@@ -3202,6 +3216,13 @@
     "title": "Sky Sports Bundesliga",
     "url": "http://190.92.10.66:4000/play/a006/index.m3u8",
     "thumbnailUrl": "https://r2.thesportsdb.com/images/media/channel/logo/Sky_Bundesliga_1.png",
+    "category": "Deportes",
+    "disabled": true
+  },
+  {
+    "title": "Sky Sports Darts",
+    "url": "http://tmptv.sunduk.tv/CH8485/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLae7F_0McF9qdM0wHM9eXhbsPK9ckl-UZ3J8O0gQYbVRf1NlnZ-dVf6IexVVzGzXQhHHqcfpTjxVj9WllWiCoiH_iDdRbeHXuiaz69nypb7NQhjWTlnwkcfI_uUKUn96S7o3bz3lonNlKpeG38jsaFo_bzZW1g63PHYu_M8iL62vL2VV5tn3pjXlS/s1600/channels4_profile.png",
     "category": "Deportes",
     "disabled": true
   },
@@ -3488,6 +3509,13 @@
   {
     "title": "Now 80s",
     "url": "https://daiconnect.com/live/hls/tvup/tvfy-now80s/.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDWlvF7iUpCvp4rvRBO_naSClSdfOYon6I0cF8KTJjDg_jLR-xJb7iHsxVpd0tcfWFP-RjSuRRRjRmLGjxNDvDaGS7Y4h7doJ4sbbH1_lz3WQmnhwpFgKCRXLhkgP9AwLfk4zh-gF4KtITsoz6LRIhNFu7nOHazluGUreOPtfw4oT9ihP86U3_hgY-/s1600/80.png",
+    "category": "Música",
+    "disabled": false
+  },
+  {
+    "title": "Now 80s",
+    "url": "http://tmptv.sunduk.tv/CH8195/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDWlvF7iUpCvp4rvRBO_naSClSdfOYon6I0cF8KTJjDg_jLR-xJb7iHsxVpd0tcfWFP-RjSuRRRjRmLGjxNDvDaGS7Y4h7doJ4sbbH1_lz3WQmnhwpFgKCRXLhkgP9AwLfk4zh-gF4KtITsoz6LRIhNFu7nOHazluGUreOPtfw4oT9ihP86U3_hgY-/s1600/80.png",
     "category": "Música",
     "disabled": false
