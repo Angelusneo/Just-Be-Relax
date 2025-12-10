@@ -3080,6 +3080,20 @@
     "disabled": false
   },
   {
+    "title": "DAZN 1",
+    "url": "http://tmptv.sunduk.tv/CH2401/index.m3u8",
+    "thumbnailUrl": "https://jungle-team.com/wp-content/uploads/2021/01/dazn1.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "DAZN 2",
+    "url": "http://tmptv.sunduk.tv/CH2403/index.m3u8",
+    "thumbnailUrl": "https://jungle-team.com/wp-content/uploads/2021/01/dazn2.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
     "title": "VIX TUDN",
     "url": "http://104.238.205.28:8989/278570_.m3u8",
     "thumbnailUrl": "https://directostv.teleame.com/wp-content/uploads/2022/09/TUDN-Me%CC%81xico-en-vivo-Online.png",
