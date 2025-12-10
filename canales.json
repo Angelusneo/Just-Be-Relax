@@ -2835,16 +2835,9 @@
     "disabled": false
   },
   {
-    "title": "Canal QuicKie",
-    "url": "https://daiconnect.com/live/hls/tvup/tivify-canalquickie/index.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqq0vKmRkdekpvJ3FwxdmnUgVgNpWoDxsgcvtdwst9dU_HfxxbKDEWDhYGWBMfBVhQpEc350IDIIrofYJB8rkMzkYu-9HdwSvW9MYx8kuwjOIhm1gJa-38p_6ck-QpBR1HQ28cUr1Sg4mO5IdlC1P-MaY_dywP7Z_N-HPGBlgUohDvNYqITdsij2PS/s1600/Quikie.png",
-    "category": "Entretenimiento",
-    "disabled": true
-  },
-  {
-    "title": "Clipset",
-    "url": "https://daiconnect.com/live/hls/tvup/tvfy-tjl/.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3PJfAauxQ2LpHmN7u2u9oFXNRDc275GZNHIdQIPqqoX0PZ9Bf2JPy2zuEK_yhK1L36JWLiB0JbbRnJ6o0nV7gBN_ipupUJKsByKNGmDs2vj8F0FtuGPBoZd1Tba3URJroZ4eblF8-txgTm8O3XT425vgmxUgzi_2NdTgT2RaWJ65N98oaBpqSR6H8/s1600/clipset.gif",
+    "title": "Quadro",
+    "url": "http://tmptv.sunduk.tv/CH3111/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeHI_H3Hnhx0PXutrWEA7jvNO5lLYZYNhFefCXyjhuvxqo1SCedf-BkJKCb6ZauVkqC0Rdkk8LK-BptRGz-B1uC8rRYOTrbULgGAX_lSp32NgAge13xQ2OaEx99JlunnwQnrs2G2f0ZLm-ff3HHPUK6VIxQKfnWfRkHnFKOeEHUAAQ_n1ANH2c6e64/s1600/Quadro.png",
     "category": "Entretenimiento",
     "disabled": true
   },
@@ -3171,6 +3164,13 @@
     "disabled": false
   },
   {
+    "title": "Sky Sports F1",
+    "url": "http://tmptv.sunduk.tv/CH5539/index.m3u8",
+    "thumbnailUrl": "https://tvprofil.com/img/kanali-logo/Sky_Sports_F1_GB_logo.png?1734014987",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
     "title": "Sky Sports LaLiga ",
     "url": "http://190.92.10.66:4000/play/a001/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwprkIshq4lJPZefJiCtzeb9qXsHAr5NugHKVfv_e61IMsQx9zSto4N0TJem4amgkqCYHEUEFi3Y-LR9izyMPdtGaxuFz8ocGEUR635c1sHOq93n9ezm2J8f70lSuzlJ7Pav7XLnCT4GMmLrjp8bRkhwylI2zKcu_qPczvhmBzTaflAiNroU9AnvY8/s1600/sky-sports.png",
@@ -3402,6 +3402,13 @@
     "disabled": false
   },
   {
+    "title": "MTV Live",
+    "url": "http://tmptv.sunduk.tv/CH241/index.m3u8",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Mtv_live_2021_wide.png/640px-Mtv_live_2021_wide.png",
+    "category": "Música",
+    "disabled": false
+  },
+  {
     "title": "MTV 90s",
     "url": "http://tmptv.sunduk.tv/CH377/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCom6G2hMQRAQ98-A69e-eALj12Zq5FRtb3kaneTFsJFguf6T7XKF7NugP4iAPkmMYZyDc8YO-idAL3lWNxDOfGmOyrhenuM4JSPHBPBWzOHEf4VfBGz01FOb0LeBtuIaJgFGzGLcrm4Nu2XGa47NBqUKTs1mQU5GZHSvvGEG7Hwd_yM1ZUxJt4o9-/s1600/mtv-90s.png",
@@ -3417,7 +3424,7 @@
   },
   {
     "title": "MTV 00s",
-    "url": "http://104.238.205.28:8989/278607_.m3u8",
+    "url": "http://tmptv.sunduk.tv/CH431/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglypPV-vbuFDOCkJmj4vohk4iF_c4-u9aHlzMESOW-r2D_FQZQV0yxVc5mbAPlDi6Ppmu0kc5R7QIrgH27hlMh063nQztO32MhOYIpidJY3vLg-9WO-DcaQFQqUIqPlE4cCNf9njQ9T8Xt1bjsoC-PBhqh0qOnxxvvMulZDZpZyQIFRbn5pJKbNavR/s1600/MTV_00s.png",
     "category": "Música",
     "disabled": false
@@ -3823,8 +3830,22 @@
   },
   {
     "title": "Erox Hd",
-    "url": "http://tmptv.sunduk.tv/CH1193/index.m3u8",
+    "url": "http://tmptv.sunduk.tv/CH4537/index.m3u8",
     "thumbnailUrl": "https://mplay.es/images/eroxHD-512.png",
+    "category": "Adulto+18",
+    "disabled": false
+  },
+  {
+    "title": "Erox Hd",
+    "url": "http://tmptv.sunduk.tv/CH4537/index.m3u8",
+    "thumbnailUrl": "https://mplay.es/images/eroxHD-512.png",
+    "category": "Adulto+18",
+    "disabled": false
+  },
+  {
+    "title": "Penthouse",
+    "url": "http://tmptv.sunduk.tv/CH3517/index.m3u8",
+    "thumbnailUrl": "https://www.filmi-bg.fun/upload/Penthouse%20Gold.png",
     "category": "Adulto+18",
     "disabled": false
   },
