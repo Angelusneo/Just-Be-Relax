@@ -515,7 +515,8 @@
     "url": "http://tmptv.sunduk.tv/CH17807/index.m3u8",
     "thumbnailUrl": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/10/terror2.png?resize=440%2C264&ssl=1",
     "category": "Cine",
-    "
+    "disabled": false
+  },  
   {
     "title": "M+ Clásicos",
     "url": "http://tmptv.sunduk.tv/CH16843/index.m3u8",
