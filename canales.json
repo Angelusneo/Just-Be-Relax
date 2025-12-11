@@ -385,6 +385,20 @@
     "disabled": false
   },
   {
+    "title": "HBO max",
+    "url": "http://tmptv.sunduk.tv/CH17822/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-yOvB6Gxbz19lDWcLdbkFTc6uTbA1bGeBgOuQGRSqtdufSy4poJMCiUS0Ac0K5nnzvok9WZvMaQnRpn6156-mZRUYSzYnS-1oxavKRJBSlPKxEPqb6Z6jfzovzISsLlIZHFLcwkfaoQjZGXwT4zHD897TV23CFkif-nRpQvd-mT5_95FxAV9SBd07/s1600/hbo.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "Sky Showtime 1",
+    "url": "http://tmptv.sunduk.tv/CH17825/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrivLanNc5DJO02sQGFFYA0sWZ4lUJI1he8oZqtWXb38PL38lE8rDcKRveu9rUgm7-ZLRCRsGy8o35NdRjuaJZiYxq4OpIpOCH4KQLahHaoIJ6ll0ojagUMveKhiuGE-LPEY_QEV5QD1I6ay2pO5Im0zbUuoRJkNvdPKD0MVoyQLWN1KGxSDjZ_3em/s1600/skyshowtime_1.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
     "title": "Squirrel",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX04/smil:21_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj81iP1gkHcyCbtrjg3XM5z9knw7vMd07qrC6iUdaVpeH3jTmb136lWyYkkrGrVILW500TSg_vquIPeXMQgMwjKi8way4ni5os2NGwS344osFw12K7r5a0a_hAdp3zPZYdroFrMUzxIbrUelmNgIA0EbKOGO3lHtmzsyMcGS8Dg-zGKDpKor8oIpVg5oF_/s1600/squirrel.png",
@@ -528,20 +542,6 @@
     "title": "M+ Vacaciones",
     "url": "http://tmptv.sunduk.tv/CH16845/index.m3u8",
     "thumbnailUrl": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/11/1_0_1_749D_41C_1_C00000_0_0_0.png?resize=440%2C264&ssl=1",
-    "category": "Cine",
-    "disabled": false
-  },
-  {
-    "title": "HBO max",
-    "url": "http://tmptv.sunduk.tv/CH17822/index.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-yOvB6Gxbz19lDWcLdbkFTc6uTbA1bGeBgOuQGRSqtdufSy4poJMCiUS0Ac0K5nnzvok9WZvMaQnRpn6156-mZRUYSzYnS-1oxavKRJBSlPKxEPqb6Z6jfzovzISsLlIZHFLcwkfaoQjZGXwT4zHD897TV23CFkif-nRpQvd-mT5_95FxAV9SBd07/s1600/hbo.png",
-    "category": "Cine",
-    "disabled": false
-  },
-  {
-    "title": "Sky Showtime 1",
-    "url": "http://tmptv.sunduk.tv/CH17825/index.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrivLanNc5DJO02sQGFFYA0sWZ4lUJI1he8oZqtWXb38PL38lE8rDcKRveu9rUgm7-ZLRCRsGy8o35NdRjuaJZiYxq4OpIpOCH4KQLahHaoIJ6ll0ojagUMveKhiuGE-LPEY_QEV5QD1I6ay2pO5Im0zbUuoRJkNvdPKD0MVoyQLWN1KGxSDjZ_3em/s1600/skyshowtime_1.png",
     "category": "Cine",
     "disabled": false
   },
