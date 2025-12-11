@@ -3210,7 +3210,7 @@
     "url": "http://38.44.109.41:8003/play/a02l/index.m3u8",
     "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/650b9f1580967255d8051838/74cad407-9837-44e7-b9d9-c252e79bb966/tyclog.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Fox Sports",
@@ -3231,7 +3231,7 @@
     "url": "http://104.238.205.28:8989/278267_.m3u8",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "ESPN Premium",
@@ -3245,63 +3245,63 @@
     "url": "http://104.238.205.28:8989/278762_.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdg1qxp3EN3RYE3_C8JKSOVHwZuvdnVaiCI9FHrj_MQJQs0T7ivJvxjP3InVSWS2UmzT_Xr9ovRuvp2lBkS7wYhEv3CYKSTteAyd4d4wy4CCkuKtDykFXzHOd-ICz3ok6qjdnt_S7AFMOZp4vXTMpX0y9Vz4P12WUIc8PvoVMCbNkjmH3eTedPbTwx/s1600/ESPN2_logo.svg.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "ESPN 3",
     "url": "http://104.238.205.28:8989/278763_.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_luhhdNmHjJaWkd2ndWm5wwCpD9sujJKvwcogWuOm1pCk_63zqBZP1R___jSX-dKBZ6p-Eb6NeeTNIdu-eb9_f8XYGdUcG9ae47DGV3Ie1UMOwfm5abzY4TFvXlK4gOLZrGveL1jGIun2JYfnLbwWOImj0bnehzp5IkdgkJfEEmaxm8GllWbHV_is/s1600/ESPN_3.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "ESPN 4",
     "url": "http://104.238.205.28:8989/278764_.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpjZQSKdzFlR_PgIufZpPKdUm11uAGiusAZ7eXmxqJE5Lx8Y4cINT6ZgWQtNXGza-VF6RxcTB1btnlDziHp4ADJdDxcnOnbjN9wcTMwLja-hOLHAskjIiTPy9KNOIteWXoP5kAtnUh2VOGF_RoaxJKuDjGeavXC9H_PsAASrDEIc6QtalZVU6eKXj_/s1600/ESPN_4.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "ESPN 5",
     "url": "http://104.238.205.28:8989/278558_.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDiQVJpcww86abXY4Io9z8j1ry8OSTy0c7SbJdigEWTl0w-R6W0FFDJ2y5OYwBnKpeVja4eFUyc838VIrceGH2bQVTD43jVu3fVrP-Bb2RxAyPBgXG9mRGd5dt-NRSrivspzSgO2AXVWbGexNIBg1770KdnCZ610PDZ9pKsfXIjUCZfqEcKbBe0Zo-/s1600/ESPN_5.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "ESPN 6",
     "url": "http://104.238.205.28:8989/278566_.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4bNNB_o9eARN-zmXJztqC_Ac4SfnLUPmy_Bqx227SEKRnkx1C4ASlU2pJiJ0qt_Zrnjp7JtHGz8wC-eztVUwJhIPRFM5Vwo_Z3EBoV_oMRVX2e-MydspTT450ZVSCqjU1rXz5jnKrpbUB4oM-TAndJYzFL6zgDxBMMBQlT5GfHi7uHfyXzgsfMxaJ/s1600/ESPN_6.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "ESPN 7",
     "url": "http://104.238.205.28:8989/278567_.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju5lmWSwE9dXjpdw3K67mCpLqfSihYTgRdg9xqYKCA9UrTUUqx2fxQA-0DZS3w3dRXMdh7PuHrlgssxa2CW-NjOwiBxSopGuTwYO0Sj0hDyFs6RvS7oyitPdAQGCeu7PWC1zAA_JrIlraq1y8J-JLlo9mLcmWmVRtBrUipTJwm2HgGNC1hQU6J2A0B/s1600/ESPN_7.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "VIX TUDN",
     "url": "http://104.238.205.28:8989/278570_.m3u8",
     "thumbnailUrl": "https://directostv.teleame.com/wp-content/uploads/2022/09/TUDN-Me%CC%81xico-en-vivo-Online.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Adrenalina Sports",
     "url": "http://104.238.205.28:8989/278573_.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCcJrd7E-w60WGN5pmkpRruSlT4YIudIZUtdN8Zq1d2PeaEzT6sFsU6-FbBYAfQAM-Ji23BwMGDrVajgr-hRB5JnViAwHXe_zykSp2wJLgcERc39cBbJS3WDXNfG_ou5sHat9bHbG1jjsSKCb-Vs_6IjowCMw2VSGfW8hovafU5zbRs2Vj4icbX25f/s1600/Adrenalina.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "FS Premium",
     "url": "http://104.238.205.28:8989/278599_.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu0I71LLWoPd8phXLI7Av7QX2SNhybFGJMXYm6wRFign8fWYU8lHstZpzqv09VvlNeIfQlxqkazALuOI3yT4_jWwypzkgr-7qMT2EzisIhMediXYS1Dwih8nK53xgwdk9eKJEEahr5b6-hfw_zULSZWlUBuoBUaiRrzOKX9nkMIVlzFRPQenvkv4hH/s1600/FS_premium.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Rugby Spain",
@@ -3602,7 +3602,7 @@
     "url": "http://190.92.10.66:4000/play/a001/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwprkIshq4lJPZefJiCtzeb9qXsHAr5NugHKVfv_e61IMsQx9zSto4N0TJem4amgkqCYHEUEFi3Y-LR9izyMPdtGaxuFz8ocGEUR635c1sHOq93n9ezm2J8f70lSuzlJ7Pav7XLnCT4GMmLrjp8bRkhwylI2zKcu_qPczvhmBzTaflAiNroU9AnvY8/s1600/sky-sports.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Sky Sports ",
