@@ -99,6 +99,13 @@
   },
   {
     "title": "A3 Series",
+    "url": "http://tmptv.sunduk.tv/CH16830/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWdYi-MvzwBfeUmqAEo5K_-wZC2HqabvtAAaSx7rKxyD0FGNYzTVv3jaRlNZjPegDoAQ6HtBrEvqcSPvhnGi83EoeGFr0QvKQ4k7N6PhTS0MCGABudujdyVnqxqxnQ7CX-4KgfVL_15VDlWoVzJUq-NX_nh4K3aQKps6re6dPSuHHpvi_i6viZqQMS/s1600/A3SHD.png",
+    "category": "Series",
+    "disabled": false
+  },
+  {
+    "title": "A3 Series",
     "url": "http://201.174.175.3:8000/play/a0py/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWdYi-MvzwBfeUmqAEo5K_-wZC2HqabvtAAaSx7rKxyD0FGNYzTVv3jaRlNZjPegDoAQ6HtBrEvqcSPvhnGi83EoeGFr0QvKQ4k7N6PhTS0MCGABudujdyVnqxqxnQ7CX-4KgfVL_15VDlWoVzJUq-NX_nh4K3aQKps6re6dPSuHHpvi_i6viZqQMS/s1600/A3SHD.png",
     "category": "Series",
@@ -168,6 +175,13 @@
     "disabled": false
   },
   {
+    "title": "Cosmo",
+    "url": "http://tmptv.sunduk.tv/CH16797/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiUVZ0AU3_OyWQR0_8b7aENW8p4Ho0TEHTFLvwiYEe0e-CbZGDiNkevqL2pRSHVfQNeSHvcVCdWO5OyPtVgrOm_-OVNDRggaUwKiV70mz4O11NzBGe6n7m4B6FWJX-3PKRQki3I_713vuANwe2eAX0delnJm5ruOB5rY1GO9_bZrew0-lGuxsqe1gR/s1600/COSMO.png",
+    "category": "Series",
+    "disabled": false
+  },
+  {
     "title": "Energy",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX03/smil:19_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipG7lFjM2yEGj0R19oYUQ6iSDbnxoh3YRPxvuuTNhzrqcvOZEMH-Dq1UFEQ17Y4daWIQaSI1BHVg5YqUSRyXhwzyAOhmxewfH2BmnI_1GyXxhlxiEFcyLsxdsqq3suatJ_ODlwbN46Iq2O5A2ppuxaLfeygoFSgDnY3ZwkMRZuGp9X21h_FwBwWvyB/s1600/Energy.png",
@@ -184,6 +198,13 @@
   {
     "title": "Neox",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX03/smil:13_premium.smil/manifest.mpd",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjprdVXjcLWpQHN9ZuxOFeaoLQ2iQx2Ge-DYRUU2lg4_3r1wl_i70UkYyqRZt8YRDgpg5GsmMvPubUA5Ube2hct5ImK2Sgb0eVCIuFCE0xG8Qld1A690oYAis46_-g1fyafSfJLsxSYsOXtenKQyLuGTokhw74wiJAxdgd6-8S4xe9WwAMOxq8EB7RA/s1600/Neox.png",
+    "category": "Series",
+    "disabled": false
+  },
+  {
+    "title": "Neox",
+    "url": "http://tmptv.sunduk.tv/CH16827/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjprdVXjcLWpQHN9ZuxOFeaoLQ2iQx2Ge-DYRUU2lg4_3r1wl_i70UkYyqRZt8YRDgpg5GsmMvPubUA5Ube2hct5ImK2Sgb0eVCIuFCE0xG8Qld1A690oYAis46_-g1fyafSfJLsxSYsOXtenKQyLuGTokhw74wiJAxdgd6-8S4xe9WwAMOxq8EB7RA/s1600/Neox.png",
     "category": "Series",
     "disabled": false
@@ -309,14 +330,7 @@
   },
   {
     "title": "AXN",
-    "url": "http://104.238.205.28:8989/278385_.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCGP1b83u6MGNyax_jQpsTCS6puK7Wab9LZt4zgHcUqhzqwODFeqFUNLHLcUaCqZ-47aL2jnichibDtjv572Da2X0-4fAk_3wRzWc-LbeTAsIXVSQTY6T6ScO6EOjTlKWyTsNVcVG12V45V2zMqIWM8JRJmoh0NdhUblSa8xlX7MOKI11CzKLGh1C9/s1600/AXN.png",
-    "category": "Cine",
-    "disabled": false
-  },
-  {
-    "title": "AXN",
-    "url": "http://45.232.176.17:8000/play/a027",
+    "url": "http://tmptv.sunduk.tv/CH16815/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCGP1b83u6MGNyax_jQpsTCS6puK7Wab9LZt4zgHcUqhzqwODFeqFUNLHLcUaCqZ-47aL2jnichibDtjv572Da2X0-4fAk_3wRzWc-LbeTAsIXVSQTY6T6ScO6EOjTlKWyTsNVcVG12V45V2zMqIWM8JRJmoh0NdhUblSa8xlX7MOKI11CzKLGh1C9/s1600/AXN.png",
     "category": "Cine",
     "disabled": false
@@ -353,6 +367,13 @@
     "title": "Canal Hollywood",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX/smil:82_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYxQ9P4RVXa8GVo51KIKROWaXMj_kFFg3XT9CaRf5tV7y69zBzDU946m_GIN-nPZD7bjfY4T5P9tEO4Y9Hidpe9WzV7Zypza7owyr3LojBloCFm9LztE8z-QM52Pnyiyvju3w2nGFglhKCusjMKNKphVRDErmUiYuVbGtuFKZk9474Muz91bumr1Xi/s1600/HWD_logo.svg.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "Warner Tv",
+    "url": "http://tmptv.sunduk.tv/CH16803/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgemgMLla0jUP0QWfVzix2djA3mLsLSo-_yw-nreBSN1J7CfmgBNdl0kpSk7AcHtxttM1WS3isLUoqRvb5QqmVPuYdjPojjkkFxysYFGyXV2MSOpKLOznMbS572VNuVqEbvEB2RfkSqj-idO0vfoH173iWSdTYzG0dir7tP6U8Qlp0njrG93zKaoNGu/s1600/Warner.png",
     "category": "Cine",
     "disabled": false
   },
@@ -413,9 +434,51 @@
     "disabled": false
   },
   {
+    "title": "M+ Estrenos",
+    "url": "http://tmptv.sunduk.tv/CH16800/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfoa08iW1XuspGmtGodQndMfQCoRL_xjqqL70huR0etqRP7yXBpe7EkbQjw2jcVa7ZRZ2byktJ5U0OacR0gTcF23jARHlJ6_94tDNFZ6RteJud2zmFIp6xzVIooNxweqT4VLvyFiGT0ntyxXvb6fwdS1YiTHMRT94FAlaWR7Qyund1mRO44r0IMUpS/s1600/Estrenos_por_M.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "M+ Acción",
+    "url": "http://tmptv.sunduk.tv/CH16785/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwzP1tIVYikEL5L-fd3_fNTZnXgAlw2wGvpyfOZJSOw_TBmbDzSil7MNvXQKVDrxVSkUVns1WMk7ZMPf6uTEt6n0d_g4O3aEwmxtwaxmeRxw7TgYoX6fB2GdH7-MzpEz6Koit5MQOas94yf6mDH964hfk1X67cMd6DR8ijtPou3o0V0sfX6gQqlG-R/s1600/Accion-por-M.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "M+ Comedia",
+    "url": "http://tmptv.sunduk.tv/CH16788/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQqIKk-VbTScIoJjRmJhd5bpDKxiJx5yBohJI-ef-GnxjMbBQDlNjF6v4nPqx5aTazu-zF9qi78JJuGqOpHw1aopDzK5sxLLRtgKk0PFGOBTYvo76-ipjpnpBZwHlDwOj0ghKlf-QFM80ob2DkFiV-35Zwr0hFjWCS-elDxOts5WoYN8Uxtk3KuBUp/s1600/Comedia-por-M.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "M+ Cine Español",
+    "url": "http://tmptv.sunduk.tv/CH16791/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCEQKnNTd4Lr5Uvr65We0c3-T4BXE1k4CaSKxrp5h5UEZOZNeNaOuwOUrNUXJ1ipbJf5X-RPQrxS5sRghK3nuHDMMM0vGRFdodWrRom1PXjj_QNzAeFwDrA9JMJtss3-3yOBaErHAwKP5vB6plGddZJuWVZ1SqJS5h0KWvFp-2IjU1DNwd3f3JZymj/s1600/Cine_Espanol_por_M.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
     "title": "M+ Drama",
     "url": "http://tmptv.sunduk.tv/CH16497/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMadsr6dYJdIz5vnV4BWzKfT8tlNDBmUuSqup-ZJ5f_EJtU4nEwtwI8ujNfspMNC5SDNd8HDjC0UzjwuYIJjTKoPTIXeb3nIhWvTJD94O0GZki8fuEnStmcYqnkmfgofPbI4-sPF_utCojQiDQR4pX0EAqTYZWkH92L9DWv0VtklbC2ajYSeUE4pBE/s1600/Drama_por_M.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "M+ Clásicos",
+    "url": "http://tmptv.sunduk.tv/CH16843/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLfBuYMEVKzYbPcMo84jAG2ZTPie12bnusl15oy8KWsvTTS4LU5UdBmrLevNJiEXtOJDdoaiHzB80yvQv_bDP7zlliKiociohwQsU9VTWPnwt8JvUGICigNFnlMcPsJhH8kJbWyW9qtLa0lovtDyetJt55aIRI3w9WDNDivnMDrRwvyiOBdTpym4E3/s1600/Cl%C3%A1sicos_por_M.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "M+ Vacaciones",
+    "url": "http://tmptv.sunduk.tv/CH16845/index.m3u8",
+    "thumbnailUrl": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/11/1_0_1_749D_41C_1_C00000_0_0_0.png?resize=440%2C264&ssl=1",
     "category": "Cine",
     "disabled": false
   },
@@ -1319,13 +1382,6 @@
     "title": "MultiPremier",
     "url": "http://104.238.205.28:8989/278510_.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiolOsw4U-iXuDuuxFLMIJTw9ycg86ijmwc08NB5u4mx-fRCE70GBUQRGGT8i1Xe1VbXgy9QY280OHr7MxPewjz4CV82uBgwLSXCxpeL5_Kn3aJzhJMl7RePRpw-ks3KD_Z6HasW9RaLzisB8wZVt8uwc4OjEO2MqXhpk28o7Be72NjAgsM9NwfAHy5/s1600/Multipremier.png",
-    "category": "Cine",
-    "disabled": false
-  },
-  {
-    "title": "Warner Tv",
-    "url": "http://104.238.205.28:8989/278453_.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgemgMLla0jUP0QWfVzix2djA3mLsLSo-_yw-nreBSN1J7CfmgBNdl0kpSk7AcHtxttM1WS3isLUoqRvb5QqmVPuYdjPojjkkFxysYFGyXV2MSOpKLOznMbS572VNuVqEbvEB2RfkSqj-idO0vfoH173iWSdTYzG0dir7tP6U8Qlp0njrG93zKaoNGu/s1600/Warner.png",
     "category": "Cine",
     "disabled": false
   },
@@ -3374,8 +3430,22 @@
     "disabled": false
   },
   {
+    "title": "M+ Deportes 6 ",
+    "url": "http://tmptv.sunduk.tv/CH16806/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDXCsxVFeq-_gYm1YTBuqB90gIO5Us0NMhwD6n0QMFrovdPs3beS5os24tEOalxcYFzV87CZkCNS1Nn6xfuqvkGBbSoxyBvw-wlhC2CGsgAWE3sMen-wnNOoA6YC_FxwE-VYlTwRUB02U_iNElxvGYB7lIFc5pSuFxtwb1-hm0tA7-0yr0ebDfVKU1/s1600/Deportes_6.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
     "title": "M+ Golf",
     "url": "http://tmptv.sunduk.tv/CH16277/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMZpWA1VAJdHyW8so0tIixPRbFiD-YIvZhXsKhy_gMrikAHj8qYd7_2tO4RmTYMnoEdpj9A0opGK-MV3m3EHXzHU0WQ-vc6RCER_AJwKghPy-xA2nh4yiPeXFfY73JRHrtXNVfIoW7b3u6-2rNXkKQtjnS7SIbxT7UG0fOJZCjELAbEBgyrAqX0eZj/s1600/Golf.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "M+ Golf",
+    "url": "http://tmptv.sunduk.tv/CH16818/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMZpWA1VAJdHyW8so0tIixPRbFiD-YIvZhXsKhy_gMrikAHj8qYd7_2tO4RmTYMnoEdpj9A0opGK-MV3m3EHXzHU0WQ-vc6RCER_AJwKghPy-xA2nh4yiPeXFfY73JRHrtXNVfIoW7b3u6-2rNXkKQtjnS7SIbxT7UG0fOJZCjELAbEBgyrAqX0eZj/s1600/Golf.png",
     "category": "Deportes",
     "disabled": false
@@ -3384,6 +3454,13 @@
     "title": "M+ Vamos",
     "url": "http://tmptv.sunduk.tv/CH16501/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIxepbxStMzN955nqFIadQqlxqAtP8D369OphQdFsAbOClJ6tyxc3HgQXCuaFqRR59oQdyPXVX_cfPxpn4DCjXlLYdX2v1wQNFAHClBvR84TaHjapCAo1F2CTyNmLe55szHw804nOJG6PNHfCJ1s-uzWkUJHK56J-hqAgfQOCltlYCXOBPIoXuCE6M/s1600/Vamos_por_M.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "M+ Ellas Vamos",
+    "url": "http://tmptv.sunduk.tv/CH16809/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjspMiNDfKcu9s0e4w2DyHROneWfa_HfLD6U4DtFKwxkvq-D7yerHGqoWvxCGfBpRCXsL7h7kvBuvZXihI8jSnKhuiNkx8qBNrUkPRN0tP3DKoJOTwM0Uz-lsDZvv7yn2elZAn04sbOQDVzuYn1brbdRNdaea_PCMmbwbE7qVxTi9M-P8BBJv6ScWrB/s1600/Ellas_Vamos.png",
     "category": "Deportes",
     "disabled": false
   },
