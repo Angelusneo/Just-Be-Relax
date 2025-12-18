@@ -5,6 +5,12 @@
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQA8rcEIjJ3NsuPH8VtJnPT3I-vgJ5x_rNO1FRIHXoF7awA_WN3dSUcKCa3neqvJDtjuLKaNA6felzT1uPUm0K4SgjFwX7s-NHDGkosroOV-E2wzfs19hljmb00Ig1-DDGg6zns136GFhYytDnqWAkYvgc6SCg6WStTZ9sKJWjkxIBP8vZJviNCdCJ/s1600/Logo_TVE-1.png",
     "category": "Nacional",
     "disabled": false
+  }, {
+    "title": "La 1",
+    "url": "http://176.65.146.237:8401/play/a09u/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQA8rcEIjJ3NsuPH8VtJnPT3I-vgJ5x_rNO1FRIHXoF7awA_WN3dSUcKCa3neqvJDtjuLKaNA6felzT1uPUm0K4SgjFwX7s-NHDGkosroOV-E2wzfs19hljmb00Ig1-DDGg6zns136GFhYytDnqWAkYvgc6SCg6WStTZ9sKJWjkxIBP8vZJviNCdCJ/s1600/Logo_TVE-1.png",
+    "category": "Nacional",
+    "disabled": false
   },
   {
     "title": "La 2",
@@ -152,13 +158,6 @@
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXDkQMEGiKk95I25XJb8N9bLm5w9GzeTcil2B_LRhGaRxOLjgO4TYNUZ30eHcLQSvXykq70EccununlUff6j48a4Vp8S3G4Ycbm815e66I8xNnM9J7qD4snZC1dDtMYaRqNq3VkpZRQD3HmUmw7NKKyuPNm89MLbaNQsLtb0BhkQ_X0wgRCrhyNcJv/s1600/Mega.png",
     "category": "Entretenimiento",
     "disabled": false
-  },
-  {
-    "title": "Mega",
-    "url": "http://185.189.225.149/mega/index.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXDkQMEGiKk95I25XJb8N9bLm5w9GzeTcil2B_LRhGaRxOLjgO4TYNUZ30eHcLQSvXykq70EccununlUff6j48a4Vp8S3G4Ycbm815e66I8xNnM9J7qD4snZC1dDtMYaRqNq3VkpZRQD3HmUmw7NKKyuPNm89MLbaNQsLtb0BhkQ_X0wgRCrhyNcJv/s1600/Mega.png",
-    "category": "Entretenimiento",
-    "disabled": true
   },
   {
     "title": "Nova",
@@ -1842,10 +1841,10 @@
   },
   {
     "title": "Boing",
-    "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge/smil:17_premium.smil/manifest.mpd",
+    "url": "http://176.65.146.237:8401/play/a0ad/index.m3u8",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Boing_Logo.svg/1200px-Boing_Logo.svg.png",
     "category": "Animación",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Toon Goggles ",
