@@ -3140,7 +3140,7 @@
     "url": "http://181.78.106.127:9000/play/ca027/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwsv8mWemZt-kvWHSdD1ueuxfWwg-2dVlEohK4UWf0BQtrQY4IOw4WRI0VqLEYPxx2yE5eOd16EzUh3GTjY5v66tYtnI3GrJog4Qp-OVj8Haj1Ez8jq_MdV-Ico4iNAQN7F72a2Tlf-5Vscx0Rx6l6VBbjCHUABckFwB5Gf22TJ044ISXG-YmKqoxl/s1600/LaLiga-Logo.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "4 LaLiga ",
@@ -3354,24 +3354,24 @@
   },
   {
     "title": "Sky Sports LaLiga ",
-    "url": "http://190.92.10.66:4000/play/a001/index.m3u8",
+    "url": "http://181.78.106.127:9000/play/ca028/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwprkIshq4lJPZefJiCtzeb9qXsHAr5NugHKVfv_e61IMsQx9zSto4N0TJem4amgkqCYHEUEFi3Y-LR9izyMPdtGaxuFz8ocGEUR635c1sHOq93n9ezm2J8f70lSuzlJ7Pav7XLnCT4GMmLrjp8bRkhwylI2zKcu_qPczvhmBzTaflAiNroU9AnvY8/s1600/sky-sports.png",
     "category": "Deportes",
     "disabled": false
   },
   {
     "title": "Sky Sports ",
-    "url": "http://181.78.106.127:9000/play/ca028/index.m3u8",
+    "url": "http://148.222.230.220:8000/play/a014",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwprkIshq4lJPZefJiCtzeb9qXsHAr5NugHKVfv_e61IMsQx9zSto4N0TJem4amgkqCYHEUEFi3Y-LR9izyMPdtGaxuFz8ocGEUR635c1sHOq93n9ezm2J8f70lSuzlJ7Pav7XLnCT4GMmLrjp8bRkhwylI2zKcu_qPczvhmBzTaflAiNroU9AnvY8/s1600/sky-sports.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Vix Premiun LaLiga ",
     "url": "http://181.78.106.127:9000/play/ca028/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-LkqMeGzmjWp57-jvcpH5G8tRGgM9PtUYJ7-vix7-kiET7uUBkiDNOuocq8trW9i9GampVCBGK0LgdVRteV0gNcXg4Ip4j3Q7nIzYY39tTKpfBKqHZuCMDHa05-jdHnw2pYh1JVApDpKx-FU4EHJUiVKaM5KkUuFbXiOc9A1CPfQIRKKe10e5bMJr/s1600/ViX%20Premium.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Sky Sports ",
