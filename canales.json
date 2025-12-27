@@ -253,10 +253,17 @@
   },
   {
     "title": "Warner Tv",
-    "url": "http://tmptv.sunduk.tv/CH16803/index.m3u8",
+    "url": "http://181.78.82.6:46090/play/a00f/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgemgMLla0jUP0QWfVzix2djA3mLsLSo-_yw-nreBSN1J7CfmgBNdl0kpSk7AcHtxttM1WS3isLUoqRvb5QqmVPuYdjPojjkkFxysYFGyXV2MSOpKLOznMbS572VNuVqEbvEB2RfkSqj-idO0vfoH173iWSdTYzG0dir7tP6U8Qlp0njrG93zKaoNGu/s1600/Warner.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
+  },
+  {
+    "title": "Warner Tv",
+    "url": "http://148.222.230.220:8000/play/a00q",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgemgMLla0jUP0QWfVzix2djA3mLsLSo-_yw-nreBSN1J7CfmgBNdl0kpSk7AcHtxttM1WS3isLUoqRvb5QqmVPuYdjPojjkkFxysYFGyXV2MSOpKLOznMbS572VNuVqEbvEB2RfkSqj-idO0vfoH173iWSdTYzG0dir7tP6U8Qlp0njrG93zKaoNGu/s1600/Warner.png",
+    "category": "Cine",
+    "disabled": false
   },
   {
     "title": "HBO max",
@@ -3000,7 +3007,7 @@
     "url": "http://201.217.246.177:8000/play/a078/index.m3u8",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "ESPN 2",
@@ -3025,24 +3032,24 @@
   },
   {
     "title": "ESPN 5",
-    "url": "http://129.222.202.191:8000/play/a027/index.m3u8",
+    "url": "http://181.78.82.6:46090/play/a077/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDiQVJpcww86abXY4Io9z8j1ry8OSTy0c7SbJdigEWTl0w-R6W0FFDJ2y5OYwBnKpeVja4eFUyc838VIrceGH2bQVTD43jVu3fVrP-Bb2RxAyPBgXG9mRGd5dt-NRSrivspzSgO2AXVWbGexNIBg1770KdnCZ610PDZ9pKsfXIjUCZfqEcKbBe0Zo-/s1600/ESPN_5.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "ESPN 6",
-    "url": "http://129.222.202.191:8000/play/a014/index.m3u8",
+    "url": "http://181.78.82.6:46090/play/a00w/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4bNNB_o9eARN-zmXJztqC_Ac4SfnLUPmy_Bqx227SEKRnkx1C4ASlU2pJiJ0qt_Zrnjp7JtHGz8wC-eztVUwJhIPRFM5Vwo_Z3EBoV_oMRVX2e-MydspTT450ZVSCqjU1rXz5jnKrpbUB4oM-TAndJYzFL6zgDxBMMBQlT5GfHi7uHfyXzgsfMxaJ/s1600/ESPN_6.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "ESPN 7",
-    "url": "http://129.222.202.191:8000/play/a01q/index.m3u8",
+    "url": "http://148.222.230.220:8000/play/a01z",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju5lmWSwE9dXjpdw3K67mCpLqfSihYTgRdg9xqYKCA9UrTUUqx2fxQA-0DZS3w3dRXMdh7PuHrlgssxa2CW-NjOwiBxSopGuTwYO0Sj0hDyFs6RvS7oyitPdAQGCeu7PWC1zAA_JrIlraq1y8J-JLlo9mLcmWmVRtBrUipTJwm2HgGNC1hQU6J2A0B/s1600/ESPN_7.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "VIX TUDN",
