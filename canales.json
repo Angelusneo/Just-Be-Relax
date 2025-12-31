@@ -1842,10 +1842,10 @@
   },
   {
     "title": "Boing",
-    "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge/smil:17_premium.smil/playlist.m3u8",
+    "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge3/smil:17_premium.smil/playlist.m3u8",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Boing_Logo.svg/1200px-Boing_Logo.svg.png",
     "category": "Animación",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Toon Goggles ",
