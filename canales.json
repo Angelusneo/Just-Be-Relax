@@ -190,13 +190,6 @@
   },
   {
     "title": "Paramount Network",
-    "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX02/smil:22_premium.smil/manifest.mpd",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Udkq48y3_B4WHq9j_Hy9YIJfpUfGh6R5uUMzczJO3Zau4ej4RI__BymqzO6EeQMTBF_sU30gxDDaIC_e0H75xx3vywVjlPNfeies7RVcPT0aTuD9TwbRBTNswFlYgCNheh6CqFswN_EUMQlsYTU-vlih3maSKVs1zoaXaHFMD4yH2QJDucAtEgAo/s1600/Paramount.png",
-    "category": "Cine",
-    "disabled": false
-  },
-  {
-    "title": "Paramount Network",
     "url": "https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Udkq48y3_B4WHq9j_Hy9YIJfpUfGh6R5uUMzczJO3Zau4ej4RI__BymqzO6EeQMTBF_sU30gxDDaIC_e0H75xx3vywVjlPNfeies7RVcPT0aTuD9TwbRBTNswFlYgCNheh6CqFswN_EUMQlsYTU-vlih3maSKVs1zoaXaHFMD4yH2QJDucAtEgAo/s1600/Paramount.png",
     "category": "Cine",
@@ -276,6 +269,13 @@
     "title": "Squirrel",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX04/smil:21_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj81iP1gkHcyCbtrjg3XM5z9knw7vMd07qrC6iUdaVpeH3jTmb136lWyYkkrGrVILW500TSg_vquIPeXMQgMwjKi8way4ni5os2NGwS344osFw12K7r5a0a_hAdp3zPZYdroFrMUzxIbrUelmNgIA0EbKOGO3lHtmzsyMcGS8Dg-zGKDpKor8oIpVg5oF_/s1600/squirrel.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "Squirrel dos",
+    "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX02/smil:22_premium.smil/manifest.mpd",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPIxIFTBRtp49_GjLggql-lSUH5P6JeD0TmHNiEcHA8nBpiVeyhuEXglroDV6-chxiaOgFoReJfPmaGvdic0fMdcdyih1W48O37Dn85DmQXZOG1DjmXIZcsdvFOdcYyLnj-o-BHuBl6PmpF2N3Jss6Jhkyr6vTQL_fyqPA6AMrqeuZys9JsYv0bwSc/s1600/Squirrel2.png",
     "category": "Cine",
     "disabled": false
   },
