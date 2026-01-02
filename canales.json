@@ -3266,14 +3266,14 @@
     "url": "http://147.135.114.221:8001/play/d00m/index.m3u8",
     "thumbnailUrl": "https://r2.thesportsdb.com/images/media/channel/logo/jw11fx1654941293.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "M+ Deportes 2",
     "url": "http://15.204.146.163:8001/play/d00m/index.m3u8",
     "thumbnailUrl": "https://r2.thesportsdb.com/images/media/channel/logo/20mkzl1748079058.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "M+ Deportes 3",
@@ -3564,8 +3564,15 @@
   },
   {
     "title": "XITE Germany",
-    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8",
+    "url": "https://xite-germany-lg.amagi.tv/playlist.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyYqBF5n_UezYRtFGRgCIM0auqeHUX5bTsvytkmvy1XJUDNGn3jwD8xF2Dj302GlRkSDRWZl1N255kY_rzRnzvBIqGRm1A15zg8EV_Y49F_tbwjCWv3YykdJuPxns54O2mDtKg7_cpmh4bBz-bnNzpb0xOm_aGvtZdpExkQhb-bNRtp1xHqwOM38iO/s1600/Xite-germany.png",
+    "category": "Música",
+    "disabled": false
+  },
+  {
+    "title": "XITE Hits",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0jVIuG1KtQ_hCObvhunW3MhCUDYaj-YDgVnP9cOmDf6cncohSusdp3OQv8N86h2bpF12rb0Hb0INMCTbuiFDKyuGOln_AnjuxBDBWoNOAMdid-EZwk-YyVaWu8mMEzm6ijw6l85KnPeSWaLR5dX4U9ehWS0U4Uib5rWW1uCCmEz7Iyp9uKpxs1U4i/s1600/Xite-hitsuk.png",
     "category": "Música",
     "disabled": false
   },
