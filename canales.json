@@ -3494,10 +3494,10 @@
   },
   {
     "title": "Golf Channel",
-    "url": "http://201.174.175.3:8000/play/a0rt/index.m3u8",
+    "url": "http://200.6.182.118:8123/play/a08p/index.m3u8",
     "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5fb694ccd284916081b54c96/1622863910567-A3E3YFCD7P9N9O353UER/logo-golf-channel.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Sport 3",
