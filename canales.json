@@ -3263,17 +3263,17 @@
   },
   {
     "title": "M+ Deportes",
-    "url": "http://tmptv.sunduk.tv/CH15905/index.m3u8",
+    "url": "http://147.135.114.221:8001/play/d00m/index.m3u8",
     "thumbnailUrl": "https://r2.thesportsdb.com/images/media/channel/logo/jw11fx1654941293.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "M+ Deportes 2",
-    "url": "http://tmptv.sunduk.tv/CH16166/index.m3u8",
+    "url": "http://15.204.146.163:8001/play/d00m/index.m3u8",
     "thumbnailUrl": "https://r2.thesportsdb.com/images/media/channel/logo/20mkzl1748079058.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "M+ Deportes 3",
