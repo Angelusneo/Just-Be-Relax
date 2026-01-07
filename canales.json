@@ -1704,14 +1704,14 @@
     "title": "Dragon Ball",
     "url": "https://stitcher.pluto.tv/stitch/hls/channel/685a996c7c4f2ad40cb4f276/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=678cae5e-eb68-11f0-9971-8ef333f6c3bb",
     "thumbnailUrl": "https://images.pluto.tv/channels/685a996c7c4f2ad40cb4f276/colorLogoPNG.png",
-    "category": "Series",
+    "category": "Animación",
     "disabled": false
   },
   {
     "title": "Dragon Ball Z",
     "url": "https://stitcher.pluto.tv/stitch/hls/channel/68e8fd7c3ede4398bc69af93/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=678cae5e-eb68-11f0-9971-8ef333f6c3bb",
     "thumbnailUrl": "https://images.pluto.tv/channels/68e8fd7c3ede4398bc69af93/colorLogoPNG.png",
-    "category": "Series",
+    "category": "Animación",
     "disabled": false
   },
   {
@@ -1729,11 +1729,11 @@
     "disabled": false
   },
   {
-    "title": "ZTV",
-    "url": "https://mitv.zplay.cl/Ztv/index.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyOGLHMJonp7GQ1CJGjOmhU7e95Ir9m8ABKhGCTXTP4OVBS3g_F1PAnsvOjfNC4F5_nOMigADOPIPdtqr58Cx5ugylsAAy6H9uicwh8wcwRMAHoNQYKgoh1AcJ3rXjwEshaDKdUxcb3ngK4xkcCwCG2ovRfCn8EiDCoV8QMQqyN3j-JTMd2KQHi5yx/s1600/ztv.png",
+    "title": "Sonic",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15189",
+    "thumbnailUrl": "https://cdn2.steamgriddb.com/logo/b203eb4807ca029d93185930bb520735.png",
     "category": "Animación",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": " kids tv ",
