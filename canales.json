@@ -1708,6 +1708,13 @@
     "disabled": false
   },
   {
+    "title": "Dragon Ball Z",
+    "url": "https://stitcher.pluto.tv/stitch/hls/channel/68e8fd7c3ede4398bc69af93/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=678cae5e-eb68-11f0-9971-8ef333f6c3bb",
+    "thumbnailUrl": "https://images.pluto.tv/channels/68e8fd7c3ede4398bc69af93/colorLogoPNG.png",
+    "category": "Series",
+    "disabled": false
+  },
+  {
     "title": "Bebes Llorones",
     "url": "https://daiconnect.com/live/hls/tvup/tvfy-crybabies/.m3u8",
     "thumbnailUrl": "https://imctoys.com/sites/default/files/microsites/2019-03/10345IMP_logo_01_ES__0.png",
