@@ -1211,13 +1211,6 @@
     "disabled": false
   },
   {
-    "title": "DHE",
-    "url": "http://190.92.10.66:4000/play/a00e/index.m3u8",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png",
-    "category": "Cine",
-    "disabled": false
-  },
-  {
     "title": "Cine Western",
     "url": "https://daiconnect.com/live/hls/tvup/zylo-cwestern/.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgddMlIRKDi1DuuASF25rlAi3vGRWWXAHp9mQ7UNRzqNPsV97e-LwIyubk0bhWrJnmqktFF72_hD3Kzq2_9Lec7OA2bUUu6wzon_iVlTnig8LHO6OiKiXykDXQ9hePBjIqoo978s99bP0KMSYWh2A-yZjLCiNOWuG2i-EmxEpFwJOVPcuIUA68LiLp9/s1600/western.png",
