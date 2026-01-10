@@ -1127,6 +1127,13 @@
     "disabled": false
   },
   {
+    "title": "Cine Canal",
+    "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs1raTSdQhaWoYM0COkfG1rSO0MKT2Jkk_IcOnOKTYgHWrW7LTtnR3jhjSUbK0rxzBX20Xv5mOH-OnXIIUHbI2ngYek5iK-nJFPkJ3GyFje_mNTCLjo6P6nKgQIU6e-823Z1keSuAaXHZI9xL5Qy0-bVMDAb7iBa0lSEiXMsB7AuB60vJXDRV3b4Rv/s1600/CineCanal.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
     "title": "Cinemax",
     "url": "http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/CINEMAX/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwyvGVVG_LC_70KrzsQojC4dp-r7LBCgGYUNzr7Q5dD7WKoLdmJWuo-WGMXLoIFruqF4xyBaJrfyyHjl8DeIQ0S09DkW3xDuMWzZO6zCLwsqVl3-h05X6sk5p4rjoRR9bbOsHdDiP5pQdkVBxd4hqFDLItJw9SbiugAtgQXbi0K_0qhUmjzq8oCBfB/s1600/Cinemax.png",
@@ -3410,7 +3417,7 @@
   },
   {
     "title": "Sky Sports ",
-    "url": "http://181.78.106.127:9000/play/ca029/index.m3u8",
+    "url": "http://45.228.234.30:16000/play/a03h/index.m3u8",
     "thumbnailUrl": "https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blt3b8488da02f05f25/66b2010b0d26b22d93e45755/Sky_Sports_Logo.png",
     "category": "Deportes",
     "disabled": false
