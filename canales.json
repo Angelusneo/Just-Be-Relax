@@ -2,14 +2,14 @@
   {
     "title": "La 1",
     "url": "https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQA8rcEIjJ3NsuPH8VtJnPT3I-vgJ5x_rNO1FRIHXoF7awA_WN3dSUcKCa3neqvJDtjuLKaNA6felzT1uPUm0K4SgjFwX7s-NHDGkosroOV-E2wzfs19hljmb00Ig1-DDGg6zns136GFhYytDnqWAkYvgc6SCg6WStTZ9sKJWjkxIBP8vZJviNCdCJ/s1600/Logo_TVE-1.png",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiymCzsPVT4TElhJa8yf7ws5jui-qgNr0hFa_S9GCegklxn5r_le2kbEtVgwVRgJqqhenSghTS4dFawGt-dxBoiBTsLL8fKn95vE9V4D1BCpnZg4fnvn2ToXNrw4Gi1DExj2Ar7K0ZMIs_01o9w9OE4iXFriJUdyDVrv9SBpZ2FImnvQeWjK0UKpl1q/s1600/Logo_TVE-1.png",
     "category": "Nacional",
     "disabled": false
   },
   {
     "title": "La 2",
     "url": "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_K-5Cp-9vgnNfSSQzwP6xQQZGKQE_0JfHeKnCubOV8TWFQlAM3OxWFsBCe92rXODCS6IZVH0qx4SJxUGP05fF4ILVOdY6dFyDLi4RdmOdaBEpXOrCy3kJHpcNK57DvgCxhKesTdWxRLmLuE6_FgtL3eY71kG7XQ08OclURKGnFCzkodYpyjJse6ZT/s1600/Logo_TVE-2.png",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivMwflgTTGNGtO6AHpQA-Ec2-Nh2nB1RkzIasQ2ZMq0-49EeSyY6l6_kNtGGzgzevCi23CALRsUmW_YPKAAPsDmgvDZwUhGTk7tJqp3nHn1ORpyFXQrU8vNid4TB9b7Q-GKY4dLMYzDP_nUES1mxYe8BE_mi5BOWROuB3Y1MMrbrlKeGc0RUyIqhwS/s1600/Logo_TVE-2.png",
     "category": "Nacional",
     "disabled": false
   },
@@ -165,7 +165,7 @@
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge4/smil:248_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv7Gv5JUmqIaPYIu8vhih-L8u03hn8QwprhGUEoIKbzGoEgeYJI2OzZhDPDGDkbVDyClc67x3cpihOh8CDu9hehPvHCJ_ORrYge1F6lur_vSay1H_pwiXZh18IhTtJ8QILMAFFsrtxKqcXLGWUDg-vnhM28YGWFyIGp-yElRUtXPMOfVZjLbAKftFW/s1600/Star_Channel.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Be Mad",
@@ -431,7 +431,7 @@
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge/smil:254_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKeJVeucQV72I0HYwbhplzqPkyfq9W5SsM7ndud_SNoiruZwQTqKmXvmbOphFs2CmHJF7nztcEdaYnhzaKsb6IffyfpTaZy0VrDOg7k01BEUe4y6OlpksNdDLsjZTXYgUA85cFmUOEcYK4xIlJLvv4OWInQBw11KX3pN5DIlhUmEXz782gLjrUj3Vu/s1600/comed.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Comedy Central",
@@ -1754,7 +1754,7 @@
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge/smil:264_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP-KicQWTZzfll66LsnRPXWPmecmCu1vfUXeVnM2QSmy4HcF-eQfdOlqlIXFNKgoqCdvYiA3w6GWjtI5UQw2RJVNCnsblhv3ivBS82KAM4d2iRRQK1VgUCwbzum2HIQBTNaQlTi1WaGj15cc093V8JNgz5u-cZF4Lk2Erk-3GFaMP7cMOT8kZ9V7hv/s1600/Disney-Junior-Emblem.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Disney Jr",
@@ -1775,7 +1775,7 @@
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge/smil:260_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXKGyE0N38QGedvhdJkzDS9WtItYFx6J_4mlbS1KWG1x4c3M9RwTYUVC2d2A4Jl13H1hCYvHWmmpJPoNnsHtKbq5nQlAU2Lq_7gP9pqPV4lzoRy_f2xWvkRYa2pulj-iEK3OUbP9tzZr3cDbLxrNwOdRRgv5xanvqfWUt9a4NfYjcIT7Rt-NvzJt6F/s1600/Nickelodeon.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Nickelodeon",
@@ -1789,7 +1789,7 @@
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge/smil:261_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxikJMbecG5uTb23OYlA40QpnZMjgXL-FD5nxACF8CK6R1mWjomDZQ-MhHE6byqv_zWJg1I_fn2KMTZjS_sWzFUSsS5VlckePCs7C91tdOJBrk0qglR4EWf_gF4FBsdLUzRH5vbxrQwQ1jcoHMtUCei-r0R75dwnojA7EyW3UD0g11H9tCljyzKn45/s1600/NickJr.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Nick Jr",
@@ -1892,7 +1892,7 @@
   {
     "title": "Clan",
     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15620",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTCxL1Hw0JOSn-lBhIxS39CIBiYnT6QLwJxrPvkCc7wosiAWzAGLV_7w6UksnbQvQwtIb3DJKN0g1h_5F4G7HaYpOOiy4GP3ZonauIeg_-_o3_XzF2s4SVz4t4wVmlGO8jfYB9VIUev3dnzwBg4r3tdOpvrOs0RwcjlphnmdUuQ8mPYq-NOyI-bVMU/s1600/clan.png",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAjXISFXxZi5Ohcu0IlihcBXunkYP4H-i1ZsbcOm8hQDhv21bymuw9dc50Paj4SJ0pirsgzkyGxG70g9k7ePb3W2p6m3ITrbSPtxj5v7g0pGA02LCDLwFZUhAOigDFZdE2Fpbk6BbOg2AHNb6q6timQE6SRLtMqmFaW9t1lSMukk9-4MzQ8MoIw2Zb/s1600/Clan_2026.svg.png",
     "category": "Animación",
     "disabled": false
   },
@@ -2188,7 +2188,7 @@
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge/smil:257_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVSK4tKb3OxfK9aiA9DVRWSnNLBbh3upPnPsF57AhShVKTIWGtM5fcUgyRDV2mnT7I5UemKMxy8SJNXOdO_lGTfEI9RpjJ2T0pAd73-gnbzdggB4pWPVGi2Os3nf_FlYFKOFb_G-sQjKZppGIPOAJhQWmdzeh3CIkRfP9kZaeiyakZqr_3H7qSodWY/s1600/national-geographic.png",
     "category": "Documentales",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "National Geographic",
@@ -2475,7 +2475,7 @@
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge/smil:258_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbIJb0yleuiIuFw-y_MMSru4V-KTEI_4cbPmdCDrsW8DKp0QeVrV_d7aN-Az7Y1cMQRFTWkBDe-_w1Sh2Uws__u1jOTao6FUdD4QamDYxPmEUn38x2Rp0sUkzDlAcQqxjY7OPGzzbUPon2kd4j5izbNCVKXYN0PkesmgWezAjflpAaznls5keT_9ncX2Hm/s800/Nat%20%20Wild.png",
     "category": "Documentales",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "BBC Earth",
@@ -3509,7 +3509,7 @@
   {
     "title": "Teledeporte",
     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Tdp_HD.png",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ7SOlgnX0vm2riIFQI_xWnPj0Lua9oZLYS1eXDpV5_a1xxzU70-ySTrZcgmDDGqGMr-liCmnhlqccqlvcVRkxVHxyjqgo2elEy-eCSFgE6FGiQQi0z-tY1FChQaMO9JRKPzqxk3g7a_FReM46HwbJnnnEnU4q3dpDPS8Pkz45pSaw9pIUHDvwH3Fp/s1600/TDP_2026.svg.png",
     "category": "Deportes",
     "disabled": false
   },
