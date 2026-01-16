@@ -246,10 +246,10 @@
   },
   {
     "title": "Warner Tv",
-    "url": "http://181.78.82.6:46090/play/a00f/index.m3u8",
+    "url": "http://192.187.102.26:80/playlistfinder/playlistfinder/12.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgemgMLla0jUP0QWfVzix2djA3mLsLSo-_yw-nreBSN1J7CfmgBNdl0kpSk7AcHtxttM1WS3isLUoqRvb5QqmVPuYdjPojjkkFxysYFGyXV2MSOpKLOznMbS572VNuVqEbvEB2RfkSqj-idO0vfoH173iWSdTYzG0dir7tP6U8Qlp0njrG93zKaoNGu/s1600/Warner.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "HBO max",
