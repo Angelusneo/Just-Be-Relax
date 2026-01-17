@@ -3046,45 +3046,45 @@
   },
   {
     "title": "ESPN Premium",
-    "url": "http://201.217.246.177:8000/play/a078/index.m3u8",
+    "url": "http://168.90.14.251:8000/play/a0mv/index.m3u8",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",
     "category": "Deportes",
     "disabled": false
   },
   {
     "title": "ESPN 2",
-    "url": "http://201.217.246.177:8000/play/a059/index.m3u8",
+    "url": "http://168.90.14.251:8000/play/a0mo/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdg1qxp3EN3RYE3_C8JKSOVHwZuvdnVaiCI9FHrj_MQJQs0T7ivJvxjP3InVSWS2UmzT_Xr9ovRuvp2lBkS7wYhEv3CYKSTteAyd4d4wy4CCkuKtDykFXzHOd-ICz3ok6qjdnt_S7AFMOZp4vXTMpX0y9Vz4P12WUIc8PvoVMCbNkjmH3eTedPbTwx/s1600/ESPN2_logo.svg.png",
     "category": "Deportes",
     "disabled": false
   },
   {
     "title": "ESPN 3",
-    "url": "http://201.217.246.177:8000/play/a05b/index.m3u8",
+    "url": "http://168.90.14.251:8000/play/a0ll/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_luhhdNmHjJaWkd2ndWm5wwCpD9sujJKvwcogWuOm1pCk_63zqBZP1R___jSX-dKBZ6p-Eb6NeeTNIdu-eb9_f8XYGdUcG9ae47DGV3Ie1UMOwfm5abzY4TFvXlK4gOLZrGveL1jGIun2JYfnLbwWOImj0bnehzp5IkdgkJfEEmaxm8GllWbHV_is/s1600/ESPN_3.png",
     "category": "Deportes",
     "disabled": false
   },
   {
     "title": "ESPN 4",
-    "url": "http://201.217.246.177:8000/play/a076/index.m3u8",
+    "url": "http://168.90.14.251:8000/play/a0lk/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpjZQSKdzFlR_PgIufZpPKdUm11uAGiusAZ7eXmxqJE5Lx8Y4cINT6ZgWQtNXGza-VF6RxcTB1btnlDziHp4ADJdDxcnOnbjN9wcTMwLja-hOLHAskjIiTPy9KNOIteWXoP5kAtnUh2VOGF_RoaxJKuDjGeavXC9H_PsAASrDEIc6QtalZVU6eKXj_/s1600/ESPN_4.png",
     "category": "Deportes",
     "disabled": false
   },
   {
     "title": "ESPN 5",
-    "url": "http://200.6.182.118:8123/play/a07p/index.m3u8",
+    "url": "http://168.90.14.251:8000/play/a0l4/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDiQVJpcww86abXY4Io9z8j1ry8OSTy0c7SbJdigEWTl0w-R6W0FFDJ2y5OYwBnKpeVja4eFUyc838VIrceGH2bQVTD43jVu3fVrP-Bb2RxAyPBgXG9mRGd5dt-NRSrivspzSgO2AXVWbGexNIBg1770KdnCZ610PDZ9pKsfXIjUCZfqEcKbBe0Zo-/s1600/ESPN_5.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "ESPN 6",
-    "url": "hhttp://200.6.182.118:8123/play/a074/index.m3u8",
+    "url": "http://168.90.14.251:8000/play/a0lm/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4bNNB_o9eARN-zmXJztqC_Ac4SfnLUPmy_Bqx227SEKRnkx1C4ASlU2pJiJ0qt_Zrnjp7JtHGz8wC-eztVUwJhIPRFM5Vwo_Z3EBoV_oMRVX2e-MydspTT450ZVSCqjU1rXz5jnKrpbUB4oM-TAndJYzFL6zgDxBMMBQlT5GfHi7uHfyXzgsfMxaJ/s1600/ESPN_6.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "ESPN 7",
