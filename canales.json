@@ -3035,49 +3035,49 @@
     "url": "http://168.90.14.251:8000/play/a0mv/index.m3u8",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "ESPN 2",
     "url": "http://179.1.24.58:8000/play/a005",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdg1qxp3EN3RYE3_C8JKSOVHwZuvdnVaiCI9FHrj_MQJQs0T7ivJvxjP3InVSWS2UmzT_Xr9ovRuvp2lBkS7wYhEv3CYKSTteAyd4d4wy4CCkuKtDykFXzHOd-ICz3ok6qjdnt_S7AFMOZp4vXTMpX0y9Vz4P12WUIc8PvoVMCbNkjmH3eTedPbTwx/s1600/ESPN2_logo.svg.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "ESPN 3",
     "url": "http://179.1.24.58:8000/play/a006",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_luhhdNmHjJaWkd2ndWm5wwCpD9sujJKvwcogWuOm1pCk_63zqBZP1R___jSX-dKBZ6p-Eb6NeeTNIdu-eb9_f8XYGdUcG9ae47DGV3Ie1UMOwfm5abzY4TFvXlK4gOLZrGveL1jGIun2JYfnLbwWOImj0bnehzp5IkdgkJfEEmaxm8GllWbHV_is/s1600/ESPN_3.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "ESPN 4",
     "url": "http://179.1.24.58:8000/play/a007",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpjZQSKdzFlR_PgIufZpPKdUm11uAGiusAZ7eXmxqJE5Lx8Y4cINT6ZgWQtNXGza-VF6RxcTB1btnlDziHp4ADJdDxcnOnbjN9wcTMwLja-hOLHAskjIiTPy9KNOIteWXoP5kAtnUh2VOGF_RoaxJKuDjGeavXC9H_PsAASrDEIc6QtalZVU6eKXj_/s1600/ESPN_4.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "ESPN 5",
     "url": "http://179.1.24.58:8000/play/a008",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDiQVJpcww86abXY4Io9z8j1ry8OSTy0c7SbJdigEWTl0w-R6W0FFDJ2y5OYwBnKpeVja4eFUyc838VIrceGH2bQVTD43jVu3fVrP-Bb2RxAyPBgXG9mRGd5dt-NRSrivspzSgO2AXVWbGexNIBg1770KdnCZ610PDZ9pKsfXIjUCZfqEcKbBe0Zo-/s1600/ESPN_5.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "ESPN 6",
     "url": "http://179.1.24.58:8000/play/a009",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4bNNB_o9eARN-zmXJztqC_Ac4SfnLUPmy_Bqx227SEKRnkx1C4ASlU2pJiJ0qt_Zrnjp7JtHGz8wC-eztVUwJhIPRFM5Vwo_Z3EBoV_oMRVX2e-MydspTT450ZVSCqjU1rXz5jnKrpbUB4oM-TAndJYzFL6zgDxBMMBQlT5GfHi7uHfyXzgsfMxaJ/s1600/ESPN_6.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "ESPN 7",
     "url": "http://179.1.24.58:8000/play/a00a",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju5lmWSwE9dXjpdw3K67mCpLqfSihYTgRdg9xqYKCA9UrTUUqx2fxQA-0DZS3w3dRXMdh7PuHrlgssxa2CW-NjOwiBxSopGuTwYO0Sj0hDyFs6RvS7oyitPdAQGCeu7PWC1zAA_JrIlraq1y8J-JLlo9mLcmWmVRtBrUipTJwm2HgGNC1hQU6J2A0B/s1600/ESPN_7.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "VIX TUDN",
@@ -3420,14 +3420,14 @@
     "url": "http://190.92.10.66:4000/play/a006/index.m3u8",
     "thumbnailUrl": "https://r2.thesportsdb.com/images/media/channel/logo/Sky_Bundesliga_1.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Sky Sports Darts",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginPacket15/smil:290_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLae7F_0McF9qdM0wHM9eXhbsPK9ckl-UZ3J8O0gQYbVRf1NlnZ-dVf6IexVVzGzXQhHHqcfpTjxVj9WllWiCoiH_iDdRbeHXuiaz69nypb7NQhjWTlnwkcfI_uUKUn96S7o3bz3lonNlKpeG38jsaFo_bzZW1g63PHYu_M8iL62vL2VV5tn3pjXlS/s1600/channels4_profile.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Pimera federación",
