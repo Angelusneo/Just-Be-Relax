@@ -716,14 +716,14 @@
   {
     "title": "Run:Time Series",
     "url": "https://run-rss.otteravision.com/run/rss/rss_720.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq35tHhu-3bVN86JxNmi3dWTJiQrq5AyOv7JJoD2-KdDeo73cRTmV0ve11DFwSjWqsSCIOBZ5GVz5ev256WGU8-uRGD1mzjygNiqd9JAQbiBMcqt-_KPQgKaqEm4WTXtaj2hvDbVqv45IVr5pz_ClZCmDxv768JQfFRluSPe2qJciGOS6q2ohcdf_3/s1600/Series.png",
+    "thumbnailUrl": "https://provider-static.plex.tv/epg/cms/production/077da4d3-b10f-4487-8765-3806a693f8fd/Runtime_ES_Series_Dark_Mode_Logordx.png",
     "category": "Series",
     "disabled": false
   },
   {
     "title": "Run:Time Cine y Series",
     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_k7RhdVdsciJwidUK0TSdpdx_aO0r_0KKTH6r7QOtmNuxNwajO8qxr4QXY-R1qOC5LVXTLo28aYCmQFJqmo7zykL3-YxkxEZ_tpA-uL1Hp12MUElskTBk55dc557CNwHcVfqiSSM7Tmwzuq_Oy4qIhbjChrBJJetRrDiZ3raGdzta7vA9-iY7_0PL/s1600/Runtime.png",
+    "thumbnailUrl": "https://provider-static.plex.tv/epg/cms/production/397a4a3a-ab7f-4b1b-b568-84b54c52fc56/Runtime_Spain_Dark_Mode_Logordcx.png",
     "category": "Cine",
     "disabled": false
   },
@@ -954,7 +954,7 @@
   {
     "title": "Platos Sucios",
     "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-68645c1f1a2f321847ec0391.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfryGQ1AikwuqFUtCQVLoee3uLp5poPABrtgjN2Hw5F42u3MlQJQEaiVmy_1D1ZBVYExfnIdnjjFK0wE5hoGOWNKDwiUMxojB4iq2p1nWGBXaSeE1wRJOUrGxh-CQqABPKS_9hSmNIW5tHWefrlQTiWeAr6Y-QOgHSnq0ekELEbVfWQ1MfjElpR_lD/s1600/platos.png",
+    "thumbnailUrl": "https://provider-static.plex.tv/epg/cms/production/295bd4d4-c84e-4cb7-a0fe-e96f66ba2c40/PLATOS_SUCIOS_channel_logo_colorRDX.png",
     "category": "Series",
     "disabled": false
   },
@@ -1213,7 +1213,7 @@
   {
     "title": "Cine Western",
     "url": "https://daiconnect.com/live/hls/tvup/zylo-cwestern/.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgddMlIRKDi1DuuASF25rlAi3vGRWWXAHp9mQ7UNRzqNPsV97e-LwIyubk0bhWrJnmqktFF72_hD3Kzq2_9Lec7OA2bUUu6wzon_iVlTnig8LHO6OiKiXykDXQ9hePBjIqoo978s99bP0KMSYWh2A-yZjLCiNOWuG2i-EmxEpFwJOVPcuIUA68LiLp9/s1600/western.png",
+    "thumbnailUrl": "https://provider-static.plex.tv/epg/cms/production/1be934c5-1520-439c-8b0d-52a4f7716311/CinewesternWhite_LogoRDX.png",
     "category": "Cine",
     "disabled": false
   },
@@ -2949,7 +2949,7 @@
   {
     "title": "Actualidad 360",
     "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-682510ec0f741b077c360512.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZP1Mw8-Us57ppal3yvRgh4Z8q30O8LpgUMNcNiRuEegSNAQ5zX0zd3NoVSLSPHDd_hw_D5rfBdwcsJ2IMDlVbtL3DKnEm_RA4gHIBYOOrJqbFzwN-tiYSfkSgXgMA52fA4MYR3D1hclWDmwr-DTDnXaauOGMCnrPbLo705XfoGgmz0wOIBFveW5K8/s1600/actualidad.png",
+    "thumbnailUrl": "https://provider-static.plex.tv/epg/cms/production/c8f6acf9-137f-4d15-ae6d-5ccca8afdb6f/Logo_Actualidad360_1500x1000_DarkBackground_-_Belen_BrunWHITE_TEXTo.png",
     "category": "Noticias",
     "disabled": false
   },
@@ -3789,21 +3789,21 @@
   {
     "title": "Trace Uk",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYDWwgba-RewyO2PnIulVDmfZD2blvZIMt3vTBSPf7kWf1c55C9Qgz1J6gRdBtgF8_429bokJjVRahjShEPksWV9NNZyhDtWPZUkQ74CusXDFKzlxQJg23fsuvpOlCXYbquzto8i0ENe0TmskYq5zUDjSxP5Qc6NUt-R_L1Z-HTOC_7QlVLl_4LR9L/s1600/traceuk.png",
+    "thumbnailUrl": "https://provider-static.plex.tv/epg/cms/production/23feecc3-94f6-49b7-98e6-1828f42695ea/1500X1000_PNG_w_transparent_background__Logo_suitable_for_dark_backgrounds__-_Pierre_Gournay.png",
     "category": "Música",
     "disabled": false
   },
   {
     "title": "Trace Urban",
     "url": "https://amg01131-tracetv-traceurbanes-samsungspain-c6yeo.amagi.tv/playlist/amg01131-tracetv-traceurbanes-samsungspain/playlist.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2qrWtqAph35uVP88AdJckiJhNZXzlct5I_Ji3-piXXVpEvg86ift3IFysPdvffpNRyoxk5BDkvCj6eS-iabOmwCfdv-uWeA1Cd-NcKjF2VvYcVl6rvZi03kWrJ6OvJVWHRmlf8CJTdsoyY4DPzt1x1mRoJflBwySyYnE3f7Ouw50nC7FIw6PJgtGU/s1600/Urban.png",
+    "thumbnailUrl": "https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png",
     "category": "Música",
     "disabled": false
   },
   {
     "title": "Trace Latina",
     "url": "https://amg01131-tracetv-tracelatinaes-samsungspain-d7byg.amagi.tv/playlist/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF9qWQHg4IYu7MP0bpnBNO8cpx5_kOrhhOgqhtYDcriH6FqB2KKBh8tZ-wuTRBcwBtW-a0IWmJ2XZcDPbv0Bbv52U15HuDxiTgPny6tguakmteBpP1OwoQOKe71mSoqz3iFDlw4Uu3jOg6mjKhC7uxY6PS2lYaYl9gfmJnQywpj1Ds0ILfP2zldGmR/s1600/Latina.png",
+    "thumbnailUrl": "https://provider-static.plex.tv/epg/cms/production/04b0a12e-b393-4456-9927-a48b793b623a/trace_latina_light_-_Nathan_BECKER.png",
     "category": "Música",
     "disabled": false
   },
