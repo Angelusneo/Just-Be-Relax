@@ -168,6 +168,13 @@
     "disabled": true
   },
   {
+    "title": "Star Channel",
+    "url": "http://181.209.37.74:8001/play/a087/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv7Gv5JUmqIaPYIu8vhih-L8u03hn8QwprhGUEoIKbzGoEgeYJI2OzZhDPDGDkbVDyClc67x3cpihOh8CDu9hehPvHCJ_ORrYge1F6lur_vSay1H_pwiXZh18IhTtJ8QILMAFFsrtxKqcXLGWUDg-vnhM28YGWFyIGp-yElRUtXPMOfVZjLbAKftFW/s1600/Star_Channel.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
     "title": "Be Mad",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX/smil:20_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji5wNNEiJN30_HDK0s_SBz5bXacpRujDvNzi0xNAWR5itErYEoESAiCvW0h1MKYlVDm3cZS43sXm7sTmNz4FHEfDcmIdfgAl1bgyDWOS7wigdnTQePQkF3yvNgZ9AAbVI5nvjkFPbUS2EhtZGTExImgUt6d2VG_qYSqFwjFkozKiGT4l-8PiVmxQ3gXYsj/s1600/be-mad.png",
@@ -239,10 +246,10 @@
   },
   {
     "title": "Warner Tv",
-    "url": "http://192.187.102.26:80/playlistfinder/playlistfinder/12.m3u8",
+    "url": "http://181.209.37.74:8001/play/a09d/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgemgMLla0jUP0QWfVzix2djA3mLsLSo-_yw-nreBSN1J7CfmgBNdl0kpSk7AcHtxttM1WS3isLUoqRvb5QqmVPuYdjPojjkkFxysYFGyXV2MSOpKLOznMbS572VNuVqEbvEB2RfkSqj-idO0vfoH173iWSdTYzG0dir7tP6U8Qlp0njrG93zKaoNGu/s1600/Warner.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "HBO max",
@@ -1415,14 +1422,14 @@
   },
   {
     "title": "HBO 2",
-    "url": "http://45.184.87.142:8000/play/a05a",
+    "url": "http://181.209.37.74:8001/play/a07o/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJhGv4Dp9EsNcug31jwfjkubKkR__LRP36wvl7LxG7ssSVUMaO_ETwGBSw5-UiAWoKF76VB7VoEhZHVLlS6Jc3FlohZ8lFfLDGDhK4Ht9ZyYHlgciPK7tOCyHySK89SiFiRYmVU1MrcJfrU7epEbtuUtkC0MCkD39wCBMzoHY16iOpYrZY8oQTotAD/s1600/HBO_2.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "HBO Family",
-    "url": "https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8",
+    "url": "http://181.209.37.74:8001/play/a07p/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhTuC7vggWhVSZoAnhsASgVkADCqkd9fTrDT32FhDCrnTgpNhoSwDHU-GIXb3Q-FPU7rmFgl2-XNia8ejBj_nfq0uQYoOq-oyGPtlT6M1Nss2pZ1luciTjk42auPW_sykIioZMmpX2TJZBbp7IQqBHAqpaTZrNK57IQANPXEC7UdA4ycnybuQyollx/s1600/HBO_Family.png",
     "category": "Cine",
     "disabled": false
@@ -1432,14 +1439,14 @@
     "url": "http://45.184.87.142:8000/play/a05m",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN0iVngAMPu8XZfYcOSNV9tHdyyR9ry_XecHcPch-H354Ilt2jT9IsNjm1hBW3TBYO3UVx2GHMM1c-uBCtuLYVS8NcJp0Agg8QSyPCYLf8nqbAARdx_qVHVlVyVzDffppNEoYB_kJr8EvlKh1euCsg1VK2hRupj7w1yGMcU5iL2mPbQWOuR1GoWv56/s1600/plus.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "HBO Xtreme",
-    "url": "http://45.232.176.17:8000/play/a011",
+    "url": "http://181.209.37.74:8001/play/a06g/index.m3u8",
     "thumbnailUrl": "https://i.imgur.com/Wz3WemYg.jpg",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Golden",
@@ -1555,28 +1562,21 @@
   },
   {
     "title": "TNT ",
-    "url": "http://201.217.246.177:8000/play/a07d/index.m3u8",
+    "url": "http://181.209.37.74:8001/play/a08b/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPywg-WJgPwv2in1DPtqKabsOmGUgTtvu7PyG4RwbHJ-53WuV_RMP2EZ5d7_csR5D9P7DDi6N6oouIYYjEMJ6cVnKaNlYHxm9TV_rNoG1icaSAv10damhsdB_sqfST3tJFjjV8DG2T1qnPL-q3XvrhRGePDPPM-fpe2QSW-NpBReImzhaIK53RDfSM/s1600/TNT.png",
     "category": "Series",
     "disabled": false
   },
   {
     "title": "TNT Series",
-    "url": "http://38.51.234.11:8888/play/a0e4",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvwHaCuzI56V4hUzPsYQyyq19-qrHuav6XQM_N_X4WE-cSYyx1Cd7mcl4-N4DUgclzEd69BUTaQaGwVb23Tqykj5abmkHJ3hQXgLLTrjVQ_ursIFQThvoRI1NUCAc-1kRRVFDDViERappobBFLWAp6CMnj5U1wbGS1ogU-_8rjqtK8itqgb5-NFGFov5Am/s1600/unnamed.png",
-    "category": "Series",
-    "disabled": false
-  },
-  {
-    "title": "TNT Series",
-    "url": "http://201.217.246.177:8000/play/a07e/index.m3u8",
+    "url": "http://181.209.37.74:8001/play/a08c/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvwHaCuzI56V4hUzPsYQyyq19-qrHuav6XQM_N_X4WE-cSYyx1Cd7mcl4-N4DUgclzEd69BUTaQaGwVb23Tqykj5abmkHJ3hQXgLLTrjVQ_ursIFQThvoRI1NUCAc-1kRRVFDDViERappobBFLWAp6CMnj5U1wbGS1ogU-_8rjqtK8itqgb5-NFGFov5Am/s1600/unnamed.png",
     "category": "Series",
     "disabled": false
   },
   {
     "title": "TNT Novelas",
-    "url": "http://38.51.234.11:8888/play/a0e5",
+    "url": "http://181.209.37.74:8001/play/a08e/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq5IRJJIIjQLh8tHBj9z2p_bVvRbV4QUQsrcZFx_MiXPX5ZIyAXw4v8m1YnL1GkeNw0KL-vIG66gz0VGYaWXr3CQ-aiTgpcCD0hPDxyThfwZEoS00cDewLtW0AEavRIWZVkp-HnMbc-HXVnEqcqOg7wfDipoE2MSb932uRG_t_2DYzWoMmNZbFhyphenhyphennn/s1600/TNTNOVELAS.png",
     "category": "Series",
     "disabled": false
