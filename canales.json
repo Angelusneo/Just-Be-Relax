@@ -435,10 +435,10 @@
   },
   {
     "title": "Comedy Central",
-    "url": "https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/COMEDYCENTRAL/20-hls/live-media.m3u8",
+    "url": "http://181.209.37.74:8001/play/a072/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKeJVeucQV72I0HYwbhplzqPkyfq9W5SsM7ndud_SNoiruZwQTqKmXvmbOphFs2CmHJF7nztcEdaYnhzaKsb6IffyfpTaZy0VrDOg7k01BEUe4y6OlpksNdDLsjZTXYgUA85cFmUOEcYK4xIlJLvv4OWInQBw11KX3pN5DIlhUmEXz782gLjrUj3Vu/s1600/comed.png",
     "category": "Entretenimiento",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Vin Tv",
@@ -1142,7 +1142,7 @@
   },
   {
     "title": "Cinemax",
-    "url": "http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/CINEMAX/index.m3u8",
+    "url": "http://181.209.37.74:8001/play/a08r/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwyvGVVG_LC_70KrzsQojC4dp-r7LBCgGYUNzr7Q5dD7WKoLdmJWuo-WGMXLoIFruqF4xyBaJrfyyHjl8DeIQ0S09DkW3xDuMWzZO6zCLwsqVl3-h05X6sk5p4rjoRR9bbOsHdDiP5pQdkVBxd4hqFDLItJw9SbiugAtgQXbi0K_0qhUmjzq8oCBfB/s1600/Cinemax.png",
     "category": "Cine",
     "disabled": false
@@ -1387,13 +1387,6 @@
   },
   {
     "title": "Universal Cinema",
-    "url": "http://45.184.87.142:8000/play/a05o",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png",
-    "category": "Cine",
-    "disabled": false
-  },
-  {
-    "title": "Universal Cinema",
     "url": "http://181.78.106.127:9000/play/ca083/index.m3u8",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png",
     "category": "Cine",
@@ -1474,28 +1467,28 @@
     "url": "http://45.184.87.142:8000/play/a05e",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Ksw_eaQbZOR5wO7Joe1aAsiHbz9wZq-9hvw1kzJV5SlO1NzR5HIfaYljF7LMarfGwA3XYV9TKNfdsgxHDRdBJOlOCL9kh3YqTEEUz-qrXNzUjjeXKF7zMJQP1RbLvsDLzH06T-PuIJnlZeYGSb9anpXGAtAxP_aDCRA6hyphenhyphenuUuHfzV4I5epjs_udF/s1600/MX-removebg-preview.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "MX Family",
     "url": "http://45.184.87.142:8000/play/a03b",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAmFjLSxIkKxCVYaQfd1ZjwBii3sLSC-6RfJThfTcXAUSqzXeKKwVjinduvnZEa84bSRpir6VyPxVWfhphPRGkQNH5UdcgSlHKhaLoqou7GsvIxBYKVWj_3LeAWtQGl8eOS0a2hWuj3R77i3d61yQyBUqUGdsmJ8gsNoSy8h7D5iv2c_tYCdyTsI5H/s1600/mx.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "MX Classic",
     "url": "http://45.184.87.142:8000/play/a03g",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBSW4OLQkywW4RvaAV14b1mIpKDi0h8PJAx5VnG_0cmUCoE4SZG-QRlw0UGDB6EaZoFEq0P8Y8jMhwMczysr6zuGGtfpTDmY0Qs7sQItAVZyQjcE3sW5gXpDZ1xFoPcI9iKU5pQ8aGLoktF9Cn38nAqyJZfqjloKaVwMvtTvlcmy52fuy6UVBKEoBT/s1600/2-pica.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "MX Series",
     "url": "http://45.184.87.142:8000/play/a03f",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaQw9ZQRkwl-rBKo49OhWjYGwc2IfxQlmejqRvZJkBNrsKGW7M_b9VL29aMOnFXn5BokSSQ088OtMdbnVHq4c36nD8BSBW9kH41wm25NiZAXpy04ujPQC3z7u9POIuy8fLk0XRBaoSJg-eS3zt1iPYnJTcmpyrOb-cQ24QZDbM955rnGAtpUiHiSoX/s1600/mx_series.png",
     "category": "Series",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Free Tv Acción",
