@@ -3025,10 +3025,10 @@
   },
   {
     "title": "Fox Sports 3",
-    "url": "http://104.238.205.28:8989/278267_.m3u8",
+    "url": "http://181.209.37.74:8001/play/a06y/index.m3u8",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "ESPN Premium",
