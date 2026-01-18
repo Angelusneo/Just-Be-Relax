@@ -1779,10 +1779,10 @@
   },
   {
     "title": "Nickelodeon",
-    "url": "http://tmptv.sunduk.tv/CH16283/index.m3u8",
+    "url": "http://181.209.37.74:8001/play/a08y/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXKGyE0N38QGedvhdJkzDS9WtItYFx6J_4mlbS1KWG1x4c3M9RwTYUVC2d2A4Jl13H1hCYvHWmmpJPoNnsHtKbq5nQlAU2Lq_7gP9pqPV4lzoRy_f2xWvkRYa2pulj-iEK3OUbP9tzZr3cDbLxrNwOdRRgv5xanvqfWUt9a4NfYjcIT7Rt-NvzJt6F/s1600/Nickelodeon.png",
     "category": "Animación",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Nick Jr",
@@ -1793,10 +1793,10 @@
   },
   {
     "title": "Nick Jr",
-    "url": "http://tmptv.sunduk.tv/CH16325/index.m3u8",
+    "url": "http://181.209.37.74:8001/play/a07s/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxikJMbecG5uTb23OYlA40QpnZMjgXL-FD5nxACF8CK6R1mWjomDZQ-MhHE6byqv_zWJg1I_fn2KMTZjS_sWzFUSsS5VlckePCs7C91tdOJBrk0qglR4EWf_gF4FBsdLUzRH5vbxrQwQ1jcoHMtUCei-r0R75dwnojA7EyW3UD0g11H9tCljyzKn45/s1600/NickJr.png",
     "category": "Animación",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "TeenNick",
@@ -2193,6 +2193,13 @@
   {
     "title": "National Geographic",
     "url": "http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVSK4tKb3OxfK9aiA9DVRWSnNLBbh3upPnPsF57AhShVKTIWGtM5fcUgyRDV2mnT7I5UemKMxy8SJNXOdO_lGTfEI9RpjJ2T0pAd73-gnbzdggB4pWPVGi2Os3nf_FlYFKOFb_G-sQjKZppGIPOAJhQWmdzeh3CIkRfP9kZaeiyakZqr_3H7qSodWY/s1600/national-geographic.png",
+    "category": "Documentales",
+    "disabled": false
+  },
+  {
+    "title": "National Geographic",
+    "url": "http://181.209.37.74:8001/play/a09f/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVSK4tKb3OxfK9aiA9DVRWSnNLBbh3upPnPsF57AhShVKTIWGtM5fcUgyRDV2mnT7I5UemKMxy8SJNXOdO_lGTfEI9RpjJ2T0pAd73-gnbzdggB4pWPVGi2Os3nf_FlYFKOFb_G-sQjKZppGIPOAJhQWmdzeh3CIkRfP9kZaeiyakZqr_3H7qSodWY/s1600/national-geographic.png",
     "category": "Documentales",
     "disabled": false
@@ -3032,31 +3039,31 @@
   },
   {
     "title": "ESPN Premium",
-    "url": "http://168.90.14.251:8000/play/a0mv/index.m3u8",
+    "url": "http://181.209.37.74:8001/play/a086/index.m3u8",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "ESPN 2",
-    "url": "http://179.1.24.58:8000/play/a005",
+    "url": "http://181.209.37.74:8001/play/a098/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdg1qxp3EN3RYE3_C8JKSOVHwZuvdnVaiCI9FHrj_MQJQs0T7ivJvxjP3InVSWS2UmzT_Xr9ovRuvp2lBkS7wYhEv3CYKSTteAyd4d4wy4CCkuKtDykFXzHOd-ICz3ok6qjdnt_S7AFMOZp4vXTMpX0y9Vz4P12WUIc8PvoVMCbNkjmH3eTedPbTwx/s1600/ESPN2_logo.svg.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "ESPN 3",
-    "url": "http://179.1.24.58:8000/play/a006",
+    "url": "http://181.209.37.74:8001/play/a09a/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_luhhdNmHjJaWkd2ndWm5wwCpD9sujJKvwcogWuOm1pCk_63zqBZP1R___jSX-dKBZ6p-Eb6NeeTNIdu-eb9_f8XYGdUcG9ae47DGV3Ie1UMOwfm5abzY4TFvXlK4gOLZrGveL1jGIun2JYfnLbwWOImj0bnehzp5IkdgkJfEEmaxm8GllWbHV_is/s1600/ESPN_3.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "ESPN 4",
-    "url": "http://179.1.24.58:8000/play/a007",
+    "url": "http://181.209.37.74:8001/play/a084/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpjZQSKdzFlR_PgIufZpPKdUm11uAGiusAZ7eXmxqJE5Lx8Y4cINT6ZgWQtNXGza-VF6RxcTB1btnlDziHp4ADJdDxcnOnbjN9wcTMwLja-hOLHAskjIiTPy9KNOIteWXoP5kAtnUh2VOGF_RoaxJKuDjGeavXC9H_PsAASrDEIc6QtalZVU6eKXj_/s1600/ESPN_4.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "ESPN 5",
