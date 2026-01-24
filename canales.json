@@ -1355,7 +1355,7 @@
     "url": "https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/chunks.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN_UFlncYI89EJGL3ZX8g2hJjoqT_ip_5qKqugAja59gb2jyQ8RW8K5iyFAuF1qQDyTNhxpQVAX4BtC7tJM8DmF-fpm1rdQu5EfNe0v9ahRY0w_9W_ugQ8Tn5S2HqYUC2p-PG8lBrzWGFwNFnoXogHeIDGNv1uhuvCJAdLxNzCkrPNwwxH23T0eCjm/s1600/WOW_movies.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Xtrema Acción",
@@ -1527,7 +1527,7 @@
   },
   {
     "title": "Free Tv Asia",
-    "url": "https://aka-live491.delivery.roku.com/e394d580-0f69-4045-9b7d-f001a74eb2e9/t2-origin/out/v1/live.m3u8",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16274",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEC1-0Ti6bXRFRSEjJKUZEOesrfkGoI-A-OypVoEREbzXjKMknE6jAwZzKAKUgMpKkds7jzkGLXQsKHwQw6VTB3POK1GjC5mezsQIJ9V8qtVkN4vLTyvtu8EAkAIbvklOdTa9hyphenhyphenrMAw2azcdI4rF_etPuoasAPmWLVzeQPH9l56yd05YNUx2sUUzjd/s1600/Free-Tv-ASIA.png",
     "category": "Cine",
     "disabled": true
@@ -1548,10 +1548,10 @@
   },
   {
     "title": "Halmark en Español",
-    "url": "https://aka-live491.delivery.roku.com/5e07fc57-512a-4a4c-9f64-c7eaf28fb51f/t2-origin/out/v1/live.m3u8",
+    "url": "https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9E2F5Ub-4HQ02PhO8AhJzv0sN7SDtf-npghan0JjnbRboIjnzewGvXeZ14oUUtE492Qi06VJU42v8HOwaT7Lxzb8WIMvh5neg000HIJ0QokVhSj-uHXMMz8CBchEkVgn4bO-ckK4Gvb0QP8G0xd0cDas6DJkQjNThjeq0I0ds-hKH6IZ0Ey2XlZtB/s1600/hallmark.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "TNT ",
