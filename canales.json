@@ -50,10 +50,10 @@
   },
   {
     "title": "A3 Series",
-    "url": "http://179.63.191.100:1224/play/a0ey/index.m3u8",
+    "url": "http://176.65.146.203:8401/play/a093/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWdYi-MvzwBfeUmqAEo5K_-wZC2HqabvtAAaSx7rKxyD0FGNYzTVv3jaRlNZjPegDoAQ6HtBrEvqcSPvhnGi83EoeGFr0QvKQ4k7N6PhTS0MCGABudujdyVnqxqxnQ7CX-4KgfVL_15VDlWoVzJUq-NX_nh4K3aQKps6re6dPSuHHpvi_i6viZqQMS/s1600/A3SHD.png",
     "category": "Series",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "A3 Cine",
@@ -207,7 +207,7 @@
     "url": "http://176.65.146.237:8401/play/a09k/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiurVr-tSt-oHbre472lKGem5fMTZGMAZwuXDFlkeg0nRSGb-Zp8yztaMpH-cRiCG-mXYd3903BeY0K0GP8vRIyATa-54CKPjSTSRWHr6UzalwMKbXdfNRK5AdzLW66o_OuBQ0jeURy-oqMGUyO_cbkmyEr9DPW0jcKMrxt24fQIotzJLtoMkUkSfnZ/s1600/Veo7.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "AXN",
@@ -1373,7 +1373,7 @@
   },
   {
     "title": "Studio Universal",
-    "url": "http://181.78.106.127:9000/play/a0ri/index.m3u8",
+    "url": "http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrqGgbyUlfcbZ_yCgh7HwL9yqKHxdvs1yBqoYyK0H2Kj2l-pfQifh41Ew07QkdIdaKZURBpV0aibiUbs33pXMqp5B2GD0tPbVHqsvMsDbwBg1wklGsy4zeRBXNWKrAn6q_MggzdGC0tp9T6ZVHRKxYUvMNmdYOD-ceMYSvzL-PTzfhWwZjphalIru3/s1600/Studio%20Universal%20-%20Logo.png",
     "category": "Cine",
     "disabled": false
@@ -2171,10 +2171,10 @@
   },
   {
     "title": "Discovery Turbo",
-    "url": "http://104.238.205.28:8989/278396_.m3u8",
+    "url": "http://181.78.106.127:9000/play/ca058/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_srNfM4-BNvGkJJUoV5ud8ewKHVO0ejhg_UHE7CqDJscUVh3hXc1wu6jDTWi45CgvFiQhkmjc8iWqWB0uzQ8_Ztreud5AsKcsdEgFq0famp0pnI_e6B39Av3bphyphenhyphenu8c90fNKElXViEempJwi0w0NTXoj-eZ7BtXlvcnN3Nq4GamBAwEX6rUeoy_lQ/s1600/Discovery_Turbo_logo.svg.png",
     "category": "Documentales",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "National Geographic",
@@ -2200,6 +2200,13 @@
   {
     "title": "Historia",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX04/smil:90_premium.smil/manifest.mpd",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlB4Ch5nrysTINeyZ11R_8F1NMF3Qopv5PjgYGYMdg-arrxiP6qfriCBoSAZ78xxJQRk7v0eoyhvlwoLERdNHzJ8J1nrEtkhUnlD7mErsYGMQx_HEWV5hcP25sp3Zai334n8k206KW9JXGTLaC3WMolMgFp5oKD6hHM2Zb3r7IkJ_Wgu-lqc8hj6R_/s1600/History.png",
+    "category": "Documentales",
+    "disabled": false
+  },
+  {
+    "title": "Historia",
+    "url": "http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/HISTORY/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlB4Ch5nrysTINeyZ11R_8F1NMF3Qopv5PjgYGYMdg-arrxiP6qfriCBoSAZ78xxJQRk7v0eoyhvlwoLERdNHzJ8J1nrEtkhUnlD7mErsYGMQx_HEWV5hcP25sp3Zai334n8k206KW9JXGTLaC3WMolMgFp5oKD6hHM2Zb3r7IkJ_Wgu-lqc8hj6R_/s1600/History.png",
     "category": "Documentales",
     "disabled": false
