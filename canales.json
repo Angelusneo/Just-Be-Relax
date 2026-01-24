@@ -1856,10 +1856,10 @@
   },
   {
     "title": "Baby First",
-    "url": "http://broadcast-live-delivery-cdn.jwplayer.com/live/broadcast/yMI6LT67.m3u8",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1297",
     "thumbnailUrl": "https://logos-world.net/wp-content/uploads/2023/04/BabyFirstTV-Logo.png",
     "category": "Animación",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Boing",
@@ -3574,7 +3574,7 @@
     "url": "https://a-cdn.klowdtv.com/live2/countrytv_720p/playlist.m3u8",
     "thumbnailUrl": "https://tcncountry.com/wp-content/uploads/2024/05/TCN-Logo-1920x1080-300dpi-white-text.png",
     "category": "Música",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "K-POP",
