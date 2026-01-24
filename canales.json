@@ -1530,7 +1530,7 @@
     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16274",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEC1-0Ti6bXRFRSEjJKUZEOesrfkGoI-A-OypVoEREbzXjKMknE6jAwZzKAKUgMpKkds7jzkGLXQsKHwQw6VTB3POK1GjC5mezsQIJ9V8qtVkN4vLTyvtu8EAkAIbvklOdTa9hyphenhyphenrMAw2azcdI4rF_etPuoasAPmWLVzeQPH9l56yd05YNUx2sUUzjd/s1600/Free-Tv-ASIA.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Free Live",
