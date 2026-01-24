@@ -252,6 +252,13 @@
     "disabled": false
   },
   {
+    "title": "Warner Tv",
+    "url": "http://177.128.113.1:8000/play/a08n",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgemgMLla0jUP0QWfVzix2djA3mLsLSo-_yw-nreBSN1J7CfmgBNdl0kpSk7AcHtxttM1WS3isLUoqRvb5QqmVPuYdjPojjkkFxysYFGyXV2MSOpKLOznMbS572VNuVqEbvEB2RfkSqj-idO0vfoH173iWSdTYzG0dir7tP6U8Qlp0njrG93zKaoNGu/s1600/Warner.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
     "title": "HBO max",
     "url": "http://tmptv.sunduk.tv/CH17822/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-yOvB6Gxbz19lDWcLdbkFTc6uTbA1bGeBgOuQGRSqtdufSy4poJMCiUS0Ac0K5nnzvok9WZvMaQnRpn6156-mZRUYSzYnS-1oxavKRJBSlPKxEPqb6Z6jfzovzISsLlIZHFLcwkfaoQjZGXwT4zHD897TV23CFkif-nRpQvd-mT5_95FxAV9SBd07/s1600/hbo.png",
@@ -3417,10 +3424,10 @@
   },
   {
     "title": "Sky Sports ",
-    "url": "http://45.228.234.30:16000/play/a03h/index.m3u8",
+    "url": "http://181.78.106.127:9000/play/ca026/index.m3u8",
     "thumbnailUrl": "https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blt3b8488da02f05f25/66b2010b0d26b22d93e45755/Sky_Sports_Logo.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Sky Sports Bundesliga",
@@ -3991,6 +3998,13 @@
   },
   {
     "title": "Venus",
+    "url": "http://177.128.113.1:8000/play/a01o",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzNQmIUGHUcSWjYEpPZHFD7WjQOoUVunZY1sERjT6fZSG4YGh4hWq4tUvBtMIdIHkUlZsWge60LQeon6xI-y-o2m6A8ugNV3q7r445q4mqL6R0205IwK4K7xjVYzoosLg8DorlY_wCJ-KkUjALGN6p5bRicMVKKZNATBAf0HqebW3ges6BphyyoaN-/s1600/venustv.png",
+    "category": "Adulto+18",
+    "disabled": false
+  },
+  {
+    "title": "Venus",
     "url": "http://181.13.252.102:8000/play/a033/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzNQmIUGHUcSWjYEpPZHFD7WjQOoUVunZY1sERjT6fZSG4YGh4hWq4tUvBtMIdIHkUlZsWge60LQeon6xI-y-o2m6A8ugNV3q7r445q4mqL6R0205IwK4K7xjVYzoosLg8DorlY_wCJ-KkUjALGN6p5bRicMVKKZNATBAf0HqebW3ges6BphyyoaN-/s1600/venustv.png",
     "category": "Adulto+18",
@@ -4090,6 +4104,13 @@
   {
     "title": "PLayBoy HD",
     "url": "http://200.125.170.120:8000/play/a02c",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisMOGQ1AVPP5h-r-98_UzhGqQt-6BxQHC-aT8T7L-XGCIEW4D9JUsIgm0cS8eG7xqP-woE5TukixCNBe33AYmB7zimBzx7bfVy07CqVJMdjBRna1jyBsnkRaXtktIwfnMMdOnBETMoUNhKr2fFXxBQJmiX-vNaf3U5adKuKTiaxF3Gi__vvkghb2JL/s1600/playboy.png",
+    "category": "Adulto+18",
+    "disabled": false
+  },
+  {
+    "title": "PLayBoy HD",
+    "url": "http://177.128.113.1:8000/play/a07y",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisMOGQ1AVPP5h-r-98_UzhGqQt-6BxQHC-aT8T7L-XGCIEW4D9JUsIgm0cS8eG7xqP-woE5TukixCNBe33AYmB7zimBzx7bfVy07CqVJMdjBRna1jyBsnkRaXtktIwfnMMdOnBETMoUNhKr2fFXxBQJmiX-vNaf3U5adKuKTiaxF3Gi__vvkghb2JL/s1600/playboy.png",
     "category": "Adulto+18",
     "disabled": false
