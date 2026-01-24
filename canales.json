@@ -207,7 +207,7 @@
     "url": "http://176.65.146.237:8401/play/a09k/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiurVr-tSt-oHbre472lKGem5fMTZGMAZwuXDFlkeg0nRSGb-Zp8yztaMpH-cRiCG-mXYd3903BeY0K0GP8vRIyATa-54CKPjSTSRWHr6UzalwMKbXdfNRK5AdzLW66o_OuBQ0jeURy-oqMGUyO_cbkmyEr9DPW0jcKMrxt24fQIotzJLtoMkUkSfnZ/s1600/Veo7.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "AXN",
@@ -246,17 +246,10 @@
   },
   {
     "title": "Warner Tv",
-    "url": "http://181.209.37.74:8001/play/a09d/index.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgemgMLla0jUP0QWfVzix2djA3mLsLSo-_yw-nreBSN1J7CfmgBNdl0kpSk7AcHtxttM1WS3isLUoqRvb5QqmVPuYdjPojjkkFxysYFGyXV2MSOpKLOznMbS572VNuVqEbvEB2RfkSqj-idO0vfoH173iWSdTYzG0dir7tP6U8Qlp0njrG93zKaoNGu/s1600/Warner.png",
-    "category": "Cine",
-    "disabled": false
-  },
-  {
-    "title": "Warner Tv",
     "url": "http://177.128.113.1:8000/play/a08n",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgemgMLla0jUP0QWfVzix2djA3mLsLSo-_yw-nreBSN1J7CfmgBNdl0kpSk7AcHtxttM1WS3isLUoqRvb5QqmVPuYdjPojjkkFxysYFGyXV2MSOpKLOznMbS572VNuVqEbvEB2RfkSqj-idO0vfoH173iWSdTYzG0dir7tP6U8Qlp0njrG93zKaoNGu/s1600/Warner.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "HBO max",
@@ -4006,13 +3999,6 @@
   {
     "title": "Venus",
     "url": "http://181.13.252.102:8000/play/a033/index.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzNQmIUGHUcSWjYEpPZHFD7WjQOoUVunZY1sERjT6fZSG4YGh4hWq4tUvBtMIdIHkUlZsWge60LQeon6xI-y-o2m6A8ugNV3q7r445q4mqL6R0205IwK4K7xjVYzoosLg8DorlY_wCJ-KkUjALGN6p5bRicMVKKZNATBAf0HqebW3ges6BphyyoaN-/s1600/venustv.png",
-    "category": "Adulto+18",
-    "disabled": false
-  },
-  {
-    "title": "Venus",
-    "url": "http://181.78.202.249:8002/play/a069/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzNQmIUGHUcSWjYEpPZHFD7WjQOoUVunZY1sERjT6fZSG4YGh4hWq4tUvBtMIdIHkUlZsWge60LQeon6xI-y-o2m6A8ugNV3q7r445q4mqL6R0205IwK4K7xjVYzoosLg8DorlY_wCJ-KkUjALGN6p5bRicMVKKZNATBAf0HqebW3ges6BphyyoaN-/s1600/venustv.png",
     "category": "Adulto+18",
     "disabled": false
