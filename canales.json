@@ -309,10 +309,10 @@
   },
   {
     "title": "Dreamworks",
-    "url": "http://38.191.80.20:8023/play/a01y",
+    "url": "http://179.63.6.12:9000/play/a078",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghGUS66ykmh3mzQMe5wwkf9f5nro-00nHn8iRaVcSoeVQFRvyUqAlzvrK3dsb7nH-wlAXMEzuewd4Ijjhac-OmcniNEb9kgyCahQ9P2k_yMtZ13KhgwA3kXocHZIrSrTbNxfqHSFvgIQtYQUOs2R2iujq0a7sk7dS0xbP2IJ0fFMKsCTBNRmDsJQTS/s1600/DreamWorks.png",
     "category": "Animación",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Acontra+ Cine",
@@ -534,6 +534,34 @@
   {
     "title": "+ Cine",
     "url": "http://179.63.6.12:9000/play/a057",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG7KyyJyVh_3Tk_U3IzJQpbCAcWq99C_YCmCWjtliSZIeXBTSdGnXCilNM36YChEh39TVFEZAQuBAhMUTpvmKAbYfokeDOF0U2KXOqESak70MFc_eubcDlIZyussbds6FnuLIya-SYFH0s2XG9MYZVMpe1l1P5SjjG85LiQF5qqr-6rn6BweBGp6kb/s1600/+CINE.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "+ Cine",
+    "url": "http://179.63.6.12:9000/play/a05t",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG7KyyJyVh_3Tk_U3IzJQpbCAcWq99C_YCmCWjtliSZIeXBTSdGnXCilNM36YChEh39TVFEZAQuBAhMUTpvmKAbYfokeDOF0U2KXOqESak70MFc_eubcDlIZyussbds6FnuLIya-SYFH0s2XG9MYZVMpe1l1P5SjjG85LiQF5qqr-6rn6BweBGp6kb/s1600/+CINE.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "+ Cine",
+    "url": "http://179.63.6.12:9000/play/a06y",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG7KyyJyVh_3Tk_U3IzJQpbCAcWq99C_YCmCWjtliSZIeXBTSdGnXCilNM36YChEh39TVFEZAQuBAhMUTpvmKAbYfokeDOF0U2KXOqESak70MFc_eubcDlIZyussbds6FnuLIya-SYFH0s2XG9MYZVMpe1l1P5SjjG85LiQF5qqr-6rn6BweBGp6kb/s1600/+CINE.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "+ Cine",
+    "url": "http://179.63.6.12:9000/play/a07n",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG7KyyJyVh_3Tk_U3IzJQpbCAcWq99C_YCmCWjtliSZIeXBTSdGnXCilNM36YChEh39TVFEZAQuBAhMUTpvmKAbYfokeDOF0U2KXOqESak70MFc_eubcDlIZyussbds6FnuLIya-SYFH0s2XG9MYZVMpe1l1P5SjjG85LiQF5qqr-6rn6BweBGp6kb/s1600/+CINE.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "+ Cine",
+    "url": "http://179.63.6.12:9000/play/a00w",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG7KyyJyVh_3Tk_U3IzJQpbCAcWq99C_YCmCWjtliSZIeXBTSdGnXCilNM36YChEh39TVFEZAQuBAhMUTpvmKAbYfokeDOF0U2KXOqESak70MFc_eubcDlIZyussbds6FnuLIya-SYFH0s2XG9MYZVMpe1l1P5SjjG85LiQF5qqr-6rn6BweBGp6kb/s1600/+CINE.png",
     "category": "Cine",
     "disabled": false
