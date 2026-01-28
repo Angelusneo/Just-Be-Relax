@@ -302,13 +302,6 @@
   },
   {
     "title": "Dreamworks",
-    "url": "http://181.78.106.127:9000/play/ca054/index.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghGUS66ykmh3mzQMe5wwkf9f5nro-00nHn8iRaVcSoeVQFRvyUqAlzvrK3dsb7nH-wlAXMEzuewd4Ijjhac-OmcniNEb9kgyCahQ9P2k_yMtZ13KhgwA3kXocHZIrSrTbNxfqHSFvgIQtYQUOs2R2iujq0a7sk7dS0xbP2IJ0fFMKsCTBNRmDsJQTS/s1600/DreamWorks.png",
-    "category": "Animación",
-    "disabled": false
-  },
-  {
-    "title": "Dreamworks",
     "url": "http://179.63.6.12:9000/play/a078",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghGUS66ykmh3mzQMe5wwkf9f5nro-00nHn8iRaVcSoeVQFRvyUqAlzvrK3dsb7nH-wlAXMEzuewd4Ijjhac-OmcniNEb9kgyCahQ9P2k_yMtZ13KhgwA3kXocHZIrSrTbNxfqHSFvgIQtYQUOs2R2iujq0a7sk7dS0xbP2IJ0fFMKsCTBNRmDsJQTS/s1600/DreamWorks.png",
     "category": "Animación",
@@ -1250,14 +1243,7 @@
     "url": "http://181.78.106.127:9000/play/a0oi/index.m3u8",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png",
     "category": "Cine",
-    "disabled": false
-  },
-  {
-    "title": "DHE",
-    "url": "http://181.78.106.127:9000/play/a0pp/index.m3u8",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png",
-    "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Cine Western",
@@ -1305,20 +1291,6 @@
     "title": "Sony Cine",
     "url": "https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkfCvIL4N6SlUKBZvUZeP3d6kykV3KrO3lNOOQuH4DMWWtJV-IoBfQi1fe9eGSDQtXmOHuS_ERwvdCNzcK__tCT1sMKYf-9M6KMi6AZlA6CkrzeU5OSgoHc3Q_QKYPCda3Bscm9VVSCq3CYyZfeou2oSguwNUUtIHwVDTnpLjAhOrbzqQvL0L5uD_7/s1600/Sony_Cine.png",
-    "category": "Cine",
-    "disabled": false
-  },
-  {
-    "title": "Sony Cine",
-    "url": "http://181.78.106.127:9000/play/a0po/index.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkfCvIL4N6SlUKBZvUZeP3d6kykV3KrO3lNOOQuH4DMWWtJV-IoBfQi1fe9eGSDQtXmOHuS_ERwvdCNzcK__tCT1sMKYf-9M6KMi6AZlA6CkrzeU5OSgoHc3Q_QKYPCda3Bscm9VVSCq3CYyZfeou2oSguwNUUtIHwVDTnpLjAhOrbzqQvL0L5uD_7/s1600/Sony_Cine.png",
-    "category": "Cine",
-    "disabled": false
-  },
-  {
-    "title": "Space",
-    "url": "http://181.78.106.127:9000/play/ca072/index.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7MW0veva-LXiFkqENIn3VmZRqhekryEQURckSGLSiYjD9bIV_AHZX8ntkF4AGO0IMNFxjyz34Wzsh212aHhJNOlUL2nz6rlA5Q_79tTEfymPw3Jb-W5nhh1GFwi2VYnFT-at2whB9ja6lvTkqg1SuY0A0lBuwPvo2rMNxgmGHhkZnA7RJe7sHsb40/s1600/Space%20%282%29.png",
     "category": "Cine",
     "disabled": false
   },
@@ -1408,13 +1380,6 @@
   },
   {
     "title": "Studio Universal",
-    "url": "http://181.78.106.127:9000/play/a0ri/index.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrqGgbyUlfcbZ_yCgh7HwL9yqKHxdvs1yBqoYyK0H2Kj2l-pfQifh41Ew07QkdIdaKZURBpV0aibiUbs33pXMqp5B2GD0tPbVHqsvMsDbwBg1wklGsy4zeRBXNWKrAn6q_MggzdGC0tp9T6ZVHRKxYUvMNmdYOD-ceMYSvzL-PTzfhWwZjphalIru3/s1600/Studio%20Universal%20-%20Logo.png",
-    "category": "Cine",
-    "disabled": false
-  },
-  {
-    "title": "Studio Universal",
     "url": "http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrqGgbyUlfcbZ_yCgh7HwL9yqKHxdvs1yBqoYyK0H2Kj2l-pfQifh41Ew07QkdIdaKZURBpV0aibiUbs33pXMqp5B2GD0tPbVHqsvMsDbwBg1wklGsy4zeRBXNWKrAn6q_MggzdGC0tp9T6ZVHRKxYUvMNmdYOD-ceMYSvzL-PTzfhWwZjphalIru3/s1600/Studio%20Universal%20-%20Logo.png",
     "category": "Cine",
@@ -1425,28 +1390,28 @@
     "url": "http://181.78.106.127:9000/play/a0rg/index.m3u8",
     "thumbnailUrl": "https://static.wikia.nocookie.net/fic5689/images/3/3d/Universal_TV_%282018-.n.v.%29.png/revision/latest?cb=20210104012419",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Universal Cinema",
     "url": "http://181.78.106.127:9000/play/ca083/index.m3u8",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Universal Premiere",
     "url": "http://181.78.106.127:9000/play/a0qu/index.m3u8",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Universal Crime",
     "url": "http://181.78.106.127:9000/play/a0qx/index.m3u8",
     "thumbnailUrl": "https://iili.io/JKgZg87.md.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Universal Comedy",
@@ -1488,7 +1453,7 @@
     "url": "http://181.78.106.127:9000/play/ca076/index.m3u8",
     "thumbnailUrl": "https://static.wikia.nocookie.net/logopedia/images/a/a2/Golden_Blanco_2020.png/revision/latest?cb=20220131141053&path-prefix=es",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Golden Edge",
@@ -1782,7 +1747,7 @@
     "url": "http://181.78.106.127:9000/play/ca053/index.m3u8",
     "thumbnailUrl": "https://static.wikia.nocookie.net/fic5689/images/d/d6/Disney_Channel_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20210707082839",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Disney Jr",
@@ -1838,7 +1803,7 @@
     "url": "http://181.78.106.127:9000/play/a0pj/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_Vshx4lku8GawnYTdNQqmr5hsZx1Ax-OqzqhzZCDx4t7KQZz8AuMhUgPMW-TtM-PWGBBBQo3RcYe3WNHqHcNtgRcHIjia0RrGoaBlojUpUCaUt8o28gF5p-tAH1J1DXqmCn6mlzzGAcoY85hrNvxkUvumXUuhbXBjyBjWfv63j1IAwB0SnHzM5R48/s1600/TeenNick.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": " Nick Music",
@@ -2213,7 +2178,7 @@
   },
   {
     "title": "Discovery Turbo",
-    "url": "http://181.78.106.127:9000/play/ca058/index.m3u8",
+    "url": "http://179.63.6.12:9000/play/a01x",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_srNfM4-BNvGkJJUoV5ud8ewKHVO0ejhg_UHE7CqDJscUVh3hXc1wu6jDTWi45CgvFiQhkmjc8iWqWB0uzQ8_Ztreud5AsKcsdEgFq0famp0pnI_e6B39Av3bphyphenhyphenu8c90fNKElXViEempJwi0w0NTXoj-eZ7BtXlvcnN3Nq4GamBAwEX6rUeoy_lQ/s1600/Discovery_Turbo_logo.svg.png",
     "category": "Documentales",
     "disabled": false
@@ -3063,14 +3028,14 @@
     "url": "http://181.78.106.127:9000/play/ca031/index.m3u8",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Fox Sport 2 ",
     "url": "http://181.78.106.127:9000/play/ca032/index.m3u8",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/2560px-Fox_sports_2_logo.svg.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Fox Sports 3",
@@ -3083,6 +3048,20 @@
     "title": "ESPN Premium",
     "url": "http://181.209.37.74:8001/play/a086/index.m3u8",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "ESPN Premium",
+    "url": "http://179.63.6.12:9000/play/a02r",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "ESPN 2",
+    "url": "http://179.63.6.12:9000/play/a05z",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdg1qxp3EN3RYE3_C8JKSOVHwZuvdnVaiCI9FHrj_MQJQs0T7ivJvxjP3InVSWS2UmzT_Xr9ovRuvp2lBkS7wYhEv3CYKSTteAyd4d4wy4CCkuKtDykFXzHOd-ICz3ok6qjdnt_S7AFMOZp4vXTMpX0y9Vz4P12WUIc8PvoVMCbNkjmH3eTedPbTwx/s1600/ESPN2_logo.svg.png",
     "category": "Deportes",
     "disabled": false
   },
@@ -3438,13 +3417,6 @@
   },
   {
     "title": "Sky Sports LaLiga ",
-    "url": "http://181.78.106.127:9000/play/ca030/index.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwprkIshq4lJPZefJiCtzeb9qXsHAr5NugHKVfv_e61IMsQx9zSto4N0TJem4amgkqCYHEUEFi3Y-LR9izyMPdtGaxuFz8ocGEUR635c1sHOq93n9ezm2J8f70lSuzlJ7Pav7XLnCT4GMmLrjp8bRkhwylI2zKcu_qPczvhmBzTaflAiNroU9AnvY8/s1600/sky-sports.png",
-    "category": "Deportes",
-    "disabled": false
-  },
-  {
-    "title": "Sky Sports LaLiga ",
     "url": "http://190.14.10.19:16000/play/a09u/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwprkIshq4lJPZefJiCtzeb9qXsHAr5NugHKVfv_e61IMsQx9zSto4N0TJem4amgkqCYHEUEFi3Y-LR9izyMPdtGaxuFz8ocGEUR635c1sHOq93n9ezm2J8f70lSuzlJ7Pav7XLnCT4GMmLrjp8bRkhwylI2zKcu_qPczvhmBzTaflAiNroU9AnvY8/s1600/sky-sports.png",
     "category": "Deportes",
@@ -3455,14 +3427,14 @@
     "url": "http://181.78.106.127:9000/play/ca028/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-LkqMeGzmjWp57-jvcpH5G8tRGgM9PtUYJ7-vix7-kiET7uUBkiDNOuocq8trW9i9GampVCBGK0LgdVRteV0gNcXg4Ip4j3Q7nIzYY39tTKpfBKqHZuCMDHa05-jdHnw2pYh1JVApDpKx-FU4EHJUiVKaM5KkUuFbXiOc9A1CPfQIRKKe10e5bMJr/s1600/ViX%20Premium.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Sky Sports ",
     "url": "http://181.78.106.127:9000/play/ca026/index.m3u8",
     "thumbnailUrl": "https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blt3b8488da02f05f25/66b2010b0d26b22d93e45755/Sky_Sports_Logo.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Sky Sports Bundesliga",
