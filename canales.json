@@ -162,10 +162,10 @@
   },
   {
     "title": "Star Channel",
-    "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge4/smil:248_premium.smil/manifest.mpd",
+    "url": "http://38.44.109.41:8003/play/a012/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv7Gv5JUmqIaPYIu8vhih-L8u03hn8QwprhGUEoIKbzGoEgeYJI2OzZhDPDGDkbVDyClc67x3cpihOh8CDu9hehPvHCJ_ORrYge1F6lur_vSay1H_pwiXZh18IhTtJ8QILMAFFsrtxKqcXLGWUDg-vnhM28YGWFyIGp-yElRUtXPMOfVZjLbAKftFW/s1600/Star_Channel.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Star Channel",
@@ -211,10 +211,10 @@
   },
   {
     "title": "AXN",
-    "url": "http://tmptv.sunduk.tv/CH16815/index.m3u8",
+    "url": "http://38.44.109.41:8003/play/a031/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCGP1b83u6MGNyax_jQpsTCS6puK7Wab9LZt4zgHcUqhzqwODFeqFUNLHLcUaCqZ-47aL2jnichibDtjv572Da2X0-4fAk_3wRzWc-LbeTAsIXVSQTY6T6ScO6EOjTlKWyTsNVcVG12V45V2zMqIWM8JRJmoh0NdhUblSa8xlX7MOKI11CzKLGh1C9/s1600/AXN.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "AXN Movies",
@@ -1134,13 +1134,6 @@
     "disabled": false
   },
   {
-    "title": "+CINE",
-    "url": "https://tv.arkeo.cl:19360/8128/8128.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG7KyyJyVh_3Tk_U3IzJQpbCAcWq99C_YCmCWjtliSZIeXBTSdGnXCilNM36YChEh39TVFEZAQuBAhMUTpvmKAbYfokeDOF0U2KXOqESak70MFc_eubcDlIZyussbds6FnuLIya-SYFH0s2XG9MYZVMpe1l1P5SjjG85LiQF5qqr-6rn6BweBGp6kb/s1600/+CINE.png",
-    "category": "Cine",
-    "disabled": true
-  },
-  {
     "title": "FMH Movie",
     "url": "https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh-QgpQjoE2jQYVcU-6SvHCcRj_VF-feqVXGBCv1WpPFk4evaDVqZzWkP34iaZ6nS3C17LiijhEZFCuRzbxRx6RfBO9b6CPhbx4HhisyxUYnze2_hboFRroDPKJr0Eejc2Zu0zahVvnpmuGlFvbmqWi0h3mWa7mWYmS6uWDE5WIsB9YYTlVnvgXMfx/s1600/fmhm.png",
@@ -1170,7 +1163,7 @@
   },
   {
     "title": "Cine Canal",
-    "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8",
+    "url": "http://38.44.109.41:8003/play/a03a/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs1raTSdQhaWoYM0COkfG1rSO0MKT2Jkk_IcOnOKTYgHWrW7LTtnR3jhjSUbK0rxzBX20Xv5mOH-OnXIIUHbI2ngYek5iK-nJFPkJ3GyFje_mNTCLjo6P6nKgQIU6e-823Z1keSuAaXHZI9xL5Qy0-bVMDAb7iBa0lSEiXMsB7AuB60vJXDRV3b4Rv/s1600/CineCanal.png",
     "category": "Cine",
     "disabled": false
@@ -1178,6 +1171,13 @@
   {
     "title": "Cinemax",
     "url": "http://181.209.37.74:8001/play/a08r/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwyvGVVG_LC_70KrzsQojC4dp-r7LBCgGYUNzr7Q5dD7WKoLdmJWuo-WGMXLoIFruqF4xyBaJrfyyHjl8DeIQ0S09DkW3xDuMWzZO6zCLwsqVl3-h05X6sk5p4rjoRR9bbOsHdDiP5pQdkVBxd4hqFDLItJw9SbiugAtgQXbi0K_0qhUmjzq8oCBfB/s1600/Cinemax.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "Cinemax",
+    "url": "http://38.44.109.41:8003/play/a023/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwyvGVVG_LC_70KrzsQojC4dp-r7LBCgGYUNzr7Q5dD7WKoLdmJWuo-WGMXLoIFruqF4xyBaJrfyyHjl8DeIQ0S09DkW3xDuMWzZO6zCLwsqVl3-h05X6sk5p4rjoRR9bbOsHdDiP5pQdkVBxd4hqFDLItJw9SbiugAtgQXbi0K_0qhUmjzq8oCBfB/s1600/Cinemax.png",
     "category": "Cine",
     "disabled": false
@@ -1205,7 +1205,7 @@
   },
   {
     "title": "FX",
-    "url": "http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/FX/index.m3u8",
+    "url": "http://38.44.109.41:8003/play/a01g/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1e0eNikmuFA_PRGSe-gN9OWUOH4TVuOvJTeFA1sAy6Q6iuI0cP3p0w6wp7BeGDyqMtfDMVuPRyHmosrUoWiLL7wHFvNlTMDRgeP6S-FflstElFqtCEVFgR2qV1nLtLqrejA73zcNUk6I2ihwppTWx7fx7BTFGCTbBhyphenhyphenGlSoChyphenhyphenHAMo0xFcI19KXHL/s1600/FX_Logo_2023.svg.png",
     "category": "Cine",
     "disabled": false
@@ -1380,7 +1380,7 @@
   },
   {
     "title": "Studio Universal",
-    "url": "http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8",
+    "url": "http://38.44.109.41:8003/play/a03e/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrqGgbyUlfcbZ_yCgh7HwL9yqKHxdvs1yBqoYyK0H2Kj2l-pfQifh41Ew07QkdIdaKZURBpV0aibiUbs33pXMqp5B2GD0tPbVHqsvMsDbwBg1wklGsy4zeRBXNWKrAn6q_MggzdGC0tp9T6ZVHRKxYUvMNmdYOD-ceMYSvzL-PTzfhWwZjphalIru3/s1600/Studio%20Universal%20-%20Logo.png",
     "category": "Cine",
     "disabled": false
@@ -1429,6 +1429,13 @@
   },
   {
     "title": "HBO Family",
+    "url": "http://38.44.109.41:8003/play/a03j/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhTuC7vggWhVSZoAnhsASgVkADCqkd9fTrDT32FhDCrnTgpNhoSwDHU-GIXb3Q-FPU7rmFgl2-XNia8ejBj_nfq0uQYoOq-oyGPtlT6M1Nss2pZ1luciTjk42auPW_sykIioZMmpX2TJZBbp7IQqBHAqpaTZrNK57IQANPXEC7UdA4ycnybuQyollx/s1600/HBO_Family.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "HBO Family",
     "url": "http://181.209.37.74:8001/play/a07p/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhTuC7vggWhVSZoAnhsASgVkADCqkd9fTrDT32FhDCrnTgpNhoSwDHU-GIXb3Q-FPU7rmFgl2-XNia8ejBj_nfq0uQYoOq-oyGPtlT6M1Nss2pZ1luciTjk42auPW_sykIioZMmpX2TJZBbp7IQqBHAqpaTZrNK57IQANPXEC7UdA4ycnybuQyollx/s1600/HBO_Family.png",
     "category": "Cine",
@@ -1450,17 +1457,17 @@
   },
   {
     "title": "Golden",
-    "url": "http://181.78.106.127:9000/play/ca076/index.m3u8",
+    "url": "http://38.44.109.41:8003/play/a001/index.m3u8",
     "thumbnailUrl": "https://static.wikia.nocookie.net/logopedia/images/a/a2/Golden_Blanco_2020.png/revision/latest?cb=20220131141053&path-prefix=es",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Golden Edge",
-    "url": "http://181.78.106.127:9000/play/ca078/index.m3u8",
+    "url": "http://38.44.109.41:8003/play/a002/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsBklzX7HUws5bF2JvZHkpNaBn7p29Ej4WxuQeD0e7mO8uERPLnL1x6IgG-xRS4Ot2XwtoJ94Ljmub1ZmUTa6hrfCYkAPddue6omBjYl95til7mg3llhWJgs9GGHUZfFe4TWck-wtVU8ewfgk5fxGdoIQ6LMo44HNAzFDJMyax2VSIYccO764fSs9l/s1600/Golden-edge.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Golden Premiere 2",
@@ -1562,8 +1569,22 @@
   },
   {
     "title": "TNT ",
+    "url": "http://38.44.109.41:8003/play/a01v/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPywg-WJgPwv2in1DPtqKabsOmGUgTtvu7PyG4RwbHJ-53WuV_RMP2EZ5d7_csR5D9P7DDi6N6oouIYYjEMJ6cVnKaNlYHxm9TV_rNoG1icaSAv10damhsdB_sqfST3tJFjjV8DG2T1qnPL-q3XvrhRGePDPPM-fpe2QSW-NpBReImzhaIK53RDfSM/s1600/TNT.png",
+    "category": "Series",
+    "disabled": false
+  },
+  {
+    "title": "TNT ",
     "url": "http://181.209.37.74:8001/play/a08b/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPywg-WJgPwv2in1DPtqKabsOmGUgTtvu7PyG4RwbHJ-53WuV_RMP2EZ5d7_csR5D9P7DDi6N6oouIYYjEMJ6cVnKaNlYHxm9TV_rNoG1icaSAv10damhsdB_sqfST3tJFjjV8DG2T1qnPL-q3XvrhRGePDPPM-fpe2QSW-NpBReImzhaIK53RDfSM/s1600/TNT.png",
+    "category": "Series",
+    "disabled": false
+  },
+  {
+    "title": "TNT Series",
+    "url": "http://38.44.109.41:8003/play/a01x/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvwHaCuzI56V4hUzPsYQyyq19-qrHuav6XQM_N_X4WE-cSYyx1Cd7mcl4-N4DUgclzEd69BUTaQaGwVb23Tqykj5abmkHJ3hQXgLLTrjVQ_ursIFQThvoRI1NUCAc-1kRRVFDDViERappobBFLWAp6CMnj5U1wbGS1ogU-_8rjqtK8itqgb5-NFGFov5Am/s1600/unnamed.png",
     "category": "Series",
     "disabled": false
   },
@@ -1744,10 +1765,10 @@
   },
   {
     "title": "Disney Channel",
-    "url": "http://181.78.106.127:9000/play/ca053/index.m3u8",
+    "url": "http://38.44.109.41:8003/play/a00e/index.m3u8",
     "thumbnailUrl": "https://static.wikia.nocookie.net/fic5689/images/d/d6/Disney_Channel_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20210707082839",
     "category": "Animación",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Disney Jr",
@@ -1758,14 +1779,14 @@
   },
   {
     "title": "Disney Jr",
-    "url": "http://tmptv.sunduk.tv/CH16265/index.m3u8",
+    "url": "http://38.44.109.41:8003/play/a03b/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP-KicQWTZzfll66LsnRPXWPmecmCu1vfUXeVnM2QSmy4HcF-eQfdOlqlIXFNKgoqCdvYiA3w6GWjtI5UQw2RJVNCnsblhv3ivBS82KAM4d2iRRQK1VgUCwbzum2HIQBTNaQlTi1WaGj15cc093V8JNgz5u-cZF4Lk2Erk-3GFaMP7cMOT8kZ9V7hv/s1600/Disney-Junior-Emblem.png",
     "category": "Animación",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Discovery Kids",
-    "url": "http://179.63.191.100:1224/play/a0da/index.m3u8",
+    "url": "http://38.44.109.41:8003/play/a01t/index.m3u8",
     "thumbnailUrl": "https://static.wikia.nocookie.net/fic5689/images/b/b3/DKids_2024_3D.png/revision/latest/scale-to-width-down/1000?cb=20240510183715",
     "category": "Animación",
     "disabled": false
@@ -1785,11 +1806,18 @@
     "disabled": false
   },
   {
+    "title": "Nickelodeon",
+    "url": "http://38.44.109.41:8003/play/a01s/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXKGyE0N38QGedvhdJkzDS9WtItYFx6J_4mlbS1KWG1x4c3M9RwTYUVC2d2A4Jl13H1hCYvHWmmpJPoNnsHtKbq5nQlAU2Lq_7gP9pqPV4lzoRy_f2xWvkRYa2pulj-iEK3OUbP9tzZr3cDbLxrNwOdRRgv5xanvqfWUt9a4NfYjcIT7Rt-NvzJt6F/s1600/Nickelodeon.png",
+    "category": "Animación",
+    "disabled": false
+  },
+  {
     "title": "Nick Jr",
-    "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge/smil:261_premium.smil/manifest.mpd",
+    "url": "http://38.44.109.41:8003/play/a026/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxikJMbecG5uTb23OYlA40QpnZMjgXL-FD5nxACF8CK6R1mWjomDZQ-MhHE6byqv_zWJg1I_fn2KMTZjS_sWzFUSsS5VlckePCs7C91tdOJBrk0qglR4EWf_gF4FBsdLUzRH5vbxrQwQ1jcoHMtUCei-r0R75dwnojA7EyW3UD0g11H9tCljyzKn45/s1600/NickJr.png",
     "category": "Animación",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Nick Jr",
@@ -2164,7 +2192,7 @@
   },
   {
     "title": "Discovery Channel",
-    "url": "http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/DISCOVERY/index.m3u8",
+    "url": "http://38.44.109.41:8003/play/a01e/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVjeVSRED7xL8lffQYPWXOZfjT6ktghO0wpTxAvEWkPZUuf3EjZTKDhH0TWs4WX-FJC3BdkW71WR4jrEMOiKpi9JOWDCKFG1Blq1h4vucECdtBr_yYGEGOXHaWV2B2bCWkw-8tz5PfBF30fHCWYSQK2c_-3aQrH43oTInV5SH5xy-vwireulKybyR2/s1600/discovery-channel.png",
     "category": "Documentales",
     "disabled": false
@@ -2175,6 +2203,13 @@
     "thumbnailUrl": "https://asteroidday-uploads.s3.eu-central-1.amazonaws.com/wp-content/uploads/2018/12/06032103/sciencechannel-hor.png",
     "category": "Documentales",
     "disabled": true
+  },
+  {
+    "title": "Discovery Turbo",
+    "url": "http://38.44.109.41:8003/play/a02w/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_srNfM4-BNvGkJJUoV5ud8ewKHVO0ejhg_UHE7CqDJscUVh3hXc1wu6jDTWi45CgvFiQhkmjc8iWqWB0uzQ8_Ztreud5AsKcsdEgFq0famp0pnI_e6B39Av3bphyphenhyphenu8c90fNKElXViEempJwi0w0NTXoj-eZ7BtXlvcnN3Nq4GamBAwEX6rUeoy_lQ/s1600/Discovery_Turbo_logo.svg.png",
+    "category": "Documentales",
+    "disabled": false
   },
   {
     "title": "Discovery Turbo",
@@ -2192,7 +2227,7 @@
   },
   {
     "title": "National Geographic",
-    "url": "http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8",
+    "url": "http://38.44.109.41:8003/play/a006/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVSK4tKb3OxfK9aiA9DVRWSnNLBbh3upPnPsF57AhShVKTIWGtM5fcUgyRDV2mnT7I5UemKMxy8SJNXOdO_lGTfEI9RpjJ2T0pAd73-gnbzdggB4pWPVGi2Os3nf_FlYFKOFb_G-sQjKZppGIPOAJhQWmdzeh3CIkRfP9kZaeiyakZqr_3H7qSodWY/s1600/national-geographic.png",
     "category": "Documentales",
     "disabled": false
@@ -3088,10 +3123,10 @@
   },
   {
     "title": "ESPN 5",
-    "url": "http://179.1.24.58:8000/play/a008",
+    "url": "http://38.44.109.41:8003/play/a03w/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDiQVJpcww86abXY4Io9z8j1ry8OSTy0c7SbJdigEWTl0w-R6W0FFDJ2y5OYwBnKpeVja4eFUyc838VIrceGH2bQVTD43jVu3fVrP-Bb2RxAyPBgXG9mRGd5dt-NRSrivspzSgO2AXVWbGexNIBg1770KdnCZ610PDZ9pKsfXIjUCZfqEcKbBe0Zo-/s1600/ESPN_5.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "ESPN 6",
@@ -3102,10 +3137,10 @@
   },
   {
     "title": "ESPN 7",
-    "url": "http://179.1.24.58:8000/play/a00a",
+    "url": "http://38.44.109.41:8003/play/a03z/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju5lmWSwE9dXjpdw3K67mCpLqfSihYTgRdg9xqYKCA9UrTUUqx2fxQA-0DZS3w3dRXMdh7PuHrlgssxa2CW-NjOwiBxSopGuTwYO0Sj0hDyFs6RvS7oyitPdAQGCeu7PWC1zAA_JrIlraq1y8J-JLlo9mLcmWmVRtBrUipTJwm2HgGNC1hQU6J2A0B/s1600/ESPN_7.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "VIX TUDN",
