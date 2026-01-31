@@ -2829,13 +2829,6 @@
   },
   {
     "title": "MTV",
-    "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge/smil:256_premium.smil/manifest.mpd",
-    "thumbnailUrl": "https://cdn.prod.website-files.com/6521ae7cdcc164cb31192e2c/6521ba4124a3bd0b7e56eb23_brand-logo-mtv-white.png",
-    "category": "Entretenimiento",
-    "disabled": false
-  },
-  {
-    "title": "MTV",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161999",
     "thumbnailUrl": "https://cdn.prod.website-files.com/6521ae7cdcc164cb31192e2c/6521ba4124a3bd0b7e56eb23_brand-logo-mtv-white.png",
     "category": "Entretenimiento",
@@ -3481,13 +3474,6 @@
   {
     "title": "DAZN 4",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/156156",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-iSW1MMXapcj88tJLRH7fdNj9LBzJzUev0f-jUErjOQTNS9eE_JYaPoUo8hiByhBZqCaKL-cttt97BY16SsvGuTu0QlIsPPU52JC8kV80DF8D3-KDT378hC-b7CeY-2qJKLLv62pnuKp59oIXULYto47LG-AFBnDPVb5namcYIfI2KQjIWcb02Woq/s1600/Dazn%204.png",
-    "category": "Deportes",
-    "disabled": false
-  },
-  {
-    "title": "DAZN 4",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/156157",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-iSW1MMXapcj88tJLRH7fdNj9LBzJzUev0f-jUErjOQTNS9eE_JYaPoUo8hiByhBZqCaKL-cttt97BY16SsvGuTu0QlIsPPU52JC8kV80DF8D3-KDT378hC-b7CeY-2qJKLLv62pnuKp59oIXULYto47LG-AFBnDPVb5namcYIfI2KQjIWcb02Woq/s1600/Dazn%204.png",
     "category": "Deportes",
     "disabled": false
