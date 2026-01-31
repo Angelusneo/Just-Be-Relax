@@ -540,10 +540,17 @@
   },
   {
     "title": "M+ Estrenos",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161878",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/162000",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfoa08iW1XuspGmtGodQndMfQCoRL_xjqqL70huR0etqRP7yXBpe7EkbQjw2jcVa7ZRZ2byktJ5U0OacR0gTcF23jARHlJ6_94tDNFZ6RteJud2zmFIp6xzVIooNxweqT4VLvyFiGT0ntyxXvb6fwdS1YiTHMRT94FAlaWR7Qyund1mRO44r0IMUpS/s1600/Estrenos_por_M.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
+  },
+  {
+    "title": "M+ Estrenos",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161909",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfoa08iW1XuspGmtGodQndMfQCoRL_xjqqL70huR0etqRP7yXBpe7EkbQjw2jcVa7ZRZ2byktJ5U0OacR0gTcF23jARHlJ6_94tDNFZ6RteJud2zmFIp6xzVIooNxweqT4VLvyFiGT0ntyxXvb6fwdS1YiTHMRT94FAlaWR7Qyund1mRO44r0IMUpS/s1600/Estrenos_por_M.png",
+    "category": "Cine",
+    "disabled": false
   },
   {
     "title": "M+ Acción",
@@ -554,10 +561,17 @@
   },
   {
     "title": "M+ Comedia",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8198",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161943",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQqIKk-VbTScIoJjRmJhd5bpDKxiJx5yBohJI-ef-GnxjMbBQDlNjF6v4nPqx5aTazu-zF9qi78JJuGqOpHw1aopDzK5sxLLRtgKk0PFGOBTYvo76-ipjpnpBZwHlDwOj0ghKlf-QFM80ob2DkFiV-35Zwr0hFjWCS-elDxOts5WoYN8Uxtk3KuBUp/s1600/Comedia-por-M.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
+  },
+  {
+    "title": "M+ Comedia",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161882",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQqIKk-VbTScIoJjRmJhd5bpDKxiJx5yBohJI-ef-GnxjMbBQDlNjF6v4nPqx5aTazu-zF9qi78JJuGqOpHw1aopDzK5sxLLRtgKk0PFGOBTYvo76-ipjpnpBZwHlDwOj0ghKlf-QFM80ob2DkFiV-35Zwr0hFjWCS-elDxOts5WoYN8Uxtk3KuBUp/s1600/Comedia-por-M.png",
+    "category": "Cine",
+    "disabled": false
   },
   {
     "title": "M+ Hits",
