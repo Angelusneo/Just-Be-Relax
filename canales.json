@@ -245,13 +245,6 @@
     "disabled": false
   },
   {
-    "title": "Star Channel",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161918",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv7Gv5JUmqIaPYIu8vhih-L8u03hn8QwprhGUEoIKbzGoEgeYJI2OzZhDPDGDkbVDyClc67x3cpihOh8CDu9hehPvHCJ_ORrYge1F6lur_vSay1H_pwiXZh18IhTtJ8QILMAFFsrtxKqcXLGWUDg-vnhM28YGWFyIGp-yElRUtXPMOfVZjLbAKftFW/s1600/Star_Channel.png",
-    "category": "Cine",
-    "disabled": false
-  },
-  {
     "title": "Be Mad",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX/smil:20_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji5wNNEiJN30_HDK0s_SBz5bXacpRujDvNzi0xNAWR5itErYEoESAiCvW0h1MKYlVDm3cZS43sXm7sTmNz4FHEfDcmIdfgAl1bgyDWOS7wigdnTQePQkF3yvNgZ9AAbVI5nvjkFPbUS2EhtZGTExImgUt6d2VG_qYSqFwjFkozKiGT4l-8PiVmxQ3gXYsj/s1600/be-mad.png",
@@ -319,19 +312,12 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9594",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiurVr-tSt-oHbre472lKGem5fMTZGMAZwuXDFlkeg0nRSGb-Zp8yztaMpH-cRiCG-mXYd3903BeY0K0GP8vRIyATa-54CKPjSTSRWHr6UzalwMKbXdfNRK5AdzLW66o_OuBQ0jeURy-oqMGUyO_cbkmyEr9DPW0jcKMrxt24fQIotzJLtoMkUkSfnZ/s1600/Veo7.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "AXN",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161980",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCGP1b83u6MGNyax_jQpsTCS6puK7Wab9LZt4zgHcUqhzqwODFeqFUNLHLcUaCqZ-47aL2jnichibDtjv572Da2X0-4fAk_3wRzWc-LbeTAsIXVSQTY6T6ScO6EOjTlKWyTsNVcVG12V45V2zMqIWM8JRJmoh0NdhUblSa8xlX7MOKI11CzKLGh1C9/s1600/AXN.png",
-    "category": "Cine",
-    "disabled": false
-  },
-  {
-    "title": "AXN Movies",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161884",
-    "thumbnailUrl": "https://jungle-team.com/wp-content/uploads/2023/05/1_0_1_7471_3F0_1_C00000_0_0_0.png",
     "category": "Cine",
     "disabled": false
   },
@@ -366,13 +352,6 @@
   {
     "title": "Canal Hollywood",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX/smil:82_premium.smil/manifest.mpd",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYxQ9P4RVXa8GVo51KIKROWaXMj_kFFg3XT9CaRf5tV7y69zBzDU946m_GIN-nPZD7bjfY4T5P9tEO4Y9Hidpe9WzV7Zypza7owyr3LojBloCFm9LztE8z-QM52Pnyiyvju3w2nGFglhKCusjMKNKphVRDErmUiYuVbGtuFKZk9474Muz91bumr1Xi/s1600/HWD_logo.svg.png",
-    "category": "Cine",
-    "disabled": false
-  },
-  {
-    "title": "Canal Hollywood",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161917",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYxQ9P4RVXa8GVo51KIKROWaXMj_kFFg3XT9CaRf5tV7y69zBzDU946m_GIN-nPZD7bjfY4T5P9tEO4Y9Hidpe9WzV7Zypza7owyr3LojBloCFm9LztE8z-QM52Pnyiyvju3w2nGFglhKCusjMKNKphVRDErmUiYuVbGtuFKZk9474Muz91bumr1Xi/s1600/HWD_logo.svg.png",
     "category": "Cine",
     "disabled": false
@@ -427,13 +406,6 @@
     "disabled": false
   },
   {
-    "title": "Bom Cine",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161883",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAmnoqE9TexgYBZCdJfGq97-5tiwsPLQUf2UhyphenhyphenR-8v5l0ckiOVcgQ99Vb2MxTNvnR13f2awtVSEvHn9VO9crKFZPluJmwdnFAOmGeVA193fqfceisJvcQKrzw7VPFRybpmP8rCbgKHRGs-xhSKi0lWCVoKIR3vAisxhh0U00bw9oY8KJs583D04zDq/s1600/BOM.png",
-    "category": "Cine",
-    "disabled": false
-  },
-  {
     "title": "DARK",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX04/smil:92_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3I4HW35Mm6-vRHoVe15JE-aCXTBT6EkzoYfJzQPnzYy7vlNYccMoli8jXoE6pnKFtl2KzrtUXinIuOlCTehQgBWlK_DHHBQ3KSVILcnedmfkLMkm-McjbJSz8PVZ1oJDWfoMtqzOe6ZwlWpY8vhEzUUpcRh5k4a3iWI7eI0cr4Ng7rHjZ9elm0AKc/s1600/Dark_Teuve_2.png",
@@ -443,7 +415,7 @@
   {
     "title": "DARK",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8168",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3I4HW35Mm6-vRHoVe15JE-aCXTBT6EkzoYfJzQPnzYy7vlNYccMoli8jXoE6pnKFtl2KzrtUXinIuOlCTehQgBWlK_DHHBQ3KSVILcnedmfkLMkm-McjbJSz8PVZ1oJDWfoMtqzOe6ZwlWpY8vhEzUUpcRh5k4a3iWI7eI0cr4Ng7rHjZ9elm0AKc/s1600/Dark_Teuve_2.png",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLxqdyvw8ujbHsL_oGhLXYuJlpZsKhB1TYwN_MYgF2LSUvM92lbaFuNzArki94AZg0bewq01Tx0Kc3_quDqyD8DsGQku0s74wA6J3R0qnx2YmoJuoHFFvCk7Is-asQUvzKqhze10jo-tYPszaJ0PMNaPZxEt3Sap6UvpQNuthfZJ3IDKQL6-MqmL2T/s1600/Dark_Blanco.png",
     "category": "Cine",
     "disabled": false
   },
@@ -515,7 +487,7 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161943",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyXrCNeRmBY-FIVS1OzHtsGEzEZFi5MZ_kSjE7sBXy6vnTxxHjybFuCQCOZESrttftb2KSXcwCeqpxFR5VpW_FZdM3DminKgdqX67p_hwm8Hxwj9TTYVVU9GlFiXaOr5VsECcbgZht3S2MdE3UoG-vODicvr1lTNktqOSjznmcCxr1oN1zAMc5CNbZ/s1600/M+.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "M+ Originales ",
@@ -540,14 +512,7 @@
   },
   {
     "title": "M+ Estrenos",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/162000",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfoa08iW1XuspGmtGodQndMfQCoRL_xjqqL70huR0etqRP7yXBpe7EkbQjw2jcVa7ZRZ2byktJ5U0OacR0gTcF23jARHlJ6_94tDNFZ6RteJud2zmFIp6xzVIooNxweqT4VLvyFiGT0ntyxXvb6fwdS1YiTHMRT94FAlaWR7Qyund1mRO44r0IMUpS/s1600/Estrenos_por_M.png",
-    "category": "Cine",
-    "disabled": false
-  },
-  {
-    "title": "M+ Estrenos",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161909",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161883",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfoa08iW1XuspGmtGodQndMfQCoRL_xjqqL70huR0etqRP7yXBpe7EkbQjw2jcVa7ZRZ2byktJ5U0OacR0gTcF23jARHlJ6_94tDNFZ6RteJud2zmFIp6xzVIooNxweqT4VLvyFiGT0ntyxXvb6fwdS1YiTHMRT94FAlaWR7Qyund1mRO44r0IMUpS/s1600/Estrenos_por_M.png",
     "category": "Cine",
     "disabled": false
@@ -568,7 +533,7 @@
   },
   {
     "title": "M+ Comedia",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161882",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161943",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQqIKk-VbTScIoJjRmJhd5bpDKxiJx5yBohJI-ef-GnxjMbBQDlNjF6v4nPqx5aTazu-zF9qi78JJuGqOpHw1aopDzK5sxLLRtgKk0PFGOBTYvo76-ipjpnpBZwHlDwOj0ghKlf-QFM80ob2DkFiV-35Zwr0hFjWCS-elDxOts5WoYN8Uxtk3KuBUp/s1600/Comedia-por-M.png",
     "category": "Cine",
     "disabled": false
