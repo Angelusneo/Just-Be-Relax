@@ -606,7 +606,7 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161883",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfoa08iW1XuspGmtGodQndMfQCoRL_xjqqL70huR0etqRP7yXBpe7EkbQjw2jcVa7ZRZ2byktJ5U0OacR0gTcF23jARHlJ6_94tDNFZ6RteJud2zmFIp6xzVIooNxweqT4VLvyFiGT0ntyxXvb6fwdS1YiTHMRT94FAlaWR7Qyund1mRO44r0IMUpS/s1600/Estrenos_por_M.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "M+ Acción",
@@ -2174,7 +2174,7 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161984",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Boing_Logo.svg/1200px-Boing_Logo.svg.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Toon Goggles ",
@@ -2499,13 +2499,6 @@
     "disabled": false
   },
   {
-    "title": "National Geographic",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161998",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVSK4tKb3OxfK9aiA9DVRWSnNLBbh3upPnPsF57AhShVKTIWGtM5fcUgyRDV2mnT7I5UemKMxy8SJNXOdO_lGTfEI9RpjJ2T0pAd73-gnbzdggB4pWPVGi2Os3nf_FlYFKOFb_G-sQjKZppGIPOAJhQWmdzeh3CIkRfP9kZaeiyakZqr_3H7qSodWY/s1600/national-geographic.png",
-    "category": "Documentales",
-    "disabled": false
-  },
-  {
     "title": "Historia",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX04/smil:90_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlB4Ch5nrysTINeyZ11R_8F1NMF3Qopv5PjgYGYMdg-arrxiP6qfriCBoSAZ78xxJQRk7v0eoyhvlwoLERdNHzJ8J1nrEtkhUnlD7mErsYGMQx_HEWV5hcP25sp3Zai334n8k206KW9JXGTLaC3WMolMgFp5oKD6hHM2Zb3r7IkJ_Wgu-lqc8hj6R_/s1600/History.png",
@@ -2513,22 +2506,8 @@
     "disabled": false
   },
   {
-    "title": "Historia",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9838",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlB4Ch5nrysTINeyZ11R_8F1NMF3Qopv5PjgYGYMdg-arrxiP6qfriCBoSAZ78xxJQRk7v0eoyhvlwoLERdNHzJ8J1nrEtkhUnlD7mErsYGMQx_HEWV5hcP25sp3Zai334n8k206KW9JXGTLaC3WMolMgFp5oKD6hHM2Zb3r7IkJ_Wgu-lqc8hj6R_/s1600/History.png",
-    "category": "Documentales",
-    "disabled": false
-  },
-  {
     "title": "History 2 USA",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9836",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm3QlJgWDdnM9ERAcYri0F6Su37sfjflwM6sTbpmK6KxBhoKf6Vo27EL9pBB-_QR9GHQXIbVoKg1ftDBGL1pLQePAup1uxCe7oPDTZC6JeATIc-S0XsjkjNE8timpf2cpVPLwzPu1yyVO_7EiLPnPlOHMDXOxNLyBjCv-_-Pqu-xABIScEZAy8vnnP/s1600/H2.png",
-    "category": "Documentales",
-    "disabled": false
-  },
-  {
-    "title": "History 2 USA",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9837",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm3QlJgWDdnM9ERAcYri0F6Su37sfjflwM6sTbpmK6KxBhoKf6Vo27EL9pBB-_QR9GHQXIbVoKg1ftDBGL1pLQePAup1uxCe7oPDTZC6JeATIc-S0XsjkjNE8timpf2cpVPLwzPu1yyVO_7EiLPnPlOHMDXOxNLyBjCv-_-Pqu-xABIScEZAy8vnnP/s1600/H2.png",
     "category": "Documentales",
     "disabled": false
