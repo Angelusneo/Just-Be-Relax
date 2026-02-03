@@ -368,7 +368,8 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161884",
     "thumbnailUrl": "https://jungle-team.com/wp-content/uploads/2023/05/1_0_1_7471_3F0_1_C00000_0_0_0.png",
     "category": "Cine",
-    "d
+    "disabled": false
+  },  
   {
     "title": "AMC",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX02/smil:87_premium.smil/manifest.mpd",
