@@ -21,8 +21,22 @@
     "disabled": false
   },
   {
+    "title": "Antena 3",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161895",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicmQGrgxRS1ChSlTgRGHcTohJmGRp9FU8JOhvYB4sK3Dc6qWAOkyfTstpTSyRqQjF4o7K8uqM8JCT0-TD8_Fr9u1ZAT1R4y_ek7JJbjxtiXHcS6d7Bq2kjAwmdsU_-sDMO_7RBYjFxr8hybB5NBOOQGp9mYek3CmU98uSbxkTP6JTng6tUBgO0YDAV/s1600/antena-3.png",
+    "category": "Nacional",
+    "disabled": false
+  },
+  {
     "title": "Cuatro",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX/smil:9_premium.smil/manifest.mpd",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMdv0uLbnd1hTI_SoVq6qf3yH8w-8LodF-rsQ8SWJBYIXIR5Cm9UbpNszsTdxAonLb_tNT_5Tq1g9aTkNwlntIu8neoRfEJsY0eL9o2vlXeBZeCDoWI3FS60c9gbr1rjwTR9PKhEpVFLnYJNP3GXdm98cXgYr4yVnybnW4xDVAYQjILR-H1TGzLEp-/s1600/Cuatro.svg.png",
+    "category": "Nacional",
+    "disabled": false
+  },
+  {
+    "title": "Cuatro",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161894",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMdv0uLbnd1hTI_SoVq6qf3yH8w-8LodF-rsQ8SWJBYIXIR5Cm9UbpNszsTdxAonLb_tNT_5Tq1g9aTkNwlntIu8neoRfEJsY0eL9o2vlXeBZeCDoWI3FS60c9gbr1rjwTR9PKhEpVFLnYJNP3GXdm98cXgYr4yVnybnW4xDVAYQjILR-H1TGzLEp-/s1600/Cuatro.svg.png",
     "category": "Nacional",
     "disabled": false
@@ -37,6 +51,13 @@
   {
     "title": "Telecinco",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8241",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzD7Jz-YSOfmgI6PFi2Ui5tweirX5elCFBC0ig8UgyFx-wPGw16nPi6u_PaWE7snAR1qIegcog0ZpzeIQixyDcbyMsz2pQtHs5fbQzS3qwZbdu2Q-tFHx4L0bgTke3b6PpeoVnDikvZTVE6mykuQgtQKV4Qe1XH1L2F2P81UFWytBdox1-eWDyCol6/s1600/cinco.png",
+    "category": "Nacional",
+    "disabled": false
+  },
+  {
+    "title": "Telecinco",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161893",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzD7Jz-YSOfmgI6PFi2Ui5tweirX5elCFBC0ig8UgyFx-wPGw16nPi6u_PaWE7snAR1qIegcog0ZpzeIQixyDcbyMsz2pQtHs5fbQzS3qwZbdu2Q-tFHx4L0bgTke3b6PpeoVnDikvZTVE6mykuQgtQKV4Qe1XH1L2F2P81UFWytBdox1-eWDyCol6/s1600/cinco.png",
     "category": "Nacional",
     "disabled": false
@@ -165,7 +186,7 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161913",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiUVZ0AU3_OyWQR0_8b7aENW8p4Ho0TEHTFLvwiYEe0e-CbZGDiNkevqL2pRSHVfQNeSHvcVCdWO5OyPtVgrOm_-OVNDRggaUwKiV70mz4O11NzBGe6n7m4B6FWJX-3PKRQki3I_713vuANwe2eAX0delnJm5ruOB5rY1GO9_bZrew0-lGuxsqe1gR/s1600/COSMO.png",
     "category": "Series",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Cosmo",
@@ -245,6 +266,13 @@
     "disabled": false
   },
   {
+    "title": "Star Channel",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161918",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv7Gv5JUmqIaPYIu8vhih-L8u03hn8QwprhGUEoIKbzGoEgeYJI2OzZhDPDGDkbVDyClc67x3cpihOh8CDu9hehPvHCJ_ORrYge1F6lur_vSay1H_pwiXZh18IhTtJ8QILMAFFsrtxKqcXLGWUDg-vnhM28YGWFyIGp-yElRUtXPMOfVZjLbAKftFW/s1600/Star_Channel.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
     "title": "Be Mad",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX/smil:20_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji5wNNEiJN30_HDK0s_SBz5bXacpRujDvNzi0xNAWR5itErYEoESAiCvW0h1MKYlVDm3cZS43sXm7sTmNz4FHEfDcmIdfgAl1bgyDWOS7wigdnTQePQkF3yvNgZ9AAbVI5nvjkFPbUS2EhtZGTExImgUt6d2VG_qYSqFwjFkozKiGT4l-8PiVmxQ3gXYsj/s1600/be-mad.png",
@@ -282,6 +310,13 @@
   {
     "title": "Calle 13",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8156",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRQ3TTL_VFt57HCgdm5ALD19_lwSysVJYjvWC1IqwVA_KJN1qH5mfzD6KqwTWqbbt1ySODIS77h1GL-2hfiwnDksQcasnECg86HSZwDSJQUcVRDXZppj-v_1iKueOVR5gOpbuxKM_jUlYXyFmpsx5wJbeFBEpF663c9HDlzzgJLCC4k_-KMJP6_RzW/s1600/calle3.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "Calle 13",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161886",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRQ3TTL_VFt57HCgdm5ALD19_lwSysVJYjvWC1IqwVA_KJN1qH5mfzD6KqwTWqbbt1ySODIS77h1GL-2hfiwnDksQcasnECg86HSZwDSJQUcVRDXZppj-v_1iKueOVR5gOpbuxKM_jUlYXyFmpsx5wJbeFBEpF663c9HDlzzgJLCC4k_-KMJP6_RzW/s1600/calle3.png",
     "category": "Cine",
     "disabled": false
@@ -329,6 +364,12 @@
     "disabled": false
   },
   {
+    "title": "AXN Movies",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161884",
+    "thumbnailUrl": "https://jungle-team.com/wp-content/uploads/2023/05/1_0_1_7471_3F0_1_C00000_0_0_0.png",
+    "category": "Cine",
+    "d
+  {
     "title": "AMC",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX02/smil:87_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh94-z7XEtUFi0y_m7gUiHcPW4cycZqrZrZISaPLYLmEGgjG9EWUzXYJowGUH-Yww-wlEhBfvGpMdtaCgvN465-yarWA9wfg_zCQRZSB_48wPkPQRlZYzaSNfe1N7LeTIGUscOE72tzkkdtFmtDSbL84YQFZHQbWe8MMN9C9sY5cjFJB1u0XUoL2RmG/s1600/AMC.png",
@@ -364,6 +405,13 @@
     "disabled": false
   },
   {
+    "title": "Canal Hollywood",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161917",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYxQ9P4RVXa8GVo51KIKROWaXMj_kFFg3XT9CaRf5tV7y69zBzDU946m_GIN-nPZD7bjfY4T5P9tEO4Y9Hidpe9WzV7Zypza7owyr3LojBloCFm9LztE8z-QM52Pnyiyvju3w2nGFglhKCusjMKNKphVRDErmUiYuVbGtuFKZk9474Muz91bumr1Xi/s1600/HWD_logo.svg.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
     "title": "Warner Tv",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161987",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgemgMLla0jUP0QWfVzix2djA3mLsLSo-_yw-nreBSN1J7CfmgBNdl0kpSk7AcHtxttM1WS3isLUoqRvb5QqmVPuYdjPojjkkFxysYFGyXV2MSOpKLOznMbS572VNuVqEbvEB2RfkSqj-idO0vfoH173iWSdTYzG0dir7tP6U8Qlp0njrG93zKaoNGu/s1600/Warner.png",
@@ -394,6 +442,13 @@
   {
     "title": "Squirrel dos",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX02/smil:22_premium.smil/manifest.mpd",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPIxIFTBRtp49_GjLggql-lSUH5P6JeD0TmHNiEcHA8nBpiVeyhuEXglroDV6-chxiaOgFoReJfPmaGvdic0fMdcdyih1W48O37Dn85DmQXZOG1DjmXIZcsdvFOdcYyLnj-o-BHuBl6PmpF2N3Jss6Jhkyr6vTQL_fyqPA6AMrqeuZys9JsYv0bwSc/s1600/Squirrel2.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "Squirrel dos",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8231",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPIxIFTBRtp49_GjLggql-lSUH5P6JeD0TmHNiEcHA8nBpiVeyhuEXglroDV6-chxiaOgFoReJfPmaGvdic0fMdcdyih1W48O37Dn85DmQXZOG1DjmXIZcsdvFOdcYyLnj-o-BHuBl6PmpF2N3Jss6Jhkyr6vTQL_fyqPA6AMrqeuZys9JsYv0bwSc/s1600/Squirrel2.png",
     "category": "Cine",
     "disabled": false
@@ -469,6 +524,20 @@
     "disabled": false
   },
   {
+    "title": "TCM",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8239",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbS29EgNzcqKAEs1HPsSACBCDf078LaZwrA-lxvpOGVUQuYFLwUyHMS_fwWim2HhnQ38_PqIxX0NoAuBlCV4VXyYIF9e3E0MymXelQaMDEV6GutoZbj-Rf_IQ2U3J3COaSeQ-eX7yPxu5x_YIEWCSKClN5e-a5-RXRmcM18Ho1awg-e8LiLsELxGHk/s1600/TCM.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "TCM",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/162015",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbS29EgNzcqKAEs1HPsSACBCDf078LaZwrA-lxvpOGVUQuYFLwUyHMS_fwWim2HhnQ38_PqIxX0NoAuBlCV4VXyYIF9e3E0MymXelQaMDEV6GutoZbj-Rf_IQ2U3J3COaSeQ-eX7yPxu5x_YIEWCSKClN5e-a5-RXRmcM18Ho1awg-e8LiLsELxGHk/s1600/TCM.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
     "title": "SOMOS",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge4/smil:104_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDKLU4p3qy6lK8Jzp3uuNf_xRfeqXrZ1Vl8pnhHpaSORf994ehUn1cR_mHzYMBSN3yN4PzmmjaNElrAtcZIPSOY9c8FwlZgCN8I-fu0ZrtgiPwuhYAxJm0bo527P0S2BRmI30qAQzZLAubUL_C295NxSe1ofgiBrHg8gCeg2nhPAjLK-tbgmJqEr1a/s1600/Somos.png",
@@ -480,6 +549,27 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8234",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDKLU4p3qy6lK8Jzp3uuNf_xRfeqXrZ1Vl8pnhHpaSORf994ehUn1cR_mHzYMBSN3yN4PzmmjaNElrAtcZIPSOY9c8FwlZgCN8I-fu0ZrtgiPwuhYAxJm0bo527P0S2BRmI30qAQzZLAubUL_C295NxSe1ofgiBrHg8gCeg2nhPAjLK-tbgmJqEr1a/s1600/Somos.png",
     "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "Comedy Central",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161971",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKeJVeucQV72I0HYwbhplzqPkyfq9W5SsM7ndud_SNoiruZwQTqKmXvmbOphFs2CmHJF7nztcEdaYnhzaKsb6IffyfpTaZy0VrDOg7k01BEUe4y6OlpksNdDLsjZTXYgUA85cFmUOEcYK4xIlJLvv4OWInQBw11KX3pN5DIlhUmEXz782gLjrUj3Vu/s1600/comed.png",
+    "category": "Entretenimiento",
+    "disabled": false
+  },
+  {
+    "title": "Vin Tv",
+    "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge4/smil:102_premium.smil/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKfoPUsMfqVHyD5JDbbOw0pbkjSnx2ClgAibVXLP7FVnflUVeTVPycV1c4lXBjhlgdXv-hAxqgc7yFlxP2-1KFvhbyDEieqfihlK0HQuDu3N3lydsiS4TY2aeBHqaJEPKaKrR4PW2BiiErUhoYXUqsfHTtiTf0iI92ZmvFERXQhu5ZumdDFYTyZoyk/s1600/vin.png",
+    "category": "Series",
+    "disabled": false
+  },
+  {
+    "title": "Vin Tv",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161993",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKfoPUsMfqVHyD5JDbbOw0pbkjSnx2ClgAibVXLP7FVnflUVeTVPycV1c4lXBjhlgdXv-hAxqgc7yFlxP2-1KFvhbyDEieqfihlK0HQuDu3N3lydsiS4TY2aeBHqaJEPKaKrR4PW2BiiErUhoYXUqsfHTtiTf0iI92ZmvFERXQhu5ZumdDFYTyZoyk/s1600/vin.png",
+    "category": "Series",
     "disabled": false
   },
   {
@@ -521,6 +611,20 @@
     "title": "M+ Acción",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8196",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwzP1tIVYikEL5L-fd3_fNTZnXgAlw2wGvpyfOZJSOw_TBmbDzSil7MNvXQKVDrxVSkUVns1WMk7ZMPf6uTEt6n0d_g4O3aEwmxtwaxmeRxw7TgYoX6fB2GdH7-MzpEz6Koit5MQOas94yf6mDH964hfk1X67cMd6DR8ijtPou3o0V0sfX6gQqlG-R/s1600/Accion-por-M.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "M+ Acción",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/162003",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwzP1tIVYikEL5L-fd3_fNTZnXgAlw2wGvpyfOZJSOw_TBmbDzSil7MNvXQKVDrxVSkUVns1WMk7ZMPf6uTEt6n0d_g4O3aEwmxtwaxmeRxw7TgYoX6fB2GdH7-MzpEz6Koit5MQOas94yf6mDH964hfk1X67cMd6DR8ijtPou3o0V0sfX6gQqlG-R/s1600/Accion-por-M.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "M+ Comedia",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8198",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQqIKk-VbTScIoJjRmJhd5bpDKxiJx5yBohJI-ef-GnxjMbBQDlNjF6v4nPqx5aTazu-zF9qi78JJuGqOpHw1aopDzK5sxLLRtgKk0PFGOBTYvo76-ipjpnpBZwHlDwOj0ghKlf-QFM80ob2DkFiV-35Zwr0hFjWCS-elDxOts5WoYN8Uxtk3KuBUp/s1600/Comedia-por-M.png",
     "category": "Cine",
     "disabled": false
   },
@@ -579,20 +683,6 @@
     "thumbnailUrl": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/11/1_0_1_749D_41C_1_C00000_0_0_0.png?resize=440%2C264&ssl=1",
     "category": "Cine",
     "disabled": true
-  },
-  {
-    "title": "Comedy Central",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161971",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKeJVeucQV72I0HYwbhplzqPkyfq9W5SsM7ndud_SNoiruZwQTqKmXvmbOphFs2CmHJF7nztcEdaYnhzaKsb6IffyfpTaZy0VrDOg7k01BEUe4y6OlpksNdDLsjZTXYgUA85cFmUOEcYK4xIlJLvv4OWInQBw11KX3pN5DIlhUmEXz782gLjrUj3Vu/s1600/comed.png",
-    "category": "Entretenimiento",
-    "disabled": false
-  },
-  {
-    "title": "Vin Tv",
-    "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge4/smil:102_premium.smil/index.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKfoPUsMfqVHyD5JDbbOw0pbkjSnx2ClgAibVXLP7FVnflUVeTVPycV1c4lXBjhlgdXv-hAxqgc7yFlxP2-1KFvhbyDEieqfihlK0HQuDu3N3lydsiS4TY2aeBHqaJEPKaKrR4PW2BiiErUhoYXUqsfHTtiTf0iI92ZmvFERXQhu5ZumdDFYTyZoyk/s1600/vin.png",
-    "category": "Series",
-    "disabled": false
   },
   {
     "title": "Sony Exitos",
@@ -1933,6 +2023,13 @@
   },
   {
     "title": "Disney Jr",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8171",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP-KicQWTZzfll66LsnRPXWPmecmCu1vfUXeVnM2QSmy4HcF-eQfdOlqlIXFNKgoqCdvYiA3w6GWjtI5UQw2RJVNCnsblhv3ivBS82KAM4d2iRRQK1VgUCwbzum2HIQBTNaQlTi1WaGj15cc093V8JNgz5u-cZF4Lk2Erk-3GFaMP7cMOT8kZ9V7hv/s1600/Disney-Junior-Emblem.png",
+    "category": "Animación",
+    "disabled": false
+  },
+  {
+    "title": "Disney Jr",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9869",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP-KicQWTZzfll66LsnRPXWPmecmCu1vfUXeVnM2QSmy4HcF-eQfdOlqlIXFNKgoqCdvYiA3w6GWjtI5UQw2RJVNCnsblhv3ivBS82KAM4d2iRRQK1VgUCwbzum2HIQBTNaQlTi1WaGj15cc093V8JNgz5u-cZF4Lk2Erk-3GFaMP7cMOT8kZ9V7hv/s1600/Disney-Junior-Emblem.png",
     "category": "Animación",
@@ -2366,6 +2463,13 @@
     "disabled": false
   },
   {
+    "title": "Discovery Channel",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161903",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVjeVSRED7xL8lffQYPWXOZfjT6ktghO0wpTxAvEWkPZUuf3EjZTKDhH0TWs4WX-FJC3BdkW71WR4jrEMOiKpi9JOWDCKFG1Blq1h4vucECdtBr_yYGEGOXHaWV2B2bCWkw-8tz5PfBF30fHCWYSQK2c_-3aQrH43oTInV5SH5xy-vwireulKybyR2/s1600/discovery-channel.png",
+    "category": "Documentales",
+    "disabled": false
+  },
+  {
     "title": "Discovery Science",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9786",
     "thumbnailUrl": "https://asteroidday-uploads.s3.eu-central-1.amazonaws.com/wp-content/uploads/2018/12/06032103/sciencechannel-hor.png",
@@ -2389,6 +2493,13 @@
   {
     "title": "National Geographic",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9846",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVSK4tKb3OxfK9aiA9DVRWSnNLBbh3upPnPsF57AhShVKTIWGtM5fcUgyRDV2mnT7I5UemKMxy8SJNXOdO_lGTfEI9RpjJ2T0pAd73-gnbzdggB4pWPVGi2Os3nf_FlYFKOFb_G-sQjKZppGIPOAJhQWmdzeh3CIkRfP9kZaeiyakZqr_3H7qSodWY/s1600/national-geographic.png",
+    "category": "Documentales",
+    "disabled": false
+  },
+  {
+    "title": "National Geographic",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161998",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVSK4tKb3OxfK9aiA9DVRWSnNLBbh3upPnPsF57AhShVKTIWGtM5fcUgyRDV2mnT7I5UemKMxy8SJNXOdO_lGTfEI9RpjJ2T0pAd73-gnbzdggB4pWPVGi2Os3nf_FlYFKOFb_G-sQjKZppGIPOAJhQWmdzeh3CIkRfP9kZaeiyakZqr_3H7qSodWY/s1600/national-geographic.png",
     "category": "Documentales",
     "disabled": false
@@ -2858,6 +2969,13 @@
   {
     "title": "Canal Cocina",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX02/smil:85_premium.smil/playlist.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMq7O8O870j5kN6erCJRrgo5adUZGOMJgEMCu_j8pGlkGNBtjbVuptKo76YmoTWqnATfYdILZO42WfNzHVUB6xjMd5dzs7M-8vmE5JindTkCu-sPRg2KCm6HeMvYYd54Y2LQqM7s4TdJNG6LmnTovzr7ZXDVC-S6yL3uqFGA1csBA708r4MOZ6ARSa/s1600/cocina.png",
+    "category": "Entretenimiento",
+    "disabled": false
+  },
+  {
+    "title": "Canal Cocina",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161891",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMq7O8O870j5kN6erCJRrgo5adUZGOMJgEMCu_j8pGlkGNBtjbVuptKo76YmoTWqnATfYdILZO42WfNzHVUB6xjMd5dzs7M-8vmE5JindTkCu-sPRg2KCm6HeMvYYd54Y2LQqM7s4TdJNG6LmnTovzr7ZXDVC-S6yL3uqFGA1csBA708r4MOZ6ARSa/s1600/cocina.png",
     "category": "Entretenimiento",
     "disabled": false
@@ -3437,6 +3555,13 @@
     "disabled": false
   },
   {
+    "title": "DAZN 4",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161877",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-iSW1MMXapcj88tJLRH7fdNj9LBzJzUev0f-jUErjOQTNS9eE_JYaPoUo8hiByhBZqCaKL-cttt97BY16SsvGuTu0QlIsPPU52JC8kV80DF8D3-KDT378hC-b7CeY-2qJKLLv62pnuKp59oIXULYto47LG-AFBnDPVb5namcYIfI2KQjIWcb02Woq/s1600/Dazn%204.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
     "title": "DAZN 4/2",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/156159",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyfPuWyYDlIUTZQZOCgtu2O8uB5eWAUFg8NkIDx0DjAxkGQSPBwOuWFPCMWU7uV5VKG2qgTQHJlyO7XwAX5jkQH6mSPK_2Hb-9CAaUE16pVcpKqraC5lPWujEicac2J3m4NGqUV5DltDszcZfUA5Kzne4N9Iu0_QKP88nACC6Jbsz966_lDJAeog0M/s1600/Dazn%204_2.png",
@@ -3481,6 +3606,20 @@
   {
     "title": "4 LaLiga ",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161877",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwsv8mWemZt-kvWHSdD1ueuxfWwg-2dVlEohK4UWf0BQtrQY4IOw4WRI0VqLEYPxx2yE5eOd16EzUh3GTjY5v66tYtnI3GrJog4Qp-OVj8Haj1Ez8jq_MdV-Ico4iNAQN7F72a2Tlf-5Vscx0Rx6l6VBbjCHUABckFwB5Gf22TJ044ISXG-YmKqoxl/s1600/LaLiga-Logo.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "4 LaLiga ",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/162017",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwsv8mWemZt-kvWHSdD1ueuxfWwg-2dVlEohK4UWf0BQtrQY4IOw4WRI0VqLEYPxx2yE5eOd16EzUh3GTjY5v66tYtnI3GrJog4Qp-OVj8Haj1Ez8jq_MdV-Ico4iNAQN7F72a2Tlf-5Vscx0Rx6l6VBbjCHUABckFwB5Gf22TJ044ISXG-YmKqoxl/s1600/LaLiga-Logo.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "4 LaLiga ",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/162018",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwsv8mWemZt-kvWHSdD1ueuxfWwg-2dVlEohK4UWf0BQtrQY4IOw4WRI0VqLEYPxx2yE5eOd16EzUh3GTjY5v66tYtnI3GrJog4Qp-OVj8Haj1Ez8jq_MdV-Ico4iNAQN7F72a2Tlf-5Vscx0Rx6l6VBbjCHUABckFwB5Gf22TJ044ISXG-YmKqoxl/s1600/LaLiga-Logo.png",
     "category": "Deportes",
     "disabled": false
