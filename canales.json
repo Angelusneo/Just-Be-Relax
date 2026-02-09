@@ -186,7 +186,7 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8187",
     "thumbnailUrl": "https://64.media.tumblr.com/d5c50cba2aea4da8331dc2d17e0f0dde/tumblr_mspasuPyb71rdkn3to1_1280.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Veo 7",
@@ -200,14 +200,14 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161980",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCGP1b83u6MGNyax_jQpsTCS6puK7Wab9LZt4zgHcUqhzqwODFeqFUNLHLcUaCqZ-47aL2jnichibDtjv572Da2X0-4fAk_3wRzWc-LbeTAsIXVSQTY6T6ScO6EOjTlKWyTsNVcVG12V45V2zMqIWM8JRJmoh0NdhUblSa8xlX7MOKI11CzKLGh1C9/s1600/AXN.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "AXN Movies",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161979",
     "thumbnailUrl": "https://jungle-team.com/wp-content/uploads/2023/05/1_0_1_7471_3F0_1_C00000_0_0_0.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "AMC",
@@ -235,14 +235,14 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161987",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgemgMLla0jUP0QWfVzix2djA3mLsLSo-_yw-nreBSN1J7CfmgBNdl0kpSk7AcHtxttM1WS3isLUoqRvb5QqmVPuYdjPojjkkFxysYFGyXV2MSOpKLOznMbS572VNuVqEbvEB2RfkSqj-idO0vfoH173iWSdTYzG0dir7tP6U8Qlp0njrG93zKaoNGu/s1600/Warner.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "HBO max",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9668",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-yOvB6Gxbz19lDWcLdbkFTc6uTbA1bGeBgOuQGRSqtdufSy4poJMCiUS0Ac0K5nnzvok9WZvMaQnRpn6156-mZRUYSzYnS-1oxavKRJBSlPKxEPqb6Z6jfzovzISsLlIZHFLcwkfaoQjZGXwT4zHD897TV23CFkif-nRpQvd-mT5_95FxAV9SBd07/s1600/hbo.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Sky Showtime 1",
@@ -284,7 +284,7 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8168",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLxqdyvw8ujbHsL_oGhLXYuJlpZsKhB1TYwN_MYgF2LSUvM92lbaFuNzArki94AZg0bewq01Tx0Kc3_quDqyD8DsGQku0s74wA6J3R0qnx2YmoJuoHFFvCk7Is-asQUvzKqhze10jo-tYPszaJ0PMNaPZxEt3Sap6UvpQNuthfZJ3IDKQL6-MqmL2T/s1600/Dark_Blanco.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Sundance Tv",
@@ -319,7 +319,7 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/162015",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbS29EgNzcqKAEs1HPsSACBCDf078LaZwrA-lxvpOGVUQuYFLwUyHMS_fwWim2HhnQ38_PqIxX0NoAuBlCV4VXyYIF9e3E0MymXelQaMDEV6GutoZbj-Rf_IQ2U3J3COaSeQ-eX7yPxu5x_YIEWCSKClN5e-a5-RXRmcM18Ho1awg-e8LiLsELxGHk/s1600/TCM.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "SOMOS",
@@ -333,7 +333,7 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161971",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKeJVeucQV72I0HYwbhplzqPkyfq9W5SsM7ndud_SNoiruZwQTqKmXvmbOphFs2CmHJF7nztcEdaYnhzaKsb6IffyfpTaZy0VrDOg7k01BEUe4y6OlpksNdDLsjZTXYgUA85cFmUOEcYK4xIlJLvv4OWInQBw11KX3pN5DIlhUmEXz782gLjrUj3Vu/s1600/comed.png",
     "category": "Entretenimiento",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Vin Tv",
@@ -347,28 +347,28 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161943",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyXrCNeRmBY-FIVS1OzHtsGEzEZFi5MZ_kSjE7sBXy6vnTxxHjybFuCQCOZESrttftb2KSXcwCeqpxFR5VpW_FZdM3DminKgdqX67p_hwm8Hxwj9TTYVVU9GlFiXaOr5VsECcbgZht3S2MdE3UoG-vODicvr1lTNktqOSjznmcCxr1oN1zAMc5CNbZ/s1600/M+.png",
     "category": "Entretenimiento",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "M+ Originales ",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161928",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGZKS8wuwtCLMxqE7ZW-Qlh5TnRxAVc7wUqvhN2S4L9LGJ8gHM2VpiU3Cgzd10KgeS3ZkL7Q18YMNgUOpuAV6rNVw3mAjinE_soHTWDFCRU2mxKDxoP-16lS_YFhkEEwsF5hnIsoF1PihFNFVdWscZr1F04s8KsO7mrM4ptCqi8Or10uaWPZThJ9N/s1600/Originales_por_M.png",
     "category": "Entretenimiento",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "M+ Documentales ",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161941",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrkz-7y0-H86b9Xo7SV4uNvJ7Fo4oZYvzwFtFy4TQE4eKHfkzO1WTgrY3znH4pXuSNTTfCHEK5y6OqWtrA8PHckc6_wIN5dxO_tpm21jd4ip6zi_ytZIIcb7lhP9ZyhB5_U0-KSCIJs029e5t_6UQv9OWN_xoFQvC4lLkmbl2SHlCyzMbHtwCZDhss/s1600/Documentales_por_M.png",
     "category": "Entretenimiento",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "M+ Indie ",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161982",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKceHsni88mCz_AyIA1xfEHOIO5E-SUoPx-CfqorwxK_da-qURqQ2GEHZX_z0hpaKk4qKr6TzpBejqmlUMNSSsVV4PuPRHO6YGjsHfkdrXPA3iuBvDuU2v6NM4zK0MPO7LT8_aQEjUSXJGdmFEc4ZcnMnMHQjaJweTmafAl4Y2BdqADM3it8tWp10j/s1600/Indie_por_M.png",
     "category": "Entretenimiento",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "M+ Estrenos",
@@ -382,42 +382,42 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8196",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwzP1tIVYikEL5L-fd3_fNTZnXgAlw2wGvpyfOZJSOw_TBmbDzSil7MNvXQKVDrxVSkUVns1WMk7ZMPf6uTEt6n0d_g4O3aEwmxtwaxmeRxw7TgYoX6fB2GdH7-MzpEz6Koit5MQOas94yf6mDH964hfk1X67cMd6DR8ijtPou3o0V0sfX6gQqlG-R/s1600/Accion-por-M.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "M+ Acción",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/162003",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwzP1tIVYikEL5L-fd3_fNTZnXgAlw2wGvpyfOZJSOw_TBmbDzSil7MNvXQKVDrxVSkUVns1WMk7ZMPf6uTEt6n0d_g4O3aEwmxtwaxmeRxw7TgYoX6fB2GdH7-MzpEz6Koit5MQOas94yf6mDH964hfk1X67cMd6DR8ijtPou3o0V0sfX6gQqlG-R/s1600/Accion-por-M.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "M+ Comedia",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8198",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQqIKk-VbTScIoJjRmJhd5bpDKxiJx5yBohJI-ef-GnxjMbBQDlNjF6v4nPqx5aTazu-zF9qi78JJuGqOpHw1aopDzK5sxLLRtgKk0PFGOBTYvo76-ipjpnpBZwHlDwOj0ghKlf-QFM80ob2DkFiV-35Zwr0hFjWCS-elDxOts5WoYN8Uxtk3KuBUp/s1600/Comedia-por-M.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "M+ Hits",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8203",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibU19kGm9YrHrG3s9MilngCf6mGCHpXM2ZuAw4zpLiaXLlXPNNAnojQGkJgUnIJClz3n2rZQHL-XMSboK_5e5qmPK2b1JI6vCLxB7KyQBTzqVLjEraTuftNohkdqrcii4Nlyhl1NLqytlUBJP3udvg6Ram_6tqVJW3yCifGEREFHHkriDzeB0UmeXP/s1600/Hits_por_M.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "M+ Cine Español",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8197",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCEQKnNTd4Lr5Uvr65We0c3-T4BXE1k4CaSKxrp5h5UEZOZNeNaOuwOUrNUXJ1ipbJf5X-RPQrxS5sRghK3nuHDMMM0vGRFdodWrRom1PXjj_QNzAeFwDrA9JMJtss3-3yOBaErHAwKP5vB6plGddZJuWVZ1SqJS5h0KWvFp-2IjU1DNwd3f3JZymj/s1600/Cine_Espanol_por_M.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "M+ Drama",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8200",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMadsr6dYJdIz5vnV4BWzKfT8tlNDBmUuSqup-ZJ5f_EJtU4nEwtwI8ujNfspMNC5SDNd8HDjC0UzjwuYIJjTKoPTIXeb3nIhWvTJD94O0GZki8fuEnStmcYqnkmfgofPbI4-sPF_utCojQiDQR4pX0EAqTYZWkH92L9DWv0VtklbC2ajYSeUE4pBE/s1600/Drama_por_M.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "M+ Terror",
@@ -522,7 +522,7 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/164969",
     "thumbnailUrl": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/a9c64267-b93e-4a69-8938-ed9781cf9663/616c5896-a432-4c0e-ba22-eea3650668ae?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=4320",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "+ Cine",
@@ -893,14 +893,14 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/174841",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikzPKK6O5Q9WOdxV8cR9YZeyY3yPoimYiEYMb123ABNncpRGMUQrz85Xz3yNJqHM1owBs8_XCQykB8Muq8kDV72SzOq6YIiQOlBWjkSNgqmRuNbUGsvfZSm0SgsGwAu7P5pwMKpBQSzXYskQmSegWVw6XyPd3f4RPjt1h3aK5ObxznvD6NC9y51wdS/s1600/86.png",
     "category": "Series",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "La Casa de papel",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/165478",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnL_q9L5U5s6Do28Cj-F1Ee5oDimRrdq9nnmHDD3p3Uf1TxWV1T-yoejRQPXa3h5KkYa-aCF6slHQX_ydVxQNPXo7c6NVMHdY4MIXpxuayTCvUR5jlkqRAnyKgguyGNDFl5_firNTu5QMRAcCvdWEh5JDOsGav9u_daQ6gJqRd2W8lWVCuMgrvrPfx/s1600/Papel.png",
     "category": "Series",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Cheers",
@@ -928,7 +928,7 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/162836",
     "thumbnailUrl": "https://www.paramountshop.com/cdn/shop/files/star_trek_logo_-min_900x.png?v=1689972288",
     "category": "Series",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Star Trek: The next generation",
@@ -1152,7 +1152,7 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9703",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha4fsWBLTJYKk5JXFyFb3q1hNFL5QtjMwzpUyKKEDyfj5-mCT90CajUXU_7NKrzd_9IP3x_08NDZ3nuNENzvBhorgkz2fyiYVccWHEUmudqGhJ3_kXT7umg6YCbfGPUc1nXcpVpNIG9TGIlb-Y643u1IUum6ilZGyQNPvxIvvBDerIyFRmkUfC-HAe/s1600/lifetime.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "FMH Movie",
@@ -1173,7 +1173,7 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9631",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs1raTSdQhaWoYM0COkfG1rSO0MKT2Jkk_IcOnOKTYgHWrW7LTtnR3jhjSUbK0rxzBX20Xv5mOH-OnXIIUHbI2ngYek5iK-nJFPkJ3GyFje_mNTCLjo6P6nKgQIU6e-823Z1keSuAaXHZI9xL5Qy0-bVMDAb7iBa0lSEiXMsB7AuB60vJXDRV3b4Rv/s1600/CineCanal.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Cinemax",
@@ -1208,7 +1208,7 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9654",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1e0eNikmuFA_PRGSe-gN9OWUOH4TVuOvJTeFA1sAy6Q6iuI0cP3p0w6wp7BeGDyqMtfDMVuPRyHmosrUoWiLL7wHFvNlTMDRgeP6S-FflstElFqtCEVFgR2qV1nLtLqrejA73zcNUk6I2ihwppTWx7fx7BTFGCTbBhyphenhyphenGlSoChyphenhyphenHAMo0xFcI19KXHL/s1600/FX_Logo_2023.svg.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "SPARK Tv",
@@ -1243,7 +1243,7 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9643",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Cine Western",
@@ -1390,28 +1390,28 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9755",
     "thumbnailUrl": "https://static.wikia.nocookie.net/fic5689/images/3/3d/Universal_TV_%282018-.n.v.%29.png/revision/latest?cb=20210104012419",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Universal Cinema",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9757",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Universal Premiere",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9766",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Universal Crime",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9761",
     "thumbnailUrl": "https://iili.io/JKgZg87.md.png",
     "category": "Entretenimiento",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Universal Comedy",
@@ -1425,49 +1425,49 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9673",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJhGv4Dp9EsNcug31jwfjkubKkR__LRP36wvl7LxG7ssSVUMaO_ETwGBSw5-UiAWoKF76VB7VoEhZHVLlS6Jc3FlohZ8lFfLDGDhK4Ht9ZyYHlgciPK7tOCyHySK89SiFiRYmVU1MrcJfrU7epEbtuUtkC0MCkD39wCBMzoHY16iOpYrZY8oQTotAD/s1600/HBO_2.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "HBO Family",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9676",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhTuC7vggWhVSZoAnhsASgVkADCqkd9fTrDT32FhDCrnTgpNhoSwDHU-GIXb3Q-FPU7rmFgl2-XNia8ejBj_nfq0uQYoOq-oyGPtlT6M1Nss2pZ1luciTjk42auPW_sykIioZMmpX2TJZBbp7IQqBHAqpaTZrNK57IQANPXEC7UdA4ycnybuQyollx/s1600/HBO_Family.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "HBO +",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9685",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN0iVngAMPu8XZfYcOSNV9tHdyyR9ry_XecHcPch-H354Ilt2jT9IsNjm1hBW3TBYO3UVx2GHMM1c-uBCtuLYVS8NcJp0Agg8QSyPCYLf8nqbAARdx_qVHVlVyVzDffppNEoYB_kJr8EvlKh1euCsg1VK2hRupj7w1yGMcU5iL2mPbQWOuR1GoWv56/s1600/plus.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "HBO Xtreme",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9698",
     "thumbnailUrl": "https://i.imgur.com/Wz3WemYg.jpg",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Golden",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9657",
     "thumbnailUrl": "https://static.wikia.nocookie.net/logopedia/images/a/a2/Golden_Blanco_2020.png/revision/latest?cb=20220131141053&path-prefix=es",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Golden Edge",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9659",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsBklzX7HUws5bF2JvZHkpNaBn7p29Ej4WxuQeD0e7mO8uERPLnL1x6IgG-xRS4Ot2XwtoJ94Ljmub1ZmUTa6hrfCYkAPddue6omBjYl95til7mg3llhWJgs9GGHUZfFe4TWck-wtVU8ewfgk5fxGdoIQ6LMo44HNAzFDJMyax2VSIYccO764fSs9l/s1600/Golden-edge.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Golden Premiere",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9664",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7A6M38O9fu2M5PxLOzWYrN_MHHdTMDYfXs5cwbOJjTsGZbMBPzC44K3qimYr9fTXj0uMlZ9jIbBx6UC7o6YTB1JAhbHiXkoJPTZgeQxkbkmM_UX7CshyTNWfdeTjZDHMrxskUMYrdYaloK61ILRaDW9A0hbNJQHYf4Lobs3oVvxIBGNG7mJYlNAZ-/s1600/Golden_Premier.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "MX",
@@ -1747,14 +1747,14 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9867",
     "thumbnailUrl": "https://static.wikia.nocookie.net/fic5689/images/d/d6/Disney_Channel_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20210707082839",
     "category": "Animación",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Disney Jr",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9869",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP-KicQWTZzfll66LsnRPXWPmecmCu1vfUXeVnM2QSmy4HcF-eQfdOlqlIXFNKgoqCdvYiA3w6GWjtI5UQw2RJVNCnsblhv3ivBS82KAM4d2iRRQK1VgUCwbzum2HIQBTNaQlTi1WaGj15cc093V8JNgz5u-cZF4Lk2Erk-3GFaMP7cMOT8kZ9V7hv/s1600/Disney-Junior-Emblem.png",
     "category": "Animación",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Discovery Kids",
@@ -1768,14 +1768,14 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9871",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXKGyE0N38QGedvhdJkzDS9WtItYFx6J_4mlbS1KWG1x4c3M9RwTYUVC2d2A4Jl13H1hCYvHWmmpJPoNnsHtKbq5nQlAU2Lq_7gP9pqPV4lzoRy_f2xWvkRYa2pulj-iEK3OUbP9tzZr3cDbLxrNwOdRRgv5xanvqfWUt9a4NfYjcIT7Rt-NvzJt6F/s1600/Nickelodeon.png",
     "category": "Animación",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Nick Jr",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9872",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxikJMbecG5uTb23OYlA40QpnZMjgXL-FD5nxACF8CK6R1mWjomDZQ-MhHE6byqv_zWJg1I_fn2KMTZjS_sWzFUSsS5VlckePCs7C91tdOJBrk0qglR4EWf_gF4FBsdLUzRH5vbxrQwQ1jcoHMtUCei-r0R75dwnojA7EyW3UD0g11H9tCljyzKn45/s1600/NickJr.png",
     "category": "Animación",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Nick Jr",
@@ -1845,21 +1845,21 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/162854",
     "thumbnailUrl": "https://image.tmdb.org/t/p/original/7ibnM8mbqblifWEQqvvEkzYVQxR.png",
     "category": "Animación",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "El Correcaminos",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/162947",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Jw5Mbrf6O7TJaJ9QllKO9ZUJRYpYtKGmry6u9TRnKv9pyQnIRH-Iw5tdLC6vY6rAJYzbMxvTOjQbu73Fmd_863Wv4K504oPX85XYRBEqh73vrePhKllWFutSx-vACtyVf5INpEZx2yJfZu_1Cud4adxQe6ObNANomaAxGvIR_8zGVpt4bCTeyNv7/s1600/Correcaminos.png",
     "category": "Animación",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "La Pantera Rosa",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/162964",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEwPVTmBzB3wY97kJhFrfxHRNtH1hyphenhyphensbH3mfnQmChleRJAwUNi97k_nCGPktB92fYnvULZGXOoPacMQkpRK7z5vbV_4TTOkcTTN7zeSkhN0cnTkcThi1bW_ECDV8T0FMawqo2qC_6qoxBvlwWIzeByIcKx-_izqZbqs8nMzDKamCF-t0vbCljDwo50/s1600/rosa.png",
     "category": "Animación",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Baby First",
@@ -2167,7 +2167,7 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9786",
     "thumbnailUrl": "https://asteroidday-uploads.s3.eu-central-1.amazonaws.com/wp-content/uploads/2018/12/06032103/sciencechannel-hor.png",
     "category": "Documentales",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Discovery Turbo",
@@ -2181,7 +2181,7 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8221",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVSK4tKb3OxfK9aiA9DVRWSnNLBbh3upPnPsF57AhShVKTIWGtM5fcUgyRDV2mnT7I5UemKMxy8SJNXOdO_lGTfEI9RpjJ2T0pAd73-gnbzdggB4pWPVGi2Os3nf_FlYFKOFb_G-sQjKZppGIPOAJhQWmdzeh3CIkRfP9kZaeiyakZqr_3H7qSodWY/s1600/national-geographic.png",
     "category": "Documentales",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Historia",
@@ -2195,7 +2195,7 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9836",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm3QlJgWDdnM9ERAcYri0F6Su37sfjflwM6sTbpmK6KxBhoKf6Vo27EL9pBB-_QR9GHQXIbVoKg1ftDBGL1pLQePAup1uxCe7oPDTZC6JeATIc-S0XsjkjNE8timpf2cpVPLwzPu1yyVO_7EiLPnPlOHMDXOxNLyBjCv-_-Pqu-xABIScEZAy8vnnP/s1600/H2.png",
     "category": "Documentales",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Odisea",
@@ -2461,7 +2461,7 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8218",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbIJb0yleuiIuFw-y_MMSru4V-KTEI_4cbPmdCDrsW8DKp0QeVrV_d7aN-Az7Y1cMQRFTWkBDe-_w1Sh2Uws__u1jOTao6FUdD4QamDYxPmEUn38x2Rp0sUkzDlAcQqxjY7OPGzzbUPon2kd4j5izbNCVKXYN0PkesmgWezAjflpAaznls5keT_9ncX2Hm/s800/Nat%20%20Wild.png",
     "category": "Documentales",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "BBC Earth",
@@ -2545,7 +2545,7 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161999",
     "thumbnailUrl": "https://cdn.prod.website-files.com/6521ae7cdcc164cb31192e2c/6521ba4124a3bd0b7e56eb23_brand-logo-mtv-white.png",
     "category": "Entretenimiento",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Infast",
@@ -2636,7 +2636,7 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9651",
     "thumbnailUrl": "https://logos-world.net/wp-content/uploads/2023/05/Food-Network-Logo-2003.png",
     "category": "Entretenimiento",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "TASTEMADE",
@@ -3000,21 +3000,21 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9577",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Fox Sport 2 ",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9582",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/2560px-Fox_sports_2_logo.svg.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Fox Sports 3",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9589",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "ESPN Premium",
@@ -3112,14 +3112,14 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/156148",
     "thumbnailUrl": "https://jungle-team.com/wp-content/uploads/2021/01/dazn1.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "DAZN 2",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/156151",
     "thumbnailUrl": "https://jungle-team.com/wp-content/uploads/2021/01/dazn2.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "DAZN 3",
@@ -3133,21 +3133,21 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/156156",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-iSW1MMXapcj88tJLRH7fdNj9LBzJzUev0f-jUErjOQTNS9eE_JYaPoUo8hiByhBZqCaKL-cttt97BY16SsvGuTu0QlIsPPU52JC8kV80DF8D3-KDT378hC-b7CeY-2qJKLLv62pnuKp59oIXULYto47LG-AFBnDPVb5namcYIfI2KQjIWcb02Woq/s1600/Dazn%204.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "DAZN 4/2",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/156159",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyfPuWyYDlIUTZQZOCgtu2O8uB5eWAUFg8NkIDx0DjAxkGQSPBwOuWFPCMWU7uV5VKG2qgTQHJlyO7XwAX5jkQH6mSPK_2Hb-9CAaUE16pVcpKqraC5lPWujEicac2J3m4NGqUV5DltDszcZfUA5Kzne4N9Iu0_QKP88nACC6Jbsz966_lDJAeog0M/s1600/Dazn%204_2.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "DAZN F1",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/156163",
     "thumbnailUrl": "https://jungle-team.com/wp-content/uploads/2021/02/daznformula.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "LaLiga Inside",
@@ -3161,14 +3161,14 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161931",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwsv8mWemZt-kvWHSdD1ueuxfWwg-2dVlEohK4UWf0BQtrQY4IOw4WRI0VqLEYPxx2yE5eOd16EzUh3GTjY5v66tYtnI3GrJog4Qp-OVj8Haj1Ez8jq_MdV-Ico4iNAQN7F72a2Tlf-5Vscx0Rx6l6VBbjCHUABckFwB5Gf22TJ044ISXG-YmKqoxl/s1600/LaLiga-Logo.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "M+ LaLiga ",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161931",
     "thumbnailUrl": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/09/1_0_19_750F_420_1_C00000_0_0_0.png?resize=440%2C264&ssl=1",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "M+ LaLiga 2 ",
@@ -3189,14 +3189,14 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161873",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAPG4D04EowF8CuE_TqJJi8O-dQZOdcIKwxcrj-WYEM4HgWL8w7EaV0Qi9qJtH0YdhVKdIGr2jtMJw9iI2b7dAU2Q7wWvAveMJfj3GdsmKq2zSEe7uW8IbjplkKQnI1AbrnJmHjwx8zmV7XkMnScSshV74BbOL8aMZf5_F4sUkDzp5Q1yIzDf0Ihhv/s1600/LigadeCampeones.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Liga De Campeones 2 ",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161874",
     "thumbnailUrl": "https://r2.thesportsdb.com/images/media/channel/logo/mngo1u1726843207.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Liga De Campeones 3 ",
@@ -3273,28 +3273,28 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/165484",
     "thumbnailUrl": "https://camisfutbol.es/cdn/shop/collections/Logo-HYPERMOTION_225e03d0-6ef5-4d64-b75a-ac58f4676ed4.png?v=1752160233&width=750",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "M+ Deportes",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8199",
     "thumbnailUrl": "https://r2.thesportsdb.com/images/media/channel/logo/jw11fx1654941293.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "M+ Deportes 2",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161907",
     "thumbnailUrl": "https://r2.thesportsdb.com/images/media/channel/logo/20mkzl1748079058.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "M+ Deportes 3",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8171",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlGJbSP9P5Qna7vd090brroSOillUzfDBobbJTMilRPrFrbWrgycc3KlygLsWqnfstybrkkWp5gfDaCuDUcE1uYMQOU9jey3uWg0NUUYWu5qkFxPv7BAksgy0L0tHebE8DcsFJ_qEzLGO-iYmyd_Sf-y5a-grdA73pgIGEzDbOAy9OYG-oLBt25cU9/s1600/deportes%203.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "M+ Deportes 4",
@@ -3336,14 +3336,14 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8202",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMZpWA1VAJdHyW8so0tIixPRbFiD-YIvZhXsKhy_gMrikAHj8qYd7_2tO4RmTYMnoEdpj9A0opGK-MV3m3EHXzHU0WQ-vc6RCER_AJwKghPy-xA2nh4yiPeXFfY73JRHrtXNVfIoW7b3u6-2rNXkKQtjnS7SIbxT7UG0fOJZCjELAbEBgyrAqX0eZj/s1600/Golf.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "M+ Vamos",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8134",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIxepbxStMzN955nqFIadQqlxqAtP8D369OphQdFsAbOClJ6tyxc3HgQXCuaFqRR59oQdyPXVX_cfPxpn4DCjXlLYdX2v1wQNFAHClBvR84TaHjapCAo1F2CTyNmLe55szHw804nOJG6PNHfCJ1s-uzWkUJHK56J-hqAgfQOCltlYCXOBPIoXuCE6M/s1600/Vamos_por_M.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "M+ Ellas Vamos",
@@ -3368,17 +3368,17 @@
   },
   {
     "title": "Sky Sports LaLiga ",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9599",
+    "url": "http://167.250.223.26:8085/play/a00d/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwprkIshq4lJPZefJiCtzeb9qXsHAr5NugHKVfv_e61IMsQx9zSto4N0TJem4amgkqCYHEUEFi3Y-LR9izyMPdtGaxuFz8ocGEUR635c1sHOq93n9ezm2J8f70lSuzlJ7Pav7XLnCT4GMmLrjp8bRkhwylI2zKcu_qPczvhmBzTaflAiNroU9AnvY8/s1600/sky-sports.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Vix Premiun LaLiga ",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9601",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-LkqMeGzmjWp57-jvcpH5G8tRGgM9PtUYJ7-vix7-kiET7uUBkiDNOuocq8trW9i9GampVCBGK0LgdVRteV0gNcXg4Ip4j3Q7nIzYY39tTKpfBKqHZuCMDHa05-jdHnw2pYh1JVApDpKx-FU4EHJUiVKaM5KkUuFbXiOc9A1CPfQIRKKe10e5bMJr/s1600/ViX%20Premium.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Sky Sports ",
@@ -3392,7 +3392,7 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9600",
     "thumbnailUrl": "https://r2.thesportsdb.com/images/media/channel/logo/Sky_Bundesliga_1.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Sky Sports Darts",
@@ -3504,7 +3504,7 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9596",
     "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5fb694ccd284916081b54c96/1622863910567-A3E3YFCD7P9N9O353UER/logo-golf-channel.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Sport 3",
