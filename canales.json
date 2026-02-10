@@ -224,6 +224,13 @@
     "disabled": false
   },
   {
+    "title": "AMC Western",
+    "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX04/smil:91_premium.smil/manifest.mpd",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJDuC1A9hPqhCJ_JHrWNuM1pMywwN19xyphvFIXT8yaIRKPRnTlKpH0UmR6CJ09293_tMmZXWJr0UXP6OCxeyY_aXl_hXlPHn37YL1q-d4uNUJM_dBEXizPJi5nhQrZzJ986XnRFGwmC1uHKd1Xuz-3D486slNpbcuZVlGx61t24zdOW6FvGRngseX/s1600/Amc_western.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
     "title": "Canal Hollywood",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX/smil:82_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYxQ9P4RVXa8GVo51KIKROWaXMj_kFFg3XT9CaRf5tV7y69zBzDU946m_GIN-nPZD7bjfY4T5P9tEO4Y9Hidpe9WzV7Zypza7owyr3LojBloCFm9LztE8z-QM52Pnyiyvju3w2nGFglhKCusjMKNKphVRDErmUiYuVbGtuFKZk9474Muz91bumr1Xi/s1600/HWD_logo.svg.png",
@@ -2664,7 +2671,7 @@
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX04/smil:91_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcncO-gJkPb1omhWZIeREq7lOiRu3fRS1jHe-FXrrtXLj7WOk_iEB_SOdy4aBNWoBF93YjXR99Xk_D74rD0qaIeGcRTOXPpy75ilSto7nKdla5eKQXKjkbVMluZYSigImczeCFXuacwEZUdeAtpsziw2iojzoRqGqzd11RNgtOcjUNaYioX34-36Bk/s1600/buen.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "DViaje",
@@ -2677,6 +2684,13 @@
     "title": "TravelXp",
     "url": "https://travelxp-travelxp-5-eu.xiaomi.wurl.tv/playlist.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvp3DL7G7lFwcacYuwcNkHSB06Rt9MJvz4gKaY-fjdHQ4oP0AGMTkAWB-GtVBWtGYi_Eu13XvUhYZGgMJIOJndlKCcuZyPSrc2TmfchaW9CdrIRJWaTMjTEcFox5mMDZu8NI2iCCkdC2cF8cNTE3kc66557H0KackjnK3yGwI6eH10y9RxmV243Ilm/s1600/travel.png",
+    "category": "Entretenimiento",
+    "disabled": false
+  },
+  {
+    "title": "AMC Living",
+    "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX/smil:84_premium.smil/manifest.mpd",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb_G6aYTWvJpqITQ4tRB4OIOgqJ08843maNjQ_aDUxPG0kNtJUphAfzziRrlAEtfl8_q_q_CMc6HYSI7mJbeM5sOwj8SvYx-hpY2ha-UaNdIvPRz-XiFrR4qUmt5c5FW8IV6NDSJFC5D9SLNqIfzeDi0eHbywA4n_wf6aqymW4xOV5IkT0hEygW0cp/s1600/Amc_living.png",
     "category": "Entretenimiento",
     "disabled": false
   },
