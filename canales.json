@@ -193,14 +193,14 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161918",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv7Gv5JUmqIaPYIu8vhih-L8u03hn8QwprhGUEoIKbzGoEgeYJI2OzZhDPDGDkbVDyClc67x3cpihOh8CDu9hehPvHCJ_ORrYge1F6lur_vSay1H_pwiXZh18IhTtJ8QILMAFFsrtxKqcXLGWUDg-vnhM28YGWFyIGp-yElRUtXPMOfVZjLbAKftFW/s1600/Star_Channel.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Star Channel",
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1657",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv7Gv5JUmqIaPYIu8vhih-L8u03hn8QwprhGUEoIKbzGoEgeYJI2OzZhDPDGDkbVDyClc67x3cpihOh8CDu9hehPvHCJ_ORrYge1F6lur_vSay1H_pwiXZh18IhTtJ8QILMAFFsrtxKqcXLGWUDg-vnhM28YGWFyIGp-yElRUtXPMOfVZjLbAKftFW/s1600/Star_Channel.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Be Mad",
@@ -526,10 +526,108 @@
   },
   {
     "title": "M+ Estrenos",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161883",
+    "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1626",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfoa08iW1XuspGmtGodQndMfQCoRL_xjqqL70huR0etqRP7yXBpe7EkbQjw2jcVa7ZRZ2byktJ5U0OacR0gTcF23jARHlJ6_94tDNFZ6RteJud2zmFIp6xzVIooNxweqT4VLvyFiGT0ntyxXvb6fwdS1YiTHMRT94FAlaWR7Qyund1mRO44r0IMUpS/s1600/Estrenos_por_M.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
+  },
+  {
+    "title": "M+ Estrenos 2",
+    "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/317739",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpVgQBPoHiX9Hwzs6pTFOl2Z4h5UnbY3mrbmumhkBfbyCXEoySEBeirZnPqaXSJbTTwaWAiEvfTrDwYYtPSbiXrF0a7Fvd-j6kbxcus3Ye_PE7BfxL005fSCHzbKiPbxVLgd4R_gJVnYcUpBAt1bW5eid8WftNBodtU71_QaGWWXghnYqcaDmiRLSZ/s1600/Estrenos_2.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "M+ Estrenos 3",
+    "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557306",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtJwDLeyvw5aAtLS6CZy_LUNDsSKj3UbSBBOeiOEutiDbhGY9mei2Tdfchl41e888ge3Vl73Xty3O7x9Gnag9Sjjz8Vo2Nn-xv1ow1bFon2knWFBpCnUJeOt0_KAgAsR-PE79KCSW3dLTkWTd2S5WpvLspIXEBoHLjHSMH3AvcGAyUAJ_XdJtyBXpD/s1600/Estrenos_3.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "M+ Estrenos 4",
+    "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557305",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDy1QCH4LlKRjJwEUGEtyisndJjX8qL5X0vXdq-yC2edrMadN2imzca29hoKrwJ639dm4y4jJNI_Eaz9QfcJFkbEHMDq0cKXZLsMcpozqcQfzWTYScmIO19g060qakgrvS_18z4fILtLRGiL-rdjqim7wyXBpaPaNNlk3Lz4eQk64vuBURK2x6pswn/s1600/Estrenos_4.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "M+ Estrenos 5",
+    "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557304",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgURBNswyOnzniGbiZpVNFBfyDiBom5LCX6C8a4gdNZX-SP0kWAAcaK9UuLjTJMwfB4JjrJFBUUnt7JDgrIaaBt6RKZXRR7lDPOrIP-i8l60hmpTSjidYHwhzdYyyI10OB0qq-8bk-CtsgreRbhwxQDqX_vBoxc3YJXZfkRyW5aytyxIC1lKL3VljWJ/s1600/Estrenos_5.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "M+ Estrenos 6",
+    "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557303",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4iuMeE8TyrTVWxvioXaAuWQEkTcDk1nn_az8JMyzvJzhUcYTn85i0tq2y2OpBs3rE8i2lHxRln-iIzoPcnEAR_31eKhD85HAY4NerpUZ5Qy2ghzNYBLFNi0bs5Ob4x74dskmTU5mK6Tjo6aONsx3k900p4rr6i4b3KYJJ3XrW4zGta1K_QK7S-Kxq/s1600/Estrenos_6.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "M+ Estrenos 7",
+    "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557302",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfziPG5lPp8zrZXyQCtTw1Gdw_1x-BMg4ME5YFzaO0b6HkDcV6pflQ02NP_Ln0vCRtGUJ-TOe9yb03On9vg4_hTuxEI1KA4uVuIElRrVVfEG_1gS-P-IWnv-Dzebc30nEK3xUlAi5rtVgizzJRny5ESOEt2JRHS9hKTqKdrlcV2YaTnsgTrwIWkDYG/s1600/Estrenos_7.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "M+ Estrenos 8",
+    "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557301",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFlFQxQveMnA42deXzrPYbhw6ji22nXrVV8ivNDZ0mi3uMgF7yAFJxjWbxv6NM4NZaWJxlVI2xjqUvY1kRVHfwIX4D9llj4ES-Dj2LTCHtDH7EZdCaVhEWclKBkmGOFERh_cvPv67Cxt2xyR2wEumHmThtyZjit7S4l6AhRCXHtjRPbVmwxcvSApy1/s1600/Estrenos_8.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "M+ Estrenos 9",
+    "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557300",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiihfLExjazvJOlmy8Mp_ahHVbC1Paw_43wFwlWErnp2D6j8aHG6_mYaqd_vStCrdr06Jxn9o_20Td9iX_gSD5nEqFzt_FB-B5vQX55UglVcLfScXBfx35Z388g4IO8aWcXTwa05C17N7SOjh1evZY3aEl3EEqbuw760SLmqEROLgFRDM61cUCm2U8u/s1600/Estrenos_9.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "M+ Estrenos 10",
+    "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557299",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrhgzOPm1Z76OUFP0eGp9o7_SX4nVq7Z1cUz2CY6Ujvj3Dsgb_ev5zCOsLqO-nc41w1zFt9ZMj0T2XInonXDmQjkojYyYNItJz_zcvBcsXl3ffBDSC0SC2IvqRfeBlrCsK1EqG7v44EV7s5qlRmLTQ6YhD_MOQpO7NjayUKGMRLm3OuwNW3YKiHce5/s1600/Estrenos_10.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "M+ Estrenos 11",
+    "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557298",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ7FipXtVx6IqiyaIz2jUDe8CadqOJom068fVj59y6jGRu9iWKITqtKP289zUVOSZDQ2Oq9vstAxrXeuE2mLb6oE52ID9NOmdQU3SshGKP8IOnHKe1P16ch_Qq5u6-x-ajIC88wvhojcpaIriDKo8EeR3PAt8dRILP2c8VbA04flE8jmPZ-sY-nwRl/s1600/Estrenos_11.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "M+ Estrenos 12",
+    "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557297",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2b7bELAHr_Ee3OPK1hWBevqHRYnjucyUpGCrQo6UkQAnKE5gC3YDkXe46EOcjjkzYfqv9HBcYNdENIme_LHjQwyA1ao4MeY8EemCdb3RLOrgnBP6G1tMKmDtVb7djbWdV_Si64T3avvBdlvB2gaYn58TiVtWiHuYzXxQEOseXCoJ5asVXdhkzRswH/s1600/Estrenos_12.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "M+ Estrenos 13",
+    "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557296",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinLLDQoV0bIFytG8wuoqG-PTLgFQqB2r_OVfXTa9oXnwMZ0fywIduSXakQveEQVAy39oW826VRzfVqJhrlV8vlXh_ldm5wC0ZWqsJ55CcM34iFRg_qkteBE23d2BkYW2jjKaPZswzzF-ffslW7MgzKpKl5Gwij1F6ggHzVLbg-K2Xyg4dHF1FMG3q0/s1600/Estrenos_13.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "M+ Estrenos 14",
+    "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557295",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv2VAGxCdPuE9dSSdETN7ZncwxIvBHetUhZEIlklQ0CBaN05jQ1q5IDeTBRSWrkOmByfxhX2WN6UvW9g56x_b9LXm6I_V7hbkKU0YncVQYY2vNVey1Ljlyoi0xOBl4VklZxtvhYw0eiuLJfAI55ZimfTxraB9L7ICY5QCo4ma0tmF0pOmiVssg3zA7/s1600/Estrenos_14.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "M+ Estrenos 15",
+    "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557294",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtyd7aJpcO0jRBR1mZLYgDBTxbRwmPfj7oJ1wPu3vV1zpjdkFkEEQQKHaJvLYyxrw745zMpRevKQW1ej54RvbkmnkxpTZH_oQTiunYjNJlaw7jqraeRQI4s1NC53HlAXElbTbDZvgC42naOIemoBglLt4PF8hJP0DNfoc6AdzKb14FJZPC82T6ZFdu/s1600/Estrenos_15.png",
+    "category": "Cine",
+    "disabled": false
   },
   {
     "title": "M+ Acción",
