@@ -225,7 +225,7 @@
   },
   {
     "title": "Calle 13",
-    "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1660",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8156",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRQ3TTL_VFt57HCgdm5ALD19_lwSysVJYjvWC1IqwVA_KJN1qH5mfzD6KqwTWqbbt1ySODIS77h1GL-2hfiwnDksQcasnECg86HSZwDSJQUcVRDXZppj-v_1iKueOVR5gOpbuxKM_jUlYXyFmpsx5wJbeFBEpF663c9HDlzzgJLCC4k_-KMJP6_RzW/s1600/calle3.png",
     "category": "Cine",
     "disabled": false
@@ -249,7 +249,7 @@
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/161980",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCGP1b83u6MGNyax_jQpsTCS6puK7Wab9LZt4zgHcUqhzqwODFeqFUNLHLcUaCqZ-47aL2jnichibDtjv572Da2X0-4fAk_3wRzWc-LbeTAsIXVSQTY6T6ScO6EOjTlKWyTsNVcVG12V45V2zMqIWM8JRJmoh0NdhUblSa8xlX7MOKI11CzKLGh1C9/s1600/AXN.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "AXN",
@@ -414,7 +414,7 @@
   },
   {
     "title": "Dreamworks",
-    "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1670",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8201",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghGUS66ykmh3mzQMe5wwkf9f5nro-00nHn8iRaVcSoeVQFRvyUqAlzvrK3dsb7nH-wlAXMEzuewd4Ijjhac-OmcniNEb9kgyCahQ9P2k_yMtZ13KhgwA3kXocHZIrSrTbNxfqHSFvgIQtYQUOs2R2iujq0a7sk7dS0xbP2IJ0fFMKsCTBNRmDsJQTS/s1600/DreamWorks.png",
     "category": "Animación",
     "disabled": false
@@ -442,14 +442,14 @@
   },
   {
     "title": "XTRM",
-    "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/192239",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8254",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1K_3WLl6dS-LtHiomttO8lM5vjPnNKLDjz-R2B42v2ZzaTuW9browwnv_bpr5KTJrHPbLqItFYUEeSh1pEZrRMPpS-PpZ9beIt2TJx_Eyz1cRVHpHy5gJ_g019OgoAlIdyDhPTjS90rz1TTpDNM0T2BsgKxyDSCXEnXy_jQCjKwx_uk4UcbBfQsSy/s1600/XTRM.png",
     "category": "Cine",
     "disabled": false
   },
   {
     "title": "TCM",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/162015",
+    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/8239",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbS29EgNzcqKAEs1HPsSACBCDf078LaZwrA-lxvpOGVUQuYFLwUyHMS_fwWim2HhnQ38_PqIxX0NoAuBlCV4VXyYIF9e3E0MymXelQaMDEV6GutoZbj-Rf_IQ2U3J3COaSeQ-eX7yPxu5x_YIEWCSKClN5e-a5-RXRmcM18Ho1awg-e8LiLsELxGHk/s1600/TCM.png",
     "category": "Cine",
     "disabled": false
