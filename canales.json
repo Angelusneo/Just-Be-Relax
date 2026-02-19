@@ -3413,7 +3413,7 @@
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge2/smil:272_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://camisfutbol.es/cdn/shop/collections/Logo-HYPERMOTION_225e03d0-6ef5-4d64-b75a-ac58f4676ed4.png?v=1752160233&width=750",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Laliga Tv Hipermotion 2",
@@ -3544,6 +3544,13 @@
   {
     "title": "Sky Sports LaLiga ",
     "url": "http://167.250.223.26:8085/play/a00d/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwprkIshq4lJPZefJiCtzeb9qXsHAr5NugHKVfv_e61IMsQx9zSto4N0TJem4amgkqCYHEUEFi3Y-LR9izyMPdtGaxuFz8ocGEUR635c1sHOq93n9ezm2J8f70lSuzlJ7Pav7XLnCT4GMmLrjp8bRkhwylI2zKcu_qPczvhmBzTaflAiNroU9AnvY8/s1600/sky-sports.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "Sky Sports LaLiga ",
+    "url": "http://190.83.9.222:8000/play/ca098/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwprkIshq4lJPZefJiCtzeb9qXsHAr5NugHKVfv_e61IMsQx9zSto4N0TJem4amgkqCYHEUEFi3Y-LR9izyMPdtGaxuFz8ocGEUR635c1sHOq93n9ezm2J8f70lSuzlJ7Pav7XLnCT4GMmLrjp8bRkhwylI2zKcu_qPczvhmBzTaflAiNroU9AnvY8/s1600/sky-sports.png",
     "category": "Deportes",
     "disabled": false
