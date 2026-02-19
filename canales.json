@@ -3501,10 +3501,38 @@
   },
   {
     "title": "Sky Sports F1",
-    "url": "http://tmptv.sunduk.tv/CH5539/index.m3u8",
+    "url": "http://nightmareiptv82.p5830gtv.xyz/live/se75Qe1N/aYyzFMK/ee5d61c9-3cae-4ff1-9ade-2991f421051f.ts",
     "thumbnailUrl": "https://tvprofil.com/img/kanali-logo/Sky_Sports_F1_GB_logo.png?1734014987",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
+  },
+  {
+    "title": "Sky Sports MotoGP",
+    "url": "http://nightmareiptv82.p5830gtv.xyz/live/se75Qe1N/aYyzFMK/d8608ef6-12ea-4238-b139-9cb63bb5e89c.ts",
+    "thumbnailUrl": "https://r2.thesportsdb.com/images/media/channel/logo/693fja1595133458.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "Sky Sports tenis",
+    "url": "http://nightmareiptv82.p5830gtv.xyz/live/se75Qe1N/aYyzFMK/3dcbdc37-c3d0-4aea-af38-9e9c6e55b4dc.ts",
+    "thumbnailUrl": "https://images.ctfassets.net/nn6vbw09vzdt/5KQbPEeBJP1vAlF0XqW6Cm/a953de783941ac8a27794b2c6dae5247/Sky_Sport_Tennis.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "Sky Sports NBA",
+    "url": "http://nightmareiptv82.p5830gtv.xyz/live/se75Qe1N/aYyzFMK/4e0f2dfb-0473-4a4c-8d08-8616e9000b8e.ts",
+    "thumbnailUrl": "https://r2.thesportsdb.com/images/media/channel/logo/Sky_Sport_NBA.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "Sky Sports Arena",
+    "url": "http://nightmareiptv82.p5830gtv.xyz/live/se75Qe1N/aYyzFMK/07eecdd2-1e46-4bc2-910d-6527544d7f69.ts",
+    "thumbnailUrl": "https://r2.thesportsdb.com/images/media/channel/logo/82plpt1601128493.png",
+    "category": "Deportes",
+    "disabled": false
   },
   {
     "title": "Sky Sports LaLiga ",
