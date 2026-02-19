@@ -67,7 +67,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/312694",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDuKUYbdQRlES_vzXPd8ngtgq8_gbGuLs11JT1uqKrbxc8Ha9wG2FyNU8hJ9kp8zbvPJNsF-N9cHZdOVjrkB4MHNonMbPCVqsB4Yqo11e_5Rz5hwXU2qdXPaYK-2rdD8GrfZTZ366rFYuCNNSDR8Hvb3x6iW6UnjcSz0gj8CTJ-Gip-67_GRc1RCGb/s1600/DKISS.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Dmax",
@@ -81,7 +81,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/229597",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ4kOf3lcvBuEZVVc-_U7aQDUOviTxTWS2VzJH_EblXTxjcD3ATzhO33TWb_WyC2tiIgQv2ekCKkSJb-K_nq5CBv2qZgn6YtdKUAyAPGKiculth-IQVE6vbIsApWetNooXRw7bBZvtwf2k1EQZmEb7y3igYy66g9LBYDpOp19uCTu9XhnqPRjzOvYS/s1600/DMAX.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "AMC BREAK",
@@ -95,7 +95,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/353715",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY_tCwwy7mnwY_nuREYzTZIIusEysoBryunGNNLTU8Kc2sl4eCvBFl-2iMVfNr0_yPv3ziS1N26o5ctgq9fgBV8UdcH7KziU2rNPGl_Fv-saVZwRbYKWeOhIgCv8d-TuuJMBBbebFDK6H9i8m9S14gOvcUHM16ZYCAPQwmPTfNubLAU3aQ84LhQvT4/s1600/AMC_Break.svg.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "TEN",
@@ -137,7 +137,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1688",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHiBZ6S0sVz7jj3o7BFSdBbGii8MxlNyNULybPSPkFN51LCENIoSqi_lNJFna3L-n8V8SFYqJehaVLldYHqgZIkwDEcWTvtGLHOyUoi5TozNq5naSaf-auh-l1pGS3SUqk0KEWSQngWPDENvzATYhIuFwHdveHPDDw7jiDrfadIm_aWnNpNMXWpf_a/s1600/Divinity.png",
     "category": "Series",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Energy",
@@ -151,7 +151,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1689",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipG7lFjM2yEGj0R19oYUQ6iSDbnxoh3YRPxvuuTNhzrqcvOZEMH-Dq1UFEQ17Y4daWIQaSI1BHVg5YqUSRyXhwzyAOhmxewfH2BmnI_1GyXxhlxiEFcyLsxdsqq3suatJ_ODlwbN46Iq2O5A2ppuxaLfeygoFSgDnY3ZwkMRZuGp9X21h_FwBwWvyB/s1600/Energy.png",
     "category": "Series",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Cosmo",
@@ -165,7 +165,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1658",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggd7c4PI8Fy4SpZWO24pv6Ph7Nd8Mj88NATPMlOsz21xAg1z7opWpHrAjO5ykoZNLWztUBMljOsgrfJM9pNTlyNlNZIiKL4IJvyExMR-coa6hb9aCOkyawjnG4ilPcwgf0X7ixnk7y2oREbA8e7t0tGUEveuBdwNfKCFUj6XIfJWl36ygGSLjMaw_3/s1600/LOGO_COSMO.png",
     "category": "Series",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Factoria de Ficción",
@@ -207,7 +207,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1657",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv7Gv5JUmqIaPYIu8vhih-L8u03hn8QwprhGUEoIKbzGoEgeYJI2OzZhDPDGDkbVDyClc67x3cpihOh8CDu9hehPvHCJ_ORrYge1F6lur_vSay1H_pwiXZh18IhTtJ8QILMAFFsrtxKqcXLGWUDg-vnhM28YGWFyIGp-yElRUtXPMOfVZjLbAKftFW/s1600/Star_Channel.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Be Mad",
@@ -221,7 +221,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1686",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji5wNNEiJN30_HDK0s_SBz5bXacpRujDvNzi0xNAWR5itErYEoESAiCvW0h1MKYlVDm3cZS43sXm7sTmNz4FHEfDcmIdfgAl1bgyDWOS7wigdnTQePQkF3yvNgZ9AAbVI5nvjkFPbUS2EhtZGTExImgUt6d2VG_qYSqFwjFkozKiGT4l-8PiVmxQ3gXYsj/s1600/be-mad.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "SY-FY",
@@ -235,7 +235,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1652",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizOouvz5G7egVV-jJ4FAF7Hplx2azWJ4vgOYRTHiCKB4Q8mKOOph-UwgEWgCVChJsQtPFfagkDF58J_caqw3bVy_7Y8HJr_rC-NXrIJGpAU2HTPabntWVEvZrGQ0rsT9Mh8_RxgGkV-H7HUfBjqLtnBLSupZmEwXm3v70d6RgN_dF-YPES0ez3zq8I/s1600/syfy.png",
     "category": "Series",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Calle 13",
@@ -284,7 +284,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1662",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCGP1b83u6MGNyax_jQpsTCS6puK7Wab9LZt4zgHcUqhzqwODFeqFUNLHLcUaCqZ-47aL2jnichibDtjv572Da2X0-4fAk_3wRzWc-LbeTAsIXVSQTY6T6ScO6EOjTlKWyTsNVcVG12V45V2zMqIWM8JRJmoh0NdhUblSa8xlX7MOKI11CzKLGh1C9/s1600/AXN.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "AXN Movies",
@@ -312,7 +312,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1664",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh94-z7XEtUFi0y_m7gUiHcPW4cycZqrZrZISaPLYLmEGgjG9EWUzXYJowGUH-Yww-wlEhBfvGpMdtaCgvN465-yarWA9wfg_zCQRZSB_48wPkPQRlZYzaSNfe1N7LeTIGUscOE72tzkkdtFmtDSbL84YQFZHQbWe8MMN9C9sY5cjFJB1u0XUoL2RmG/s1600/AMC.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "AMC USA",
@@ -347,14 +347,14 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1901",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYxQ9P4RVXa8GVo51KIKROWaXMj_kFFg3XT9CaRf5tV7y69zBzDU946m_GIN-nPZD7bjfY4T5P9tEO4Y9Hidpe9WzV7Zypza7owyr3LojBloCFm9LztE8z-QM52Pnyiyvju3w2nGFglhKCusjMKNKphVRDErmUiYuVbGtuFKZk9474Muz91bumr1Xi/s1600/HWD_logo.svg.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Canal Hollywood",
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1655",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYxQ9P4RVXa8GVo51KIKROWaXMj_kFFg3XT9CaRf5tV7y69zBzDU946m_GIN-nPZD7bjfY4T5P9tEO4Y9Hidpe9WzV7Zypza7owyr3LojBloCFm9LztE8z-QM52Pnyiyvju3w2nGFglhKCusjMKNKphVRDErmUiYuVbGtuFKZk9474Muz91bumr1Xi/s1600/HWD_logo.svg.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Warner Tv",
@@ -375,7 +375,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1650",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgemgMLla0jUP0QWfVzix2djA3mLsLSo-_yw-nreBSN1J7CfmgBNdl0kpSk7AcHtxttM1WS3isLUoqRvb5QqmVPuYdjPojjkkFxysYFGyXV2MSOpKLOznMbS572VNuVqEbvEB2RfkSqj-idO0vfoH173iWSdTYzG0dir7tP6U8Qlp0njrG93zKaoNGu/s1600/Warner.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "HBO max",
@@ -396,8 +396,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/478654",
     "thumbnailUrl": "https://madridfilmoffice.com/wp-content/uploads/2025/06/este.png",
     "category": "Cine",
-    "disabled": true
-  },
+    "disabled": true  },
   {
     "title": "Squirrel",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX04/smil:21_premium.smil/manifest.mpd",
@@ -417,7 +416,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1654",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPIxIFTBRtp49_GjLggql-lSUH5P6JeD0TmHNiEcHA8nBpiVeyhuEXglroDV6-chxiaOgFoReJfPmaGvdic0fMdcdyih1W48O37Dn85DmQXZOG1DjmXIZcsdvFOdcYyLnj-o-BHuBl6PmpF2N3Jss6Jhkyr6vTQL_fyqPA6AMrqeuZys9JsYv0bwSc/s1600/Squirrel2.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Bom Cine",
@@ -459,7 +458,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/412733",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLxqdyvw8ujbHsL_oGhLXYuJlpZsKhB1TYwN_MYgF2LSUvM92lbaFuNzArki94AZg0bewq01Tx0Kc3_quDqyD8DsGQku0s74wA6J3R0qnx2YmoJuoHFFvCk7Is-asQUvzKqhze10jo-tYPszaJ0PMNaPZxEt3Sap6UvpQNuthfZJ3IDKQL6-MqmL2T/s1600/Dark_Blanco.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Sundance Tv",
@@ -473,7 +472,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1653",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEUxYrke2Vf1xwE3DLe8Ndwc96lB2FJDl5xdyYItQnWBtmUTZQzlbQW527Eiyr2jITf5oYoE81ckkqtBS-n8c5f8B7WqoSzzJuGQpC66SmAjlWw9OHZIQyJChc-N0U0VRzHPvSsaLr2nNioFaDwohL5gbX6d1xYfKsnaqfTnkWGjTRXfWhnHIPCYlB/s1600/SundanceTV_2014.svg.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Dreamworks",
@@ -529,7 +528,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1651",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbS29EgNzcqKAEs1HPsSACBCDf078LaZwrA-lxvpOGVUQuYFLwUyHMS_fwWim2HhnQ38_PqIxX0NoAuBlCV4VXyYIF9e3E0MymXelQaMDEV6GutoZbj-Rf_IQ2U3J3COaSeQ-eX7yPxu5x_YIEWCSKClN5e-a5-RXRmcM18Ho1awg-e8LiLsELxGHk/s1600/TCM.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "SOMOS",
@@ -543,7 +542,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/300095",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDKLU4p3qy6lK8Jzp3uuNf_xRfeqXrZ1Vl8pnhHpaSORf994ehUn1cR_mHzYMBSN3yN4PzmmjaNElrAtcZIPSOY9c8FwlZgCN8I-fu0ZrtgiPwuhYAxJm0bo527P0S2BRmI30qAQzZLAubUL_C295NxSe1ofgiBrHg8gCeg2nhPAjLK-tbgmJqEr1a/s1600/Somos.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Comedy Central",
@@ -564,7 +563,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1659",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKeJVeucQV72I0HYwbhplzqPkyfq9W5SsM7ndud_SNoiruZwQTqKmXvmbOphFs2CmHJF7nztcEdaYnhzaKsb6IffyfpTaZy0VrDOg7k01BEUe4y6OlpksNdDLsjZTXYgUA85cFmUOEcYK4xIlJLvv4OWInQBw11KX3pN5DIlhUmEXz782gLjrUj3Vu/s1600/comed.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Vin Tv",
@@ -634,99 +633,85 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/317739",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpVgQBPoHiX9Hwzs6pTFOl2Z4h5UnbY3mrbmumhkBfbyCXEoySEBeirZnPqaXSJbTTwaWAiEvfTrDwYYtPSbiXrF0a7Fvd-j6kbxcus3Ye_PE7BfxL005fSCHzbKiPbxVLgd4R_gJVnYcUpBAt1bW5eid8WftNBodtU71_QaGWWXghnYqcaDmiRLSZ/s1600/Estrenos_2.png",
     "category": "Cine",
-    "disabled": true
-  },
+    "disabled": true  },
   {
     "title": "M+ Estrenos 3",
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557306",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtJwDLeyvw5aAtLS6CZy_LUNDsSKj3UbSBBOeiOEutiDbhGY9mei2Tdfchl41e888ge3Vl73Xty3O7x9Gnag9Sjjz8Vo2Nn-xv1ow1bFon2knWFBpCnUJeOt0_KAgAsR-PE79KCSW3dLTkWTd2S5WpvLspIXEBoHLjHSMH3AvcGAyUAJ_XdJtyBXpD/s1600/Estrenos_3.png",
     "category": "Cine",
-    "disabled": true
-  },
+    "disabled": true  },
   {
     "title": "M+ Estrenos 4",
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557305",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDy1QCH4LlKRjJwEUGEtyisndJjX8qL5X0vXdq-yC2edrMadN2imzca29hoKrwJ639dm4y4jJNI_Eaz9QfcJFkbEHMDq0cKXZLsMcpozqcQfzWTYScmIO19g060qakgrvS_18z4fILtLRGiL-rdjqim7wyXBpaPaNNlk3Lz4eQk64vuBURK2x6pswn/s1600/Estrenos_4.png",
     "category": "Cine",
-    "disabled": true
-  },
+    "disabled": true  },
   {
     "title": "M+ Estrenos 5",
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557304",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgURBNswyOnzniGbiZpVNFBfyDiBom5LCX6C8a4gdNZX-SP0kWAAcaK9UuLjTJMwfB4JjrJFBUUnt7JDgrIaaBt6RKZXRR7lDPOrIP-i8l60hmpTSjidYHwhzdYyyI10OB0qq-8bk-CtsgreRbhwxQDqX_vBoxc3YJXZfkRyW5aytyxIC1lKL3VljWJ/s1600/Estrenos_5.png",
     "category": "Cine",
-    "disabled": true
-  },
+    "disabled": true  },
   {
     "title": "M+ Estrenos 6",
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557303",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4iuMeE8TyrTVWxvioXaAuWQEkTcDk1nn_az8JMyzvJzhUcYTn85i0tq2y2OpBs3rE8i2lHxRln-iIzoPcnEAR_31eKhD85HAY4NerpUZ5Qy2ghzNYBLFNi0bs5Ob4x74dskmTU5mK6Tjo6aONsx3k900p4rr6i4b3KYJJ3XrW4zGta1K_QK7S-Kxq/s1600/Estrenos_6.png",
     "category": "Cine",
-    "disabled": true
-  },
+    "disabled": true  },
   {
     "title": "M+ Estrenos 7",
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557302",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfziPG5lPp8zrZXyQCtTw1Gdw_1x-BMg4ME5YFzaO0b6HkDcV6pflQ02NP_Ln0vCRtGUJ-TOe9yb03On9vg4_hTuxEI1KA4uVuIElRrVVfEG_1gS-P-IWnv-Dzebc30nEK3xUlAi5rtVgizzJRny5ESOEt2JRHS9hKTqKdrlcV2YaTnsgTrwIWkDYG/s1600/Estrenos_7.png",
     "category": "Cine",
-    "disabled": true
-  },
+    "disabled": true  },
   {
     "title": "M+ Estrenos 8",
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557301",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFlFQxQveMnA42deXzrPYbhw6ji22nXrVV8ivNDZ0mi3uMgF7yAFJxjWbxv6NM4NZaWJxlVI2xjqUvY1kRVHfwIX4D9llj4ES-Dj2LTCHtDH7EZdCaVhEWclKBkmGOFERh_cvPv67Cxt2xyR2wEumHmThtyZjit7S4l6AhRCXHtjRPbVmwxcvSApy1/s1600/Estrenos_8.png",
     "category": "Cine",
-    "disabled": true
-  },
+    "disabled": true  },
   {
     "title": "M+ Estrenos 9",
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557300",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiihfLExjazvJOlmy8Mp_ahHVbC1Paw_43wFwlWErnp2D6j8aHG6_mYaqd_vStCrdr06Jxn9o_20Td9iX_gSD5nEqFzt_FB-B5vQX55UglVcLfScXBfx35Z388g4IO8aWcXTwa05C17N7SOjh1evZY3aEl3EEqbuw760SLmqEROLgFRDM61cUCm2U8u/s1600/Estrenos_9.png",
     "category": "Cine",
-    "disabled": true
-  },
+    "disabled": true  },
   {
     "title": "M+ Estrenos 10",
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557299",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrhgzOPm1Z76OUFP0eGp9o7_SX4nVq7Z1cUz2CY6Ujvj3Dsgb_ev5zCOsLqO-nc41w1zFt9ZMj0T2XInonXDmQjkojYyYNItJz_zcvBcsXl3ffBDSC0SC2IvqRfeBlrCsK1EqG7v44EV7s5qlRmLTQ6YhD_MOQpO7NjayUKGMRLm3OuwNW3YKiHce5/s1600/Estrenos_10.png",
     "category": "Cine",
-    "disabled": true
-  },
+    "disabled": true  },
   {
     "title": "M+ Estrenos 11",
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557298",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ7FipXtVx6IqiyaIz2jUDe8CadqOJom068fVj59y6jGRu9iWKITqtKP289zUVOSZDQ2Oq9vstAxrXeuE2mLb6oE52ID9NOmdQU3SshGKP8IOnHKe1P16ch_Qq5u6-x-ajIC88wvhojcpaIriDKo8EeR3PAt8dRILP2c8VbA04flE8jmPZ-sY-nwRl/s1600/Estrenos_11.png",
     "category": "Cine",
-    "disabled": true
-  },
+    "disabled": true  },
   {
     "title": "M+ Estrenos 12",
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557297",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2b7bELAHr_Ee3OPK1hWBevqHRYnjucyUpGCrQo6UkQAnKE5gC3YDkXe46EOcjjkzYfqv9HBcYNdENIme_LHjQwyA1ao4MeY8EemCdb3RLOrgnBP6G1tMKmDtVb7djbWdV_Si64T3avvBdlvB2gaYn58TiVtWiHuYzXxQEOseXCoJ5asVXdhkzRswH/s1600/Estrenos_12.png",
     "category": "Cine",
-    "disabled": true
-  },
+    "disabled": true  },
   {
     "title": "M+ Estrenos 13",
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557296",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinLLDQoV0bIFytG8wuoqG-PTLgFQqB2r_OVfXTa9oXnwMZ0fywIduSXakQveEQVAy39oW826VRzfVqJhrlV8vlXh_ldm5wC0ZWqsJ55CcM34iFRg_qkteBE23d2BkYW2jjKaPZswzzF-ffslW7MgzKpKl5Gwij1F6ggHzVLbg-K2Xyg4dHF1FMG3q0/s1600/Estrenos_13.png",
     "category": "Cine",
-    "disabled": true
-  },
+    "disabled": true  },
   {
     "title": "M+ Estrenos 14",
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557295",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv2VAGxCdPuE9dSSdETN7ZncwxIvBHetUhZEIlklQ0CBaN05jQ1q5IDeTBRSWrkOmByfxhX2WN6UvW9g56x_b9LXm6I_V7hbkKU0YncVQYY2vNVey1Ljlyoi0xOBl4VklZxtvhYw0eiuLJfAI55ZimfTxraB9L7ICY5QCo4ma0tmF0pOmiVssg3zA7/s1600/Estrenos_14.png",
     "category": "Cine",
-    "disabled": true
-  },
+    "disabled": true  },
   {
     "title": "M+ Estrenos 15",
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/557294",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtyd7aJpcO0jRBR1mZLYgDBTxbRwmPfj7oJ1wPu3vV1zpjdkFkEEQQKHaJvLYyxrw745zMpRevKQW1ej54RvbkmnkxpTZH_oQTiunYjNJlaw7jqraeRQI4s1NC53HlAXElbTbDZvgC42naOIemoBglLt4PF8hJP0DNfoc6AdzKb14FJZPC82T6ZFdu/s1600/Estrenos_15.png",
     "category": "Cine",
-    "disabled": true
-  },
+    "disabled": true  },
   {
     "title": "M+ Acción",
     "url": "http://ultra-premium-pro.xyz:8080/live/977671415tv/hgf547682s/236379.ts",
@@ -753,7 +738,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1630",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwzP1tIVYikEL5L-fd3_fNTZnXgAlw2wGvpyfOZJSOw_TBmbDzSil7MNvXQKVDrxVSkUVns1WMk7ZMPf6uTEt6n0d_g4O3aEwmxtwaxmeRxw7TgYoX6fB2GdH7-MzpEz6Koit5MQOas94yf6mDH964hfk1X67cMd6DR8ijtPou3o0V0sfX6gQqlG-R/s1600/Accion-por-M.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "M+ Comedia",
@@ -774,7 +759,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1628",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQqIKk-VbTScIoJjRmJhd5bpDKxiJx5yBohJI-ef-GnxjMbBQDlNjF6v4nPqx5aTazu-zF9qi78JJuGqOpHw1aopDzK5sxLLRtgKk0PFGOBTYvo76-ipjpnpBZwHlDwOj0ghKlf-QFM80ob2DkFiV-35Zwr0hFjWCS-elDxOts5WoYN8Uxtk3KuBUp/s1600/Comedia-por-M.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "M+ Hits",
@@ -795,7 +780,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1623",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibU19kGm9YrHrG3s9MilngCf6mGCHpXM2ZuAw4zpLiaXLlXPNNAnojQGkJgUnIJClz3n2rZQHL-XMSboK_5e5qmPK2b1JI6vCLxB7KyQBTzqVLjEraTuftNohkdqrcii4Nlyhl1NLqytlUBJP3udvg6Ram_6tqVJW3yCifGEREFHHkriDzeB0UmeXP/s1600/Hits_por_M.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "M+ Cine Español",
@@ -830,7 +815,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1627",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMadsr6dYJdIz5vnV4BWzKfT8tlNDBmUuSqup-ZJ5f_EJtU4nEwtwI8ujNfspMNC5SDNd8HDjC0UzjwuYIJjTKoPTIXeb3nIhWvTJD94O0GZki8fuEnStmcYqnkmfgofPbI4-sPF_utCojQiDQR4pX0EAqTYZWkH92L9DWv0VtklbC2ajYSeUE4pBE/s1600/Drama_por_M.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "M+ Terror",
@@ -1852,7 +1837,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/7839",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJhGv4Dp9EsNcug31jwfjkubKkR__LRP36wvl7LxG7ssSVUMaO_ETwGBSw5-UiAWoKF76VB7VoEhZHVLlS6Jc3FlohZ8lFfLDGDhK4Ht9ZyYHlgciPK7tOCyHySK89SiFiRYmVU1MrcJfrU7epEbtuUtkC0MCkD39wCBMzoHY16iOpYrZY8oQTotAD/s1600/HBO_2.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "HBO Family",
@@ -1866,7 +1851,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/7837",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhTuC7vggWhVSZoAnhsASgVkADCqkd9fTrDT32FhDCrnTgpNhoSwDHU-GIXb3Q-FPU7rmFgl2-XNia8ejBj_nfq0uQYoOq-oyGPtlT6M1Nss2pZ1luciTjk42auPW_sykIioZMmpX2TJZBbp7IQqBHAqpaTZrNK57IQANPXEC7UdA4ycnybuQyollx/s1600/HBO_Family.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "HBO +",
@@ -2195,7 +2180,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1671",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP-KicQWTZzfll66LsnRPXWPmecmCu1vfUXeVnM2QSmy4HcF-eQfdOlqlIXFNKgoqCdvYiA3w6GWjtI5UQw2RJVNCnsblhv3ivBS82KAM4d2iRRQK1VgUCwbzum2HIQBTNaQlTi1WaGj15cc093V8JNgz5u-cZF4Lk2Erk-3GFaMP7cMOT8kZ9V7hv/s1600/Disney-Junior-Emblem.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Discovery Kids",
@@ -2216,7 +2201,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1668",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXKGyE0N38QGedvhdJkzDS9WtItYFx6J_4mlbS1KWG1x4c3M9RwTYUVC2d2A4Jl13H1hCYvHWmmpJPoNnsHtKbq5nQlAU2Lq_7gP9pqPV4lzoRy_f2xWvkRYa2pulj-iEK3OUbP9tzZr3cDbLxrNwOdRRgv5xanvqfWUt9a4NfYjcIT7Rt-NvzJt6F/s1600/Nickelodeon.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Nick Jr",
@@ -2230,7 +2215,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1669",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxikJMbecG5uTb23OYlA40QpnZMjgXL-FD5nxACF8CK6R1mWjomDZQ-MhHE6byqv_zWJg1I_fn2KMTZjS_sWzFUSsS5VlckePCs7C91tdOJBrk0qglR4EWf_gF4FBsdLUzRH5vbxrQwQ1jcoHMtUCei-r0R75dwnojA7EyW3UD0g11H9tCljyzKn45/s1600/NickJr.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Nick Jr",
@@ -3063,7 +3048,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1606",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMq7O8O870j5kN6erCJRrgo5adUZGOMJgEMCu_j8pGlkGNBtjbVuptKo76YmoTWqnATfYdILZO42WfNzHVUB6xjMd5dzs7M-8vmE5JindTkCu-sPRg2KCm6HeMvYYd54Y2LQqM7s4TdJNG6LmnTovzr7ZXDVC-S6yL3uqFGA1csBA708r4MOZ6ARSa/s1600/cocina.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Rtve Cocina",
@@ -3203,7 +3188,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/353716",
     "thumbnailUrl": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/04/picon_amc_crime_blanco_transparente.png?fit=440%2C264&ssl=1",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Sangre Fria",
@@ -3602,7 +3587,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/41321",
     "thumbnailUrl": "https://jungle-team.com/wp-content/uploads/2021/01/dazn1.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "DAZN 2",
@@ -3616,14 +3601,14 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/41322",
     "thumbnailUrl": "https://jungle-team.com/wp-content/uploads/2021/01/dazn2.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "DAZN 3",
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/157481",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1y8fMDX_94DhlJmt8OVt2s9tEevLteXCjK4S8wy8bsLVHUPaMa8lMW8lNxSjll_x059H5sgKRfvEVqQLkIVMN0fgJJ9Zj86LjnOYDtINB1NurdTe1Zq-Bi31rpL2P0invIq1KG_dppgOH84mCpSommLdgNPNDzJ7SDyDyBdWr1mr8viNQ9ooa8C64/s1600/DAZN_3.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "DAZN 4",
@@ -3637,7 +3622,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/419456",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-iSW1MMXapcj88tJLRH7fdNj9LBzJzUev0f-jUErjOQTNS9eE_JYaPoUo8hiByhBZqCaKL-cttt97BY16SsvGuTu0QlIsPPU52JC8kV80DF8D3-KDT378hC-b7CeY-2qJKLLv62pnuKp59oIXULYto47LG-AFBnDPVb5namcYIfI2KQjIWcb02Woq/s1600/Dazn%204.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "DAZN 4/2",
@@ -3651,7 +3636,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/426350",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyfPuWyYDlIUTZQZOCgtu2O8uB5eWAUFg8NkIDx0DjAxkGQSPBwOuWFPCMWU7uV5VKG2qgTQHJlyO7XwAX5jkQH6mSPK_2Hb-9CAaUE16pVcpKqraC5lPWujEicac2J3m4NGqUV5DltDszcZfUA5Kzne4N9Iu0_QKP88nACC6Jbsz966_lDJAeog0M/s1600/Dazn%204_2.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "DAZN F1",
@@ -3665,7 +3650,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/414789",
     "thumbnailUrl": "https://jungle-team.com/wp-content/uploads/2021/02/daznformula.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "LaLiga Inside",
@@ -3693,7 +3678,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1566460",
     "thumbnailUrl": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/09/1_0_1_769D_41E_1_C00000_0_0_0.png?resize=440%2C264&ssl=1",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "M+ LaLiga 3 ",
@@ -3812,7 +3797,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1619",
     "thumbnailUrl": "https://r2.thesportsdb.com/images/media/channel/logo/jw11fx1654941293.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "M+ Deportes 2",
@@ -3875,7 +3860,7 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1633",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMZpWA1VAJdHyW8so0tIixPRbFiD-YIvZhXsKhy_gMrikAHj8qYd7_2tO4RmTYMnoEdpj9A0opGK-MV3m3EHXzHU0WQ-vc6RCER_AJwKghPy-xA2nh4yiPeXFfY73JRHrtXNVfIoW7b3u6-2rNXkKQtjnS7SIbxT7UG0fOJZCjELAbEBgyrAqX0eZj/s1600/Golf.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "M+ Vamos",
@@ -3889,14 +3874,14 @@
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/1677",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIxepbxStMzN955nqFIadQqlxqAtP8D369OphQdFsAbOClJ6tyxc3HgQXCuaFqRR59oQdyPXVX_cfPxpn4DCjXlLYdX2v1wQNFAHClBvR84TaHjapCAo1F2CTyNmLe55szHw804nOJG6PNHfCJ1s-uzWkUJHK56J-hqAgfQOCltlYCXOBPIoXuCE6M/s1600/Vamos_por_M.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "M+ Ellas Vamos",
     "url": "http://cdn2.tvct.net:80/YQJ2DM5YE2/3FTAAHCDPN/412506",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjspMiNDfKcu9s0e4w2DyHROneWfa_HfLD6U4DtFKwxkvq-D7yerHGqoWvxCGfBpRCXsL7h7kvBuvZXihI8jSnKhuiNkx8qBNrUkPRN0tP3DKoJOTwM0Uz-lsDZvv7yn2elZAn04sbOQDVzuYn1brbdRNdaea_PCMmbwbE7qVxTi9M-P8BBJv6ScWrB/s1600/Ellas_Vamos.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Sky Sports F1",
