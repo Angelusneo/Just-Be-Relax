@@ -281,10 +281,10 @@
   },
   {
     "title": "HBO max",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9668",
+    "url": "http://190.119.195.114:8060/play/a0nq/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-yOvB6Gxbz19lDWcLdbkFTc6uTbA1bGeBgOuQGRSqtdufSy4poJMCiUS0Ac0K5nnzvok9WZvMaQnRpn6156-mZRUYSzYnS-1oxavKRJBSlPKxEPqb6Z6jfzovzISsLlIZHFLcwkfaoQjZGXwT4zHD897TV23CFkif-nRpQvd-mT5_95FxAV9SBd07/s1600/hbo.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Sky Showtime 1",
@@ -1513,17 +1513,17 @@
   },
   {
     "title": "HBO 2",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9673",
+    "url": "http://190.119.195.114:8060/play/a0kc/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJhGv4Dp9EsNcug31jwfjkubKkR__LRP36wvl7LxG7ssSVUMaO_ETwGBSw5-UiAWoKF76VB7VoEhZHVLlS6Jc3FlohZ8lFfLDGDhK4Ht9ZyYHlgciPK7tOCyHySK89SiFiRYmVU1MrcJfrU7epEbtuUtkC0MCkD39wCBMzoHY16iOpYrZY8oQTotAD/s1600/HBO_2.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "HBO Family",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9676",
+    "url": "http://190.119.195.114:8060/play/a0oa/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhTuC7vggWhVSZoAnhsASgVkADCqkd9fTrDT32FhDCrnTgpNhoSwDHU-GIXb3Q-FPU7rmFgl2-XNia8ejBj_nfq0uQYoOq-oyGPtlT6M1Nss2pZ1luciTjk42auPW_sykIioZMmpX2TJZBbp7IQqBHAqpaTZrNK57IQANPXEC7UdA4ycnybuQyollx/s1600/HBO_Family.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "HBO +",
@@ -1534,10 +1534,10 @@
   },
   {
     "title": "HBO Xtreme",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9698",
+    "url": "http://190.119.195.114:8060/play/a0ob/index.m3u8",
     "thumbnailUrl": "https://i.imgur.com/Wz3WemYg.jpg",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Golden",
@@ -4089,7 +4089,7 @@
   },
   {
     "title": "Venus",
-    "url": "http://177.128.113.1:8000/play/a01o",
+    "url": "http://190.119.195.114:8060/play/a0pf/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzNQmIUGHUcSWjYEpPZHFD7WjQOoUVunZY1sERjT6fZSG4YGh4hWq4tUvBtMIdIHkUlZsWge60LQeon6xI-y-o2m6A8ugNV3q7r445q4mqL6R0205IwK4K7xjVYzoosLg8DorlY_wCJ-KkUjALGN6p5bRicMVKKZNATBAf0HqebW3ges6BphyyoaN-/s1600/venustv.png",
     "category": "Adulto+18",
     "disabled": false
