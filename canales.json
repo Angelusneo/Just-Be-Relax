@@ -1527,10 +1527,10 @@
   },
   {
     "title": "HBO +",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9685",
+    "url": "http://45.5.116.231:9090/play/a0l4/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN0iVngAMPu8XZfYcOSNV9tHdyyR9ry_XecHcPch-H354Ilt2jT9IsNjm1hBW3TBYO3UVx2GHMM1c-uBCtuLYVS8NcJp0Agg8QSyPCYLf8nqbAARdx_qVHVlVyVzDffppNEoYB_kJr8EvlKh1euCsg1VK2hRupj7w1yGMcU5iL2mPbQWOuR1GoWv56/s1600/plus.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "HBO Xtreme",
