@@ -284,7 +284,7 @@
     "url": "http://190.119.195.114:8060/play/a0nq/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-yOvB6Gxbz19lDWcLdbkFTc6uTbA1bGeBgOuQGRSqtdufSy4poJMCiUS0Ac0K5nnzvok9WZvMaQnRpn6156-mZRUYSzYnS-1oxavKRJBSlPKxEPqb6Z6jfzovzISsLlIZHFLcwkfaoQjZGXwT4zHD897TV23CFkif-nRpQvd-mT5_95FxAV9SBd07/s1600/hbo.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Sky Showtime 1",
@@ -1523,7 +1523,7 @@
     "url": "http://190.119.195.114:8060/play/a0oa/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhTuC7vggWhVSZoAnhsASgVkADCqkd9fTrDT32FhDCrnTgpNhoSwDHU-GIXb3Q-FPU7rmFgl2-XNia8ejBj_nfq0uQYoOq-oyGPtlT6M1Nss2pZ1luciTjk42auPW_sykIioZMmpX2TJZBbp7IQqBHAqpaTZrNK57IQANPXEC7UdA4ycnybuQyollx/s1600/HBO_Family.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "HBO +",
@@ -1537,7 +1537,7 @@
     "url": "http://190.119.195.114:8060/play/a0ob/index.m3u8",
     "thumbnailUrl": "https://i.imgur.com/Wz3WemYg.jpg",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Golden",
@@ -4092,7 +4092,7 @@
     "url": "http://190.119.195.114:8060/play/a0kd/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzNQmIUGHUcSWjYEpPZHFD7WjQOoUVunZY1sERjT6fZSG4YGh4hWq4tUvBtMIdIHkUlZsWge60LQeon6xI-y-o2m6A8ugNV3q7r445q4mqL6R0205IwK4K7xjVYzoosLg8DorlY_wCJ-KkUjALGN6p5bRicMVKKZNATBAf0HqebW3ges6BphyyoaN-/s1600/venustv.png",
     "category": "Adulto+18",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Venus",
