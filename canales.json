@@ -1331,10 +1331,10 @@
   },
   {
     "title": "DHE",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9643",
+    "url": "http://45.5.116.231:9090/play/a0gy/index.m3u8",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Cine Western",
@@ -1492,17 +1492,17 @@
   },
   {
     "title": "Universal Premiere",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9766",
+    "url": "http://45.5.116.231:9090/play/a0b9/index.m3u8",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Universal Crime",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9761",
+    "url": "http://45.5.116.231:9090/play/a0bc/index.m3u8",
     "thumbnailUrl": "https://iili.io/JKgZg87.md.png",
     "category": "Entretenimiento",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Universal Comedy",
@@ -1513,14 +1513,14 @@
   },
   {
     "title": "HBO 2",
-    "url": "http://190.119.195.114:8060/play/a0kc/index.m3u8",
+    "url": "http://45.5.116.231:9090/play/a00c/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJhGv4Dp9EsNcug31jwfjkubKkR__LRP36wvl7LxG7ssSVUMaO_ETwGBSw5-UiAWoKF76VB7VoEhZHVLlS6Jc3FlohZ8lFfLDGDhK4Ht9ZyYHlgciPK7tOCyHySK89SiFiRYmVU1MrcJfrU7epEbtuUtkC0MCkD39wCBMzoHY16iOpYrZY8oQTotAD/s1600/HBO_2.png",
     "category": "Cine",
     "disabled": false
   },
   {
     "title": "HBO Family",
-    "url": "http://190.119.195.114:8060/play/a0oa/index.m3u8",
+    "url": "http://45.5.116.231:9090/play/a0l5/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhTuC7vggWhVSZoAnhsASgVkADCqkd9fTrDT32FhDCrnTgpNhoSwDHU-GIXb3Q-FPU7rmFgl2-XNia8ejBj_nfq0uQYoOq-oyGPtlT6M1Nss2pZ1luciTjk42auPW_sykIioZMmpX2TJZBbp7IQqBHAqpaTZrNK57IQANPXEC7UdA4ycnybuQyollx/s1600/HBO_Family.png",
     "category": "Cine",
     "disabled": true
@@ -1534,10 +1534,10 @@
   },
   {
     "title": "HBO Xtreme",
-    "url": "http://190.119.195.114:8060/play/a0ob/index.m3u8",
+    "url": "http://45.5.116.231:9090/play/a0l6/index.m3u8",
     "thumbnailUrl": "https://i.imgur.com/Wz3WemYg.jpg",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Golden",
