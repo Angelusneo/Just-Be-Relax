@@ -1261,6 +1261,13 @@
   },
   {
     "title": "FMH Movie",
+    "url": "http://190.60.49.242:4000/play/a0qc/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh-QgpQjoE2jQYVcU-6SvHCcRj_VF-feqVXGBCv1WpPFk4evaDVqZzWkP34iaZ6nS3C17LiijhEZFCuRzbxRx6RfBO9b6CPhbx4HhisyxUYnze2_hboFRroDPKJr0Eejc2Zu0zahVvnpmuGlFvbmqWi0h3mWa7mWYmS6uWDE5WIsB9YYTlVnvgXMfx/s1600/fmhm.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "FMH Movie",
     "url": "http://38.210.3.64:8090/play/a0gl",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh-QgpQjoE2jQYVcU-6SvHCcRj_VF-feqVXGBCv1WpPFk4evaDVqZzWkP34iaZ6nS3C17LiijhEZFCuRzbxRx6RfBO9b6CPhbx4HhisyxUYnze2_hboFRroDPKJr0Eejc2Zu0zahVvnpmuGlFvbmqWi0h3mWa7mWYmS6uWDE5WIsB9YYTlVnvgXMfx/s1600/fmhm.png",
     "category": "Cine",
@@ -1527,10 +1534,10 @@
   },
   {
     "title": "HBO Family",
-    "url": "http://45.5.116.231:9090/play/a0l5/index.m3u8",
+    "url": "http://190.60.49.242:4000/play/a0o6/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhTuC7vggWhVSZoAnhsASgVkADCqkd9fTrDT32FhDCrnTgpNhoSwDHU-GIXb3Q-FPU7rmFgl2-XNia8ejBj_nfq0uQYoOq-oyGPtlT6M1Nss2pZ1luciTjk42auPW_sykIioZMmpX2TJZBbp7IQqBHAqpaTZrNK57IQANPXEC7UdA4ycnybuQyollx/s1600/HBO_Family.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "HBO +",
@@ -1906,6 +1913,13 @@
   {
     "title": "FMH family",
     "url": "http://38.210.3.64:8090/play/a0gj",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy3E3oKczYSjn9Zm90zfXQwP6rgDj5TbhqBQkXqp-_8Da4JjoWuKWI32sCP9cbWJj81C-9P0bplFR8UvCBFZOltiByLc1MIEDlbAU31zjhknW4xgz6xvGtmlKU4miMSZtmFTGCEZKWWDMt_grbzPyQ2d6JLWlJd54KIMiCLZ89S2QSN-ElNlRzoYas/s1600/fmh.png",
+    "category": "Animación",
+    "disabled": false
+  },
+  {
+    "title": "FMH family",
+    "url": "http://190.60.49.242:4000/play/a0oi/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy3E3oKczYSjn9Zm90zfXQwP6rgDj5TbhqBQkXqp-_8Da4JjoWuKWI32sCP9cbWJj81C-9P0bplFR8UvCBFZOltiByLc1MIEDlbAU31zjhknW4xgz6xvGtmlKU4miMSZtmFTGCEZKWWDMt_grbzPyQ2d6JLWlJd54KIMiCLZ89S2QSN-ElNlRzoYas/s1600/fmh.png",
     "category": "Animación",
     "disabled": false
