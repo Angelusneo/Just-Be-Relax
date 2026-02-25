@@ -1275,10 +1275,17 @@
   },
   {
     "title": "Cine Canal",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9631",
+    "url": "http://190.60.49.242:4000/play/a0ko/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs1raTSdQhaWoYM0COkfG1rSO0MKT2Jkk_IcOnOKTYgHWrW7LTtnR3jhjSUbK0rxzBX20Xv5mOH-OnXIIUHbI2ngYek5iK-nJFPkJ3GyFje_mNTCLjo6P6nKgQIU6e-823Z1keSuAaXHZI9xL5Qy0-bVMDAb7iBa0lSEiXMsB7AuB60vJXDRV3b4Rv/s1600/CineCanal.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
+  },
+  {
+    "title": "Cinemax",
+    "url": "http://190.60.49.242:4000/play/a0iq/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwyvGVVG_LC_70KrzsQojC4dp-r7LBCgGYUNzr7Q5dD7WKoLdmJWuo-WGMXLoIFruqF4xyBaJrfyyHjl8DeIQ0S09DkW3xDuMWzZO6zCLwsqVl3-h05X6sk5p4rjoRR9bbOsHdDiP5pQdkVBxd4hqFDLItJw9SbiugAtgQXbi0K_0qhUmjzq8oCBfB/s1600/Cinemax.png",
+    "category": "Cine",
+    "disabled": false
   },
   {
     "title": "Cinemax",
@@ -4145,10 +4152,10 @@
   },
   {
     "title": "VividRed HD",
-    "url": "http://tmptv.sunduk.tv/CH1187/index.m3u8",
+    "url": "http://181.78.7.90:12500/play/a0gu/index.m3u8",
     "thumbnailUrl": "https://static.wikia.nocookie.net/logopedia/images/d/d4/Vivid.png/revision/latest?cb=20180213192129",
     "category": "Adulto+18",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Redlight HD",
@@ -4215,7 +4222,14 @@
   },
   {
     "title": "PLayBoy HD",
-    "url": "http://177.128.113.1:8000/play/a07y",
+    "url": "http://181.78.7.90:12500/play/a0p7/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisMOGQ1AVPP5h-r-98_UzhGqQt-6BxQHC-aT8T7L-XGCIEW4D9JUsIgm0cS8eG7xqP-woE5TukixCNBe33AYmB7zimBzx7bfVy07CqVJMdjBRna1jyBsnkRaXtktIwfnMMdOnBETMoUNhKr2fFXxBQJmiX-vNaf3U5adKuKTiaxF3Gi__vvkghb2JL/s1600/playboy.png",
+    "category": "Adulto+18",
+    "disabled": false
+  },
+  {
+    "title": "PLayBoy HD",
+    "url": "http://181.78.7.90:12500/play/a0p7/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisMOGQ1AVPP5h-r-98_UzhGqQt-6BxQHC-aT8T7L-XGCIEW4D9JUsIgm0cS8eG7xqP-woE5TukixCNBe33AYmB7zimBzx7bfVy07CqVJMdjBRna1jyBsnkRaXtktIwfnMMdOnBETMoUNhKr2fFXxBQJmiX-vNaf3U5adKuKTiaxF3Gi__vvkghb2JL/s1600/playboy.png",
     "category": "Adulto+18",
     "disabled": false
