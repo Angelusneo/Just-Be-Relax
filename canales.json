@@ -50,10 +50,10 @@
   },
   {
     "title": "A3 Cine",
-    "url": "http://38.44.109.41:8003/play/a01k/index.m3u8",
+    "url": "http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt-8aqH15SFhbmeUewRY_FE-8G1LBy-kbE7iY_nP3CrL0ziPaigTjhB_u2zoXW_G0r2lFA34BVlscWPVfyRqjfvgpWnM-SjJsgy4MeHNn4xKGDg9BJuqIekd4YSnm0GaU5oJVyraW44iRbqXiNjt_OCFWwLXulnn8T1k1XquwfhRT53n9t7cNqlJXb/s1600/a3cine.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "DKiss",
