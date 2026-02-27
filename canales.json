@@ -1247,10 +1247,10 @@
   },
   {
     "title": "LIFETIME",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9703",
+    "url": "http://190.119.195.114:8060/play/a0mm/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha4fsWBLTJYKk5JXFyFb3q1hNFL5QtjMwzpUyKKEDyfj5-mCT90CajUXU_7NKrzd_9IP3x_08NDZ3nuNENzvBhorgkz2fyiYVccWHEUmudqGhJ3_kXT7umg6YCbfGPUc1nXcpVpNIG9TGIlb-Y643u1IUum6ilZGyQNPvxIvvBDerIyFRmkUfC-HAe/s1600/lifetime.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "FMH Movie",
@@ -1275,14 +1275,14 @@
   },
   {
     "title": "Cine Canal",
-    "url": "http://190.60.49.242:4000/play/a0ko/index.m3u8",
+    "url": "http://190.119.195.114:8060/play/a0op/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs1raTSdQhaWoYM0COkfG1rSO0MKT2Jkk_IcOnOKTYgHWrW7LTtnR3jhjSUbK0rxzBX20Xv5mOH-OnXIIUHbI2ngYek5iK-nJFPkJ3GyFje_mNTCLjo6P6nKgQIU6e-823Z1keSuAaXHZI9xL5Qy0-bVMDAb7iBa0lSEiXMsB7AuB60vJXDRV3b4Rv/s1600/CineCanal.png",
     "category": "Cine",
     "disabled": false
   },
   {
     "title": "Cinemax",
-    "url": "http://190.60.49.242:4000/play/a0iq/index.m3u8",
+    "url": "http://190.119.195.114:8060/play/a0m8/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwyvGVVG_LC_70KrzsQojC4dp-r7LBCgGYUNzr7Q5dD7WKoLdmJWuo-WGMXLoIFruqF4xyBaJrfyyHjl8DeIQ0S09DkW3xDuMWzZO6zCLwsqVl3-h05X6sk5p4rjoRR9bbOsHdDiP5pQdkVBxd4hqFDLItJw9SbiugAtgQXbi0K_0qhUmjzq8oCBfB/s1600/Cinemax.png",
     "category": "Cine",
     "disabled": false
@@ -1880,7 +1880,7 @@
     "url": "http://ultra-premium-pro.xyz:8080/live/977671415tv/hgf547682s/236529.ts",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXKGyE0N38QGedvhdJkzDS9WtItYFx6J_4mlbS1KWG1x4c3M9RwTYUVC2d2A4Jl13H1hCYvHWmmpJPoNnsHtKbq5nQlAU2Lq_7gP9pqPV4lzoRy_f2xWvkRYa2pulj-iEK3OUbP9tzZr3cDbLxrNwOdRRgv5xanvqfWUt9a4NfYjcIT7Rt-NvzJt6F/s1600/Nickelodeon.png",
     "category": "Animación",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Nick Jr",
