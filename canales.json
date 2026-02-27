@@ -2166,7 +2166,7 @@
     "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/embed/hls/channel/5f1aab1d29b39600073e243/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjNiN2NhMmZhLTJhOTctNGM1Yi05Nzk2LTA2ZDQzY2ZmM2U4YyIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9LCJzdGl0Y2hlclBhcnRuZXJTaG93U2xhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJpc3MiOiJzZXJ2aWNlLXBhcnRuZXItYXV0aC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOmMyRnRjM1Z1WjNSMmNHeDFjdz09IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc3MjIzNDkxNCwiaWF0IjoxNzcyMTQ4NTE0LCJqdGkiOiIwOWRlYzM3Ny0zZWIzLTQyNjktOTg4Ni0wZDNiNjNmZTMzZDkifQ.LrJCCoip7aIgq9WtE0UlG1Vx6b4dlV7KTrpC2oa4mXo&profilesFromStream=true&gdprConsent=%7BTC_STRING%7D&gdpr=1",
     "thumbnailUrl": "https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG.png",
     "category": "Animación",
-    "disabled": falsee
+    "disabled": false
   },
   {
     "title": "El Reino Infantil",
@@ -2446,7 +2446,7 @@
     "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/embed/hls/channel/5f1abce155a03d000771883/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjNiN2NhMmZhLTJhOTctNGM1Yi05Nzk2LTA2ZDQzY2ZmM2U4YyIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9LCJzdGl0Y2hlclBhcnRuZXJTaG93U2xhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJpc3MiOiJzZXJ2aWNlLXBhcnRuZXItYXV0aC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOmMyRnRjM1Z1WjNSMmNHeDFjdz09IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc3MjIzNDkxNSwiaWF0IjoxNzcyMTQ4NTE1LCJqdGkiOiJmMWRiNGJlMC0zZDY5LTQ0NDctOTk2Zi02NzBkZWE5YzQ4ZTYifQ.Ap89UI6eW0w0cttLZdOxHdt-ljqFiPHWQuyFkg37RE0&gdprConsent=%7BTC_STRING%7D&gdpr=1",
     "thumbnailUrl": "https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": falsee
+    "disabled": false
   },
   {
     "title": "Ciudadanos por el mundo",
@@ -3703,7 +3703,7 @@
   },
   {
     "title": "K-POP",
-    "url": "https://d3m3qrw3jevegt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e8sqykcoey9t4/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ES3900001QG",
+    "url": "https://d2u0535yb4mih4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sh9t9yg49t279/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ES3900001QG",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyxywa4qFg9Po0lkag-X8ZYn8B9w-XjEeInTLWFMO-XaofXmdv7f52aQ3BWnqjblveyLHhWDWZPQEnngt1eBXsMKsXSF1ADtboPp-xkokLF2IU5ko8u2UH63RpiBRivCSUjr0uULOPks33casfMHuqMmwIWJh83jgZXZENSMRNo6yCV5ChgbRGuFuI/s1600/photo%20%281%29.png",
     "category": "Música",
     "disabled": false
