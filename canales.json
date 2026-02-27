@@ -2716,6 +2716,13 @@
     "disabled": false
   },
   {
+    "title": "Backstage",
+    "url": "https://amg00375-amg00375c13-rlaxx-us-6030.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-backstageespanol-rlaxxus/playlist.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV3uq_pwCV29hsVY9ezveU0Pu1-xOPAP32rmyu2f3uk3igou6qIm2_QqQo_JBZgTXIGv-_bFTomOR8f-gZZbfCvwGBZsh_vAdQBpgtROgfn98qW6uPZqWPdjrmQlbOUWtH3Z4RSRDHK0yLZHPDFCXikapgYUZkhZ4HVnQVCHuW-bBLz0avIYS0MYQj/s1600/Backstage.png",
+    "category": "Entretenimiento",
+    "disabled": false
+  },
+  {
     "title": "viaje Y Sabores",
     "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-68251044ae4546e02a6ba4f7.m3u8",
     "thumbnailUrl": "https://provider-static.plex.tv/epg/cms/production/03e84b82-8da3-432d-9dfe-fb32927f106e/Logo_Viajes_Sabores_1500x1000_DarkBackground_-_Belen_Bruno.png",
@@ -2765,9 +2772,30 @@
     "disabled": true
   },
   {
-    "title": "TASTEMADE",
+    "title": "Foodieboy",
+    "url": "https://2da101fb625e4278bcbdee20fe5f8b9f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_NewKFOOD/playlist.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU5i3vLQZG3QFI1p4BalS9okDCnApfh2ECITIMHsEcn22aU5XRMWptDi6kPZMYdLN_tkls6uPxkBnmw1KyXS-x0dK544qRzzT3xyPWhfwOEfnX34ik68-6L3b7unUUy9ZfxaGRPl43x7DNeLlPNOYflU1iVi6bL19HFU8Im8D8eFkAGWDIeJJb7gWW/s1600/Foodieboy.png",
+    "category": "Entretenimiento",
+    "disabled": false
+  },
+  {
+    "title": "Tastemade",
     "url": "https://amg00047-tastemade-tastemadees16international24i-ono-h4pdz.amagi.tv/playlist/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8",
-    "thumbnailUrl": "https://i.imgur.com/8s6aRwv.png",
+    "thumbnailUrl": "https://images.fubo.tv/channel-config-ui/station-logos/on-dark/tastemadeespanol_white-black.png?ch=width&auto=format%2Ccompress",
+    "category": "Entretenimiento",
+    "disabled": false
+  },
+  {
+    "title": "Tastemade Viaje",
+    "url": "https://amg27441-amg27441c2-rlaxx-us-10924.playouts.now.amagi.tv/playlist/amg27441-tastemadelatam-tastemadeviajes-rlaxxus/playlist.m3u8",
+    "thumbnailUrl": "https://images.fubo.tv/channel-config-ui/station-logos/on-white/tastemadetravel_color.png",
+    "category": "Entretenimiento",
+    "disabled": false
+  },
+  {
+    "title": "Tastemade Hogar",
+    "url": "https://amg27441-amg27441c1-rlaxx-us-10923.playouts.now.amagi.tv/playlist/amg27441-tastemadelatam-tastemadehogar-rlaxxus/playlist.m3u8",
+    "thumbnailUrl": "https://images.fubo.tv/channel-config-ui/station-logos/on-white/tastemadehome_color.png",
     "category": "Entretenimiento",
     "disabled": false
   },
