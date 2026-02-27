@@ -4102,7 +4102,7 @@
   },
   {
     "title": "Private HD",
-    "url": "http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/HUSTLER_TV/index.m3u8",
+    "url": "http://78.130.250.2:8023/play/a03h/index.m3u8",
     "thumbnailUrl": "https://mplay.b-cdn.net/images/2023/06/28/private-512.png",
     "category": "Adulto+18",
     "disabled": false
@@ -4136,6 +4136,13 @@
     "disabled": false
   },
   {
+    "title": "Hustler HD",
+    "url": "http://78.130.250.2:8023/play/a03f/index.m3u8",
+    "thumbnailUrl": "https://mplay.b-cdn.net/images/2023/06/28/logohustlerhd.png",
+    "category": "Adulto+18",
+    "disabled": false
+  },
+  {
     "title": "Blue Hustler",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge4/smil:181_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://mplay.b-cdn.net/images/blueHustler-512.png",
@@ -4143,8 +4150,22 @@
     "disabled": false
   },
   {
+    "title": "Blue Hustler",
+    "url": "http://78.130.250.2:8023/play/a03g/index.m3u8",
+    "thumbnailUrl": "https://mplay.b-cdn.net/images/blueHustler-512.png",
+    "category": "Adulto+18",
+    "disabled": false
+  },
+  {
     "title": "Redlight HD",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge2/smil:157_premium.smil/manifest.mpd",
+    "thumbnailUrl": "https://mplay.b-cdn.net/images/2023/06/28/logoredlighthd.png",
+    "category": "Adulto+18",
+    "disabled": false
+  },
+  {
+    "title": "Redlight HD",
+    "url": "http://78.130.250.2:8023/play/a05q/index.m3u8",
     "thumbnailUrl": "https://mplay.b-cdn.net/images/2023/06/28/logoredlighthd.png",
     "category": "Adulto+18",
     "disabled": false
@@ -4171,11 +4192,18 @@
     "disabled": false
   },
   {
+    "title": "Dorcel Tv",
+    "url": "http://78.130.250.2:8023/play/a069/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEaNSKL_S9LG4KWl0JThtK3kF-xbyQYS1jMaC9SgDKf-C8SSsZs0aUPSY4396JWJdeA9k8mqmHP_rLZn_3rOjegSQ0QZ3mOc0FXZX79PNhwlEBdqc0It4kC0JU28YXr-GTjDcp1_aSk2qOlHktyXCV4UN6bu7Bs-bP4BVZZZ4xyiN1cNT3py8Q9O3p/s1600/dorcel.png",
+    "category": "Adulto+18",
+    "disabled": false
+  },
+  {
     "title": "Brazzers Tv",
-    "url": "http://tmptv.sunduk.tv/CH129/index.m3u8",
+    "url": "http://78.130.250.2:8023/play/a06f/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3Cfid5-FWVVBWklh6QSdu-CbunhrHzV4YzCjD_Z3S9OBBtOFT3ZNdYGjpoqGYX9cGWRdqhvLYG3GcOu563VsdVLhiRnyNhtHsUEoFRjP9pMoKbb8YifS64jJaOdsXogaDLDMCqG7uF7Xtc9TLTGUwvfkKQ8CxggOzFUq04f0F7UYkDuUaj8SHpgx4/s1600/Brazzers_TV.png",
     "category": "Adulto+18",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "PLayBoy HD",
