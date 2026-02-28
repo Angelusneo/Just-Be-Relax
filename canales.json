@@ -1951,6 +1951,13 @@
     "disabled": false
   },
   {
+    "title": "Rabbids invasion",
+    "url": "https://daiconnect.com/live/hls/tvup/tvfy-rabbidsinvasion/.m3u8",
+    "thumbnailUrl": "https://cdn2.steamgriddb.com/logo_thumb/72d7613931975a7d9e6131aa5c9dcb8c.png",
+    "category": "Animación",
+    "disabled": false
+  },
+  {
     "title": "Tom & Jerry",
     "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
     "thumbnailUrl": "https://pngimg.com/d/tom_and_jerry_PNG36.png",
@@ -3869,14 +3876,14 @@
   {
     "title": "Now 70s",
     "url": "https://daiconnect.com/live/hls/tvup/tvfy-now70s/.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd_ZCGoE3FNHkj4lKIXIwhaSGIYHxBcoOtj_rgaTk4h95SKLAaFYp3P2R_P2We3XXaKr7UQakdrJ38fNpZNyXpyFb83VHWxxi151nWifMUJ2rEKpTpf0tk49Um26CsgQtJZytQvflAqeiUKD4_2WI3mdmVHoBfth02sYJ2HPS723yYL2jBOhpzV2Xu/s1600/now.png",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/logopedia/images/6/68/That%27s_70s_2023.png/revision/latest?cb=20230316115746",
     "category": "Música",
     "disabled": false
   },
   {
     "title": "Now 80s",
     "url": "https://daiconnect.com/live/hls/tvup/tvfy-now80s/.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDWlvF7iUpCvp4rvRBO_naSClSdfOYon6I0cF8KTJjDg_jLR-xJb7iHsxVpd0tcfWFP-RjSuRRRjRmLGjxNDvDaGS7Y4h7doJ4sbbH1_lz3WQmnhwpFgKCRXLhkgP9AwLfk4zh-gF4KtITsoz6LRIhNFu7nOHazluGUreOPtfw4oT9ihP86U3_hgY-/s1600/80.png",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/logopedia/images/5/5a/That%27s_80s_2023.png/revision/latest?cb=20230109161537",
     "category": "Música",
     "disabled": false
   },
