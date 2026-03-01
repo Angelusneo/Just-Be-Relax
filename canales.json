@@ -56,6 +56,13 @@
     "disabled": false
   },
   {
+    "title": "A3 Cine",
+    "url": "http://45.167.1.136:8000/play/a00c",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt-8aqH15SFhbmeUewRY_FE-8G1LBy-kbE7iY_nP3CrL0ziPaigTjhB_u2zoXW_G0r2lFA34BVlscWPVfyRqjfvgpWnM-SjJsgy4MeHNn4xKGDg9BJuqIekd4YSnm0GaU5oJVyraW44iRbqXiNjt_OCFWwLXulnn8T1k1XquwfhRT53n9t7cNqlJXb/s1600/a3cine.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
     "title": "DKiss",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX/smil:25_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDuKUYbdQRlES_vzXPd8ngtgq8_gbGuLs11JT1uqKrbxc8Ha9wG2FyNU8hJ9kp8zbvPJNsF-N9cHZdOVjrkB4MHNonMbPCVqsB4Yqo11e_5Rz5hwXU2qdXPaYK-2rdD8GrfZTZ366rFYuCNNSDR8Hvb3x6iW6UnjcSz0gj8CTJ-Gip-67_GRc1RCGb/s1600/DKISS.png",
@@ -1349,6 +1356,13 @@
     "disabled": false
   },
   {
+    "title": "BUM Television",
+    "url": "https://xtream.videx.lol/Yoshiro/admin/412.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzReFDtdIsJb8kA3e2Rvrf2CUlMVasn02IvBiq0LAfz_dxfhsatNim-RK8p0yNuwSOtCjao9EMMRFh4Vhd1LDPlucQL1l0Ggkp1pTZiK53OtfdnjBH0oZ4iDVEbhdwtXPpupMBHUg8cM_6TI4jwCp4vBpmBTSzwoFaTcYDiXIJOn2j-kG0A8M3fvjw/s1600/BUM-Television.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
     "title": "DHE",
     "url": "http://45.5.116.231:9090/play/a0gy/index.m3u8",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png",
@@ -1749,17 +1763,17 @@
   },
   {
     "title": "Adult Swim",
-    "url": "http://104.238.205.28:8989/278392_.m3u8",
+    "url": "http://45.167.1.136:8000/play/a012",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZCS31zGBMhDZvJSuUdKwjc4bSmN9CJObgc14DyxUO9gMeJ6aptHATob52Hgjr6SCBAqm8QcvFUzBZrWeGXBKk78aMkhZ-8KAR7GcJk0wBQguuX2JpCDVRfl7mfby4cDPy-EVOPjC0MOFNOpMnW3-I0nazHP1V-qHGB9uGWk2lgD1_-s5Ai53fPf3E/s1600/Adult-Swim-Logo-2002.png",
     "category": "Animación",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Cartoon Network",
-    "url": "http://104.238.205.28:8989/278525_.m3u8",
+    "url": "http://45.167.1.136:8000/play/a00g",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-I7qKXPBCa-nULEaoAtrsNxCmcDYQsg8iR7UwhliVF2dMfRoCQ7UHsHCZknrIoxCgnckE_sbyYo89B5Use0pUsUvokf1vT3IGXEDYfYvlYVgNvvJwaZOWQu8K4kaPWcb88FCPvHo8zNKv1yNPinX5ufES3QfKAYrf5vWXXrHXePZ9DZNIypccCtts/s1600/Cartoon-Network-logo.png",
     "category": "Animación",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Cartoonito",
@@ -3224,10 +3238,10 @@
   },
   {
     "title": "ESPN 7",
-    "url": "http://38.44.109.41:8003/play/a03z/index.m3u8",
+    "url": "https://xtream.videx.lol/Yoshiro/admin/421.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju5lmWSwE9dXjpdw3K67mCpLqfSihYTgRdg9xqYKCA9UrTUUqx2fxQA-0DZS3w3dRXMdh7PuHrlgssxa2CW-NjOwiBxSopGuTwYO0Sj0hDyFs6RvS7oyitPdAQGCeu7PWC1zAA_JrIlraq1y8J-JLlo9mLcmWmVRtBrUipTJwm2HgGNC1hQU6J2A0B/s1600/ESPN_7.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "VIX TUDN",
