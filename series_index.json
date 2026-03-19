@@ -19,7 +19,7 @@
   },
   {
     "title": "El Agente Nocturno",
-    "slug": "el_gente_nocturno",
+    "slug": "el_agente_nocturno",
     "poster": "https://peliculas.lavanguardia.com/imagenes/w500/uYNgC4Zd9NMcpMVug9NTgeIqfTy.jpg",
     "hidden": false
   },
@@ -42,7 +42,7 @@
     "hidden": false
   },
   {
-    "title": "suits",
+    "title": "Suits",
     "slug": "suits",
     "poster": "https://mx.web.img2.acsta.net/pictures/14/03/28/10/18/433386.jpg",
     "hidden": false
@@ -54,7 +54,7 @@
     "hidden": false
   },
   {
-    "title": "jack_ryan",
+    "title": "Jack Ryan",
     "slug": "jack_ryan",
     "poster": "https://images.justwatch.com/poster/306272257/s718/tom-clancys-jack-ryan.jpg",
     "hidden": false
@@ -157,7 +157,7 @@
   },
   {
     "title": "New Amsterdam",
-    "slug": "new_asmsterdam",
+    "slug": "new_amsterdam",
     "poster": "https://image.tmdb.org/t/p/original/Ap4pCZWtl7NmpP6CuqcFAGwBWDc.jpg",
     "hidden": true
   },
@@ -174,8 +174,8 @@
     "hidden": true
   },
   {
-    "title": "Da Vinci´s Daemon",
-    "slug": "da_vinci",
+    "title": "Da Vinci's Daemon",
+    "slug": "da_vinci_s_daemon",
     "poster": "https://cdn-fastly.parrotanalytics.com/images/poster-hyphen/42d01989-ecac-4a50-977b-456852ed2d20.jpg?class=EXTRA_LARGE",
     "hidden": true
   },
@@ -228,7 +228,7 @@
     "hidden": true
   },
   {
-    "title": "Ladron de Guante Blanco",
+    "title": "Ladrón de Guante Blanco",
     "slug": "ladron_de_guante_blanco",
     "poster": "https://images.justwatch.com/poster/324972635/s718/ladron-de-guante-blanco.jpg",
     "hidden": true
@@ -240,13 +240,13 @@
     "hidden": true
   },
   {
-    "title": "FallinSkays ",
-    "slug": "fallinSkays ",
+    "title": "Falling Skies",
+    "slug": "fallinskays",
     "poster": "https://images.justwatch.com/poster/77889385/s718/falling-skies.jpg",
     "hidden": true
   },
   {
-    "title": "Lie to me",
+    "title": "Lie to Me",
     "slug": "lie_to_me",
     "poster": "https://images.justwatch.com/poster/172046874/s718/mienteme.jpg",
     "hidden": true
@@ -271,18 +271,18 @@
   },
   {
     "title": "Flashpoint",
-    "slug": "flashpoint ",
+    "slug": "flashpoint",
     "poster": "https://m.media-amazon.com/images/M/MV5BOGI2MTcyZWEtMDQ5OS00Nzk1LWEyNGYtYTc5Y2IyMTYyZjhlXkEyXkFqcGc@._V1_.jpg",
     "hidden": true
   },
   {
-    "title": "American Horror Story ",
+    "title": "American Horror Story",
     "slug": "american_horror_story",
     "poster": "https://es.web.img3.acsta.net/pictures/18/10/30/17/07/0996605.jpg",
     "hidden": true
   },
   {
-    "title": "Almacen 13 ",
+    "title": "Almacén 13",
     "slug": "almacen_13",
     "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8078254_b_v10_ab.jpg",
     "hidden": true
