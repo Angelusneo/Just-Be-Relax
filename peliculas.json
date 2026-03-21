@@ -330,9 +330,27 @@
     "category": "pelicula"
   },
   {
+    "title": "El pacificador",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504036.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/i58rl5mpabq2RHgvzRSzELRivTN.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Escuadrón suicida",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504562.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/9ymhU7NclJr29MpZnBQbJurYbuc.jpg",
+    "category": "pelicula"
+  },
+  {
     "title": "Eternity",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/733758.mkv",
     "thumbnailUrl": "https://m.media-amazon.com/images/S/pv-target-images/305067352db0cfa179e0eeffa14683aaaa84271bb6ae507c9e99e8bd200c0a33.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Serenity",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/510199.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/zD81lzAEsTeEDl8f1C6t4USRihg.jpg",
     "category": "pelicula"
   },
   {
