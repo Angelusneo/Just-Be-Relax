@@ -1032,9 +1032,15 @@
     "category": "pelicula"
   },
   {
-    "title": "Dos policías rebeldes II",
+    "title": "Bad Boys  II",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/502745.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/qyHDZB87UQF9cu6uuQzhhaKGvuo.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Bad Boys hasta la muerte",
+    "url": "https://archive.org/download/457626384-3837006406554626-8111903668788379276-n/Bad.Boys.Hasta.la.muerte.2024.720p-Dual-Lat.mkv",
+    "thumbnailUrl": "https://www.sonypictures.com.ar/sites/argentina/files/2024-08/BADBOYSRIDEORDIE_Spanish%28LatinAm%29%20%282%29.jpg",
     "category": "pelicula"
   },
   {
@@ -1095,6 +1101,12 @@
     "title": "Agárralo como puedas",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/712932.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/v8FpKw8mOsHxC0YElkgNNSCzGMl.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Espía como puedas",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504250.mkv",
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDc3OGMxMGQtZjg2Ni00ZGRkLTllM2UtYTkzOWI1YWJiMmNiXkEyXkFqcGc@._V1_.jpg",
     "category": "pelicula"
   },
   {
@@ -1287,12 +1299,6 @@
     "title": "El diario de Noa",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504313.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/gFCnDKfsZWzyv9sweizVC4EWn06.jpg",
-    "category": "pelicula"
-  },
-  {
-    "title": "Espía como puedas",
-    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504250.mkv",
-    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/o1RzJqZfjzkYHK81ZKp7b4YP6TI.jpg",
     "category": "pelicula"
   },
   {
@@ -8041,12 +8047,6 @@
     "title": "La otra cara de la luna",
     "url": "https://archive.org/download/457626384-3837006406554626-8111903668788379276-n/La.otra.cara.de.la.Luna.2024.720p-Dual-Lat.mkv",
     "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjXXBbHrTnQ5MEdwSxT0SWkcfmbUVijNXje43gzyft5QtXVmNegVyoOF4IRA0TtGF36w8&usqp=CAU",
-    "category": "pelicula"
-  },
-  {
-    "title": "Bad Boys hasta la muerte",
-    "url": "https://archive.org/download/457626384-3837006406554626-8111903668788379276-n/Bad.Boys.Hasta.la.muerte.2024.720p-Dual-Lat.mkv",
-    "thumbnailUrl": "https://www.sonypictures.com.ar/sites/argentina/files/2024-08/BADBOYSRIDEORDIE_Spanish%28LatinAm%29%20%282%29.jpg",
     "category": "pelicula"
   },
   {
