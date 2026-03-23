@@ -102,6 +102,12 @@
     "hidden": false
   },
   {
+    "title": "Star Wars: Andor",
+    "slug": "andor",
+    "poster": "https://m.media-amazon.com/images/I/A1jVtYhWEfL._AC_UF894,1000_QL80_.jpg",
+    "hidden": false
+  },
+  {
     "title": "Star Wars: los jovenes jedi",
     "slug": "star_wars_los_jovenes_jedi",
     "poster": "https://static.wikia.nocookie.net/esstarwars/images/b/b2/YJA_Official_PosterLA.jpg/revision/latest?cb=20230409000958",
