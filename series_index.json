@@ -132,6 +132,12 @@
     "hidden": false
   },
   {
+    "title": "Vikingos",
+    "slug": "vikingos",
+    "poster": "https://images.justwatch.com/poster/274781709/s718/vikingos.jpg",
+    "hidden": false
+  },
+  {
     "title": "Andor",
     "slug": "andor",
     "poster": "https://m.media-amazon.com/images/I/A1jVtYhWEfL._AC_UF894,1000_QL80_.jpg",
@@ -249,12 +255,6 @@
     "title": "Torchwood",
     "slug": "torchwood",
     "poster": "https://images.justwatch.com/poster/307380485/s718/torchwood.jpg",
-    "hidden": true
-  },
-  {
-    "title": "Vikingos",
-    "slug": "vikingos",
-    "poster": "https://images.justwatch.com/poster/274781709/s718/vikingos.jpg",
     "hidden": true
   },
   {
