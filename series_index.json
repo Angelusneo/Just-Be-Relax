@@ -150,6 +150,12 @@
     "hidden": false
   },
   {
+    "title": " The Umbrella Academy",
+    "slug": "umbrella_academy",
+    "poster": "https://media.vogue.es/photos/5cc739365f54088c3ee84ff1/master/w_1600%2Cc_limit/vogue_news_tendencias_344192783.jpg",
+    "hidden": true
+  },
+  {
     "title": "Andor",
     "slug": "andor",
     "poster": "https://m.media-amazon.com/images/I/A1jVtYhWEfL._AC_UF894,1000_QL80_.jpg",
