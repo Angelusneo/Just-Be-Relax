@@ -141,7 +141,7 @@
     "title": "Vikingos Valhalla",
     "slug": "vikingos_valhalla",
     "poster": "https://m.media-amazon.com/images/M/MV5BMGQ0YzI1NWUtOTEwYS00MDBjLTk5ZTItMzAwZjE4NzkzYTg4XkEyXkFqcGc@._V1_.jpg",
-    "hidden": true
+    "hidden": false
   },
   {
     "title": "Yellowstone",
@@ -153,7 +153,7 @@
     "title": " The Umbrella Academy",
     "slug": "umbrella_academy",
     "poster": "https://media.vogue.es/photos/5cc739365f54088c3ee84ff1/master/w_1600%2Cc_limit/vogue_news_tendencias_344192783.jpg",
-    "hidden": true
+    "hidden": false
   },
   {
     "title": "Andor",
