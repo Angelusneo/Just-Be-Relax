@@ -786,7 +786,7 @@
     "category": "pelicula"
   },
   {
-    "title": "titulo",
+    "title": "Solo",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/510177.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/44pBWKtUQNc0zDat1PX1pOGVNtV.jpg",
     "category": "pelicula"
@@ -2514,9 +2514,9 @@
     "category": "pelicula"
   },
   {
-    "title": "titulo",
+    "title": "Next",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/510002.mkv",
-    "thumbnailUrl": "imagen",
+    "thumbnailUrl": "https://pics.filmaffinity.com/Next-153308309-large.jpg",
     "category": "pelicula"
   },
   {
