@@ -2514,15 +2514,9 @@
     "category": "pelicula"
   },
   {
-    "title": "NEXT",
+    "title": "titulo",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/510002.mkv",
-    "thumbnailUrl": "https://pics.filmaffinity.com/Next-153308309-large.jpg",
-    "category": "pelicula"
-  },
-  {
-    "title": "NEXT",
-    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/510002.mkv",
-    "thumbnailUrl": "https://pics.filmaffinity.com/Next-153308309-large.jpg",
+    "thumbnailUrl": "imagen",
     "category": "pelicula"
   },
   {
