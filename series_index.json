@@ -93,7 +93,7 @@
     "title": "Castle",
     "slug": "castle",
     "poster": "https://elfinalde.s3-accelerate.amazonaws.com/2016/06/a3PGg3oj5N3MqqHM7nq6J6njUPY.jpg",
-    "hidden": true
+    "hidden": false
   },
   {
     "title": "El abogado del Lincoln",
