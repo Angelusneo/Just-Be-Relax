@@ -786,7 +786,7 @@
     "category": "pelicula"
   },
   {
-    "title": "Solo",
+    "title": "titulo",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/510177.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/44pBWKtUQNc0zDat1PX1pOGVNtV.jpg",
     "category": "pelicula"
@@ -1574,7 +1574,7 @@
   {
     "title": "Sin límites",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/511407.mkv",
-    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/sEMTs4XRq9oUwDG2bCUb9NGfbQG.jpg",
+    "thumbnailUrl": "https://i.ibb.co/bJzhXFT/snlimites.jpg",
     "category": "pelicula"
   },
   {
@@ -1689,6 +1689,12 @@
     "title": "La Liga de los Hombres Extraordinarios",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/508670.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/y4DuzWnRkjfY84NnhL8biEgimmh.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Maléfica",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/508683.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/i8qn2A0Qfjj45EXlZVt92WnX7iH.jpg",
     "category": "pelicula"
   },
   {
@@ -2516,7 +2522,7 @@
   {
     "title": "Next",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/510002.mkv",
-    "thumbnailUrl": "https://m.media-amazon.com/images/S/pv-target-images/dba43141777f85f5d8b797781bbd03143c070fe60f7460da4d9a3e803d697181.jpg",
+    "thumbnailUrl": "https://pics.filmaffinity.com/Next-153308309-large.jpg",
     "category": "pelicula"
   },
   {
@@ -2541,6 +2547,54 @@
     "title": "Collateral",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/500687.mkv",
     "thumbnailUrl": "https://cdn.sincroguia.tv/uploads/programs/c/o/l/collateral-poster-103216_SPA-71_V.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "La alianza del mal",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/508662.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/m1sWww2EIh8UxVIbxQBWoBmNqqE.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
     "category": "pelicula"
   },
   {
@@ -7448,12 +7502,6 @@
     "title": "Colombiana: Venganza despiadada",
     "url": "https://ia601601.us.archive.org/28/items/colomb-despiad-dvdrip-1067181/ColombDespiad__DVDRip__1067181.mp4",
     "thumbnailUrl": "https://i.ibb.co/KxRz7G6/colombiana.jpg",
-    "category": "pelicula"
-  },
-  {
-    "title": "Sin límites",
-    "url": "https://ia601603.us.archive.org/15/items/s-1n-l-m-1t-3s-dvdrip-533389/S1n_l_m1t3s_DVDRip__533389.mp4",
-    "thumbnailUrl": "https://i.ibb.co/bJzhXFT/snlimites.jpg",
     "category": "pelicula"
   },
   {
