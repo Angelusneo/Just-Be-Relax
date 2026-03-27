@@ -98,12 +98,30 @@
   {
     "title": "Depredador",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/530528.mkv",
-    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/spgPmu5bTk8N6KZXrIOBwfd3cNb.jpg",
+    "thumbnailUrl": "https://i.ibb.co/LSCt1qg/DEP1.jpg",
     "category": "pelicula"
   },
   {
     "title": "Depredador 2",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/530529.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/92Lqy293CqAExYXlqDc456eYCWp.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Depredadores",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/530530.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/92Lqy293CqAExYXlqDc456eYCWp.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "El Depredador",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/530531.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/92Lqy293CqAExYXlqDc456eYCWp.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Depredador La presa",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/530532.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/92Lqy293CqAExYXlqDc456eYCWp.jpg",
     "category": "pelicula"
   },
@@ -708,6 +726,12 @@
     "category": "pelicula"
   },
   {
+    "title": "Sherlock Holmes",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/511569.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/gf4eNEw79XVbKYDBEQKgWPezQNY.jpg",
+    "category": "pelicula"
+  },
+  {
     "title": "Sherlock Holmes: Juego de sombras",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/510155.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/cDu2Ti4uwF1yq6jgjsybe7UzZDI.jpg",
@@ -780,7 +804,7 @@
     "category": "pelicula"
   },
   {
-    "title": "Resacón 3",
+    "title": "R3sacón 3",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/510308.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/jxhkMvcdbk9RhobvURI1HeVrp3E.jpg",
     "category": "pelicula"
@@ -1413,6 +1437,12 @@
     "title": "Star Trek VIII: Nemesis",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/510206.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/opmDF2sPIBCvTDbJWBtmhqUFXmi.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Star Trek",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/510204.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/axuw64XX2mWG0okoNCzjlGc4yVp.jpg",
     "category": "pelicula"
   },
   {
@@ -2520,6 +2550,12 @@
     "category": "pelicula"
   },
   {
+    "title": "Next",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/510002.mkv",
+    "thumbnailUrl": "https://pics.filmaffinity.com/Next-153308309-large.jpg",
+    "category": "pelicula"
+  },
+  {
     "title": "Parker",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/511544.mkv",
     "thumbnailUrl": "https://images.justwatch.com/poster/127736642/s718/parker.jpg",
@@ -2547,6 +2583,126 @@
     "title": "La alianza del mal",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/508662.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/m1sWww2EIh8UxVIbxQBWoBmNqqE.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Ocean's Eleven",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/509793.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/rDWIeM3bOOxh0uP9wd9baGOtx2p.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Ocean's Twelve",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/509795.mkv",
+    "thumbnailUrl": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p35189_p_v12_ab.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Ocean's Thirteen",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/510427.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/3iczTMycAI1YXKOKFsBdcV1Ys7U.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Ocean's 8",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/510423.mkv",
+    "thumbnailUrl": "https://images.martincid.com/2018/09/muBA2zdXAjrqd9fehykSjScL5Aw.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Bright",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/499995.mkv",
+    "thumbnailUrl": "https://gacinema.wordpress.com/wp-content/uploads/2018/08/61a28098498312197e646d71b9de501a3d32f501.jpg?w=640",
+    "category": "pelicula"
+  },
+  {
+    "title": "Pared con pared",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/533743.mkv",
+    "thumbnailUrl": "https://www.ofdb.de/images/poster/379/379049.jpg?v=1712584995",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
     "category": "pelicula"
   },
   {
@@ -3018,13 +3174,13 @@
     "category": "pelicula"
   },
   {
-    "title": "Star Wars Episodio 2",
+    "title": "Star Wars: Las guerras clon",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/507828.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/pwwBIUqVSWrCBuUAvbaNdf7VajF.jpg",
     "category": "pelicula"
   },
   {
-    "title": "Star Wars Episodio 3",
+    "title": "Star Wars Episodio : La venganza de los Sith",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/507830.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/5dj0ERxM8NxoiWBdlY6TT9PJmKi.jpg",
     "category": "pelicula"
@@ -3042,7 +3198,7 @@
     "category": "pelicula"
   },
   {
-    "title": "Star Wars: The Force Awakens",
+    "title": "Star Wars: El despertar de la fuerza",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/510158.mkv",
     "thumbnailUrl": "https://m.media-amazon.com/images/S/pv-target-images/177dc24403652bbd2e6a7a4fbedc467672e340c033c2751e6457f1ffcec4855e.jpg",
     "category": "pelicula"
@@ -7304,12 +7460,6 @@
     "title": "Expedientes secretos X i want to believe",
     "url": "https://dl.dropbox.com/s/entvkg9vcdkm0hb/Expedientes%20secretos%20X%202%20Creer%20es%20la%20clave%20%282008%29.mp4",
     "thumbnailUrl": "https://mx.web.img2.acsta.net/pictures/21/09/25/03/26/4060495.jpg",
-    "category": "pelicula"
-  },
-  {
-    "title": "Depredador",
-    "url": "https://dl.dropbox.com/s/jqsfb9pcz5rpxbm/D3PR3D4D0R.mp4",
-    "thumbnailUrl": "https://i.ibb.co/LSCt1qg/DEP1.jpg",
     "category": "pelicula"
   },
   {
