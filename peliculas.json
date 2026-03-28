@@ -114,15 +114,15 @@
     "category": "pelicula"
   },
   {
-    "title": "Predator",
-    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/530531.mkv",
-    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/r6jghOfUGi5TNl9EbdOk5NtfkzQ.jpg",
+    "title": "Depredador La presa",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/530532.mkv",
+    "thumbnailUrl": "https://m.media-amazon.com/images/S/pv-target-images/f5a8d3dbe11ecd5eaec3123f67714bf1d1ad3fc03433d835f07ca2c1a2de05f3.jpg",
     "category": "pelicula"
   },
   {
-    "title": "Depredador: La presa",
-    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/530532.mkv",
-    "thumbnailUrl": "https://m.media-amazon.com/images/S/pv-target-images/f5a8d3dbe11ecd5eaec3123f67714bf1d1ad3fc03433d835f07ca2c1a2de05f3.jpg",
+    "title": "Predator",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/530531.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/r6jghOfUGi5TNl9EbdOk5NtfkzQ.jpg",
     "category": "pelicula"
   },
   {
@@ -621,6 +621,12 @@
     "title": "La Bella y la Bestia",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/510695.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/aGJkPbMixqD6j0OjbbGouSMbiZO.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Indiana Jones: En busca del arca perdida",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/506982.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/tECLVwLCMexSkls33RTCwedRZ6d.jpg",
     "category": "pelicula"
   },
   {
@@ -1212,6 +1218,12 @@
     "category": "pelicula"
   },
   {
+    "title": "Superpoli en Las Vegas",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/511600.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/5JkfQy1cq7IUxXbDxEBIoORXPuZ.jpg",
+    "category": "pelicula"
+  },
+  {
     "title": "Liga de la Justicia",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/507725.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/wUWqnavD8iGZ5F4xXhWlrtEzKjV.jpg",
@@ -1335,6 +1347,36 @@
     "title": "Puñales por la espalda: De entre los muertos",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/731429.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/trGWfaYTkzkalkosXfxidpLum50.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Jurassic Park",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/510786.mkv",
+    "thumbnailUrl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5669/posters/1759603947990-y7rqo7.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Jurassic Park: El mundo perdido",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504017.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/80pXV9DEd81rBGqmlPBLbvr6h9a.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Jurassic World",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/507652.mkv",
+    "thumbnailUrl": "https://m.media-amazon.com/images/S/pv-target-images/531bfc6245fa1092c0ff0177200080637cdf73fbe91a21b237bb9bf862a29c76._UR2000,3000_.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Jurassic World: El Reino Caído",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/507653.mp4",
+    "thumbnailUrl": "https://www.mubis.es/media/articles/16290/182320/desvelado-el-titulo-y-primer-poster-de-jurassic-world-2-original.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Jurassic World: Dominion",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/284039.mp4",
+    "thumbnailUrl": "https://m.media-amazon.com/images/S/pv-target-images/271d986e418eaf6fd8768275acc864672b07e8fe5659e8c409468f735aa23630.jpg",
     "category": "pelicula"
   },
   {
@@ -2604,69 +2646,33 @@
     "category": "pelicula"
   },
   {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
+    "title": "Salt",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/511554.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/ttPF7duHyOpakOUg8iALzvockdd.jpg",
     "category": "pelicula"
   },
   {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
+    "title": "Safe",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/511552.mkv",
+    "thumbnailUrl": "https://cdn.sincroguia.tv/uploads/programs/s/a/f/safe-poster-250572_SPA-50_V.jpg",
     "category": "pelicula"
   },
   {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
+    "title": "Mechanic: Resurrection",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/509967.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/dW5hpLuobfl6k9Tvajxv0b1e9u.jpg",
     "category": "pelicula"
   },
   {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
+    "title": "Ángeles inesperados",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/542762.mkv",
+    "thumbnailUrl": "https://m.media-amazon.com/images/S/pv-target-images/3d2303cb50310f80689be2d6e5abf459a75cc62469576b3483e024cd3b8b6ecf.jpg",
     "category": "pelicula"
   },
   {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
-    "category": "pelicula"
-  },
-  {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
-    "category": "pelicula"
-  },
-  {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
-    "category": "pelicula"
-  },
-  {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
-    "category": "pelicula"
-  },
-  {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
-    "category": "pelicula"
-  },
-  {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
-    "category": "pelicula"
-  },
-  {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
+    "title": "Ha nacido una estrella",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/507412.mp",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/jAdNHXbswMuIhcRInIzphZvJElA.jpg",
     "category": "pelicula"
   },
   {
@@ -3462,12 +3468,6 @@
     "category": "pelicula"
   },
   {
-    "title": "Jurassic World Dominion",
-    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/284039.mp4",
-    "thumbnailUrl": "https://www.universalpictures.es/tl_files/content/movies/jurassic_world_dominion/poster/01.jpg",
-    "category": "pelicula"
-  },
-  {
     "title": "Padre no hay más que uno (2019)",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/510252.mp4",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/eDLO2nr5xhjOfxDAj3gQao495kw.jpg",
@@ -3687,12 +3687,6 @@
     "title": "Jason Bourne",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/507641.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/jv58uIvzudh2MiBW7VERz9552me.jpg",
-    "category": "pelicula"
-  },
-  {
-    "title": "El ultimátum de Bourne",
-    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504537.mkv",
-    "thumbnailUrl": "https://images.justwatch.com/poster/247453131/s718/bourne-3.jpg",
     "category": "pelicula"
   },
   {
