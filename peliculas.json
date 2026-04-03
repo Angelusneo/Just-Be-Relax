@@ -84,6 +84,12 @@
     "category": "pelicula"
   },
   {
+    "title": "Love Actually",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/508073.mkv",
+    "thumbnailUrl": "https://images.justwatch.com/poster/90379677/s718/love-actually.jpg",
+    "category": "pelicula"
+  },
+  {
     "title": "Watchmen",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/511707.avi",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/bQ1fT5xjhFesHqKe1NgY088yOT8.jpg",
@@ -513,12 +519,6 @@
     "title": "La Torre Oscura",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/508663.mkv",
     "thumbnailUrl": "https://m.media-amazon.com/images/S/pv-target-images/01404dd80a7ec87ca7dcf058e28420dbbf905d4009b48d8ef5b68e8384776721.jpg",
-    "category": "pelicula"
-  },
-  {
-    "title": "Love Actually",
-    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/508073.mkv",
-    "thumbnailUrl": "https://images.justwatch.com/poster/90379677/s718/love-actually.jpg",
     "category": "pelicula"
   },
   {
@@ -1188,15 +1188,21 @@
     "category": "pelicula"
   },
   {
-    "title": "Noche en el museo",
+    "title": "Una Noche en el Museo",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/510006.mp4",
-    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/1Esw7HZUmHzDeJIZq4ZmTZrhunT.jpg",
+    "thumbnailUrl": "https://i.ibb.co/86zCp0Z/Xee-V0b-YFGo-WZw-Kqtja-Lzj7j-Aj-Fq.jpg",
     "category": "pelicula"
   },
   {
-    "title": "Noche en el museo 2: la batalla del Smithsoniano",
+    "title": "Una Noche en el Museo 2",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/539899.mp4",
-    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/x34vN3zHtKevAzr4APPkqxbLJTu.jpg",
+    "thumbnailUrl": "https://i.ibb.co/HpG7cJD/LK7x3-Xh8n4r0-Wqr-CQAS7-LZn3-Btf.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Una Noche en el Museo 3",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/507889.mkv",
+    "thumbnailUrl": "https://i.ibb.co/HY6ScTB/Wz-UTJPo1-Ekkrs-Vr-ICMk-BRu-Yig-BY.jpg",
     "category": "pelicula"
   },
   {
@@ -1665,6 +1671,24 @@
     "title": "Percy Jackson y el ladrón del rayo",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/510131.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/piKMSnCCT0oqLZ9GWAALXX9e1qh.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Thor",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/511783.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/qFAVW4XJaxhj7PcpiUI5hhO9bOX.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Thor: Un mundo oscuro",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/511658.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/gPAmH41VpK5UPaNhAiNJePzrL8z.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Thor: Ragnarok",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/511660.mkv",
+    "thumbnailUrl": "https://www.aceprensa.com/wp-content/uploads/2017/10/284053-0.jpg",
     "category": "pelicula"
   },
   {
@@ -2694,6 +2718,114 @@
     "category": "pelicula"
   },
   {
+    "title": "Shade: Juego de asesinos",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/511563.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/2uK217wp1SSFgbIcwDaPrzlLd7X.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Señales",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/510619.avi",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/r4q93grfe8xO28bY6MFMOZdffoo.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Los mercenarios",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/509755.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/qiKXe4xbXnXdrhQXmXpZwG4Qlkv.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Los mercenarios 2",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/507735.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/nnx0puR1AvuYH4iAg0WHH1QcYzE.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Los mercenarios 3",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/507737.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/sQbQo0BcCRWdw7vgwyK3ZdCraJ0.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Eternal",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504619.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/rCM6HSTYnYTwGOUVUx8UeKuxeFN.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Destino oculto",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504620.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/lndtbz6rgmCoSufjkOC0JlsybRY.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "El rascacielos",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504523.mp4",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/iZewx4w2Fh8lBuKoOlJqfPC5uWs.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "El libro de Eli",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504503.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/ufvg1HHiFSiRRpwEMYK5gbYpTi.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "El guardaespaldas",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504490.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/pnGQbumT2SejsZprnszaI2bLA4R.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "El día de mañana",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504478.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/c4IUWfr4AokGlVSWNRAat0DfbgZ.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Jefa por accidente",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/507427.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/2GDxKKxnaoF0a1GEDdXT7Dytnuj.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Un canguro superduro",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/511933.avi",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/s4Z4hf8L0P1fvGoQpfCFjP5oLid.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
     "title": "titulo",
     "url": "enlace",
     "thumbnailUrl": "imagen",
@@ -3429,6 +3561,12 @@
     "title": "Pixels",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/510034.mkv",
     "thumbnailUrl": "https://images.justwatch.com/poster/99678440/s718/pixels-2015.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Ted",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/511871.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/1DY7eSoQLoTNhJTT455N74VuHHx.jpg",
     "category": "pelicula"
   },
   {
@@ -6851,24 +6989,6 @@
     "category": "pelicula"
   },
   {
-    "title": "Una Noche en el Museo",
-    "url": "https://archive.org/download/mu-30-1-720p-lat-1-01-gb/Mu%2430%201%20720p%20LAT%201%2C01%20GB.mp4",
-    "thumbnailUrl": "https://i.ibb.co/86zCp0Z/Xee-V0b-YFGo-WZw-Kqtja-Lzj7j-Aj-Fq.jpg",
-    "category": "pelicula"
-  },
-  {
-    "title": "Una Noche en el Museo 2",
-    "url": "https://ia800503.us.archive.org/33/items/mu-30-2-hd-lat-999-65-mb/Mu%2430%202%20HD%20LAT%20999%2C65%20MB.mp4",
-    "thumbnailUrl": "https://i.ibb.co/HpG7cJD/LK7x3-Xh8n4r0-Wqr-CQAS7-LZn3-Btf.jpg",
-    "category": "pelicula"
-  },
-  {
-    "title": "Una Noche en el Museo 3",
-    "url": "https://ia600503.us.archive.org/2/items/mu-30-3-720p-dual-1-46-gb/Mu%2430%203%20720p%20DUAL%201%2C46%20GB.mp4",
-    "thumbnailUrl": "https://i.ibb.co/HY6ScTB/Wz-UTJPo1-Ekkrs-Vr-ICMk-BRu-Yig-BY.jpg",
-    "category": "pelicula"
-  },
-  {
     "title": "ÉXODO. Dioses y Reyes",
     "url": "https://archive.org/download/fl-4m-1n-h-0t-1080p-lat-3.59-gb/3x0du%E2%81%B0%24%20%282014%29%201080p%20DUAL%202%2C27%20GB.mp4",
     "thumbnailUrl": "https://i.ibb.co/0VZfyKy/C22eua-Iz-C0-Q3l-Ya14hi-UUn-PZObk.jpg",
@@ -7040,24 +7160,6 @@
     "title": "Los 4 Fantasticos",
     "url": "https://dl.dropbox.com/scl/fi/0t7i8utivu36sah674yl9/95314-1761fba1-3f1a-4680-8200-c0b5c9d52b3d-yzft-901096-doodstream.mp4?rlkey=fdstsxveajhp39s9ocn8mwtwz&dl=0",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w220_and_h330_face/5qLP3JVg8NE3zdZd48lqhx7iN5Q.jpg",
-    "category": "pelicula"
-  },
-  {
-    "title": "Thor",
-    "url": "https://dl.dropbox.com/scl/fi/o746q0aa8babyt3otegai/iron-man-1.mp4?rlkey=1kf75c5x31qzqd94s2jvk8gac&st=xaaujqx3&dl=0",
-    "thumbnailUrl": "https://media.themoviedb.org/t/p/w220_and_h330_face/qFAVW4XJaxhj7PcpiUI5hhO9bOX.jpg",
-    "category": "pelicula"
-  },
-  {
-    "title": "Thor: Un mundo oscuro",
-    "url": "https://archive.org/download/cuartormuna/20.mp4",
-    "thumbnailUrl": "https://media.themoviedb.org/t/p/w220_and_h330_face/gPAmH41VpK5UPaNhAiNJePzrL8z.jpg",
-    "category": "pelicula"
-  },
-  {
-    "title": "Thor: Ragnarok",
-    "url": "https://archive.org/download/sh-1_20200430/Artya/sh%201.mp4",
-    "thumbnailUrl": "https://media.themoviedb.org/t/p/w220_and_h330_face/pGtkLdk4rnF2A3Yz2BHiTgRwMU4.jpg",
     "category": "pelicula"
   },
   {
