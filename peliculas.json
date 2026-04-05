@@ -738,9 +738,21 @@
     "category": "pelicula"
   },
   {
+    "title": "Jumanji",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/507190.mkv",
+    "thumbnailUrl": "https://pastoralsj.org/wp-content/uploads/2021/07/l_jumanjic.jpg",
+    "category": "pelicula"
+  },
+  {
     "title": "Jumanji: Bienvenidos a la jungla",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/506624.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/1uQaSgtHyTN3r2fecL0mSs6geQO.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Jumanji: Siguiente nivel",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/506623.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/gvR0l5NQ62DJe0Ppxb2sroHlwaa.jpg",
     "category": "pelicula"
   },
   {
@@ -913,7 +925,7 @@
   },
   {
     "title": "Jungla de cristal",
-    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/533780.mkv",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/507189.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/m54tK4wKjc1w2dp7QInG0munGao.jpg",
     "category": "pelicula"
   },
@@ -2358,6 +2370,12 @@
     "category": "pelicula"
   },
   {
+    "title": "Juegos de guerra",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/507186.mkv",
+    "thumbnailUrl": "https://images.justwatch.com/poster/302352331/s718/juegos-de-guerra.jpg",
+    "category": "pelicula"
+  },
+  {
     "title": "Origen",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/617530.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/tXQvtRWfkUUnWJAn2tN3jERIUG.jpg",
@@ -2880,102 +2898,6 @@
     "category": "pelicula"
   },
   {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
-    "category": "pelicula"
-  },
-  {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
-    "category": "pelicula"
-  },
-  {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
-    "category": "pelicula"
-  },
-  {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
-    "category": "pelicula"
-  },
-  {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
-    "category": "pelicula"
-  },
-  {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
-    "category": "pelicula"
-  },
-  {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
-    "category": "pelicula"
-  },
-  {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
-    "category": "pelicula"
-  },
-  {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
-    "category": "pelicula"
-  },
-  {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
-    "category": "pelicula"
-  },
-  {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
-    "category": "pelicula"
-  },
-  {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
-    "category": "pelicula"
-  },
-  {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
-    "category": "pelicula"
-  },
-  {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
-    "category": "pelicula"
-  },
-  {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
-    "category": "pelicula"
-  },
-  {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
-    "category": "pelicula"
-  },
-  {
     "title": "Viaje al centro de la Tierra 2",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/511808.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/hAy2yUav8QPnDzfOGihNI527NjY.jpg",
@@ -3384,18 +3306,6 @@
     "category": "pelicula"
   },
   {
-    "title": "Jack Reacher",
-    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/506757.mkv",
-    "thumbnailUrl": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9286627_p_v10_ae.jpg",
-    "category": "pelicula"
-  },
-  {
-    "title": "Jack Reacher: Never Go Back",
-    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/507638.mkv",
-    "thumbnailUrl": "https://cdn.moviefone.com/image-assets/343611/cOg3UT2NYWHZxp41vpxAnVCOC4M.jpg?d=360x540&q=30",
-    "category": "pelicula"
-  },
-  {
     "title": "Captain America: Civil War",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/432640.mkv",
     "thumbnailUrl": "https://external-preview.redd.it/IZQCaSbjJNqMwD3RCZeP8uCXoSpIbqbdTnjwF3BhxEE.jpg?width=640&crop=smart&auto=webp&s=a1d8f47cd053732d466e71d3853b29648af4310f",
@@ -3489,6 +3399,18 @@
     "title": "Padre no hay mas que uno 3",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/427078.mp4",
     "thumbnailUrl": "https://m.media-amazon.com/images/S/pv-target-images/f8c5bf2f0a70ac827461598d253902a6bab30020f277629aef24808ace706843.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Hellboy",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/506929.mkv",
+    "thumbnailUrl": "https://m.media-amazon.com/images/S/pv-target-images/83c2725714e868ab59709ae9408bc3c26390b8ca0308635578365dd6cad5f610._UR2000,3000_SX750_FMpng_.png",
+    "category": "pelicula"
+  },
+  {
+    "title": "Hellboy II: El ejército dorado",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/506932.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/2oJ8v3zmwD0MruokYiLkUivY9wl.jpg",
     "category": "pelicula"
   },
   {
@@ -6473,9 +6395,207 @@
     "category": "pelicula"
   },
   {
-    "title": "Juegos de guerra",
-    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/507186.mkv",
-    "thumbnailUrl": "https://images.justwatch.com/poster/302352331/s718/juegos-de-guerra.jpg",
+    "title": "Ghost",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/506992.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/gwli1EMll3AJfL5waL9SWEtg3ZI.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "George de la jungla",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/506991.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/9oBSAKp65I9Xjmk7jZqJ2HmllTj.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Hancock",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/506926.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/5QkoSqDPwSVWx51r2lBCUre7GzE.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Hansel y Gretel: Cazadores de brujas",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/506921.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/cSoRQKVITESDpSCOdzgAyCy6xeE.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Hannibal",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/506737.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/v5wAZwRqpGWmyAaaJ8BBHYuNXnj.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Hitch: Especialista en ligues",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/506685.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/oSAq1R4qtrkpIeZoOzvahuAE308.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Guerra de novias",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/506668.avi",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/cCavFmyHmVBdRcg5gBqGMv6KV5X.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Ghost in the Shell: El alma de la máquina",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/506631.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/55qycRj8uNf8IgKl8MOGqw0j2nT.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Gravity",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/506629.mkv",
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDdjMDNjYTItZmMxZS00NTgzLWI0YTAtNTM5MjJjMTEyMjY2XkEyXkFqcGc@._V1_.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Prince of Persia: Las arenas del tiempo",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504609.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/vhATwS2BVbVvu5ltv8F1aodLTPE.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Espías",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504564.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/4DjDCZw0YPhXq2lr0uargYZc6b4.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Escuadrón suicida",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504562.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/9ymhU7NclJr29MpZnBQbJurYbuc.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "El protector",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504521.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/3epke5oOH7WRWvaFJeH9SsibBW4.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "El código Da Vinci",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504344.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/r5DHVCB5AV7B7GLmXMyA71Y4Yu4.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Inferno",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504306.mkv",
+    "thumbnailUrl": "https://m.media-amazon.com/images/S/pv-target-images/6f9f16a083b6ee5ac60950ee57650d1cf43815e78a7bdc87a2abddafdf26eb33.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Estallido",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504263.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/yxe9MSuSjXDH676Al1Sg6JEzejq.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Eraser",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504235.mkv",
+    "thumbnailUrl": "https://pics.filmaffinity.com/Eraser_Eliminador-658990001-large.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Enemigo público",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504228.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/pHLraZnPPAchPFQqbdZcNcNudKz.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "El último gran héroe",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504194.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/wsqkU03Ujr4L6f0KoW1c5YTcjQP.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "El último Boy Scout",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504191.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/cQ5k3KFbe5rgpLOvoIiPzJZdZiQ.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "El show de Truman",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504132.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/4BGVZSwv5n0hMIAWwiSjMFDQ63K.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "El sexto sentido",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504128.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/pvjph7FouToPBY3PhTvTyOYoJDX.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "El quinto elemento",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504083.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/wnps5IL8YpeJpZvciDRXt7yZF8a.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "El pacificador",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/504036.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/i58rl5mpabq2RHgvzRSzELRivTN.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "El informe Pelícano",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/503976.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/jZmGx7EST8HglBHeumXYqhNtrTo.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "El americano",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/503764.avi",
+    "thumbnailUrl": "https://m.media-amazon.com/images/S/pv-target-images/83b5bd213515cc4ac58f2a041380c397945d2d951aec5bbdcd1ecb5ce609294e.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "El Chip Prodigioso",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/503712.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/8roFG65NOnQRyxq5Cpq1HHRXg0f.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
+    "category": "pelicula"
+  },
+  {
+    "title": "titulo",
+    "url": "enlace",
+    "thumbnailUrl": "imagen",
     "category": "pelicula"
   },
   {
@@ -7326,7 +7446,7 @@
   },
   {
     "title": "Juno",
-    "url": "https://ia601603.us.archive.org/1/items/j-0un-1i-0o-hd-720p-1149643/J0un1i0o_HD__720p___1149643.mp4",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/506732.mkv",
     "thumbnailUrl": "https://i.ibb.co/kS4fSxk/juno.jpg",
     "category": "pelicula"
   },
