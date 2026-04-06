@@ -1,21 +1,21 @@
 [
   {
     "title": "La 1",
-    "url": "https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiymCzsPVT4TElhJa8yf7ws5jui-qgNr0hFa_S9GCegklxn5r_le2kbEtVgwVRgJqqhenSghTS4dFawGt-dxBoiBTsLL8fKn95vE9V4D1BCpnZg4fnvn2ToXNrw4Gi1DExj2Ar7K0ZMIs_01o9w9OE4iXFriJUdyDVrv9SBpZ2FImnvQeWjK0UKpl1q/s1600/Logo_TVE-1.png",
     "category": "Nacional",
     "disabled": false
   },
   {
     "title": "La 2",
-    "url": "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivMwflgTTGNGtO6AHpQA-Ec2-Nh2nB1RkzIasQ2ZMq0-49EeSyY6l6_kNtGGzgzevCi23CALRsUmW_YPKAAPsDmgvDZwUhGTk7tJqp3nHn1ORpyFXQrU8vNid4TB9b7Q-GKY4dLMYzDP_nUES1mxYe8BE_mi5BOWROuB3Y1MMrbrlKeGc0RUyIqhwS/s1600/Logo_TVE-2.png",
     "category": "Nacional",
     "disabled": false
   },
   {
     "title": "Antena 3",
-    "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX02/smil:7_premium.smil/manifest.mpd",
+    "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX/smil:7_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicmQGrgxRS1ChSlTgRGHcTohJmGRp9FU8JOhvYB4sK3Dc6qWAOkyfTstpTSyRqQjF4o7K8uqM8JCT0-TD8_Fr9u1ZAT1R4y_ek7JJbjxtiXHcS6d7Bq2kjAwmdsU_-sDMO_7RBYjFxr8hybB5NBOOQGp9mYek3CmU98uSbxkTP6JTng6tUBgO0YDAV/s1600/antena-3.png",
     "category": "Nacional",
     "disabled": false
@@ -71,7 +71,7 @@
   },
   {
     "title": "AMC BREAK",
-    "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX02/smil:89_premium.smil/manifest.mpd",
+    "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge2/smil:89_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY_tCwwy7mnwY_nuREYzTZIIusEysoBryunGNNLTU8Kc2sl4eCvBFl-2iMVfNr0_yPv3ziS1N26o5ctgq9fgBV8UdcH7KziU2rNPGl_Fv-saVZwRbYKWeOhIgCv8d-TuuJMBBbebFDK6H9i8m9S14gOvcUHM16ZYCAPQwmPTfNubLAU3aQ84LhQvT4/s1600/AMC_Break.svg.png",
     "category": "Entretenimiento",
     "disabled": false
@@ -126,13 +126,6 @@
     "disabled": false
   },
   {
-    "title": "Cosmo",
-    "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/3528",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggd7c4PI8Fy4SpZWO24pv6Ph7Nd8Mj88NATPMlOsz21xAg1z7opWpHrAjO5ykoZNLWztUBMljOsgrfJM9pNTlyNlNZIiKL4IJvyExMR-coa6hb9aCOkyawjnG4ilPcwgf0X7ixnk7y2oREbA8e7t0tGUEveuBdwNfKCFUj6XIfJWl36ygGSLjMaw_3/s1600/LOGO_COSMO.png",
-    "category": "Series",
-    "disabled": false
-  },
-  {
     "title": "Factoria de Ficción",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX02/smil:16_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrCPGpwOh-D9uW9XPXbB-TmRCDuZp0ah9hSia4SopgZJ1M9IedEctOFEPS6IgiMt4tcU8znLb0YBvmhs9f8djPXAnrnpo3isLsGVeL_g7UxcSZRYqHrcKKAagx4rvWKKD4HptelDXvTEYzb33B5SOWGjxXd-IrbrAHvpCNOwhSgfj8NkR3geFTM-3l/s1600/Factor%C3%ADa_de_Ficci%C3%B3n.png",
@@ -163,20 +156,6 @@
   {
     "title": "Star Channel",
     "url": "http://skynetplus.live:80/RobertMartinez/b4bf3fb98956cc56/327820.ts",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv7Gv5JUmqIaPYIu8vhih-L8u03hn8QwprhGUEoIKbzGoEgeYJI2OzZhDPDGDkbVDyClc67x3cpihOh8CDu9hehPvHCJ_ORrYge1F6lur_vSay1H_pwiXZh18IhTtJ8QILMAFFsrtxKqcXLGWUDg-vnhM28YGWFyIGp-yElRUtXPMOfVZjLbAKftFW/s1600/Star_Channel.png",
-    "category": "Cine",
-    "disabled": false
-  },
-  {
-    "title": "Star Channel",
-    "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/3618",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv7Gv5JUmqIaPYIu8vhih-L8u03hn8QwprhGUEoIKbzGoEgeYJI2OzZhDPDGDkbVDyClc67x3cpihOh8CDu9hehPvHCJ_ORrYge1F6lur_vSay1H_pwiXZh18IhTtJ8QILMAFFsrtxKqcXLGWUDg-vnhM28YGWFyIGp-yElRUtXPMOfVZjLbAKftFW/s1600/Star_Channel.png",
-    "category": "Cine",
-    "disabled": false
-  },
-  {
-    "title": "Star Channel",
-    "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/3641",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv7Gv5JUmqIaPYIu8vhih-L8u03hn8QwprhGUEoIKbzGoEgeYJI2OzZhDPDGDkbVDyClc67x3cpihOh8CDu9hehPvHCJ_ORrYge1F6lur_vSay1H_pwiXZh18IhTtJ8QILMAFFsrtxKqcXLGWUDg-vnhM28YGWFyIGp-yElRUtXPMOfVZjLbAKftFW/s1600/Star_Channel.png",
     "category": "Cine",
     "disabled": false
