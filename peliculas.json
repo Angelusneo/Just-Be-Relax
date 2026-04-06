@@ -1818,12 +1818,6 @@
     "category": "pelicula"
   },
   {
-    "title": "Los Mercen4rios",
-    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/488109.mkv",
-    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/2qxRrkayxSYiib4JCYRM3sasQe0.jpg",
-    "category": "pelicula"
-  },
-  {
     "title": "Los ángeles de Charlie",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/509413.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/9YZeyalCdYtrJ4U6hl2J9cyI8iq.jpg",
@@ -2748,21 +2742,27 @@
     "category": "pelicula"
   },
   {
-    "title": "Los mercenarios",
+    "title": "Los Mercenarios",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/509755.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/qiKXe4xbXnXdrhQXmXpZwG4Qlkv.jpg",
     "category": "pelicula"
   },
   {
-    "title": "Los mercenarios 2",
+    "title": "Los Mercenarios 2",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/507735.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/nnx0puR1AvuYH4iAg0WHH1QcYzE.jpg",
     "category": "pelicula"
   },
   {
-    "title": "Los mercenarios 3",
+    "title": "Los Mercenarios 3",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/507737.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/sQbQo0BcCRWdw7vgwyK3ZdCraJ0.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "Los Mercen4rios",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/488109.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/2qxRrkayxSYiib4JCYRM3sasQe0.jpg",
     "category": "pelicula"
   },
   {
@@ -9379,12 +9379,6 @@
     "title": "Había una vez en... Hollywood",
     "url": "https://archive.org/download/captura-de-pantalla-2023-11-02-151743/Hab%C3%ADa.una.vez.en.Hollywood.2019.720p-Dual-Lat.mkv",
     "thumbnailUrl": "https://play-lh.googleusercontent.com/-y-eWu_8alsDCRx3DMLiJP16FqHaKXVqwMtmydVkjqxLLCchlU5NlhbvaIXZc-T-pmOi",
-    "category": "pelicula"
-  },
-  {
-    "title": "Los indestructibles 4",
-    "url": "https://archive.org/download/captura-de-pantalla-2023-11-02-151743/Los.indestructibles.4.2023.720p-Dual-Lat.mkv",
-    "thumbnailUrl": "https://images.justwatch.com/poster/312160144/s718/los-mercenarios-4.jpg",
     "category": "pelicula"
   },
   {
