@@ -56,6 +56,13 @@
     "disabled": false
   },
   {
+    "title": "A3 Cine",
+    "url": "http://45.171.64.30:8800/play/a00z",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt-8aqH15SFhbmeUewRY_FE-8G1LBy-kbE7iY_nP3CrL0ziPaigTjhB_u2zoXW_G0r2lFA34BVlscWPVfyRqjfvgpWnM-SjJsgy4MeHNn4xKGDg9BJuqIekd4YSnm0GaU5oJVyraW44iRbqXiNjt_OCFWwLXulnn8T1k1XquwfhRT53n9t7cNqlJXb/s1600/a3cine.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
     "title": "DKiss",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX/smil:25_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDuKUYbdQRlES_vzXPd8ngtgq8_gbGuLs11JT1uqKrbxc8Ha9wG2FyNU8hJ9kp8zbvPJNsF-N9cHZdOVjrkB4MHNonMbPCVqsB4Yqo11e_5Rz5hwXU2qdXPaYK-2rdD8GrfZTZ366rFYuCNNSDR8Hvb3x6iW6UnjcSz0gj8CTJ-Gip-67_GRc1RCGb/s1600/DKISS.png",
@@ -308,13 +315,6 @@
     "disabled": false
   },
   {
-    "title": "Sundance Tv",
-    "url": "https://peaky.techcoder40.workers.dev/6083.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEUxYrke2Vf1xwE3DLe8Ndwc96lB2FJDl5xdyYItQnWBtmUTZQzlbQW527Eiyr2jITf5oYoE81ckkqtBS-n8c5f8B7WqoSzzJuGQpC66SmAjlWw9OHZIQyJChc-N0U0VRzHPvSsaLr2nNioFaDwohL5gbX6d1xYfKsnaqfTnkWGjTRXfWhnHIPCYlB/s1600/SundanceTV_2014.svg.png",
-    "category": "Cine",
-    "disabled": false
-  },
-  {
     "title": "Acontra+ Cine",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge4/smil:149_premium.smil/manifest.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5A4WYy3C-uJ3hKZNcDt9ziELiQKapcRUHgke9vdijrqRA8KUA60Peb7bKlwiK4zMBC3LW_x4w1ZQOUP9KxjETBZ1mukLVA1Nhur3VZkAJ0fBpNdHkASqrr6CafVtKO8pazabAs6D4RMYze2Exc-Zoca4HAiwiTAOa4JJiRSqyvuPmQ1DHeJx8i0x8/s1600/acontra.png",
@@ -546,6 +546,13 @@
     "disabled": false
   },
   {
+    "title": "+ Cine",
+    "url": "http://38.252.215.33:8000/play/a00g/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9gEkvtRjedczaUJQ50rhBFZrhrDAXfj_m05egbkIYKkDsXHlP4_VWrE6wWXRkuV3pD495lsdC1H6UsqvvINXvVvJjWFz3FUB3-7Sqg-pRuheNQ03y6rOxyoTRAEpL-NrUSv52WS4OiKoQTP4SIq6CJTPRDOr3386-0YPDGUQnBAyqcB_jSXnc6AHO/s1600/+Cine.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
     "title": "+ Cine classic",
     "url": "http://179.63.6.12:9000/play/a05t",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpJArYp3K_tX-8jzxgDCBCpb1KuQWChaBRcv9DWRQABYdFG02YEZ05BOK5jP6Ta9WW3ft49l62TCKrxMZpYN6fFjwKs5SR7_oqDjOPVBD_OK1Hz66kF3njIDHZcjW6xCcsUzsr361Q4A0QbSnYYm_m1hYom7ahrBxsW1ayj7cH6nG3YPJAEOQyR5tQ/s1600/+Cine_classic.png",
@@ -553,8 +560,22 @@
     "disabled": false
   },
   {
+    "title": "+ Cine classic",
+    "url": "http://38.252.215.33:8000/play/a00s/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpJArYp3K_tX-8jzxgDCBCpb1KuQWChaBRcv9DWRQABYdFG02YEZ05BOK5jP6Ta9WW3ft49l62TCKrxMZpYN6fFjwKs5SR7_oqDjOPVBD_OK1Hz66kF3njIDHZcjW6xCcsUzsr361Q4A0QbSnYYm_m1hYom7ahrBxsW1ayj7cH6nG3YPJAEOQyR5tQ/s1600/+Cine_classic.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
     "title": "+ Cine family",
     "url": "http://179.63.6.12:9000/play/a06y",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqinMVNUu4gt0pjqReBqeLTRBXLNMCZjrms9WYIIEcphE6veNunF_OMpXqtEEJL3BvTsdP-GSDEbERM8rk7L3DZweGk-gkqSdkExkpjgwH0vBENfRTz-XnCn8YFUOGCj7dtUDIHPH6v3Fkpgq45wLjCGP525PFJ2VkvpF0vIB7Gwdas5qcfCc4xreY/s1600/+Cine_family.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "+ Cine family",
+    "url": "http://38.252.215.33:8000/play/a00p/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqinMVNUu4gt0pjqReBqeLTRBXLNMCZjrms9WYIIEcphE6veNunF_OMpXqtEEJL3BvTsdP-GSDEbERM8rk7L3DZweGk-gkqSdkExkpjgwH0vBENfRTz-XnCn8YFUOGCj7dtUDIHPH6v3Fkpgq45wLjCGP525PFJ2VkvpF0vIB7Gwdas5qcfCc4xreY/s1600/+Cine_family.png",
     "category": "Cine",
     "disabled": false
@@ -1189,7 +1210,21 @@
   },
   {
     "title": "FMH Movie",
+    "url": "http://45.177.21.6:9000/play/a02y",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh-QgpQjoE2jQYVcU-6SvHCcRj_VF-feqVXGBCv1WpPFk4evaDVqZzWkP34iaZ6nS3C17LiijhEZFCuRzbxRx6RfBO9b6CPhbx4HhisyxUYnze2_hboFRroDPKJr0Eejc2Zu0zahVvnpmuGlFvbmqWi0h3mWa7mWYmS6uWDE5WIsB9YYTlVnvgXMfx/s1600/fmhm.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "FMH Movie",
     "url": "http://38.210.3.64:8090/play/a0gl",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh-QgpQjoE2jQYVcU-6SvHCcRj_VF-feqVXGBCv1WpPFk4evaDVqZzWkP34iaZ6nS3C17LiijhEZFCuRzbxRx6RfBO9b6CPhbx4HhisyxUYnze2_hboFRroDPKJr0Eejc2Zu0zahVvnpmuGlFvbmqWi0h3mWa7mWYmS6uWDE5WIsB9YYTlVnvgXMfx/s1600/fmhm.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "FMH Movie",
+    "url": "http://38.252.215.33:8000/play/a01k/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh-QgpQjoE2jQYVcU-6SvHCcRj_VF-feqVXGBCv1WpPFk4evaDVqZzWkP34iaZ6nS3C17LiijhEZFCuRzbxRx6RfBO9b6CPhbx4HhisyxUYnze2_hboFRroDPKJr0Eejc2Zu0zahVvnpmuGlFvbmqWi0h3mWa7mWYmS6uWDE5WIsB9YYTlVnvgXMfx/s1600/fmhm.png",
     "category": "Cine",
     "disabled": false
@@ -1218,6 +1253,13 @@
   {
     "title": "Cinemax",
     "url": "http://181.209.37.74:8001/play/a08r/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwyvGVVG_LC_70KrzsQojC4dp-r7LBCgGYUNzr7Q5dD7WKoLdmJWuo-WGMXLoIFruqF4xyBaJrfyyHjl8DeIQ0S09DkW3xDuMWzZO6zCLwsqVl3-h05X6sk5p4rjoRR9bbOsHdDiP5pQdkVBxd4hqFDLItJw9SbiugAtgQXbi0K_0qhUmjzq8oCBfB/s1600/Cinemax.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "Cinemax",
+    "url": "http://201.240.104.137:8000/play/a0a0/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwyvGVVG_LC_70KrzsQojC4dp-r7LBCgGYUNzr7Q5dD7WKoLdmJWuo-WGMXLoIFruqF4xyBaJrfyyHjl8DeIQ0S09DkW3xDuMWzZO6zCLwsqVl3-h05X6sk5p4rjoRR9bbOsHdDiP5pQdkVBxd4hqFDLItJw9SbiugAtgQXbi0K_0qhUmjzq8oCBfB/s1600/Cinemax.png",
     "category": "Cine",
     "disabled": false
@@ -1315,10 +1357,17 @@
   },
   {
     "title": "Sony Channel",
-    "url": "https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8",
+    "url": "http://201.240.104.137:8000/play/a0a1/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilJyGYctHXxcUv45Q8YGNG-nsPFqU9014UcibpQKikbo1IiMsl8lj8I5jB_kQsV1MVi8fwGqVoqevSvyPzcZktboETqQma44oo06aBx35PxImT0D0p9g9yC-P3eS9BlcmYxPy8k22ktWKTOPh0Furwgit_V9ASKKHIObXaQYITMNc509dVZrrpvdm0/s1600/Sony_Channel.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
+  },
+  {
+    "title": "Sony Channel",
+    "url": "http://200.4.195.66:8000/play/a005/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilJyGYctHXxcUv45Q8YGNG-nsPFqU9014UcibpQKikbo1IiMsl8lj8I5jB_kQsV1MVi8fwGqVoqevSvyPzcZktboETqQma44oo06aBx35PxImT0D0p9g9yC-P3eS9BlcmYxPy8k22ktWKTOPh0Furwgit_V9ASKKHIObXaQYITMNc509dVZrrpvdm0/s1600/Sony_Channel.png",
+    "category": "Cine",
+    "disabled": false
   },
   {
     "title": "Sony Cine",
@@ -1357,10 +1406,10 @@
   },
   {
     "title": "Cine Premium",
-    "url": "http://38.199.4.160:93/play/a02l",
+    "url": "http://45.171.64.30:8800/play/a058",
     "thumbnailUrl": "https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "MultiCinema",
@@ -1630,10 +1679,10 @@
   },
   {
     "title": "TNT ",
-    "url": "http://38.44.109.41:8003/play/a01v/index.m3u8",
+    "url": "http://205.235.6.29:8000/play/a0r4/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPywg-WJgPwv2in1DPtqKabsOmGUgTtvu7PyG4RwbHJ-53WuV_RMP2EZ5d7_csR5D9P7DDi6N6oouIYYjEMJ6cVnKaNlYHxm9TV_rNoG1icaSAv10damhsdB_sqfST3tJFjjV8DG2T1qnPL-q3XvrhRGePDPPM-fpe2QSW-NpBReImzhaIK53RDfSM/s1600/TNT.png",
     "category": "Series",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "TNT Series",
@@ -1749,7 +1798,21 @@
   },
   {
     "title": "FMH Kids",
+    "url": "http://38.252.215.33:8000/play/a01q/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH9HspkSuj3MnH4QBzzBsTM_t7A_xMALIhKw23rKe72LCG58boy_7WqD3z1tBCyb0DecpEwiUTtR1xfJomGSZZn9PS-LAc9MzhImdoTyfGXruRBmHouxveipWWjZ63MIxFUNzEJnbUb6I9EikgqLqXfZ39KczItCmDR6i_hWSdQNVx_tJO10Rii0pq/s1600/fmhkids.png",
+    "category": "Animación",
+    "disabled": false
+  },
+  {
+    "title": "FMH Kids",
     "url": "http://38.210.3.64:8090/play/a0gk",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH9HspkSuj3MnH4QBzzBsTM_t7A_xMALIhKw23rKe72LCG58boy_7WqD3z1tBCyb0DecpEwiUTtR1xfJomGSZZn9PS-LAc9MzhImdoTyfGXruRBmHouxveipWWjZ63MIxFUNzEJnbUb6I9EikgqLqXfZ39KczItCmDR6i_hWSdQNVx_tJO10Rii0pq/s1600/fmhkids.png",
+    "category": "Animación",
+    "disabled": false
+  },
+  {
+    "title": "FMH Kids",
+    "url": "http://45.177.21.6:9000/play/a030",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH9HspkSuj3MnH4QBzzBsTM_t7A_xMALIhKw23rKe72LCG58boy_7WqD3z1tBCyb0DecpEwiUTtR1xfJomGSZZn9PS-LAc9MzhImdoTyfGXruRBmHouxveipWWjZ63MIxFUNzEJnbUb6I9EikgqLqXfZ39KczItCmDR6i_hWSdQNVx_tJO10Rii0pq/s1600/fmhkids.png",
     "category": "Animación",
     "disabled": false
@@ -1853,6 +1916,13 @@
     "disabled": false
   },
   {
+    "title": "Disney Channel",
+    "url": "http://45.171.64.30:8800/play/a06l",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/fic5689/images/d/d6/Disney_Channel_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20210707082839",
+    "category": "Animación",
+    "disabled": false
+  },
+  {
     "title": "Disney Jr",
     "url": "http://skynetplus.live:80/RobertMartinez/b4bf3fb98956cc56/414716.ts",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP-KicQWTZzfll66LsnRPXWPmecmCu1vfUXeVnM2QSmy4HcF-eQfdOlqlIXFNKgoqCdvYiA3w6GWjtI5UQw2RJVNCnsblhv3ivBS82KAM4d2iRRQK1VgUCwbzum2HIQBTNaQlTi1WaGj15cc093V8JNgz5u-cZF4Lk2Erk-3GFaMP7cMOT8kZ9V7hv/s1600/Disney-Junior-Emblem.png",
@@ -1862,6 +1932,13 @@
   {
     "title": "Discovery Kids",
     "url": "http://skynetplus.live:80/RobertMartinez/b4bf3fb98956cc56/11925.ts",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/fic5689/images/b/b3/DKids_2024_3D.png/revision/latest/scale-to-width-down/1000?cb=20240510183715",
+    "category": "Animación",
+    "disabled": false
+  },
+  {
+    "title": "Discovery Kids",
+    "url": "http://45.171.64.30:8800/play/a00r",
     "thumbnailUrl": "https://static.wikia.nocookie.net/fic5689/images/b/b3/DKids_2024_3D.png/revision/latest/scale-to-width-down/1000?cb=20240510183715",
     "category": "Animación",
     "disabled": false
@@ -1918,6 +1995,13 @@
   {
     "title": "FMH family",
     "url": "http://38.210.3.64:8090/play/a0gj",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy3E3oKczYSjn9Zm90zfXQwP6rgDj5TbhqBQkXqp-_8Da4JjoWuKWI32sCP9cbWJj81C-9P0bplFR8UvCBFZOltiByLc1MIEDlbAU31zjhknW4xgz6xvGtmlKU4miMSZtmFTGCEZKWWDMt_grbzPyQ2d6JLWlJd54KIMiCLZ89S2QSN-ElNlRzoYas/s1600/fmh.png",
+    "category": "Animación",
+    "disabled": false
+  },
+  {
+    "title": "FMH family",
+    "url": "http://45.177.21.6:9000/play/a02z",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy3E3oKczYSjn9Zm90zfXQwP6rgDj5TbhqBQkXqp-_8Da4JjoWuKWI32sCP9cbWJj81C-9P0bplFR8UvCBFZOltiByLc1MIEDlbAU31zjhknW4xgz6xvGtmlKU4miMSZtmFTGCEZKWWDMt_grbzPyQ2d6JLWlJd54KIMiCLZ89S2QSN-ElNlRzoYas/s1600/fmh.png",
     "category": "Animación",
     "disabled": false
@@ -2114,6 +2198,13 @@
   {
     "title": "MAX Anime",
     "url": "https://streamlov.alsolnet.com/maxanime/live/.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE9pezvg1J5hT8agguBA5kUFWQxz0SG1T8ASoAHss79P5anz9_Ppwp1pxHGjt-vV8qdxKlGJwXNUrZIen1TiwL0lucN-2LktkfKadlI3umb4qP8-mO6_nSrn6cgs93avTyNaIc7Ou8M5DeGWGwRzhdlOridZFr_bzqw6dpmzeMabs-I55zPk2Fk4mL/s1600/max-anime.png",
+    "category": "Animación",
+    "disabled": false
+  },
+  {
+    "title": "MAX Anime",
+    "url": "http://38.252.215.33:8000/play/a08l/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE9pezvg1J5hT8agguBA5kUFWQxz0SG1T8ASoAHss79P5anz9_Ppwp1pxHGjt-vV8qdxKlGJwXNUrZIen1TiwL0lucN-2LktkfKadlI3umb4qP8-mO6_nSrn6cgs93avTyNaIc7Ou8M5DeGWGwRzhdlOridZFr_bzqw6dpmzeMabs-I55zPk2Fk4mL/s1600/max-anime.png",
     "category": "Animación",
     "disabled": false
@@ -2518,7 +2609,14 @@
   {
     "title": "A&E",
     "url": "http://skynetplus.live:80/RobertMartinez/b4bf3fb98956cc56/46085.ts",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSxLFfxl2SgNq7akADMoyVrF3xLB_eKa3c3x3-GX_KJo4PHPNkYsN8Wtg2d9ctOOI-mckIVmbqjYjvSOVefLCScstuvPAlKsskcDHK03-XCSN8ho5Htj7HLb9x4mGP5JtJQe3gJygkUqA/s1600/2008_AETV_Logo.png",
+    "thumbnailUrl": "https://comcastadvertising.com/wp-content/uploads/2021/10/AnE-White-Small-1.png",
+    "category": "Entretenimiento",
+    "disabled": false
+  },
+  {
+    "title": "A&E",
+    "url": "http://45.171.64.30:8800/play/a04r",
+    "thumbnailUrl": "https://comcastadvertising.com/wp-content/uploads/2021/10/AnE-White-Small-1.png",
     "category": "Entretenimiento",
     "disabled": false
   },
@@ -2797,10 +2895,10 @@
   },
   {
     "title": "Food Network",
-    "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9651",
+    "url": "http://205.235.6.29:8000/play/a0px/index.m3u8",
     "thumbnailUrl": "https://logos-world.net/wp-content/uploads/2023/05/Food-Network-Logo-2003.png",
     "category": "Entretenimiento",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Foodieboy",
@@ -3594,7 +3692,14 @@
     "disabled": false
   },
   {
-    "title": "Vix Premiun LaLiga ",
+    "title": "Sky Sports LaLiga ",
+    "url": "http://45.171.64.30:8800/play/a07h",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwprkIshq4lJPZefJiCtzeb9qXsHAr5NugHKVfv_e61IMsQx9zSto4N0TJem4amgkqCYHEUEFi3Y-LR9izyMPdtGaxuFz8ocGEUR635c1sHOq93n9ezm2J8f70lSuzlJ7Pav7XLnCT4GMmLrjp8bRkhwylI2zKcu_qPczvhmBzTaflAiNroU9AnvY8/s1600/sky-sports.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "Vix Premium LaLiga ",
     "url": "http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9601",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-LkqMeGzmjWp57-jvcpH5G8tRGgM9PtUYJ7-vix7-kiET7uUBkiDNOuocq8trW9i9GampVCBGK0LgdVRteV0gNcXg4Ip4j3Q7nIzYY39tTKpfBKqHZuCMDHa05-jdHnw2pYh1JVApDpKx-FU4EHJUiVKaM5KkUuFbXiOc9A1CPfQIRKKe10e5bMJr/s1600/ViX%20Premium.png",
     "category": "Deportes",
@@ -3678,8 +3783,22 @@
     "disabled": false
   },
   {
+    "title": "Eurosport 1",
+    "url": "http://31.133.46.225:8000/play/a06z",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcgeMmDDVrpdYxDSw50en-z7cbEYCC2gHpdOY2JABMdkOkhtF94bzERZNbCjT49QDzdzMZbRVbHQAdxfI5nGeWRWzUAY09GAlykxKom_wh-Veh5GjsKHjcb2w1MlCQOORacwrqf1RW7My4mFjsw1XuYv0IIkT0LGCt1CIt6V5gMFg0y7cducnr7c1A/s1600/undefined%20-%20Imgur%20%281%29.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
     "title": "Eurosport 2",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge3/smil:59_HD.smil/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBeTjQLRSK98GwMYecst2lzQufnoN80946xZ38OO68jg2BYSigXkrmOWL6w8HhRqnTY6XzKGYFs5kG9cEznnU3YSTdMd6mYfN9om-8Kq1tx2dbw3MtL8Rkt8NQYIMCRXfVP_3GKr3F3cPiMlwq3esHtD1dR4OKLqwhGH3c6mWdgTa5TO6LqekkF2AJ/s1600/undefined%20-%20Imgur.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "Eurosport 2",
+    "url": "http://31.133.46.225:8000/play/a071",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBeTjQLRSK98GwMYecst2lzQufnoN80946xZ38OO68jg2BYSigXkrmOWL6w8HhRqnTY6XzKGYFs5kG9cEznnU3YSTdMd6mYfN9om-8Kq1tx2dbw3MtL8Rkt8NQYIMCRXfVP_3GKr3F3cPiMlwq3esHtD1dR4OKLqwhGH3c6mWdgTa5TO6LqekkF2AJ/s1600/undefined%20-%20Imgur.png",
     "category": "Deportes",
     "disabled": false
@@ -4176,10 +4295,10 @@
   },
   {
     "title": "Venus",
-    "url": "http://190.119.195.114:8060/play/a0kd/index.m3u8",
+    "url": "http://45.171.64.30:8800/play/a02h",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzNQmIUGHUcSWjYEpPZHFD7WjQOoUVunZY1sERjT6fZSG4YGh4hWq4tUvBtMIdIHkUlZsWge60LQeon6xI-y-o2m6A8ugNV3q7r445q4mqL6R0205IwK4K7xjVYzoosLg8DorlY_wCJ-KkUjALGN6p5bRicMVKKZNATBAf0HqebW3ges6BphyyoaN-/s1600/venustv.png",
     "category": "Adulto+18",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Venus",
