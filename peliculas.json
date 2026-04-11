@@ -1320,6 +1320,12 @@
     "category": "pelicula"
   },
   {
+    "title": "Las crónicas de Blancanieves: El cazador y la reina del hielo",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/507720.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/kz5pn8vOvvyUaEGbThMkfYN3kcX.jpg",
+    "category": "pelicula"
+  },
+  {
     "title": "El reino del planeta de los simios",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/579681.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
@@ -2382,12 +2388,6 @@
     "category": "pelicula"
   },
   {
-    "title": "La vieja guardia 2",
-    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/693884.mkv",
-    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg",
-    "category": "pelicula"
-  },
-  {
     "title": "Red One",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/620590.mkv",
     "thumbnailUrl": "https://image.tmdb.org/t/p/original/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
@@ -2823,12 +2823,6 @@
     "title": "Looper",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/507728.mkv",
     "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/t6ogdhdjP9KDCLJR9i4HG3bplQL.jpg",
-    "category": "pelicula"
-  },
-  {
-    "title": "Las crónicas de Blancanieves: El cazador y la reina del hielo",
-    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/507720.mkv",
-    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/kz5pn8vOvvyUaEGbThMkfYN3kcX.jpg",
     "category": "pelicula"
   },
   {
@@ -3584,7 +3578,7 @@
   {
     "title": "La vieja guardia 2",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/693884.mkv",
-    "thumbnailUrl": "https://decine21.com/img/upload/obras/la-vieja-guardia-2-50583/la-vieja-guardia-2-50583-c.jpg",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg",
     "category": "pelicula"
   },
   {
@@ -3621,6 +3615,12 @@
     "title": "Plan en familia 2",
     "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/726866.mkv",
     "thumbnailUrl": "https://cineparadisfrutar.com/wp-content/uploads/2025/11/plan-en-familia-2.jpg",
+    "category": "pelicula"
+  },
+  {
+    "title": "El curioso caso de Benjamin Button",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/503299.mkv",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/doblaje/images/b/b1/El-Curioso-Caso-de-Benjamin-Button-Lat.-2008.png/revision/latest?cb=20220224152424&path-prefix=es",
     "category": "pelicula"
   },
   {
@@ -6635,63 +6635,57 @@
     "category": "pelicula"
   },
   {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
+    "title": "Pactar con el diablo",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/510795.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/rOXciqRgEXqRvvYS6Dk2im3NF7H.jpg",
     "category": "pelicula"
   },
   {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
+    "title": "Click",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/500581.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/l06jMu0V4cp1DuQdI9ptSJjV01q.jpg",
     "category": "pelicula"
   },
   {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
+    "title": "El becario",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/503027.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/bpaq572AFnI4JtufuVqcRZrlDdz.jpg",
     "category": "pelicula"
   },
   {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
+    "title": "Plan en Las Vegas",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/510285.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/19NrCtVSb6aWKyC4VesOeA0Giqg.jpg",
     "category": "pelicula"
   },
   {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
+    "title": "La milla verde",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/509066.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/aBQiJRxGRrX0mXFMjxyzWYFtEnf.jpg",
     "category": "pelicula"
   },
   {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
+    "title": "Cadena perpetua",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/500366.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/uRRTV7p6l2ivtODWJVVAMRrwTn2.jpg",
     "category": "pelicula"
   },
   {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
+    "title": "The Monuments Men",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/507904.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/8DOnFBFJHuWoR74PuXPX0KSHit6.jpg",
     "category": "pelicula"
   },
   {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
+    "title": "Mi primer beso",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/509710.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/eVRw197B6UOR27oPeHQSQQShTsL.jpg",
     "category": "pelicula"
   },
   {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
-    "category": "pelicula"
-  },
-  {
-    "title": "titulo",
-    "url": "enlace",
-    "thumbnailUrl": "imagen",
+    "title": "Siete deseos",
+    "url": "http://skynetplus.live:80/movie/RobertMartinez/b4bf3fb98956cc56/511498.mkv",
+    "thumbnailUrl": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/AeLxpqOb0fgRI82o3tox2dbaJw1.jpg",
     "category": "pelicula"
   },
   {
@@ -7748,12 +7742,6 @@
     "title": "El Banquero",
     "url": "https://dl.dropbox.com/s/ty3xtrk1h23dobl/El.Banquero.2020.mp4",
     "thumbnailUrl": "https://i.ibb.co/VCRQMKg/EL-BANQUERO.jpg",
-    "category": "pelicula"
-  },
-  {
-    "title": "El curioso caso de Benjamin Button",
-    "url": "https://archive.org/download/aloctpsj/Lunes/benb.mp4",
-    "thumbnailUrl": "https://i.ibb.co/HX3Dr4F/El-curioso-caso-de-Benjamin-Button.jpg",
     "category": "pelicula"
   },
   {
