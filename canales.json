@@ -50,7 +50,7 @@
   },
   {
     "title": "A3 Cine",
-    "url": "http://tv.diablotv.net:8080/jorge0917/quuzzXBMKy/9618",
+    "url": "http://170.244.209.30:8000/play/a13x/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt-8aqH15SFhbmeUewRY_FE-8G1LBy-kbE7iY_nP3CrL0ziPaigTjhB_u2zoXW_G0r2lFA34BVlscWPVfyRqjfvgpWnM-SjJsgy4MeHNn4xKGDg9BJuqIekd4YSnm0GaU5oJVyraW44iRbqXiNjt_OCFWwLXulnn8T1k1XquwfhRT53n9t7cNqlJXb/s1600/a3cine.png",
     "category": "Cine",
     "disabled": false
@@ -1350,10 +1350,10 @@
   },
   {
     "title": "Clover Channel",
-    "url": "http://181.188.216.5:18000/play/a0eu/index.m3u8",
+    "url": "http://181.78.82.6:46090/play/a09l/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCAjnzXPjntnj2bgEw7Q9WCjGsghZVxSN8lFzpK2Cz5OAGxSoOry5EybTqbtdTmli3G4VSe_5mKXyazRFuXVASXoVlyHGn0cfzQFSf3Qv4uACMxLGZgxmiy32vYgTmz_ikG42ML1zAhR4Yi4iHS7_FjwiBAFlh1lsWvMkL51Eeu6lcSa4sYAhGNvh9/s1600/Clover_Channel.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Sony Channel",
