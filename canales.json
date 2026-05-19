@@ -3126,10 +3126,10 @@
   },
   {
     "title": "El País",
-    "url": "https://d2uerfl96fh0y6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-98b4w85lugvp4/fast-channel-el-pais/fast-channel-el-pais.m3u8",
+    "url": "https://daiconnect.com/live/hls/tvup/lg-elpais/.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKsV9rDakXG6AkS6_Zz4LYWrENp1Ob62-puUcc3KBfJh1l3xQg8dJy194HFxtO40ebmPsH95I6YSMgi0waqyBb4I9M_8B4VciLwwUcJMTyhhRJISwQH7tPPfcbcrFC7czHLod3hN9BkmuHVxD8YgpFf0cFUvPN8gBeQVxxZaZSugc_AOjBPIyXHOjJ/s1600/el-pais-logo-vector.png",
     "category": "Noticias",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "France 24 Español",
