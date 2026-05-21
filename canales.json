@@ -70,6 +70,13 @@
     "disabled": false
   },
   {
+    "title": "A3 Cine",
+    "url": "http://45.239.31.254:8000/play/a00a/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt-8aqH15SFhbmeUewRY_FE-8G1LBy-kbE7iY_nP3CrL0ziPaigTjhB_u2zoXW_G0r2lFA34BVlscWPVfyRqjfvgpWnM-SjJsgy4MeHNn4xKGDg9BJuqIekd4YSnm0GaU5oJVyraW44iRbqXiNjt_OCFWwLXulnn8T1k1XquwfhRT53n9t7cNqlJXb/s1600/a3cine.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
     "title": "DKiss",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX/smil:25_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDuKUYbdQRlES_vzXPd8ngtgq8_gbGuLs11JT1uqKrbxc8Ha9wG2FyNU8hJ9kp8zbvPJNsF-N9cHZdOVjrkB4MHNonMbPCVqsB4Yqo11e_5Rz5hwXU2qdXPaYK-2rdD8GrfZTZ366rFYuCNNSDR8Hvb3x6iW6UnjcSz0gj8CTJ-Gip-67_GRc1RCGb/s1600/DKISS.png",
@@ -2986,10 +2993,10 @@
   },
   {
     "title": "Quadro",
-    "url": "http://tmptv.sunduk.tv/CH3111/index.m3u8",
+    "url": "http://185.78.112.47:8077/Quadro4K/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeHI_H3Hnhx0PXutrWEA7jvNO5lLYZYNhFefCXyjhuvxqo1SCedf-BkJKCb6ZauVkqC0Rdkk8LK-BptRGz-B1uC8rRYOTrbULgGAX_lSp32NgAge13xQ2OaEx99JlunnwQnrs2G2f0ZLm-ff3HHPUK6VIxQKfnWfRkHnFKOeEHUAAQ_n1ANH2c6e64/s1600/Quadro.png",
     "category": "Entretenimiento",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Vaughan TV",
