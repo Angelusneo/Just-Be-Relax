@@ -50,13 +50,6 @@
   },
   {
     "title": "A3 Cine",
-    "url": "http://170.244.209.30:8000/play/a13x/index.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt-8aqH15SFhbmeUewRY_FE-8G1LBy-kbE7iY_nP3CrL0ziPaigTjhB_u2zoXW_G0r2lFA34BVlscWPVfyRqjfvgpWnM-SjJsgy4MeHNn4xKGDg9BJuqIekd4YSnm0GaU5oJVyraW44iRbqXiNjt_OCFWwLXulnn8T1k1XquwfhRT53n9t7cNqlJXb/s1600/a3cine.png",
-    "category": "Cine",
-    "disabled": false
-  },
-  {
-    "title": "A3 Cine",
     "url": "http://45.167.1.136:8000/play/a00c",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt-8aqH15SFhbmeUewRY_FE-8G1LBy-kbE7iY_nP3CrL0ziPaigTjhB_u2zoXW_G0r2lFA34BVlscWPVfyRqjfvgpWnM-SjJsgy4MeHNn4xKGDg9BJuqIekd4YSnm0GaU5oJVyraW44iRbqXiNjt_OCFWwLXulnn8T1k1XquwfhRT53n9t7cNqlJXb/s1600/a3cine.png",
     "category": "Cine",
@@ -65,13 +58,6 @@
   {
     "title": "A3 Cine",
     "url": "http://45.171.64.30:8800/play/a00z",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt-8aqH15SFhbmeUewRY_FE-8G1LBy-kbE7iY_nP3CrL0ziPaigTjhB_u2zoXW_G0r2lFA34BVlscWPVfyRqjfvgpWnM-SjJsgy4MeHNn4xKGDg9BJuqIekd4YSnm0GaU5oJVyraW44iRbqXiNjt_OCFWwLXulnn8T1k1XquwfhRT53n9t7cNqlJXb/s1600/a3cine.png",
-    "category": "Cine",
-    "disabled": false
-  },
-  {
-    "title": "A3 Cine",
-    "url": "http://45.239.31.254:8000/play/a00a/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt-8aqH15SFhbmeUewRY_FE-8G1LBy-kbE7iY_nP3CrL0ziPaigTjhB_u2zoXW_G0r2lFA34BVlscWPVfyRqjfvgpWnM-SjJsgy4MeHNn4xKGDg9BJuqIekd4YSnm0GaU5oJVyraW44iRbqXiNjt_OCFWwLXulnn8T1k1XquwfhRT53n9t7cNqlJXb/s1600/a3cine.png",
     "category": "Cine",
     "disabled": false
@@ -86,6 +72,13 @@
   {
     "title": "Dmax",
     "url": "http://skynetplus.live:80/RobertMartinez/b4bf3fb98956cc56/414758.ts",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ4kOf3lcvBuEZVVc-_U7aQDUOviTxTWS2VzJH_EblXTxjcD3ATzhO33TWb_WyC2tiIgQv2ekCKkSJb-K_nq5CBv2qZgn6YtdKUAyAPGKiculth-IQVE6vbIsApWetNooXRw7bBZvtwf2k1EQZmEb7y3igYy66g9LBYDpOp19uCTu9XhnqPRjzOvYS/s1600/DMAX.png",
+    "category": "Entretenimiento",
+    "disabled": false
+  },
+  {
+    "title": "Dmax",
+    "url": "http://kb87.eshofrcep.top:8080/ES0197174846413365/7a3akrexwwwc/85",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ4kOf3lcvBuEZVVc-_U7aQDUOviTxTWS2VzJH_EblXTxjcD3ATzhO33TWb_WyC2tiIgQv2ekCKkSJb-K_nq5CBv2qZgn6YtdKUAyAPGKiculth-IQVE6vbIsApWetNooXRw7bBZvtwf2k1EQZmEb7y3igYy66g9LBYDpOp19uCTu9XhnqPRjzOvYS/s1600/DMAX.png",
     "category": "Entretenimiento",
     "disabled": false
@@ -116,14 +109,14 @@
     "url": "https://jmp2.uk/plu-6335a6b6e6f7a600076e589e.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Empeños a lo bestia",
     "url": "https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/60218baa464ef900073168c1/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Divinity",
@@ -207,7 +200,7 @@
     "url": "https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Udkq48y3_B4WHq9j_Hy9YIJfpUfGh6R5uUMzczJO3Zau4ej4RI__BymqzO6EeQMTBF_sU30gxDDaIC_e0H75xx3vywVjlPNfeies7RVcPT0aTuD9TwbRBTNswFlYgCNheh6CqFswN_EUMQlsYTU-vlih3maSKVs1zoaXaHFMD4yH2QJDucAtEgAo/s1600/Paramount.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Paramount Network",
@@ -266,11 +259,11 @@
     "disabled": false
   },
   {
-    "title": "http://92.176.119.180:2095/play/a1f1",
-    "url": "http://tmptv.sunduk.tv/CH17825/index.m3u8",
+    "title": "SKYSHOWTIME 1",
+    "url": "http://kb87.eshofrcep.top:8080/ES0197174846413365/7a3akrexwwwc/26",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrivLanNc5DJO02sQGFFYA0sWZ4lUJI1he8oZqtWXb38PL38lE8rDcKRveu9rUgm7-ZLRCRsGy8o35NdRjuaJZiYxq4OpIpOCH4KQLahHaoIJ6ll0ojagUMveKhiuGE-LPEY_QEV5QD1I6ay2pO5Im0zbUuoRJkNvdPKD0MVoyQLWN1KGxSDjZ_3em/s1600/skyshowtime_1.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Squirrel",
@@ -634,7 +627,7 @@
     "url": "https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/60c343007bcabe0007242aa6/colorLogoPNG.png",
     "category": "Series",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Rookie Blue",
@@ -837,70 +830,70 @@
     "url": "https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Cine Acción",
     "url": "https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Cine Comedia",
     "url": "https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Thrillers",
     "url": "https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Cine Drama",
     "url": "https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Comedias Romanticas",
     "url": "https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoPNG.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Cine Romántico",
     "url": "https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Sensacine",
     "url": "https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/colorLogoPNG.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Cine de autor",
     "url": "https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Cine Clásico",
     "url": "https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "H2O & Friends",
@@ -935,7 +928,7 @@
     "url": "https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDhrM-f4mIr06oHo1XoPkux7lmtAt1H4dTJzd8a2MrqXWWQGKvzpm7D6kBYlIsQeS9ipfskrWTXbi1rsl9oNg4Vzj5oAK_7E7dTlv8zcQLEHVk8VKlk8YZ5kUeok-sxyIvxKsxsaniIsnRDeB1bfSGCVVgXmv4dSg42nwd6MDL-LC9iv87HXRlrjPm/s1600/Sci-Fi_29.png",
     "category": "Series",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Andromeda",
@@ -963,14 +956,14 @@
     "url": "https://jmp2.uk/plu-657868a7a620e30008fdbfeb.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/colorLogoPNG.png",
     "category": "Series",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Medium",
     "url": "https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png",
     "category": "Series",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Star Trek",
@@ -984,21 +977,21 @@
     "url": "https://jmp2.uk/plu-65786b94cbd0d60008f7e4d9.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/65786b94cbd0d60008f7e4d9/colorLogoPNG.png",
     "category": "Series",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Star Trek: Voyager",
     "url": "https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
     "category": "Series",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Series",
     "url": "https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png",
     "category": "Series",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Mutante X",
@@ -1012,8 +1005,7 @@
     "url": "https://jmp2.uk/plu-664c76520120f40008b81db9.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/664c76520120f40008b81db9/colorLogoPNG.png",
     "category": "Series",
-    "disabled": true
-  },
+    "disabled": true  },
   {
     "title": "12 Monos",
     "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993070",
@@ -1026,20 +1018,20 @@
     "url": "https://jmp2.uk/plu-664c76d68ea5560008c6c7a4.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/664c76d68ea5560008c6c7a4/colorLogoPNG.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Los Misterios de Murdoch",
     "url": "https://jmp2.uk/plu-6682bd9b8768aa0008f25be5.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/6682bd9b8768aa0008f25be5/colorLogoPNG.png",
     "category": "Series",
-    "disabled": false },
+    "disabled": true },
   {
     "title": "Asesinatos de Midsomer",
     "url": "https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png",
     "category": "Series",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Merlí",
@@ -1060,7 +1052,7 @@
     "url": "https://jmp2.uk/plu-5f28009b150b2500077766b8.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png",
     "category": "Series",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Platos Sucios",
@@ -1109,55 +1101,55 @@
     "url": "https://jmp2.uk/plu-6304f530440dc90007f514d3.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/6304f530440dc90007f514d3/colorLogoPNG.png",
     "category": "Series",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Alice Nevers",
     "url": "https://jmp2.uk/plu-66d71f8ee5de930008016f83.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/66d71f8ee5de930008016f83/colorLogoPNG.png",
     "category": "Series",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Teen",
     "url": "https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG.png",
     "category": "Series",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Melrose Place",
     "url": "https://jmp2.uk/plu-6245c03922d9d4000760d205.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/6245c03922d9d4000760d205/colorLogoPNG.png",
     "category": "Series",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "El Detective Endeavour",
     "url": "https://jmp2.uk/plu-619b9f16b8fee4000832d447.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/619b9f16b8fee4000832d447/colorLogoPNG.png",
     "category": "Series",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "iCarly",
     "url": "https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png",
     "category": "Series",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Series Comedia",
     "url": "https://jmp2.uk/plu-5f9853138d19af0007104a8d.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/5f9853138d19af0007104a8d/colorLogoPNG.png",
     "category": "Series",
-    "disabled": false },
+    "disabled": true },
   {
     "title": "Catástrofes",
     "url": "https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "El Club de la Comedia",
@@ -1661,7 +1653,7 @@
     "url": "https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png",
     "category": "Series",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Kanal D Drama",
@@ -1766,21 +1758,21 @@
     "url": "https://jmp2.uk/plu-685a996c7c4f2ad40cb4f276.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/685a996c7c4f2ad40cb4f276/colorLogoPNG.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Dragon Ball Z",
     "url": "https://jmp2.uk/plu-2F69bd2cc70b6c04b3e635ba29.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/2F69bd2cc70b6c04b3e635ba29/colorLogoPNG.png",
     "category": "Series",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Dragon Ball Z",
     "url": "https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/68e8fd7c3ede4398bc69af93/colorLogoPNG.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Bebes Llorones",
@@ -1913,7 +1905,7 @@
     "url": "https://jmp2.uk/plu-68779a09c691b3f0964127c6.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/68779a09c691b3f0964127c6/colorLogoPNG.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Rakuten En Familia",
@@ -2053,7 +2045,7 @@
     "url": "https://jmp2.uk/plu-683457e5f59cc6a13212fce4.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/683457e5f59cc6a13212fce4/colorLogoPNG.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Yu-Gi-Oh!",
@@ -2123,7 +2115,7 @@
     "url": "https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "DUCK Tv",
@@ -2151,14 +2143,14 @@
     "url": "https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Kids",
     "url": "https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "El Reino Infantil",
@@ -2172,56 +2164,56 @@
     "url": "https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Toons Clásico",
     "url": "https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Rugrats",
     "url": "https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Avatar",
     "url": "https://jmp2.uk/plu-61373c865ed5810007173fbc.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/61373c865ed5810007173fbc/colorLogoPNG.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Las Tortugas Ninja",
     "url": "https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Winx Club",
     "url": "https://jmp2.uk/plu-62568a94ed1f380007b0211f.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/62568a94ed1f380007b0211f/colorLogoPNG.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "South Park",
     "url": "https://jmp2.uk/plu-628751bb7154a40007168843.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "South Park Versión Original",
     "url": "https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "El mungo de los Gnomos",
@@ -2234,28 +2226,28 @@
     "url": "https://jmp2.uk/plu-629a066860ef810008267b70.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Inazuma Eleven",
     "url": "https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/632c6df43d2bc5000751f621/colorLogoPNG.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Érase una vez...",
     "url": "https://jmp2.uk/plu-63c69c87808b740007599fe1.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/63c69c87808b740007599fe1/colorLogoPNG.png",
     "category": "Animación",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Willy Fog",
     "url": "https://jmp2.uk/plu-68751b556dce17bae3b6b98f.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/68751b556dce17bae3b6b98f/solidLogoPNG.png",
     "category": "Animación",
-    "disabled": false },
+    "disabled": true },
   {
     "title": "Rtve Docs",
     "url": "https://amg02282-rtve-amg02282c2-samsung-es-5839.playouts.now.amagi.tv/playlist/amg02282-rtve-playdocs-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
@@ -2324,7 +2316,7 @@
     "url": "https://jmp2.uk/plu-5f1acba0d1f6340007db8843.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "XPLORA",
@@ -2366,7 +2358,7 @@
     "url": "https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "El Mueble",
@@ -2380,126 +2372,126 @@
     "url": "https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "La fiebre del Jade",
     "url": "https://jmp2.uk/plu-65254e8d81f9420008342cee.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/65254e8d81f9420008342cee/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Invasión Alien",
     "url": "https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "MTV Vergüenza ajena",
     "url": "https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "MTV Jerseys",
     "url": "https://jmp2.uk/plu-62ac3d7dc23b400008ae5b5a.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "MTV Geordies",
     "url": "https://jmp2.uk/plu-627d3176d7dfa500077042f1.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/627d3176d7dfa500077042f1/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "MTV Realities",
     "url": "https://jmp2.uk/plu-6130d8dc943001000708548d.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "MTV Originals",
     "url": "https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "MTV Catfish TV Show",
     "url": "https://jmp2.uk/plu-5f1ab3c7778230000735cf41.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Comedia made in Spain",
     "url": "https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Ciudadanos por el mundo",
     "url": "https://jmp2.uk/plu-622f42b831233300078658cc.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/622f42b831233300078658cc/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Reality",
     "url": "https://jmp2.uk/plu-61b87bc867b03a0007864e0d.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/61b87bc867b03a0007864e0d/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Ice Pilots",
     "url": "https://jmp2.uk/plu-61b9edc4a4ca6100070bb407.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/61b9edc4a4ca6100070bb407/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "En el punto de mira",
     "url": "https://jmp2.uk/plu-61922be835f3910007fc58f6.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "El encantador de perros",
     "url": "https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Mi Extraña Obsesión",
     "url": "https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Cazador de Homicidas",
     "url": "https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Wipeout",
     "url": "https://jmp2.uk/plu-604f8125c6669b00077f7699.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/604f8125c6669b00077f7699/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "A&E",
@@ -2527,7 +2519,7 @@
     "url": "https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Curiosity Animales",
@@ -2709,7 +2701,7 @@
     "url": "https://jmp2.uk/plu-5f1acbed25948a0007ffbe65.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Craft",
@@ -2751,7 +2743,7 @@
     "url": "https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "A Bocados",
@@ -2954,7 +2946,7 @@
     "url": "https://jmp2.uk/plu-6080381ab7c9ea00074ec64c.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png",
     "category": "Entretenimiento",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "FailArmy",
@@ -3633,7 +3625,7 @@
     "url": "https://jmp2.uk/plu-67164414e40c4a00087f450d.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/67164414e40c4a00087f450d/colorLogoPNG.png",
     "category": "Deportes",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Real Madrid",
