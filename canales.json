@@ -933,7 +933,7 @@
   {
     "title": "Andromeda",
     "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-656236cc5dbccec83a87b647.m3u8",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/RoddenberrysAndromeda.svg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/RoddenberrysAndromeda.svg/1280px-RoddenberrysAndromeda.svg.png",
     "category": "Series",
     "disabled": false
   },
@@ -1810,20 +1810,6 @@
     "disabled": false
   },
   {
-    "title": "Dreamworks",
-    "url": "http://skynetplus.live:80/RobertMartinez/b4bf3fb98956cc56/327824.ts",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghGUS66ykmh3mzQMe5wwkf9f5nro-00nHn8iRaVcSoeVQFRvyUqAlzvrK3dsb7nH-wlAXMEzuewd4Ijjhac-OmcniNEb9kgyCahQ9P2k_yMtZ13KhgwA3kXocHZIrSrTbNxfqHSFvgIQtYQUOs2R2iujq0a7sk7dS0xbP2IJ0fFMKsCTBNRmDsJQTS/s1600/DreamWorks.png",
-    "category": "Animación",
-    "disabled": false
-  },
-  {
-    "title": "Dreamworks",
-    "url": "http://skynetplus.live:80/RobertMartinez/b4bf3fb98956cc56/206517.ts",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghGUS66ykmh3mzQMe5wwkf9f5nro-00nHn8iRaVcSoeVQFRvyUqAlzvrK3dsb7nH-wlAXMEzuewd4Ijjhac-OmcniNEb9kgyCahQ9P2k_yMtZ13KhgwA3kXocHZIrSrTbNxfqHSFvgIQtYQUOs2R2iujq0a7sk7dS0xbP2IJ0fFMKsCTBNRmDsJQTS/s1600/DreamWorks.png",
-    "category": "Animación",
-    "disabled": false
-  },
-  {
     "title": "Disney Channel",
     "url": "http://45.167.1.136:8000/play/a047",
     "thumbnailUrl": "https://static.wikia.nocookie.net/fic5689/images/d/d6/Disney_Channel_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20210707082839",
@@ -2328,7 +2314,7 @@
   {
     "title": "XPLORA",
     "url": "https://dapdwco2fkcoa.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=88887736&ads.xumo_streamId=88887736&ads.csid=vidaa_es_xplorar_ssai",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Xplora.svg",
+    "thumbnailUrl": "https://www.cmsdistribution.com/hs-fs/hubfs/Xplora_logotype_Red_CMYK.png",
     "category": "Entretenimiento",
     "disabled": false
   },
@@ -3988,13 +3974,6 @@
     "title": "JUICE Tv",
     "url": "https://juicex.nz/hls/mystream.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6QCYV2rB43-KL199vINryO7HXpVZSZXMZ5TLVkZdk_64l3DHC6XN_38_4A66oXYy7pEcaEj1mSIUDPDMNA2KrNBprvcCgtSu0EVxkip3wcufhl1KFQG00hQhXr5K28tMK_KhQIMlbv_OtmhTOULvjx4jtb-yXu4diekJVDbI1tWincbNQ7PgOXa1t/s1600/logo.png",
-    "category": "Música",
-    "disabled": false
-  },
-  {
-    "title": "Ditty Tv",
-    "url": "https://8bd570129b3841d4aa2921e75a4e7a54.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DittyTV/playlist.m3u8",
-    "thumbnailUrl": "https://dittytv.com/wp-content/uploads/2019/01/DittyTV.Logo_.png",
     "category": "Música",
     "disabled": false
   },
