@@ -624,7 +624,7 @@
   },
   {
     "title": "Planeta de Cine",
-    "url": "https://daiconnect.com/live/hls/tvup/tvfy-planetadecine/index.m3u8",
+    "url": "https://planetadecine-tivify.ssai.tcscdn.net/playlist_0.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7ofCB1NNk51zutL6NtP5ihuKIZesvUB9G65kWeXy0W7zSlyWjHL73SC2K8n_QrLceATX6qOyYie2uc5S4pHfYYHv7jPvEJd96FeZfADnj5qkdmujZHZchXXWb_CHZlr93bdwvUsr2_4QKpJ_4mP7r4BtP1UXyg3nLymKhcENE0p_uY-ewDj4-NRNC/s1600/Planeta%20de%20Cine.png",
     "category": "Cine",
     "disabled": false
@@ -721,10 +721,10 @@
     "disabled": false
   },
   {
-    "title": "BBC Series",
-    "url": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspain-rakutenes/playlist.m3u8",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivzf1wUWOE4-wo1XwOd3LCVjOEIea0nMZKNFlQ8qIn_SdUgg3-yKHBSOC5W1ZXyAfPDC6Xr30xzuGB_vhBvGuyLhy03tCxtLfz4EZt7NxDvhAu00TgY5pFrwX0505Jza2SY9rcPiKHfSKzBDbUP55cfAC-C398aXjRMQp5Ric0DxRc5H0g7LgPvk7f/s1600/bbc.png",
-    "category": "Series",
+    "title": "8 HD",
+    "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge4/smil:234_premium.smil/manifest.mpd",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpQFWa-CZJrmuoRa17Q8eyDAmy2cUHQeCRX3xIiJNGHvKWhbBU6rtxzBMf3aGy9x3uylcpCvoH2CkZVVNWh-iFMybOzdNDgBzhKUKp4W21E1cJMn8gF-Z6jtMw6IyTXLlCzu9gAYNHPTzbFHhh-PFzowPtj1bwem6WYSeH3wyZ8ls29vmx3JE7Ry9y/s1600/8.png",
+    "category": "Cine",
     "disabled": false
   },
   {
@@ -924,6 +924,13 @@
     "disabled": true
   },
   {
+    "title": "BBC Series",
+    "url": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspain-rakutenes/playlist.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivzf1wUWOE4-wo1XwOd3LCVjOEIea0nMZKNFlQ8qIn_SdUgg3-yKHBSOC5W1ZXyAfPDC6Xr30xzuGB_vhBvGuyLhy03tCxtLfz4EZt7NxDvhAu00TgY5pFrwX0505Jza2SY9rcPiKHfSKzBDbUP55cfAC-C398aXjRMQp5Ric0DxRc5H0g7LgPvk7f/s1600/bbc.png",
+    "category": "Series",
+    "disabled": false
+  },
+  {
     "title": "H2O & Friends",
     "url": "https://d27xg0avq952v3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4pykiyxveyw1e/H2O_Friends_ES.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh05bTXKnywdjCRXj0f61ml76rWvgEycmPwpchp3zn3hIhVGOqdt3hL7EhsEaits0OG3dpZlQ66Cohv0MPGb36P4OQMPOMjN6q9TvfFmpP2IqT_scO1XBVJCUNDv2WVjh3PBm8MBhVB8QJ1en2dTdZ6mkxIOFLbIZF5qJLwvr1DXYGU3JsULYOvgHDO/s1600/H20.png",
@@ -932,7 +939,7 @@
   },
   {
     "title": "Z Nation",
-    "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-67d4afc7f6df733141442cb4.m3u8",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-67d4afc7f6df733141442cb4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7akehp3bSwYPdM1b53sf",
     "thumbnailUrl": "https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png",
     "category": "Series",
     "disabled": false
@@ -946,7 +953,7 @@
   },
   {
     "title": "FilmRise Sci-Fi",
-    "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872.m3u8",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7akehp3bSwYPdM1b53sf",
     "thumbnailUrl": "https://provider-static.plex.tv/epg/cms/production/9cde6a13-0277-4e8a-9a31-4b7ff6669788/Plex_FilmRise_SciFi_Color_Logo.png",
     "category": "Series",
     "disabled": false
@@ -960,7 +967,7 @@
   },
   {
     "title": "Andromeda",
-    "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-656236cc5dbccec83a87b647.m3u8",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-656236cc5dbccec83a87b647.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7akehp3bSwYPdM1b53sf",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/RoddenberrysAndromeda.svg/1280px-RoddenberrysAndromeda.svg.png",
     "category": "Series",
     "disabled": false
@@ -1023,7 +1030,7 @@
   },
   {
     "title": "Mutante X",
-    "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-656237c55dbccec83a87b649.m3u8",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-656237c55dbccec83a87b649.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7akehp3bSwYPdM1b53sf",
     "thumbnailUrl": "https://sicosepia.wordpress.com/wp-content/uploads/2019/10/mutant-x-e1570728806453.png",
     "category": "Series",
     "disabled": false
@@ -1033,7 +1040,8 @@
     "url": "https://jmp2.uk/plu-664c76520120f40008b81db9.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/664c76520120f40008b81db9/colorLogoPNG.png",
     "category": "Series",
-    "disabled": true  },
+    "disabled": true  
+  },
   {
     "title": "12 Monos",
     "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993070",
@@ -1063,14 +1071,14 @@
   },
   {
     "title": "Merlí",
-    "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-68645a8619cc2e163e38d161.m3u8",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-68645a8619cc2e163e38d161.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7akehp3bSwYPdM1b53sf",
     "thumbnailUrl": "https://provider-static.plex.tv/epg/cms/production/8e4cba66-9b4a-49e6-becf-bcfad804dcb9/MERLI_channel_logo_whiteRDX.png",
     "category": "Series",
     "disabled": false
   },
   {
     "title": "Todo Drama",
-    "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-685f25c1a7111a932d28f1ac.m3u8",
+    "url": " https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-685f25c1a7111a932d28f1ac.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7akehp3bSwYPdM1b53sf",
     "thumbnailUrl": "https://provider-static.plex.tv/epg/cms/production/c999a045-74ef-4a8d-991f-26b2867d00ef/TodoDrama_WHITERDX.png",
     "category": "Series",
     "disabled": false
@@ -1084,7 +1092,7 @@
   },
   {
     "title": "Platos Sucios",
-    "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-68645c1f1a2f321847ec0391.m3u8",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-68645c1f1a2f321847ec0391.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7akehp3bSwYPdM1b53sf",
     "thumbnailUrl": "https://provider-static.plex.tv/epg/cms/production/295bd4d4-c84e-4cb7-a0fe-e96f66ba2c40/PLATOS_SUCIOS_channel_logo_colorRDX.png",
     "category": "Series",
     "disabled": false
@@ -1279,7 +1287,7 @@
   },
   {
     "title": "Todo Pasión",
-    "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-68864d2d062dc5a487f806e0.m3u8",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-68864d2d062dc5a487f806e0.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7akehp3bSwYPdM1b53sf",
     "thumbnailUrl": "https://provider-static.plex.tv/epg/cms/production/a0a3a170-5591-4904-8191-4766a2b203a6/LOGO_BLANC_-_JC_DERSOIRRDX.png",
     "category": "Series",
     "disabled": false
@@ -2077,7 +2085,7 @@
   },
   {
     "title": " BeyBlade",
-    "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-66fd331e216b603e031725f6.m3u8",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-66fd331e216b603e031725f6.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7akehp3bSwYPdM1b53sf",
     "thumbnailUrl": "https://provider-static.plex.tv/epg/cms/production/154865e3-15a5-4f2f-874c-cfd1affee212/Plex_Beyblade_Color_Logo.png",
     "category": "Animación",
     "disabled": false
@@ -2579,7 +2587,7 @@
   },
   {
     "title": "Naturaleza",
-    "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-666e2178d91d13cb4c8cbb75.m3u8",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-666e2178d91d13cb4c8cbb75.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7akehp3bSwYPdM1b53sf",
     "thumbnailUrl": "https://provider-static.plex.tv/epg/cms/production/b8f2b67e-a131-4b50-9864-dc0b13c3c6ed/channel_logo_1500x1000_light.png.png",
     "category": "Documentales",
     "disabled": false
@@ -2677,7 +2685,7 @@
   },
   {
     "title": "Mi Casa",
-    "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-666e1d14d91d13cb4c8cbb73.m3u8",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-666e1d14d91d13cb4c8cbb73.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7akehp3bSwYPdM1b53sf",
     "thumbnailUrl": "https://provider-static.plex.tv/epg/cms/production/024f4cb9-2765-4ec5-b222-dc3388106f16/channel_logo_1500x1000_light.png.png",
     "category": "Entretenimiento",
     "disabled": false
@@ -2740,7 +2748,7 @@
   },
   {
     "title": "viaje Y Sabores",
-    "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-68251044ae4546e02a6ba4f7.m3u8",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-68251044ae4546e02a6ba4f7.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7akehp3bSwYPdM1b53sf",
     "thumbnailUrl": "https://provider-static.plex.tv/epg/cms/production/03e84b82-8da3-432d-9dfe-fb32927f106e/Logo_Viajes_Sabores_1500x1000_DarkBackground_-_Belen_Bruno.png",
     "category": "Entretenimiento",
     "disabled": false
@@ -2824,7 +2832,7 @@
   },
   {
     "title": "Buen Viaje",
-    "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-666e1624d91d13cb4c8cbb67.m3u8",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-666e1624d91d13cb4c8cbb67.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7akehp3bSwYPdM1b53sf",
     "thumbnailUrl": "https://provider-static.plex.tv/epg/cms/production/820fe677-05d1-49d1-ae4d-e109423ba2d9/channel_logo_1500x1000_lightRDX.png",
     "category": "Entretenimiento",
     "disabled": false
@@ -2859,7 +2867,7 @@
   },
   {
     "title": "Cirque du Soleil",
-    "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-67642f277c5e3b38af72dcdb.m3u8",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-67642f277c5e3b38af72dcdb.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7akehp3bSwYPdM1b53sf",
     "thumbnailUrl": "https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",
     "category": "Entretenimiento",
     "disabled": false
@@ -2873,7 +2881,7 @@
   },
   {
     "title": "Crimen & Historia",
-    "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-67200026769d5ec4bf51d63e.m3u8",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-67200026769d5ec4bf51d63e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7akehp3bSwYPdM1b53sf",
     "thumbnailUrl": "https://provider-static.plex.tv/epg/cms/production/0902ab10-e394-4ff0-9c94-506bc528e901/Logo_Crimen_Historia_1500x1000_DarkBackground_-_Belen_Bruno.png",
     "category": "Entretenimiento",
     "disabled": false
@@ -2887,14 +2895,14 @@
   },
   {
     "title": "Archivos forenses",
-    "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-656fbd05cb7e8e6a9bc3f372.m3u8",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-656fbd05cb7e8e6a9bc3f372.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7akehp3bSwYPdM1b53sf",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk7KV_tYURuCEPVTeMo6rbACAy3E4yz928FwPLgxlBYmRwz6Zi9sD781r0NcMUZVE7bUDiazvNeUNl6M7rCR41eQ7o_-yJ2JxmdGigq6qSc4uR7jQAZBLCv2iKS7CD3D4oGj22WR2zAxBmtlyUtPZ2BwYehUZD6RXx_Z-t-x5cuEfgkXr5zXg65nj7/s1600/ArchivosForenses.png",
     "category": "Documentales",
     "disabled": false
   },
   {
     "title": "Crimen",
-    "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-666e23e4d91d13cb4c8cbb79.m3u8",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-666e23e4d91d13cb4c8cbb79.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7akehp3bSwYPdM1b53sf",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7q6lJVXn6WLrlNn1JArnLn6osmrvwk7vlPWG4jmgQjbFdX5fBP5AJbyUvTdh9Efg6Rxmj177y8frCypYeT4J5uoa2bQeTpXcB9wPxBUdAaywZl8VccVgkxlUWLEP74qjegQiuNHWYM_AKelIqC7lLohM8FMm21MwnE60PEBBh9fcfXnhkEa4LlAxT/s1600/crimen.png",
     "category": "Entretenimiento",
     "disabled": false
@@ -2929,7 +2937,7 @@
   },
   {
     "title": "Sin Filtros",
-    "url": "https://daiconnect.com/live/hls/tvup/tivify-sinfiltros/.m3u8",
+    "url": "https://sinfiltros-tivify.ssai.tcscdn.net/playlist_0.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlbYG2vUlyN7gGbxCYRNsmiN8mKHPj_pMN9kDg4ewzMiEBewBanUcfAR147awVkQaQXeQoyOFizqEpMTy8qilibQNjxlIUs9Wz3Tvn1Tvv1u5MmVzV1FUxpOqEOJpQmEyKLRxVTNW5Vfrtjsdm9qMhloyawxNgsxQ0AJxFtI1RgN3pF1Isi-9PBTTx/s1600/sin-filtrors.png",
     "category": "Entretenimiento",
     "disabled": false
@@ -2978,7 +2986,7 @@
   },
   {
     "title": "Xataka",
-    "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-66e3b5c1797aba6bb732c5c9.m3u8",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-66e3b5c1797aba6bb732c5c9.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7akehp3bSwYPdM1b53sf",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj0phA0COvHKqEeoPvsjuu9WIS2ZGgdboB82SEdB4qiyJI7AZuSllOiRiSAQjMZ2bZ0eYvJF4SUJkVLiOugvhyJ_O-w9N1NQs3UcZCHig_zttjh4aRKjCTiy6L-o3ugqQzA7ZUFvIuUh66ftgs6VpjJlNlQeZbPXNj3wzz1tMuXn4ZO956bMRjto_r/s1600/xataka.png",
     "category": "Entretenimiento",
     "disabled": false
@@ -3020,21 +3028,21 @@
   },
   {
     "title": "Inglés Principiantes",
-    "url": "https://daiconnect.com/live/hls/tvup/tvfy-ita/.m3u8",
+    "url": "https://itaprincipiante-tivify.ssai.tcscdn.net/playlist_0.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGYOxCBmzZpo5klCl_-pA81vg6VnovCgh7_ueN_TPd0i5RIwZCveIZBu-X7E2f5m066LxzHdc4DleChiSb8J-93QbKgtLwD5G2gqTbsYNOufcVqh-M-igK3DFiZ910vCiWvwUDVxD7OSMnBRf2G7fBFLNiDlw3fneR5ScX9-RSKD-MtV6O-h4pJBGf/s1600/prin.png",
     "category": "Entretenimiento",
     "disabled": false
   },
   {
     "title": "Inglés Intermedio",
-    "url": "https://daiconnect.com/live/hls/tvup/tivify-ita-intermedio/.m3u8",
+    "url": "https://itaintermedio-tivify.ssai.tcscdn.net/playlist_0.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi76J7puw9nHiJlcpw2q3osj6403gj18St2PQXcTQvgjxVTTwuh_3qLhRC25G8UtlY8AoKRrHBo5qapsqzEFMv2KJfD4bAPQlTqUdi3s3zvEbS97SRNbnsGDE2llblXHxV1-9EZ971_xeRNnRlMXJMU07J9HNF1sDd_dJj0dtv2NKZPGs3uKkDVL4Gg/s1600/inter.png",
     "category": "Entretenimiento",
     "disabled": false
   },
   {
     "title": "Inglés Avanzado",
-    "url": "https://daiconnect.com/live/hls/tvup/tivify-ita-avanzado/.m3u8",
+    "url": "https://itaavanzado-tivify.ssai.tcscdn.net/playlist_0.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoPLQwHrj6ysQYzRITO2gBGengc_prixNjIiljgti5hl4sCD7_aUEXFBJxMk5ymMF0l8aMKr4T744LxUEYlXCMFjCPHKVKSPlQg0Zpwe35ouqC6ZohVOjFPQ5I43dc6hppEmMFysTtWDNAnKX_gSz7GjYrSb-HQbKMHk_EkKaPK0EtieZYm9pIWzpS/s1600/avan.png",
     "category": "Entretenimiento",
     "disabled": false
@@ -3111,7 +3119,7 @@
   },
   {
     "title": "Actualidad 360",
-    "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-682510ec0f741b077c360512.m3u8",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-682510ec0f741b077c360512.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7akehp3bSwYPdM1b53sf",
     "thumbnailUrl": "https://provider-static.plex.tv/epg/cms/production/c8f6acf9-137f-4d15-ae6d-5ccca8afdb6f/Logo_Actualidad360_1500x1000_DarkBackground_-_Belen_BrunWHITE_TEXTo.png",
     "category": "Noticias",
     "disabled": false
@@ -3139,7 +3147,7 @@
   },
   {
     "title": "EuroNews",
-    "url": "https://daiconnect.com/live/hls/tvup/tivify-ewn/index.m3u8",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-60089d97f682a3002c34829d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7akehp3bSwYPdM1b53sf",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1a0VE24mgRAp9hrFgNOCMTTOZRMV9jn7-3B6Ugct9iAxfhqEk9Lt79yKd_LnqtMPFPo3K566fgPpQU5-DJp4FLLWEv971zUMvG_0X40D9jrkX-K1lXgT1qkcarI8gSQk3yEDEMfxu_LtdqCGYhk0kK7nCCKbNo580Tof2gVMDwZrW-6cvPALmfahB/s1600/Euronews_no_bg.png",
     "category": "Noticias",
     "disabled": false
