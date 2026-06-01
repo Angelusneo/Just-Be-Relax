@@ -91,13 +91,6 @@
     "disabled": false
   },
   {
-    "title": "Dmax",
-    "url": "http://92.176.119.180:2095/play/a16r",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ4kOf3lcvBuEZVVc-_U7aQDUOviTxTWS2VzJH_EblXTxjcD3ATzhO33TWb_WyC2tiIgQv2ekCKkSJb-K_nq5CBv2qZgn6YtdKUAyAPGKiculth-IQVE6vbIsApWetNooXRw7bBZvtwf2k1EQZmEb7y3igYy66g9LBYDpOp19uCTu9XhnqPRjzOvYS/s1600/DMAX.png",
-    "category": "Entretenimiento",
-    "disabled": false
-  },
-  {
     "title": "AMC BREAK",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge2/smil:89_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY_tCwwy7mnwY_nuREYzTZIIusEysoBryunGNNLTU8Kc2sl4eCvBFl-2iMVfNr0_yPv3ziS1N26o5ctgq9fgBV8UdcH7KziU2rNPGl_Fv-saVZwRbYKWeOhIgCv8d-TuuJMBBbebFDK6H9i8m9S14gOvcUHM16ZYCAPQwmPTfNubLAU3aQ84LhQvT4/s1600/AMC_Break.svg.png",
@@ -308,6 +301,13 @@
     "disabled": false
   },
   {
+    "title": "Squirrel",
+    "url": "https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj81iP1gkHcyCbtrjg3XM5z9knw7vMd07qrC6iUdaVpeH3jTmb136lWyYkkrGrVILW500TSg_vquIPeXMQgMwjKi8way4ni5os2NGwS344osFw12K7r5a0a_hAdp3zPZYdroFrMUzxIbrUelmNgIA0EbKOGO3lHtmzsyMcGS8Dg-zGKDpKor8oIpVg5oF_/s1600/squirrel.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
     "title": "Squirrel dos",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX02/smil:22_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPIxIFTBRtp49_GjLggql-lSUH5P6JeD0TmHNiEcHA8nBpiVeyhuEXglroDV6-chxiaOgFoReJfPmaGvdic0fMdcdyih1W48O37Dn85DmQXZOG1DjmXIZcsdvFOdcYyLnj-o-BHuBl6PmpF2N3Jss6Jhkyr6vTQL_fyqPA6AMrqeuZys9JsYv0bwSc/s1600/Squirrel2.png",
@@ -324,6 +324,13 @@
   {
     "title": "Bom Cine",
     "url": "http://skynetplus.live:80/RobertMartinez/b4bf3fb98956cc56/327827.ts",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAmnoqE9TexgYBZCdJfGq97-5tiwsPLQUf2UhyphenhyphenR-8v5l0ckiOVcgQ99Vb2MxTNvnR13f2awtVSEvHn9VO9crKFZPluJmwdnFAOmGeVA193fqfceisJvcQKrzw7VPFRybpmP8rCbgKHRGs-xhSKi0lWCVoKIR3vAisxhh0U00bw9oY8KJs583D04zDq/s1600/BOM.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "Bom Cine",
+    "url": "https://tsw.streamingwebtv24.it:1936/inteccdn3/inteccdn3/playlist.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAmnoqE9TexgYBZCdJfGq97-5tiwsPLQUf2UhyphenhyphenR-8v5l0ckiOVcgQ99Vb2MxTNvnR13f2awtVSEvHn9VO9crKFZPluJmwdnFAOmGeVA193fqfceisJvcQKrzw7VPFRybpmP8rCbgKHRGs-xhSKi0lWCVoKIR3vAisxhh0U00bw9oY8KJs583D04zDq/s1600/BOM.png",
     "category": "Cine",
     "disabled": false
