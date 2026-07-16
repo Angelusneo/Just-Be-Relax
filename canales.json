@@ -1,7 +1,7 @@
 [
   {
     "title": "La 1",
-    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619",
+    "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX04/smil:1_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiymCzsPVT4TElhJa8yf7ws5jui-qgNr0hFa_S9GCegklxn5r_le2kbEtVgwVRgJqqhenSghTS4dFawGt-dxBoiBTsLL8fKn95vE9V4D1BCpnZg4fnvn2ToXNrw4Gi1DExj2Ar7K0ZMIs_01o9w9OE4iXFriJUdyDVrv9SBpZ2FImnvQeWjK0UKpl1q/s1600/Logo_TVE-1.png",
     "category": "Nacional",
     "disabled": false
@@ -200,14 +200,7 @@
     "url": "http://92.176.119.180:2095/play/a1f1",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiurVr-tSt-oHbre472lKGem5fMTZGMAZwuXDFlkeg0nRSGb-Zp8yztaMpH-cRiCG-mXYd3903BeY0K0GP8vRIyATa-54CKPjSTSRWHr6UzalwMKbXdfNRK5AdzLW66o_OuBQ0jeURy-oqMGUyO_cbkmyEr9DPW0jcKMrxt24fQIotzJLtoMkUkSfnZ/s1600/Veo7.png",
     "category": "Cine",
-    "disabled": false
-  },
-  {
-    "title": "Veo 7",
-    "url": "http://skynetplus.live:80/RobertMartinez/b4bf3fb98956cc56/585044.ts",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiurVr-tSt-oHbre472lKGem5fMTZGMAZwuXDFlkeg0nRSGb-Zp8yztaMpH-cRiCG-mXYd3903BeY0K0GP8vRIyATa-54CKPjSTSRWHr6UzalwMKbXdfNRK5AdzLW66o_OuBQ0jeURy-oqMGUyO_cbkmyEr9DPW0jcKMrxt24fQIotzJLtoMkUkSfnZ/s1600/Veo7.png",
-    "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "AXN",
@@ -259,13 +252,6 @@
     "disabled": true
   },
   {
-    "title": "SKYSHOWTIME 1",
-    "url": "http://kb87.eshofrcep.top:8080/ES0197174846413365/7a3akrexwwwc/26",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrivLanNc5DJO02sQGFFYA0sWZ4lUJI1he8oZqtWXb38PL38lE8rDcKRveu9rUgm7-ZLRCRsGy8o35NdRjuaJZiYxq4OpIpOCH4KQLahHaoIJ6ll0ojagUMveKhiuGE-LPEY_QEV5QD1I6ay2pO5Im0zbUuoRJkNvdPKD0MVoyQLWN1KGxSDjZ_3em/s1600/skyshowtime_1.png",
-    "category": "Cine",
-    "disabled": false
-  },
-  {
     "title": "Squirrel",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX04/smil:21_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj81iP1gkHcyCbtrjg3XM5z9knw7vMd07qrC6iUdaVpeH3jTmb136lWyYkkrGrVILW500TSg_vquIPeXMQgMwjKi8way4ni5os2NGwS344osFw12K7r5a0a_hAdp3zPZYdroFrMUzxIbrUelmNgIA0EbKOGO3lHtmzsyMcGS8Dg-zGKDpKor8oIpVg5oF_/s1600/squirrel.png",
@@ -277,7 +263,7 @@
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX02/smil:22_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPIxIFTBRtp49_GjLggql-lSUH5P6JeD0TmHNiEcHA8nBpiVeyhuEXglroDV6-chxiaOgFoReJfPmaGvdic0fMdcdyih1W48O37Dn85DmQXZOG1DjmXIZcsdvFOdcYyLnj-o-BHuBl6PmpF2N3Jss6Jhkyr6vTQL_fyqPA6AMrqeuZys9JsYv0bwSc/s1600/Squirrel2.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Bom Cine",
@@ -437,6 +423,13 @@
     "title": "M+ Vacaciones",
     "url": "http://tmptv.sunduk.tv/CH16845/index.m3u8",
     "thumbnailUrl": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/11/1_0_1_749D_41C_1_C00000_0_0_0.png?resize=440%2C264&ssl=1",
+    "category": "Cine",
+    "disabled": true
+  },
+  {
+    "title": "Moviesphere",
+    "url": "https://amg00353-amg00353c71-lg-es-10828.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00353-lionsgatetvfast-moviespherespain-lges/playlist.m3u8",
+    "thumbnailUrl": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Ff2313e05-03e3-44df-802c-415368e9356a%2FMovieSphere_Plex_LogoDisplay_OnDark.png",
     "category": "Cine",
     "disabled": true
   },
