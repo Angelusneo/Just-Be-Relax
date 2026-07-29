@@ -200,7 +200,7 @@
     "url": "http://79.112.79.166:8069/udp/239.10.20.54:1234",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiurVr-tSt-oHbre472lKGem5fMTZGMAZwuXDFlkeg0nRSGb-Zp8yztaMpH-cRiCG-mXYd3903BeY0K0GP8vRIyATa-54CKPjSTSRWHr6UzalwMKbXdfNRK5AdzLW66o_OuBQ0jeURy-oqMGUyO_cbkmyEr9DPW0jcKMrxt24fQIotzJLtoMkUkSfnZ/s1600/Veo7.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "AXN",
@@ -263,7 +263,7 @@
     "url": "http://79.112.79.166:8069/udp/239.10.20.52:1234",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPIxIFTBRtp49_GjLggql-lSUH5P6JeD0TmHNiEcHA8nBpiVeyhuEXglroDV6-chxiaOgFoReJfPmaGvdic0fMdcdyih1W48O37Dn85DmQXZOG1DjmXIZcsdvFOdcYyLnj-o-BHuBl6PmpF2N3Jss6Jhkyr6vTQL_fyqPA6AMrqeuZys9JsYv0bwSc/s1600/Squirrel2.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Bom Cine",
@@ -305,7 +305,7 @@
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdgeVX/smil:86_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1K_3WLl6dS-LtHiomttO8lM5vjPnNKLDjz-R2B42v2ZzaTuW9browwnv_bpr5KTJrHPbLqItFYUEeSh1pEZrRMPpS-PpZ9beIt2TJx_Eyz1cRVHpHy5gJ_g019OgoAlIdyDhPTjS90rz1TTpDNM0T2BsgKxyDSCXEnXy_jQCjKwx_uk4UcbBfQsSy/s1600/XTRM.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "TCM",
