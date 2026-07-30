@@ -204,10 +204,10 @@
   },
   {
     "title": "AXN",
-    "url": "http://skynetplus.live:80/RobertMartinez/b4bf3fb98956cc56/327809.ts",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCGP1b83u6MGNyax_jQpsTCS6puK7Wab9LZt4zgHcUqhzqwODFeqFUNLHLcUaCqZ-47aL2jnichibDtjv572Da2X0-4fAk_3wRzWc-LbeTAsIXVSQTY6T6ScO6EOjTlKWyTsNVcVG12V45V2zMqIWM8JRJmoh0NdhUblSa8xlX7MOKI11CzKLGh1C9/s1600/AXN.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "AXN Movies",
@@ -2440,7 +2440,7 @@
   },
   {
     "title": "A&E",
-    "url": "http://45.171.64.30:8800/play/a04r",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/3.m3u8",
     "thumbnailUrl": "https://comcastadvertising.com/wp-content/uploads/2021/10/AnE-White-Small-1.png",
     "category": "Entretenimiento",
     "disabled": false
