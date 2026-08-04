@@ -210,11 +210,18 @@
     "disabled": false
   },
   {
+    "title": "AXN",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/617.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCGP1b83u6MGNyax_jQpsTCS6puK7Wab9LZt4zgHcUqhzqwODFeqFUNLHLcUaCqZ-47aL2jnichibDtjv572Da2X0-4fAk_3wRzWc-LbeTAsIXVSQTY6T6ScO6EOjTlKWyTsNVcVG12V45V2zMqIWM8JRJmoh0NdhUblSa8xlX7MOKI11CzKLGh1C9/s1600/AXN.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
     "title": "AXN Movies",
     "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/617.m3u8",
     "thumbnailUrl": "https://jungle-team.com/wp-content/uploads/2023/05/1_0_1_7471_3F0_1_C00000_0_0_0.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "AMC",
