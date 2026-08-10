@@ -210,6 +210,13 @@
     "disabled": true
   },
   {
+    "title": "Veo 7",
+    "url": "http://sl210.org:8080/GvmpT2gxKB/VkFub5FW8t/211053",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiurVr-tSt-oHbre472lKGem5fMTZGMAZwuXDFlkeg0nRSGb-Zp8yztaMpH-cRiCG-mXYd3903BeY0K0GP8vRIyATa-54CKPjSTSRWHr6UzalwMKbXdfNRK5AdzLW66o_OuBQ0jeURy-oqMGUyO_cbkmyEr9DPW0jcKMrxt24fQIotzJLtoMkUkSfnZ/s1600/Veo7.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
     "title": "AXN",
     "url": "http://sl210.org:8080/GvmpT2gxKB/VkFub5FW8t/162338",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCGP1b83u6MGNyax_jQpsTCS6puK7Wab9LZt4zgHcUqhzqwODFeqFUNLHLcUaCqZ-47aL2jnichibDtjv572Da2X0-4fAk_3wRzWc-LbeTAsIXVSQTY6T6ScO6EOjTlKWyTsNVcVG12V45V2zMqIWM8JRJmoh0NdhUblSa8xlX7MOKI11CzKLGh1C9/s1600/AXN.png",
@@ -218,14 +225,21 @@
   },
   {
     "title": "AXN",
-    "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6.m3u8",
+    "url": "http://sl210.org:8080/GvmpT2gxKB/VkFub5FW8t/14430",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCGP1b83u6MGNyax_jQpsTCS6puK7Wab9LZt4zgHcUqhzqwODFeqFUNLHLcUaCqZ-47aL2jnichibDtjv572Da2X0-4fAk_3wRzWc-LbeTAsIXVSQTY6T6ScO6EOjTlKWyTsNVcVG12V45V2zMqIWM8JRJmoh0NdhUblSa8xlX7MOKI11CzKLGh1C9/s1600/AXN.png",
     "category": "Cine",
     "disabled": false
   },
   {
     "title": "AXN Movies",
-    "url": "http://sl210.org:8080/GvmpT2gxKB/VkFub5FW8t/14430",
+    "url": "http://sl210.org:8080/GvmpT2gxKB/VkFub5FW8t/211015",
+    "thumbnailUrl": "https://jungle-team.com/wp-content/uploads/2023/05/1_0_1_7471_3F0_1_C00000_0_0_0.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "AXN Movies",
+    "url": "http://sl210.org:8080/GvmpT2gxKB/VkFub5FW8t/518626",
     "thumbnailUrl": "https://jungle-team.com/wp-content/uploads/2023/05/1_0_1_7471_3F0_1_C00000_0_0_0.png",
     "category": "Cine",
     "disabled": false
