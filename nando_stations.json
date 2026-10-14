@@ -1,0 +1,123 @@
+[
+  
+  {
+    "nombre": "The Club",
+    "emisora": "Música trap",
+    "url": "https://relay.stream.enacast-cloud.com:30256/radioclubmovilHD.mp3",
+    "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGM-7iIevdDoKUWTj5by19iZNkcyF4ncW7UOk859YlhEZigQDnDXu5nI71_mopMEwWfnhFJtlKVeIMP6KJ3RFQa2lamFuyea1oiwkXfTmUyIjGVJdykJDqp8Zra0pVtqU6wuk7D89R1ryu6ZZ81OSu_rW3kdVZbeBy8ry7mtqFWAxShVsxyehBqH-fLLiz/s1600/theclubmallorcerr.png"
+  },
+  {
+    "nombre": "Cadena 100",
+    "emisora": "Música de Ayer y Hoy",
+    "url": "https://cadena100-cope.flumotion.com/chunks.m3u8",
+    "portada": "https://i1.sndcdn.com/artworks-Y2pr4jQyfVX7z5S8-HRtczA-t500x500.jpg"
+  },
+  {
+    "nombre": "Dial Latino",
+    "emisora": "Música Latina",
+    "url": "https://27903.live.streamtheworld.com/CADENADIAL_02AAC_SC",
+    "portada": "https://cdn-profiles.tunein.com/s309800/images/logog.png?t=1"
+  },
+  {
+    "nombre": "Europa Fm",
+    "emisora": "La Música que más gusta",
+    "url": "https://atres-live.europafm.com/live/europafm/bitrate_1.m3u8",
+    "portada": "https://static-1.ivoox.com/radios/8/8/6/4/9951673864688_LG.jpg"
+  },
+  {
+    "nombre": "Los 40 Principales",
+    "emisora": "Top Música Actual",
+    "url": "https://28503.live.streamtheworld.com/LOS40.mp3",
+    "portada": "https://static.mytuner.mobi/media/tvos_radios/3jk5k9pcxrp9.jpg"
+  },
+  {
+    "nombre": "Los 40 Classic",
+    "emisora": "Top Música vintage",
+    "url": "https://21223.live.streamtheworld.com/LOS40_CLASSIC.mp3",
+    "portada": "https://recursosweb.prisaradio.com/fotos/original/010002655249.png"
+  },
+  {
+    "nombre": "MegaStar Fm",
+    "emisora": "Solo Temazos",
+    "url": "https://megastar-cope.flumotion.com/chunks.m3u8",
+    "portada": "https://myradioonline.es/public/uploads/radio_img/megastarfm/play_250_250.jpg"
+  },
+  {
+    "nombre": "La Flamenca",
+    "emisora": "Música Flamenca",
+    "url": "https://stream.emisorasmusicales.net/listen/la_flamenca/laflamenca.mp3",
+    "portada": "https://static.mytuner.mobi/media/tvos_radios/46cgsq27ge3l.png"
+  },
+  {
+    "nombre": "Flamenco Music",
+    "emisora": "Todp Flamenco",
+    "url": "https://listen.radioking.com/radio/109486/stream/148513",
+    "portada": "https://cdn-images.dzcdn.net/images/cover/0d8578da9c9c620138a8b7227700bbe2/0x1900-000000-80-0-0.jpg"
+  },
+  {
+    "nombre": "Kiss Fm",
+    "emisora": "Música más Romántica",
+    "url": "https://kissfm.kissfmradio.cires21.com/kissfm.mp3",
+    "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQLI5AQxNcliSX_J36-2JR7omNb3uNocATPuWlez9_-2jxXGfsRqInKyq0435Ia7eEesmhJ_4bfWu-sPCPon6xhFupCNemMYsx4wg3Pz81Ic8NSsuu6kg6ytUj0uMbXFkNYyOZpbhWu4tbqDk7AQBzXMelVvh6smGhB89nDFNHm5om6_3bKf3fYV-j2G0/s1600/KISS-FM.jpg"
+  },
+  {
+    "nombre": "Cadena Ser",
+    "emisora": "Noticias y Actualidad",
+    "url": "https://23543.live.streamtheworld.com/SER_MALLORCA.mp3",
+    "portada": "https://instrategies.eu/sites/default/files/styles/colorbox_gran/public/cadena%20ser.png"
+  },
+  {
+    "nombre": "Cope Mallorca",
+    "emisora": "Noticias y deporte",
+    "url": "https://flucast08-o-cloud.flumotion.com/cope/net1.mp3",
+    "portada": "https://static.mytuner.mobi/media/tvos_radios/Psp5v2UKHA.png"
+  },
+  {
+    "nombre": "Baladas 100 Hits",
+    "emisora": "Música Romantica",
+    "url": "https://strm112.1.fm/onelive_mobile_mp3",
+    "portada": "https://i.scdn.co/image/ab67616d0000b273aa9782314b17686907c4dc8b"
+  },
+  {
+    "nombre": "Melodía Fm",
+    "emisora": "Música de Siempre",
+    "url": "https://atres-live.melodia-fm.com/live/melodiafm/bitrate_1.m3u8",
+    "portada": "https://fotografias.melodia-fm.com/clipping/cmsimages02/2021/11/10/50AEF37B-89EB-4111-A2E6-DC2B988713BD/104.jpg"
+  },
+  {
+    "nombre": "Rock Fm",
+    "emisora": "El Rock de siempre",
+    "url": "https://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3",
+    "portada": "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/2f/c2/37/2fc23753-378e-4f8f-6d73-af799a4ee58c/AppIcon-1x_U007emarketing-85-220-6.png/246x0w.jpg"
+  },
+  {
+    "nombre": "+ Buena Fm",
+    "emisora": "Música Altual",
+    "url": "https://sonic.mediatelekom.net/8156/stream",
+    "portada": "https://masbuenafm.com/wp-content/uploads/2023/02/logo.png"
+  },
+  {
+    "nombre": "Dire Straits",
+    "emisora": "Best Of Dire Straits",
+    "url": "https://streaming.exclusive.radio/er-app/direstraitshits/icecast.audio",
+    "portada": "https://static-2.ivoox.com/canales/5/3/3/2/6031593092335_XXL.jpg"
+  },
+  {
+    "nombre": "Scorpions",
+    "emisora": "Best Of Scorpions",
+    "url": "https://streaming.exclusive.radio/er-app/scorpions/icecast.audio",
+    "portada": "https://i.pinimg.com/736x/5c/3a/43/5c3a4313d1ebb38baba3a5c7873d9fa5.jpg"
+  },
+  {
+    "nombre": "Michael Jackson",
+    "emisora": "Best Of Michael",
+    "url": "https://streaming.exclusive.radio/er-app/michaeljacksonhits/icecast.audio",
+    "portada": "https://play-lh.googleusercontent.com/cjwDB-n-YRsBdFzkeXSRY4dcywvIdHHUbGMeh4oV9izfbuipOvnLJUnyo52nsFiGKQ"
+  },
+  {
+    "nombre": "AC/DC",
+    "emisora": "Best Of ACDC",
+    "url": "https://streaming.exclusive.radio/er-app/acdchits/icecast.audio",
+    "portada": "https://s-media-cache-ak0.pinimg.com/736x/bc/8e/4f/bc8e4f636f37fff924af69fab062e86c.jpg"
+  }
+]
