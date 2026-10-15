@@ -1,14 +1,14 @@
 [
   {
-    "nombre": "Baladas 100 Hits",
+    "nombre": "Baladas Hits",
     "emisora": "Música Romantica",
     "url": "https://strm112.1.fm/onelive_mobile_mp3",
-    "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwZY-jbsQRg8G83UHgpnI0anC-_qnxFlN9ki-1ToprYqQRBz1w2KlQxrhPhLG-37oMoxcX7bdvM4q60Zoe1SRuKsYA0YlWuL21uNyJZC6ny7ZZq9Z8RdfO7De8XxAtXenp5wiFosBQtDC5EfbxDpawtBSu8XC3iUHsm3cuYjf2m6FMQgwVQDaK5OFS62I/s1600/Baladas.png"
+    "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRSwiCYtmpgEPuxeAAkQYOOFd3_wve6KL279Gqopvkqo5wlvwoYkFi4WTX1roUtIZHzG4ct4oAXfNCdugRkU-GZwrivlim14aiRUUkftT-zadjpivwxZHS014trSxgi1Tf7vq-F0sj7bM4QotJ6UNAPj9EWEX3wmoWmqj-iLF5fOcGegMXXtjxKmPJYFc/s1600/ab67616d0000b273aa9782314b17686907c4dc8b.jpg"
   },
   {
     "nombre": "Cadena 100",
     "emisora": "Música de Ayer y Hoy",
-    "url": "https://eu1.lhdserver.es:9149/stream",
+    "url": "https://cadena100-cope.flumotion.com/chunks.m3u8",
     "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgGESkXXiPLmjuGkpWhlcQNzE7SbsgqjGzSLYFwBEwwn7HhGvmqZU6VzTkZ_L4yj-FDOUDLzDzqfu1hPPbK7nGWmwP1DLIwC1QlBQPMhB-QAOZBfKyqsTEk7QtmNEBYBx73k7vZhYGbqg8BhQDUIr-bi4r1Qx51-5kLkZetu2dQbpJogGEiyhVCG-iSek/s1600/100.png"
   },
   {
@@ -18,99 +18,81 @@
     "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHYxL7jVkyPJlKDvVKyVXYth8K8wHKbcrsaldolbnjmwv_DY5eotQ4tzBqmun9mg5qdqc-1HXq6UjXrR3OOiUvBJCI4F6797TjTkquZno94jU_XQVQ2Z9fi__tKbVqMGtEYI0tEwCRcdxHNGXgI8HfIDQo_y_9MxLYgeqi64Mo_lrl7Nf_FlAd2PeJ7qk/s1600/Dial.jpg"
   },
   {
-    "nombre": "Motiva ROCKS",
-    "emisora": "Pop-Rock en Español",
-    "url": "https://stream.guadigo.es/listen/motiva_rocks/motivarocks.mp3",
-    "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifi0W5rhzwNZ9lUrcwFtlvmWWYNKghh6zGKjR-QYRxYGiNK9M4mBFloQjbzhJMMeJwmNp6zMrfPvSF6pceef6azxE-oRS4g9Oa7o48xX8_qWDk0iix5Q48lnoldU-zisGUbl42ckMIb7mWdcw0XGOTTtOs-f9TBgL1UYR8Jm5Awe6LpMgYaZk4cBcpfUs/s1600/motiva.png"
-  },
-  {
     "nombre": "Dial Baladas",
     "emisora": "Baladas en Español",
     "url": "https://21223.live.streamtheworld.com/CADENADIAL_03AAC_SC",
     "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEh8f3v6_jJtjolFCKKfXLvtSAjzFzbLWUK-gOChYtUQ3hP1lUJ6S1tpF3zove1KDM_DEtNtRPS_l_WSRxD44kJHprNEmqoMbCKeE87qV0Er9pAOVNCwwBSlc4xFF1NRUHHZbUvZO3gq-f-260lbc6_xo14hZNAbaeReQ1_S4OicqCb25Pz2BMxUHilco/s1600/baladas.png"
   },
   {
-    "nombre": "Dial Latino",
-    "emisora": "Muasica Latina",
-    "url": "https://25483.live.streamtheworld.com/CADENADIAL_02AAC.aac",
-    "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhnDlmtpK2245LtiPzFkRWx9E7quk9N2QU0jKQP2XSgi9KOpAZsqrPSjfcuJNNz9yZmckHIK85r66XC8r4blj2Qi-q_bnfLw1KcMOi5Ag8226uA8um7aN9e_Nex3YKStKrBk2_l_THZikDot2IEMt7mjbwEQ3XFCm4_SZWMBBkcfq4I2c9ZEDUs_mEmVU/s1600/latino.png"
+    "nombre": "Motiva ROCKS",
+    "emisora": "Pop-Rock en Español",
+    "url": "https://stream.guadigo.es/listen/motiva_rocks/motivarocks.mp3",
+    "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifi0W5rhzwNZ9lUrcwFtlvmWWYNKghh6zGKjR-QYRxYGiNK9M4mBFloQjbzhJMMeJwmNp6zMrfPvSF6pceef6azxE-oRS4g9Oa7o48xX8_qWDk0iix5Q48lnoldU-zisGUbl42ckMIb7mWdcw0XGOTTtOs-f9TBgL1UYR8Jm5Awe6LpMgYaZk4cBcpfUs/s1600/motiva.png"
   },
   {
     "nombre": "Activa Fm",
-    "emisora": "Música de éxito",
+    "emisora": "Música de éxitos",
     "url": "https://stream.emisorasmusicales.net/listen/activa_fm/activafm.mp3",
     "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu1tabBP8d43F5aVyqI82NEIVJmn4JAS9Gddds67ZT7tYxlgaiQYe1O4kvNZuRwDvbUTpvuJeobDe2fu536y8fbGl6T0pRnAprjQCqZopyeQ79phS7AJ5FA-wY0X00GAYyuK5MTqcyT_XZLLj0dFgVixA_zSTa4ysrj7V5-9xMFRurg9ztImt2Ve8n1PE/s1600/activa.png"
   },
   {
     "nombre": "Europa Fm",
-    "emisora": "La Música que más gusta",
-    "url": "https://25593.live.streamtheworld.com/EFMAAC/HLS/playlist.m3u8",
-    "portada": "https://static-1.ivoox.com/radios/8/8/6/4/9951673864688_LG.jpg"
+    "emisora": "La Música más te gusta",
+    "url": "https://atres-live.europafm.com/live/europafm/bitrate_1.m3u8",
+    "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTCrQf-207URbtBNiQ035z1lQpFYLmavE020qx94_O4jM36VkpSSKjwK-O13_vwCFCVpeyGQT3UxdmeYV_jXw9mhVo0qniySNZa3SDAz4JLfnNEO8Klgd_MfQK8YaWpkDRR3WO1B7aTXzF09EUxagMtXOnTpcUXXLi6_42c0hls7bxIhoH4z3zj4Hwvp8/s1600/Euro.jpg"
   },
   {
     "nombre": "MegaStar Fm",
     "emisora": "Solo Temazos",
     "url": "https://megastar-cope.flumotion.com/chunks.m3u8",
-    "portada": "https://myradioonline.es/public/uploads/radio_img/megastarfm/play_250_250.jpg"
+    "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin4nMMGxQ5AqLatIxGclgpd-3vnp2-Tfx44MoYSJWh8o9WbcpEUFT5i94LV8JLjB9gWdcWt8_nVItGr7l3TBcQ_9jgdJ8fYI9RhiPdfDbVSnl56lp1EW4M4lT4QIjbhPKdKA95SledvAReJavPSCRY9-xRCs0kexKCsYyV53M6g1EcaWZe_P-Hyb1BidM/s1600/MegaS.png"
   },
   {
     "nombre": "Melodía Fm",
     "emisora": "Música de Siempre",
     "url": "https://atres-live.melodia-fm.com/live/melodiafm/bitrate_1.m3u8",
-    "portada": "https://fotografias.melodia-fm.com/clipping/cmsimages02/2021/11/10/50AEF37B-89EB-4111-A2E6-DC2B988713BD/104.jpg"
+    "portada": "https://static.mytuner.mobi/media/tvos_radios/749/melodia-fm-spain.fc1b90ac.jpg"
   },
   {
     "nombre": "Los 40 Principales",
     "emisora": "Top Música Actual",
-    "url": "https://28503.live.streamtheworld.com/LOS40.mp3",
-    "portada": "https://static.mytuner.mobi/media/tvos_radios/3jk5k9pcxrp9.jpg"
+    "url": "https://25653.live.streamtheworld.com/LOS40.mp3",
+    "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLdE8gwQnCTh3DuEyy7xyEfj61MuxdAsMxURVWpc5vTvKgEp1tEv2Ngj7pkfqoHm4B3D0tgFSsj-gAO8BSqdvRmkKp1HFaPc4EY662XSUdLg_kIMAlpMdmYnaLOWAtrNVSKQ_IFutEOAy1zfZbnf7wUVH6ZcGvvLFF2jOJm-U_YwMksvTXpFKzxRIHCsI/s1600/40.jpg"
   },
   {
     "nombre": "Los 40 Classic",
     "emisora": "Top Música vintage",
-    "url": "https://21223.live.streamtheworld.com/LOS40_CLASSIC.mp3",
+    "url": "https://25633.live.streamtheworld.com/LOS40_CLASSIC.mp3",
     "portada": "https://recursosweb.prisaradio.com/fotos/original/010002655249.png"
   },
   {
-    "nombre": "BEAM Fm",
-    "emisora": "Music from Australia",
-    "url": "https://443-1.autopo.st/54/stream.mp3",
-    "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGxAyGDNVAGnUEBcRlTwxajj2_uFan8hrMtg&s"
-  },
-  {
-    "nombre": "iHeart",
-    "emisora": "Música en Ingles y Español",
+    "nombre": "iheart",
+    "emisora": "Música En Ingle y Español",
     "url": "https://stream.revma.ihrhls.com/zc10085/hls.m3u8",
     "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipB904xXgyQdCFxWsNyjkhTUDMGazrjee5IosrSYEI9_vVKwXFMqLDs2oTb1PhgvYmZ8q4_EXz-dHyLKsXtCWWGNACMpVoT1N6TE4CenZMjPOM5dDnnll_iin6s2L5_mymwpfKg7MtLyvDsKkPRb1pk9zTkoV6_viD3mMP7ttZ8NuYSaDEyGOQ6VX850E/s1600/iHeartMIE.png"
   },
   {
-    "nombre": "Kiss Fm",
-    "emisora": "Música más Romántica",
-    "url": "https://kissfm.kissfmradio.cires21.com/kissfm.mp3",
-    "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQLI5AQxNcliSX_J36-2JR7omNb3uNocATPuWlez9_-2jxXGfsRqInKyq0435Ia7eEesmhJ_4bfWu-sPCPon6xhFupCNemMYsx4wg3Pz81Ic8NSsuu6kg6ytUj0uMbXFkNYyOZpbhWu4tbqDk7AQBzXMelVvh6smGhB89nDFNHm5om6_3bKf3fYV-j2G0/s1600/KISS-FM.jpg"
+    "nombre": "BEAM Fm",
+    "emisora": "Músic from Australia",
+    "url": "https://443-1.autopo.st/54/stream.mp3",
+    "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGxAyGDNVAGnUEBcRlTwxajj2_uFan8hrMtg&s"
   },
   {
     "nombre": "Top 40",
-    "emisora": "Music from USA",
+    "emisora": "Músic from USA",
     "url": "https://strm112.1.fm/top40_mobile_mp3?aw_0_req.gdpr=true",
-    "portada": "https://www.radio.es/300/1fmtop40.png?version=02788072aecfdfcadf3f2cb5e106a85b"
+    "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX0n3WnE2MeYpo-5jCn5JbvUPi0iRQi0IFhIKLLkHeitb6vwemds_OTlDGud5aP7vsglla7XTC-8UgppIdHu0h46B4-FUHsA9JSfWoouzKWkZQ564rj1zBowESytCwXue2pA4Li3Tqf7ALn4JiNdOF37SiAKYpqziP1_BKk3OfYYFzOZJklZW9bnh0riI/s1600/Top-40.jpg"
   },
   {
-    "nombre": "R&B Love Songs",
-    "emisora": "From the Heart to you Heart",
-    "url": "https://strm112.1.fm/spanisholdies_mobile_mp3?aw_0_req.gdpr=true",
-    "portada": "https://i.scdn.co/image/ab67616d00001e0264825ff468dd6d8d7af86edd"
-  },
-  {
-    "nombre": "Pop Love Songs",
+    "nombre": "Top 40 ballads",
     "emisora": "The best pop",
     "url": "https://strm112.1.fm/top40ballads_mobile_mp3?aw_0_req.gdpr=true",
-    "portada": "https://cont-3.p-cdn.us/images/79/b7/82/2b/68c04942b23abe00f46831fc/1080W_1080H.jpg"
+    "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw33X6vMxEDpXngL53nZFAX0s6Rch9UQaCd52BFwqqYqoW2LbOZHDee7K8UuOTpwUyQYzkn9MElVrFR_VyKNUKv6i4gri4wXoCKnnUnBHiMXFEQd1CMu91KWWF75qbHQVaJrVQaySCffVPLMHTzCJix7QBWPXkz9HhtC4qme0OtRqg3R45ge6DuK9iO9w/s1600/Top-40-ballads.jpg"
   },
   {
     "nombre": "Cadena Ser",
     "emisora": "Noticias y Actualidad",
-    "url": "https://23543.live.streamtheworld.com/SER_MALLORCA.mp3",
+    "url": "https://25633.live.streamtheworld.com/SER_MALLORCA_SC",
     "portada": "https://instrategies.eu/sites/default/files/styles/colorbox_gran/public/cadena%20ser.png"
   },
   {
@@ -138,40 +120,22 @@
     "portada": "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/11023734/goldFM.png"
   },
   {
-    "nombre": "Flaixbac",
-    "emisora": "Música de Hoy",
-    "url": "https://stream.flaixbac.cat/icecast",
-    "portada": "https://yt3.ggpht.com/ytc/AAUvwniEfAVA1SphudtZlnLVSI-bQgo5daGiQ8YCG_CEsA=s900-c-k-c0x00ffffff-no-rj"
-  },
-  {
     "nombre": "Love Classics",
     "emisora": "Amor Hecho Música",
     "url": "https://strm112.1.fm/loveclassics_mobile_mp3",
-    "portada": "https://minio.1cloud.fm:9000/1fm-images/playlist-images/HvKYRlJskDPuF3J7vM1DdIghZSzburJf6ptAaodY.png"
+    "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLlltXL5sQoRUkn52hId2yIbxSxh6avhobrjgc5HNIDJ2yFJDLI-tHWKJ1wawhGubSMEUS6WvYmtSdkq1xFzInii6CbjsFWx1qqaTelydPr-JU0lrQk3ko7-q9B7N7ZXeyNhBJCz3pAdcqDY9Qy6Zy9WgqGZe2-4ExUmwSmmLoNYLZv_P-EG_n84wS4DY/s1600/Love-Classics.png"
   },
   {
     "nombre": "Hit Fm",
-    "emisora": "Últimos Hits",
+    "emisora": "Ultimos Hits",
     "url": "https://hitfm.ice.infomaniak.ch/hitfm-192.mp3?flux=70304",
-    "portada": "https://static.wikia.nocookie.net/logopedia/images/c/c7/Hit_FM.jpg"
-  },
-  {
-    "nombre": "Hit Fm baleares",
-    "emisora": "Últimos Hits",
-    "url": "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3",
-    "portada": "https://static-2.ivoox.com/canales/9/e/e/f/9eef8cc262e21f93e5bce66bc5a95ae5_XXL.jpg"
+    "portada": "https://static-media.streema.com/media/cache/b0/be/b0be5f55bc1ade4c91a75e42e96037b4.jpg"
   },
   {
     "nombre": "SIE7E Radio",
     "emisora": "Temas no, Temazos",
     "url": "https://stream.sieteradio.com:8020/stream",
     "portada": "https://cdn-profiles.tunein.com/s145009/images/logog.jpg"
-  },
-  {
-    "nombre": "Mega Hits",
-    "emisora": "Temazos de los 70-80-90 y 2000",
-    "url": "https://losmegaexitos.radioca.st/lms",
-    "portada": "https://static.mytuner.mobi/media/tvos_radios/908/megahits-radio.5a57a0b1.jpg"
   },
   {
     "nombre": "The Best Oldies",
@@ -195,16 +159,11 @@
     "nombre": "Oldies Music",
     "emisora": "Música del Recuerdo",
     "url": "https://oldoldies.stream.laut.fm/oldoldies",
-    "portada": "https://play-lh.googleusercontent.com/u0BojyL0SwrIWKY3_BteE9qzLtvwqTDECD_TXq7btwk8AH0Ow_5cbanVTFJtpUSN1aw"
+    "portada": "https://play-lh.googleusercontent.com/fm6s1oQ3pBTR2YqErArvEQ2j-ot01VDkHnIOxmInXVI796re2_oRoLggXFcRtIEdvkWM=w240-h480-rw",
+    "metaUrl": "https://api.laut.fm/station/oldoldies/current_song"
   },
   {
-    "nombre": "Megahits",
-    "emisora": "Música Que Te Anima",
-    "url": "https://stream.zeno.fm/puwslucrkfkvv.mp3",
-    "portada": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/bp5kefdh5brd.jpg"
-  },
-  {
-    "nombre": "ADELE",
+    "nombre": "Adele",
     "emisora": "Best Of Adele",
     "url": "https://streaming.exclusive.radio/er-app/adelehits/icecast.audio",
     "portada": "https://github.com/Angelusneo/Just-Be-Relax/blob/master/adele.png?raw=true"
@@ -223,7 +182,7 @@
   },
   {
     "nombre": "Barbra Streisand",
-    "emisora": "Best Of Barbra Streisand",
+    "emisora": "Best Of Barbra Strisand",
     "url": "https://streaming.exclusive.radio/er-app/streisandhits/icecast.audio",
     "portada": "https://linkstorage.linkfire.com/medialinks/images/dd01a45e-8970-42dd-bb9b-657d02bb9438/artwork-440x440.jpg"
   },
@@ -232,12 +191,6 @@
     "emisora": "Best Of Abba",
     "url": "https://streaming.exclusive.radio/er-app/abbahits/icecast.audio",
     "portada": "https://imusic.b-cdn.net/images/item/original/060/0600753511060.jpg"
-  },
-  {
-    "nombre": "Dua Lipa",
-    "emisora": "Best Of Dua Lipa",
-    "url": "https://streaming.exclusive.radio/er-app/dualipa/icecast.audio",
-    "portada": "https://m.media-amazon.com/images/I/7144vzCiq8L._UF894,1000_QL80_.jpg"
   },
   {
     "nombre": "Dire Straits",
@@ -279,7 +232,7 @@
     "nombre": "Whitney Houston",
     "emisora": "Best Of Whitney",
     "url": "https://streaming.exclusive.radio/er-app/whitneyhoustonhits/icecast.audio",
-    "portada": "https://m.media-amazon.com/images/I/61aoQsbxqPL._UF1000,1000_QL80_.jpg"
+    "portada": "https://images-na.ssl-images-amazon.com/images/I/71xjLGKuYyL._SL1500_.jpg"
   },
   {
     "nombre": "Barry White",
