@@ -44,13 +44,13 @@
   {
     "nombre": "MegaStar Fm",
     "emisora": "Solo Temazos",
-    "url": "https://megastar-cope.flumotion.com/chunks.m3u8",
+    "url": "https://megastar-cope.flumotion.com/playlist.m3u8",
     "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin4nMMGxQ5AqLatIxGclgpd-3vnp2-Tfx44MoYSJWh8o9WbcpEUFT5i94LV8JLjB9gWdcWt8_nVItGr7l3TBcQ_9jgdJ8fYI9RhiPdfDbVSnl56lp1EW4M4lT4QIjbhPKdKA95SledvAReJavPSCRY9-xRCs0kexKCsYyV53M6g1EcaWZe_P-Hyb1BidM/s1600/MegaS.png"
   },
   {
     "nombre": "Melodía Fm",
     "emisora": "Música de Siempre",
-    "url": "https://atres-live.melodia-fm.com/live/melodiafm/bitrate_1.m3u8",
+    "url": "https://29338.live.streamtheworld.com/MELODIA_FMAAC/HLS/playlist.m3u8",
     "portada": "https://static.mytuner.mobi/media/tvos_radios/749/melodia-fm-spain.fc1b90ac.jpg"
   },
   {
