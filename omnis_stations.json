@@ -80,13 +80,13 @@
   {
     "nombre": "Top 40",
     "emisora": "Músic from USA",
-    "url": "https://strm112.1.fm/top40_mobile_mp3?aw_0_req.gdpr=true",
+    "url": "https://strm112.1.fm/top40_mobile_mp3",
     "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX0n3WnE2MeYpo-5jCn5JbvUPi0iRQi0IFhIKLLkHeitb6vwemds_OTlDGud5aP7vsglla7XTC-8UgppIdHu0h46B4-FUHsA9JSfWoouzKWkZQ564rj1zBowESytCwXue2pA4Li3Tqf7ALn4JiNdOF37SiAKYpqziP1_BKk3OfYYFzOZJklZW9bnh0riI/s1600/Top-40.jpg"
   },
   {
     "nombre": "Top 40 ballads",
     "emisora": "The best pop",
-    "url": "https://strm112.1.fm/top40ballads_mobile_mp3?aw_0_req.gdpr=true",
+    "url": "https://strm112.1.fm/top40ballads_mobile_mp3",
     "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw33X6vMxEDpXngL53nZFAX0s6Rch9UQaCd52BFwqqYqoW2LbOZHDee7K8UuOTpwUyQYzkn9MElVrFR_VyKNUKv6i4gri4wXoCKnnUnBHiMXFEQd1CMu91KWWF75qbHQVaJrVQaySCffVPLMHTzCJix7QBWPXkz9HhtC4qme0OtRqg3R45ge6DuK9iO9w/s1600/Top-40-ballads.jpg"
   },
   {
@@ -104,7 +104,7 @@
   {
     "nombre": "Sunshine Music",
     "emisora": "Best 60s, 70s and 80s",
-    "url": "https://strm112.1.fm/allmixedup_mobile_mp3?aw_0_req.gdpr=true",
+    "url": "https://strm112.1.fm/allmixedup_mobile_mp3",
     "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDmeVawR6A4mvaPLorFrrRjKrNkVdFUCa7_g&s"
   },
   {
@@ -128,7 +128,7 @@
   {
     "nombre": "Hit Fm",
     "emisora": "Ultimos Hits",
-    "url": "https://hitfm.ice.infomaniak.ch/hitfm-192.mp3?flux=70304",
+    "url": "https://hitfm.ice.infomaniak.ch/hitfm-192.mp3",
     "portada": "https://static-media.streema.com/media/cache/b0/be/b0be5f55bc1ade4c91a75e42e96037b4.jpg"
   },
   {
