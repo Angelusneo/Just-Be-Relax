@@ -2101,6 +2101,13 @@
   },
   {
     "title": "Clan",
+    "url": "https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAjXISFXxZi5Ohcu0IlihcBXunkYP4H-i1ZsbcOm8hQDhv21bymuw9dc50Paj4SJ0pirsgzkyGxG70g9k7ePb3W2p6m3ITrbSPtxj5v7g0pGA02LCDLwFZUhAOigDFZdE2Fpbk6BbOg2AHNb6q6timQE6SRLtMqmFaW9t1lSMukk9-4MzQ8MoIw2Zb/s1600/Clan_2026.svg.png",
+    "category": "Animación",
+    "disabled": false
+  },
+  {
+    "title": "Clan",
     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15620",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAjXISFXxZi5Ohcu0IlihcBXunkYP4H-i1ZsbcOm8hQDhv21bymuw9dc50Paj4SJ0pirsgzkyGxG70g9k7ePb3W2p6m3ITrbSPtxj5v7g0pGA02LCDLwFZUhAOigDFZdE2Fpbk6BbOg2AHNb6q6timQE6SRLtMqmFaW9t1lSMukk9-4MzQ8MoIw2Zb/s1600/Clan_2026.svg.png",
     "category": "Animación",
@@ -3877,8 +3884,22 @@
   },
   {
     "title": "Eurosport 1",
+    "url": "http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcgeMmDDVrpdYxDSw50en-z7cbEYCC2gHpdOY2JABMdkOkhtF94bzERZNbCjT49QDzdzMZbRVbHQAdxfI5nGeWRWzUAY09GAlykxKom_wh-Veh5GjsKHjcb2w1MlCQOORacwrqf1RW7My4mFjsw1XuYv0IIkT0LGCt1CIt6V5gMFg0y7cducnr7c1A/s1600/undefined%20-%20Imgur%20%281%29.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "Eurosport 1",
     "url": "http://sl210.org:8080/GvmpT2gxKB/VkFub5FW8t/14410",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcgeMmDDVrpdYxDSw50en-z7cbEYCC2gHpdOY2JABMdkOkhtF94bzERZNbCjT49QDzdzMZbRVbHQAdxfI5nGeWRWzUAY09GAlykxKom_wh-Veh5GjsKHjcb2w1MlCQOORacwrqf1RW7My4mFjsw1XuYv0IIkT0LGCt1CIt6V5gMFg0y7cducnr7c1A/s1600/undefined%20-%20Imgur%20%281%29.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "Eurosport 2",
+    "url": "http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBeTjQLRSK98GwMYecst2lzQufnoN80946xZ38OO68jg2BYSigXkrmOWL6w8HhRqnTY6XzKGYFs5kG9cEznnU3YSTdMd6mYfN9om-8Kq1tx2dbw3MtL8Rkt8NQYIMCRXfVP_3GKr3F3cPiMlwq3esHtD1dR4OKLqwhGH3c6mWdgTa5TO6LqekkF2AJ/s1600/undefined%20-%20Imgur.png",
     "category": "Deportes",
     "disabled": false
   },
