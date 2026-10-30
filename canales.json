@@ -35,6 +35,13 @@
     "disabled": false
   },
   {
+    "title": "Antena 3",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/68.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicmQGrgxRS1ChSlTgRGHcTohJmGRp9FU8JOhvYB4sK3Dc6qWAOkyfTstpTSyRqQjF4o7K8uqM8JCT0-TD8_Fr9u1ZAT1R4y_ek7JJbjxtiXHcS6d7Bq2kjAwmdsU_-sDMO_7RBYjFxr8hybB5NBOOQGp9mYek3CmU98uSbxkTP6JTng6tUBgO0YDAV/s1600/antena-3.png",
+    "category": "Nacional",
+    "disabled": false
+  },
+  {
     "title": "Cuatro",
     "url": "http://sl210.org:8080/GvmpT2gxKB/VkFub5FW8t/292569",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMdv0uLbnd1hTI_SoVq6qf3yH8w-8LodF-rsQ8SWJBYIXIR5Cm9UbpNszsTdxAonLb_tNT_5Tq1g9aTkNwlntIu8neoRfEJsY0eL9o2vlXeBZeCDoWI3FS60c9gbr1rjwTR9PKhEpVFLnYJNP3GXdm98cXgYr4yVnybnW4xDVAYQjILR-H1TGzLEp-/s1600/Cuatro.svg.png",
@@ -50,14 +57,14 @@
   },
   {
     "title": "La Sexta",
-    "url": "http://sl210.org:8080/GvmpT2gxKB/VkFub5FW8t/292570",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/620.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWlus8DvSCbyAEuDdyXv5yrifmpVAuDscDBwmbf4ojfrUoEY0HX01e8G7WuuMpjL2lwgGsqwSnCuvpxijbh6oInf_OjnAs1YK-KAYzPpA5GtUTx62yAs7CTVFKcPBhUhZGwWmX6x2ucOPK5SzkOFtaCdl3OCxm9KaHfsIvtTzk5Cu-ENwqiJIlJ4KJ/s1600/LaSexta.png",
     "category": "Nacional",
     "disabled": false
   },
   {
     "title": "A3 Series",
-    "url": "http://sl210.org:8080/GvmpT2gxKB/VkFub5FW8t/211183",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/649.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWdYi-MvzwBfeUmqAEo5K_-wZC2HqabvtAAaSx7rKxyD0FGNYzTVv3jaRlNZjPegDoAQ6HtBrEvqcSPvhnGi83EoeGFr0QvKQ4k7N6PhTS0MCGABudujdyVnqxqxnQ7CX-4KgfVL_15VDlWoVzJUq-NX_nh4K3aQKps6re6dPSuHHpvi_i6viZqQMS/s1600/A3SHD.png",
     "category": "Series",
     "disabled": false
@@ -302,6 +309,13 @@
     "disabled": false
   },
   {
+    "title": "AXN",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/6.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCGP1b83u6MGNyax_jQpsTCS6puK7Wab9LZt4zgHcUqhzqwODFeqFUNLHLcUaCqZ-47aL2jnichibDtjv572Da2X0-4fAk_3wRzWc-LbeTAsIXVSQTY6T6ScO6EOjTlKWyTsNVcVG12V45V2zMqIWM8JRJmoh0NdhUblSa8xlX7MOKI11CzKLGh1C9/s1600/AXN.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
     "title": "AXN Movies",
     "url": "http://sl210.org:8080/GvmpT2gxKB/VkFub5FW8t/211015",
     "thumbnailUrl": "https://jungle-team.com/wp-content/uploads/2023/05/1_0_1_7471_3F0_1_C00000_0_0_0.png",
@@ -312,6 +326,13 @@
     "title": "AXN Movies",
     "url": "http://sl210.org:8080/GvmpT2gxKB/VkFub5FW8t/14430",
     "thumbnailUrl": "https://jungle-team.com/wp-content/uploads/2023/05/1_0_1_7471_3F0_1_C00000_0_0_0.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "AMC",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/171.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh94-z7XEtUFi0y_m7gUiHcPW4cycZqrZrZISaPLYLmEGgjG9EWUzXYJowGUH-Yww-wlEhBfvGpMdtaCgvN465-yarWA9wfg_zCQRZSB_48wPkPQRlZYzaSNfe1N7LeTIGUscOE72tzkkdtFmtDSbL84YQFZHQbWe8MMN9C9sY5cjFJB1u0XUoL2RmG/s1600/AMC.png",
     "category": "Cine",
     "disabled": false
   },
@@ -1359,6 +1380,13 @@
   },
   {
     "title": "Cine Canal",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/10.ts",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs1raTSdQhaWoYM0COkfG1rSO0MKT2Jkk_IcOnOKTYgHWrW7LTtnR3jhjSUbK0rxzBX20Xv5mOH-OnXIIUHbI2ngYek5iK-nJFPkJ3GyFje_mNTCLjo6P6nKgQIU6e-823Z1keSuAaXHZI9xL5Qy0-bVMDAb7iBa0lSEiXMsB7AuB60vJXDRV3b4Rv/s1600/CineCanal.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "Cine Canal",
     "url": "http://45.167.1.136:8000/play/a03s",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs1raTSdQhaWoYM0COkfG1rSO0MKT2Jkk_IcOnOKTYgHWrW7LTtnR3jhjSUbK0rxzBX20Xv5mOH-OnXIIUHbI2ngYek5iK-nJFPkJ3GyFje_mNTCLjo6P6nKgQIU6e-823Z1keSuAaXHZI9xL5Qy0-bVMDAb7iBa0lSEiXMsB7AuB60vJXDRV3b4Rv/s1600/CineCanal.png",
     "category": "Cine",
@@ -1366,10 +1394,17 @@
   },
   {
     "title": "Cinemax",
-    "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/16.m3u8",
+    "url": "https://eu1.servers10.com:8081/8262/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwyvGVVG_LC_70KrzsQojC4dp-r7LBCgGYUNzr7Q5dD7WKoLdmJWuo-WGMXLoIFruqF4xyBaJrfyyHjl8DeIQ0S09DkW3xDuMWzZO6zCLwsqVl3-h05X6sk5p4rjoRR9bbOsHdDiP5pQdkVBxd4hqFDLItJw9SbiugAtgQXbi0K_0qhUmjzq8oCBfB/s1600/Cinemax.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
+  },
+  {
+    "title": "Cinemax",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/16.ts",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwyvGVVG_LC_70KrzsQojC4dp-r7LBCgGYUNzr7Q5dD7WKoLdmJWuo-WGMXLoIFruqF4xyBaJrfyyHjl8DeIQ0S09DkW3xDuMWzZO6zCLwsqVl3-h05X6sk5p4rjoRR9bbOsHdDiP5pQdkVBxd4hqFDLItJw9SbiugAtgQXbi0K_0qhUmjzq8oCBfB/s1600/Cinemax.png",
+    "category": "Cine",
+    "disabled": false
   },
   {
     "title": "Cine en Español",
@@ -1394,7 +1429,7 @@
   },
   {
     "title": "FX",
-    "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/23.m3u8",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/23.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1e0eNikmuFA_PRGSe-gN9OWUOH4TVuOvJTeFA1sAy6Q6iuI0cP3p0w6wp7BeGDyqMtfDMVuPRyHmosrUoWiLL7wHFvNlTMDRgeP6S-FflstElFqtCEVFgR2qV1nLtLqrejA73zcNUk6I2ihwppTWx7fx7BTFGCTbBhyphenhyphenGlSoChyphenhyphenHAMo0xFcI19KXHL/s1600/FX_Logo_2023.svg.png",
     "category": "Cine",
     "disabled": true
@@ -2674,10 +2709,10 @@
   },
   {
     "title": "A&E",
-    "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/3.m3u8",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/3.ts",
     "thumbnailUrl": "https://comcastadvertising.com/wp-content/uploads/2021/10/AnE-White-Small-1.png",
     "category": "Entretenimiento",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Vida silvestre",
@@ -2716,7 +2751,7 @@
   },
   {
     "title": "Caza y Pesca",
-    "url": "http://sl210.org:8080/GvmpT2gxKB/VkFub5FW8t/240122",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/367.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Xbw8jMXa1bWk-gKtatSIeleD_XDjsSfSBLUYddhyxUx0Lum-yZAEXGJRAR8BS_wa1CVUAUWel63YQ_KlqhF37AQz2VW5jnvgOK2UVK7emujGKaYbrmmoGw8N_2GZqZrX_aHKYqUvEERoUw8N3xo_I4HUaw91_oM01DVG5GdLfpQocApK2g8BU9sC/s1600/Caza-pesca.png",
     "category": "Entretenimiento",
     "disabled": false
@@ -3556,7 +3591,14 @@
   },
   {
     "title": "DAZN F1",
-    "url": "http://sl210.org:8080/GvmpT2gxKB/VkFub5FW8t/292616",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/374.m3u8",
+    "thumbnailUrl": "https://jungle-team.com/wp-content/uploads/2021/02/daznformula.png",
+    "category": "Deportes",
+    "disabled": false
+  },
+  {
+    "title": "DAZN F1",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/379.m3u8",
     "thumbnailUrl": "https://jungle-team.com/wp-content/uploads/2021/02/daznformula.png",
     "category": "Deportes",
     "disabled": false
@@ -3934,7 +3976,7 @@
   },
   {
     "title": "Eurosport 1",
-    "url": "http://sl210.org:8080/GvmpT2gxKB/VkFub5FW8t/14410",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/618.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcgeMmDDVrpdYxDSw50en-z7cbEYCC2gHpdOY2JABMdkOkhtF94bzERZNbCjT49QDzdzMZbRVbHQAdxfI5nGeWRWzUAY09GAlykxKom_wh-Veh5GjsKHjcb2w1MlCQOORacwrqf1RW7My4mFjsw1XuYv0IIkT0LGCt1CIt6V5gMFg0y7cducnr7c1A/s1600/undefined%20-%20Imgur%20%281%29.png",
     "category": "Deportes",
     "disabled": false
@@ -3948,7 +3990,7 @@
   },
   {
     "title": "Eurosport 2",
-    "url": "http://sl210.org:8080/GvmpT2gxKB/VkFub5FW8t/220935",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/618.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBeTjQLRSK98GwMYecst2lzQufnoN80946xZ38OO68jg2BYSigXkrmOWL6w8HhRqnTY6XzKGYFs5kG9cEznnU3YSTdMd6mYfN9om-8Kq1tx2dbw3MtL8Rkt8NQYIMCRXfVP_3GKr3F3cPiMlwq3esHtD1dR4OKLqwhGH3c6mWdgTa5TO6LqekkF2AJ/s1600/undefined%20-%20Imgur.png",
     "category": "Deportes",
     "disabled": false
