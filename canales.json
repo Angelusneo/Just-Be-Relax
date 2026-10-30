@@ -372,6 +372,13 @@
     "disabled": false
   },
   {
+    "title": "Warner Tv",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/66.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgemgMLla0jUP0QWfVzix2djA3mLsLSo-_yw-nreBSN1J7CfmgBNdl0kpSk7AcHtxttM1WS3isLUoqRvb5QqmVPuYdjPojjkkFxysYFGyXV2MSOpKLOznMbS572VNuVqEbvEB2RfkSqj-idO0vfoH173iWSdTYzG0dir7tP6U8Qlp0njrG93zKaoNGu/s1600/Warner.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
     "title": "SKYSHOWTIME 1",
     "url": "http://felicia.upfeb.xyz:80/play/fe1127095/8765327582/1297823.ts",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrivLanNc5DJO02sQGFFYA0sWZ4lUJI1he8oZqtWXb38PL38lE8rDcKRveu9rUgm7-ZLRCRsGy8o35NdRjuaJZiYxq4OpIpOCH4KQLahHaoIJ6ll0ojagUMveKhiuGE-LPEY_QEV5QD1I6ay2pO5Im0zbUuoRJkNvdPKD0MVoyQLWN1KGxSDjZ_3em/s1600/skyshowtime_1.png",
@@ -471,7 +478,7 @@
   },
   {
     "title": "Comedy Central",
-    "url": "http://sl210.org:8080/GvmpT2gxKB/VkFub5FW8t/14468",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/73.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKeJVeucQV72I0HYwbhplzqPkyfq9W5SsM7ndud_SNoiruZwQTqKmXvmbOphFs2CmHJF7nztcEdaYnhzaKsb6IffyfpTaZy0VrDOg7k01BEUe4y6OlpksNdDLsjZTXYgUA85cFmUOEcYK4xIlJLvv4OWInQBw11KX3pN5DIlhUmEXz782gLjrUj3Vu/s1600/comed.png",
     "category": "Entretenimiento",
     "disabled": false
@@ -1380,7 +1387,7 @@
   },
   {
     "title": "Cine Canal",
-    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/10.ts",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/10.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs1raTSdQhaWoYM0COkfG1rSO0MKT2Jkk_IcOnOKTYgHWrW7LTtnR3jhjSUbK0rxzBX20Xv5mOH-OnXIIUHbI2ngYek5iK-nJFPkJ3GyFje_mNTCLjo6P6nKgQIU6e-823Z1keSuAaXHZI9xL5Qy0-bVMDAb7iBa0lSEiXMsB7AuB60vJXDRV3b4Rv/s1600/CineCanal.png",
     "category": "Cine",
     "disabled": false
@@ -1401,7 +1408,7 @@
   },
   {
     "title": "Cinemax",
-    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/16.ts",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/16.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwyvGVVG_LC_70KrzsQojC4dp-r7LBCgGYUNzr7Q5dD7WKoLdmJWuo-WGMXLoIFruqF4xyBaJrfyyHjl8DeIQ0S09DkW3xDuMWzZO6zCLwsqVl3-h05X6sk5p4rjoRR9bbOsHdDiP5pQdkVBxd4hqFDLItJw9SbiugAtgQXbi0K_0qhUmjzq8oCBfB/s1600/Cinemax.png",
     "category": "Cine",
     "disabled": false
@@ -1467,7 +1474,7 @@
     "url": "http://felicia.upfeb.xyz:80/play/fe1127095/8765327582/1296815.ts",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmpcdALoLxc8qhQRVM_tsRWb0AE_fHuirisOewRatvnZ3ErYUBlJrqVuqi6zOlorYnyX9CUB8EeG1SB0TxNdgop7yU5jpeBHKxXkFtc5OCJHwpbs7MozOW_xhyphenhyphenK_r43LgoEejcb7Wnzi_gGpdmOMtGW07oJ4bsNea86vgJYzFwdNP3G4jAefEMlutY/s1600/AMC_Western.png",
     "category": "Cine",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Cine Western",
@@ -1501,6 +1508,13 @@
     "title": "Sony Channel",
     "url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilJyGYctHXxcUv45Q8YGNG-nsPFqU9014UcibpQKikbo1IiMsl8lj8I5jB_kQsV1MVi8fwGqVoqevSvyPzcZktboETqQma44oo06aBx35PxImT0D0p9g9yC-P3eS9BlcmYxPy8k22ktWKTOPh0Furwgit_V9ASKKHIObXaQYITMNc509dVZrrpvdm0/s1600/Sony_Channel.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "Sony Cine",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/47.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkfCvIL4N6SlUKBZvUZeP3d6kykV3KrO3lNOOQuH4DMWWtJV-IoBfQi1fe9eGSDQtXmOHuS_ERwvdCNzcK__tCT1sMKYf-9M6KMi6AZlA6CkrzeU5OSgoHc3Q_QKYPCda3Bscm9VVSCq3CYyZfeou2oSguwNUUtIHwVDTnpLjAhOrbzqQvL0L5uD_7/s1600/Sony_Cine.png",
     "category": "Cine",
     "disabled": false
   },
@@ -1541,10 +1555,10 @@
   },
   {
     "title": "MultiCinema",
-    "url": "http://skynetplus.live:80/RobertMartinez/b4bf3fb98956cc56/140365.ts",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/614.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY8Me0AnzeJjUepGUqBnzFCEHNviSwHeeu0BmYFNh7ITvtqghZ-bAE-gawmcSpA37KERt-kn2p9o1j8LIpP2Q07sYPBudmiRO2tC01aSyZjNPX2DN8RXo7R2qJkMm5Z4jLbIJhdxaLOF-p1S5HJGoUNB7bZKOfLjWOCsodTYKvW5hu0DCIKxcPnjC5/s1600/MULTICINEMA.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "MultiPremier",
@@ -1590,10 +1604,10 @@
   },
   {
     "title": "Studio Universal",
-    "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/54.m3u8",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/54.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrqGgbyUlfcbZ_yCgh7HwL9yqKHxdvs1yBqoYyK0H2Kj2l-pfQifh41Ew07QkdIdaKZURBpV0aibiUbs33pXMqp5B2GD0tPbVHqsvMsDbwBg1wklGsy4zeRBXNWKrAn6q_MggzdGC0tp9T6ZVHRKxYUvMNmdYOD-ceMYSvzL-PTzfhWwZjphalIru3/s1600/Studio%20Universal%20-%20Logo.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Universal",
@@ -1618,17 +1632,17 @@
   },
   {
     "title": "Universal Premiere",
-    "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/366.m3u8",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/372.m3u8",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Universal Crime",
-    "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/365.m3u8",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/366.m3u8",
     "thumbnailUrl": "https://iili.io/JKgZg87.md.png",
     "category": "Entretenimiento",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Universal Comedy",
@@ -1645,11 +1659,18 @@
     "disabled": false
   },
   {
+    "title": "HBO max",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/31.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-yOvB6Gxbz19lDWcLdbkFTc6uTbA1bGeBgOuQGRSqtdufSy4poJMCiUS0Ac0K5nnzvok9WZvMaQnRpn6156-mZRUYSzYnS-1oxavKRJBSlPKxEPqb6Z6jfzovzISsLlIZHFLcwkfaoQjZGXwT4zHD897TV23CFkif-nRpQvd-mT5_95FxAV9SBd07/s1600/hbo.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
     "title": "HBO 2",
-    "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/32.m3u8",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/38.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJhGv4Dp9EsNcug31jwfjkubKkR__LRP36wvl7LxG7ssSVUMaO_ETwGBSw5-UiAWoKF76VB7VoEhZHVLlS6Jc3FlohZ8lFfLDGDhK4Ht9ZyYHlgciPK7tOCyHySK89SiFiRYmVU1MrcJfrU7epEbtuUtkC0MCkD39wCBMzoHY16iOpYrZY8oQTotAD/s1600/HBO_2.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "HBO Family",
@@ -1660,17 +1681,31 @@
   },
   {
     "title": "HBO +",
-    "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/42.m3u8",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/35.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN0iVngAMPu8XZfYcOSNV9tHdyyR9ry_XecHcPch-H354Ilt2jT9IsNjm1hBW3TBYO3UVx2GHMM1c-uBCtuLYVS8NcJp0Agg8QSyPCYLf8nqbAARdx_qVHVlVyVzDffppNEoYB_kJr8EvlKh1euCsg1VK2hRupj7w1yGMcU5iL2mPbQWOuR1GoWv56/s1600/plus.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "HBO Xtreme",
-    "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/40.m3u8",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/40.m3u8",
     "thumbnailUrl": "https://i.imgur.com/Wz3WemYg.jpg",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
+  },
+  {
+    "title": "HBO Mundi",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/363.m3u8",
+    "thumbnailUrl": "https://pley.com.ve/recursos/HBO%20MUNDI.png?v=1786210553",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "HBO Signature",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/42.m3u8",
+    "thumbnailUrl": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_425_305",
+    "category": "Cine",
+    "disabled": false
   },
   {
     "title": "Golden",
@@ -1681,17 +1716,24 @@
   },
   {
     "title": "Golden Edge",
-    "url": "http://skynetplus.live:80/RobertMartinez/b4bf3fb98956cc56/46139.ts",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/29.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsBklzX7HUws5bF2JvZHkpNaBn7p29Ej4WxuQeD0e7mO8uERPLnL1x6IgG-xRS4Ot2XwtoJ94Ljmub1ZmUTa6hrfCYkAPddue6omBjYl95til7mg3llhWJgs9GGHUZfFe4TWck-wtVU8ewfgk5fxGdoIQ6LMo44HNAzFDJMyax2VSIYccO764fSs9l/s1600/Golden-edge.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Golden Premiere",
-    "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/362.m3u8",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/26.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7A6M38O9fu2M5PxLOzWYrN_MHHdTMDYfXs5cwbOJjTsGZbMBPzC44K3qimYr9fTXj0uMlZ9jIbBx6UC7o6YTB1JAhbHiXkoJPTZgeQxkbkmM_UX7CshyTNWfdeTjZDHMrxskUMYrdYaloK61ILRaDW9A0hbNJQHYf4Lobs3oVvxIBGNG7mJYlNAZ-/s1600/Golden_Premier.png",
     "category": "Cine",
-    "disabled": true
+    "disabled": false
+  },
+  {
+    "title": "Golden Premiere",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/362.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7A6M38O9fu2M5PxLOzWYrN_MHHdTMDYfXs5cwbOJjTsGZbMBPzC44K3qimYr9fTXj0uMlZ9jIbBx6UC7o6YTB1JAhbHiXkoJPTZgeQxkbkmM_UX7CshyTNWfdeTjZDHMrxskUMYrdYaloK61ILRaDW9A0hbNJQHYf4Lobs3oVvxIBGNG7mJYlNAZ-/s1600/Golden_Premier.png",
+    "category": "Cine",
+    "disabled": false
   },
   {
     "title": "MX",
@@ -1786,24 +1828,24 @@
   },
   {
     "title": "TNT ",
-    "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/93.m3u8",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/93.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPywg-WJgPwv2in1DPtqKabsOmGUgTtvu7PyG4RwbHJ-53WuV_RMP2EZ5d7_csR5D9P7DDi6N6oouIYYjEMJ6cVnKaNlYHxm9TV_rNoG1icaSAv10damhsdB_sqfST3tJFjjV8DG2T1qnPL-q3XvrhRGePDPPM-fpe2QSW-NpBReImzhaIK53RDfSM/s1600/TNT.png",
     "category": "Series",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "TNT Series",
-    "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/95.m3u8",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/95.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvwHaCuzI56V4hUzPsYQyyq19-qrHuav6XQM_N_X4WE-cSYyx1Cd7mcl4-N4DUgclzEd69BUTaQaGwVb23Tqykj5abmkHJ3hQXgLLTrjVQ_ursIFQThvoRI1NUCAc-1kRRVFDDViERappobBFLWAp6CMnj5U1wbGS1ogU-_8rjqtK8itqgb5-NFGFov5Am/s1600/unnamed.png",
     "category": "Series",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "TNT Novelas",
-    "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/89.m3u8",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/89.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq5IRJJIIjQLh8tHBj9z2p_bVvRbV4QUQsrcZFx_MiXPX5ZIyAXw4v8m1YnL1GkeNw0KL-vIG66gz0VGYaWXr3CQ-aiTgpcCD0hPDxyThfwZEoS00cDewLtW0AEavRIWZVkp-HnMbc-HXVnEqcqOg7wfDipoE2MSb932uRG_t_2DYzWoMmNZbFhyphenhyphennn/s1600/TNTNOVELAS.png",
     "category": "Series",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Xumo Peliculas",
@@ -1863,10 +1905,10 @@
   },
   {
     "title": "Cartoonito",
-    "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/760.m3u8",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/760.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPqjyXnhBY9m9gEkFRfGrn7Odgr_hxNOBuZXtPJ6L54HczIQ46kkj3OhwCv0ruP_yVWSLRLI1PyTsDrqvyF6Z5wn0uU8MZECKUfyl0niDNSKhLtqcHsA5IXZ0BiCAKK1Oh8XtNyD9AomyCi6F-YkzTvlOStZn0vhr_zVEGZF77z_6H-QD3dJho6DCB/s1600/cartoonito.png",
     "category": "Animación",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Los Simpsons",
@@ -1983,7 +2025,7 @@
   },
   {
     "title": "Disney Channel",
-    "url": "http://sl210.org:8080/GvmpT2gxKB/VkFub5FW8t/14448",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/96.m3u8",
     "thumbnailUrl": "https://static.wikia.nocookie.net/fic5689/images/d/d6/Disney_Channel_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20210707082839",
     "category": "Animación",
     "disabled": false
@@ -2004,10 +2046,10 @@
   },
   {
     "title": "Discovery Kids",
-    "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/82.m3u8",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/82.m3u8",
     "thumbnailUrl": "https://static.wikia.nocookie.net/fic5689/images/b/b3/DKids_2024_3D.png/revision/latest/scale-to-width-down/1000?cb=20240510183715",
     "category": "Animación",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Nickelodeon",
@@ -2025,7 +2067,7 @@
   },
   {
     "title": "Nick Jr",
-    "url": "http://sl210.org:8080/GvmpT2gxKB/VkFub5FW8t/14444",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/90.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxikJMbecG5uTb23OYlA40QpnZMjgXL-FD5nxACF8CK6R1mWjomDZQ-MhHE6byqv_zWJg1I_fn2KMTZjS_sWzFUSsS5VlckePCs7C91tdOJBrk0qglR4EWf_gF4FBsdLUzRH5vbxrQwQ1jcoHMtUCei-r0R75dwnojA7EyW3UD0g11H9tCljyzKn45/s1600/NickJr.png",
     "category": "Animación",
     "disabled": false
@@ -2053,10 +2095,10 @@
   },
   {
     "title": " Tooncast ",
-    "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/383.m3u8",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/383.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC9i77PjcT3hE2SnmM0cBrye8huV7l-4yN831bZcBz5Bwm6RNtwk4F8HjQshpHyrmTwMCiXXAWzlKUpN6R0U_jhCthBdJrMHD6fC13J1whoPJ3y6VD-hGNJAn1l6T0ZGxVnckg-KpvT9EXaF3HriNXHTgJqFPU5WuYcAbirU8SjTsC2b6FcO1CA3uT/s1600/tooncast.png",
     "category": "Animación",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "FMH family",
@@ -2443,7 +2485,7 @@
   },
   {
     "title": "Discovery Channel",
-    "url": "http://sl210.org:8080/GvmpT2gxKB/VkFub5FW8t/14440",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/7.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVjeVSRED7xL8lffQYPWXOZfjT6ktghO0wpTxAvEWkPZUuf3EjZTKDhH0TWs4WX-FJC3BdkW71WR4jrEMOiKpi9JOWDCKFG1Blq1h4vucECdtBr_yYGEGOXHaWV2B2bCWkw-8tz5PfBF30fHCWYSQK2c_-3aQrH43oTInV5SH5xy-vwireulKybyR2/s1600/discovery-channel.png",
     "category": "Documentales",
     "disabled": false
@@ -2478,7 +2520,7 @@
   },
   {
     "title": "National Geographic",
-    "url": "http://sl210.org:8080/GvmpT2gxKB/VkFub5FW8t/240123",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/36.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVSK4tKb3OxfK9aiA9DVRWSnNLBbh3upPnPsF57AhShVKTIWGtM5fcUgyRDV2mnT7I5UemKMxy8SJNXOdO_lGTfEI9RpjJ2T0pAd73-gnbzdggB4pWPVGi2Os3nf_FlYFKOFb_G-sQjKZppGIPOAJhQWmdzeh3CIkRfP9kZaeiyakZqr_3H7qSodWY/s1600/national-geographic.png",
     "category": "Documentales",
     "disabled": false
@@ -2499,10 +2541,10 @@
   },
   {
     "title": "History 2 USA",
-    "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/368.m3u8",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/368.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm3QlJgWDdnM9ERAcYri0F6Su37sfjflwM6sTbpmK6KxBhoKf6Vo27EL9pBB-_QR9GHQXIbVoKg1ftDBGL1pLQePAup1uxCe7oPDTZC6JeATIc-S0XsjkjNE8timpf2cpVPLwzPu1yyVO_7EiLPnPlOHMDXOxNLyBjCv-_-Pqu-xABIScEZAy8vnnP/s1600/H2.png",
     "category": "Documentales",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "Odisea",
@@ -3359,6 +3401,13 @@
     "disabled": false
   },
   {
+    "title": "DW Español",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/46.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwDRN8cKYGoAdqh-Cpustvgz9yhTwnM9bp-RWvHPVFCOFr5x38mRZ9VJ1mFCWouOmO-A9I57t3MBCioB2dJXerRU-iXfh0ZNpWOizFWj6auszK5aU8fBZdDMaAa6Zj6vUNaWyWd0Fz2MPOF53fz9iPZDg4_3gGD07sTSGEzDZZI5IGtCxWL9XBabwO/s1600/D_W.png",
+    "category": "Noticias",
+    "disabled": false
+  },
+  {
     "title": "Russia Today",
     "url": "https://rt-esp.rttv.com/live/rtesp/playlist.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6QWmqhgfvFp_lKiIJONJp6K3rItPUOfW5E2Kgu20225gPmCvMwGr5jYipr5N9zFh4qI0tZM5tl5hYSyedQiXssd_ouwNj8DpkI7f6ySsU0i7JBmQdRKJkEhH46OcYumJcCsDrtKbg3O9Tpo1tIYmUgbEzz0ve9fkF6umCzjvKjsHldKPDCBjNIpt4/s1600/1647329552630714.png",
@@ -3394,6 +3443,13 @@
     "disabled": false
   },
   {
+    "title": "CNÑ Español",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/53.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDQ6fEhw47CyX1C54tsckOqkcGcSZU5w_yteFLQiE8yp_Gd1wRPrH0HTrX9IAy_KZ35q2wyR2MHQqcIQjSAfKOlKCmLYg1gDLCFBn6cvmg9MCPml6GMvSHiWCvbtXnuoO1sRUiwqqLf8KCoaf8HVc34jgKCCO_pv_p6WYqEIuzeYhyphenhyphenJ4GY9hgK5LGW/s1600/CNN-Espanol.png",
+    "category": "Noticias",
+    "disabled": false
+  },
+  {
     "title": "TyC Sports",
     "url": "http://38.44.109.41:8003/play/a02l/index.m3u8",
     "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/650b9f1580967255d8051838/74cad407-9837-44e7-b9d9-c252e79bb966/tyclog.png",
@@ -3423,17 +3479,17 @@
   },
   {
     "title": "ESPN Premium",
-    "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/107.m3u8",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/96.m3u8",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "ESPN 2",
-    "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/108.m3u8",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/449.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdg1qxp3EN3RYE3_C8JKSOVHwZuvdnVaiCI9FHrj_MQJQs0T7ivJvxjP3InVSWS2UmzT_Xr9ovRuvp2lBkS7wYhEv3CYKSTteAyd4d4wy4CCkuKtDykFXzHOd-ICz3ok6qjdnt_S7AFMOZp4vXTMpX0y9Vz4P12WUIc8PvoVMCbNkjmH3eTedPbTwx/s1600/ESPN2_logo.svg.png",
     "category": "Deportes",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "ESPN 3",
@@ -4151,7 +4207,7 @@
   },
   {
     "title": "MTV Classic",
-    "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/316.m3u8",
+    "url": "https://tv.topmediatv.net:25463/live/TopMediaV2/MuwpDJdMm1/96.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYrmu6ueQ0BjXHuvmvUDZYCrbyHcVdG-nN3fm6bzJ-bsuqYnD4R2dtAUWlptb1aQyK90F_AyhWTGxQA0DjpLK7K3HCbbgdJeksOJ085VHWr0oRjlBYFl8zL8oGRaSEeKpcfy0rWcBzDiriPG-CxkDZ1bO6RtwOplPXL5fhfzL16kuw72iTDOVMvof3/s1600/default.png",
     "category": "Música",
     "disabled": false
