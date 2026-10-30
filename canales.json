@@ -785,6 +785,13 @@
     "disabled": false
   },
   {
+    "title": "My Time Movie",
+    "url": "https://samsunguk-appletree-mytimespain-samsung-es-i6dht.amagi.tv/playlist/samsunguk-appletree-mytimespain-samsung-es/playlist.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigPyLx-58-TVg28miZ-kswaKgJ9m5Kk1kkFEVpxWvMw8mPqCQbHNTWNC4HR87xDdrjg26FvLVoWCgur9Z_A9eAxHU8Z-Vd-oBtK58ESJs7Uk7E0JTAR1BZ-7O_W2dNXfBfowFlmDTckvY51fI4JNXnpF9l2QexxYVjEcohAC56JrjrxDi4veE5pliq/s1600/My.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
     "title": "8 HD",
     "url": "https://cjrd-cdnspa.pkglinkx.link/SVoriginOperatorEdge4/smil:234_premium.smil/manifest.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpQFWa-CZJrmuoRa17Q8eyDAmy2cUHQeCRX3xIiJNGHvKWhbBU6rtxzBMf3aGy9x3uylcpCvoH2CkZVVNWh-iFMybOzdNDgBzhKUKp4W21E1cJMn8gF-Z6jtMw6IyTXLlCzu9gAYNHPTzbFHhh-PFzowPtj1bwem6WYSeH3wyZ8ls29vmx3JE7Ry9y/s1600/8.png",
@@ -995,6 +1002,13 @@
     "disabled": false
   },
   {
+    "title": "BBC Series",
+    "url": "https://amg00793-amg00793c30-samsung-es-4959.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspainsamsunges-samsunges/playlist.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivzf1wUWOE4-wo1XwOd3LCVjOEIea0nMZKNFlQ8qIn_SdUgg3-yKHBSOC5W1ZXyAfPDC6Xr30xzuGB_vhBvGuyLhy03tCxtLfz4EZt7NxDvhAu00TgY5pFrwX0505Jza2SY9rcPiKHfSKzBDbUP55cfAC-C398aXjRMQp5Ric0DxRc5H0g7LgPvk7f/s1600/bbc.png",
+    "category": "Series",
+    "disabled": false
+  },
+  {
     "title": "H2O & Friends",
     "url": "https://d27xg0avq952v3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4pykiyxveyw1e/H2O_Friends_ES.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh05bTXKnywdjCRXj0f61ml76rWvgEycmPwpchp3zn3hIhVGOqdt3hL7EhsEaits0OG3dpZlQ66Cohv0MPGb36P4OQMPOMjN6q9TvfFmpP2IqT_scO1XBVJCUNDv2WVjh3PBm8MBhVB8QJ1en2dTdZ6mkxIOFLbIZF5qJLwvr1DXYGU3JsULYOvgHDO/s1600/H20.png",
@@ -1132,10 +1146,18 @@
     "url": "https://jmp2.uk/plu-6682bd9b8768aa0008f25be5.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/6682bd9b8768aa0008f25be5/colorLogoPNG.png",
     "category": "Series",
-    "disabled": false },
+    "disabled": false 
+  },
   {
     "title": "Asesinatos de Midsomer",
     "url": "https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8",
+    "thumbnailUrl": "https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png",
+    "category": "Series",
+    "disabled": false
+  },
+   {
+    "title": "Asesinatos de Midsomer",
+    "url": "https%3A%2F%2F2352796c.wurl.com%2Fmaster%2Ff36d25e7e52f1ba8d7e56eb859c636563214f541%2FU2Ftc3VuZy1lc19NTVNwYWluX0hMUw%2Fplaylist.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png",
     "category": "Series",
     "disabled": false
@@ -2736,17 +2758,24 @@
   },
   {
     "title": "BBC History",
-    "url": "http://skynetplus.live:80/RobertMartinez/b4bf3fb98956cc56/745979.ts",
+    "url": "https://amg22077-amg22077c32-amgplt0006.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg22077-amg22077c32-amgplt0006/playlist.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4gC5fS8fBlPDaUAMy0R6AypPFXfNFcB04IIHVgwL65bvg1GLpycVwkAoTBiASIcGNH9p-wns7bPtjqaK59QH4i9jGYfG2hGaz2yQPLoLOExXTsIkgKWHicj7vcf9kjW_f8ulm0WdFNjL69fvYYNTSwLfqMdHYq7nVn7pUsFd4rhdEFaUz-w__ySVa/s1600/BBC_HISTORY.png",
     "category": "Documentales",
-    "disabled": true
+    "disabled": false
   },
   {
     "title": "BBC food",
-    "url": "http://skynetplus.live:80/RobertMartinez/b4bf3fb98956cc56/745982.ts",
+    "url": "https://amg22077-amg22077c31-amgplt0006.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg22077-amg22077c31-amgplt0006/playlist.m3u8",
     "thumbnailUrl": "https://imageresizer.static9.net.au/UDgwGPREz9pyl-AwjuuvNSpjwHU=/1920x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648340%2Fcroppedlogo.png",
     "category": "Documentales",
-    "disabled": true
+    "disabled": false
+  },
+  {
+    "title": "BBC Lifestyle",
+    "url": "https://amg22077-amg22077c42-amgplt0006.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg22077-amg22077c42-amgplt0006/playlist.m3u8",
+    "thumbnailUrl": "https://www.bbcafricachannels.com/Resources/EMEAChannelSites/Africa/HiddenGems/bbc-lifestyle-white.png",
+    "category": "Documentales",
+    "disabled": false
   },
   {
     "title": "Nature +",
