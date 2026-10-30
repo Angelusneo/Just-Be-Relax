@@ -1352,7 +1352,7 @@
   },
   {
     "title": "Cine Friki",
-    "url": "https://daiconnect.com/live/hls/tvup/zylo-CFriki/index.m3u8",
+    "url": "https://cinefriki-tivify.ssai.tcscdn.net/playlist_3.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9dn9nQHs6sxDh4iRtT-RSrwI42mitOtRDLWn_Md6AAdn-ntsX7miCyRbbki0rD8IKbUvmYRyp9PwpJNJxEbcgpFGAm0gtICbvGmMtfG1H_pixuDHAMSssef2tJpqiEkarLWCGjjF52U4QN5CpNKfvjLe_3VIxfBFY8G5qICVrKExNi40QOsWiUY0M/s1600/friki.png",
     "category": "Cine",
     "disabled": false
@@ -1478,7 +1478,7 @@
   },
   {
     "title": "Cine Western",
-    "url": "https://daiconnect.com/live/hls/tvup/zylo-cwestern/.m3u8",
+    "url": "https://cinewestern-tivify.ssai.tcscdn.net/playlist_3.m3u8",
     "thumbnailUrl": "https://provider-static.plex.tv/epg/cms/production/1be934c5-1520-439c-8b0d-52a4f7716311/CinewesternWhite_LogoRDX.png",
     "category": "Cine",
     "disabled": false
@@ -2277,7 +2277,7 @@
   },
   {
     "title": "Yu-Gi-Oh!",
-    "url": "https://daiconnect.com/live/hls/tvup/tvfy-yugioh/index.m3u8",
+    "url": "https://yugioh-tivify.ssai.tcscdn.net/playlist_3.m3u8",
     "thumbnailUrl": "https://1000logos.net/wp-content/uploads/2024/02/Yu-Gi-Oh-Logo-2001.png",
     "category": "Animación",
     "disabled": false
@@ -2298,14 +2298,14 @@
   },
   {
     "title": "La Abeja Maya",
-    "url": "https://daiconnect.com/live/hls/tvup/tvfy-pljr/index.m3u8",
+    "url": "https://planetajunior-tivify.ssai.tcscdn.net/playlist_0.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-kzjP2ajvRVAtF4ImhsR_dHU5BrmC1IriRhA5VnsLd6ML-LCpnX1KK-9TKi9M2IdJUrA9mbHP-vnEGP4ZHqhm0DGNTULAS3RAffM0cy407y2frkigTMmPLVa3HxxpJdKnjIhWvlbBr668pWCF412owDi9lWXh_KiQI9ERdxNKxwfv_LdVVKOgiGWe/s1600/color_lg_6479dd1666328d12f0eb0843_1741875413804.png",
     "category": "Animación",
     "disabled": false
   },
   {
     "title": "Planeta Junior",
-    "url": "https://daiconnect.com/live/hls/tvup/tvfy-pljr/index.m3u8",
+    "url": "https://planetajunior-tivify.ssai.tcscdn.net/playlist_0.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh47_mvJo3BOpBMfEBaDZ2Ydmg77R_4Ok183OalAK8MJuGiLlaDTjXOxPOQzm82qIDdmPGYoKOUmzZatIB8Ttc-XpW2ZbnhVROJo665bH2_bNqyDWo66Iim6WM9dha19Jbq7qEbSjS50xLnHRmfbCveDcEeG98BL9BtdMT1wvtxN7rQ386PB24O9wZD/s1600/planeta.png",
     "category": "Animación",
     "disabled": true
