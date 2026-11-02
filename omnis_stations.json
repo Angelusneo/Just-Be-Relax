@@ -38,13 +38,13 @@
   {
     "nombre": "Europa Fm",
     "emisora": "La Música más te gusta",
-    "url": "https://27903.live.streamtheworld.com/EFMAAC/HLS/playlist.m3u8",
+    "url": "https://str1.mediatelekom.net:9950/stream",
     "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTCrQf-207URbtBNiQ035z1lQpFYLmavE020qx94_O4jM36VkpSSKjwK-O13_vwCFCVpeyGQT3UxdmeYV_jXw9mhVo0qniySNZa3SDAz4JLfnNEO8Klgd_MfQK8YaWpkDRR3WO1B7aTXzF09EUxagMtXOnTpcUXXLi6_42c0hls7bxIhoH4z3zj4Hwvp8/s1600/Euro.jpg"
   },
   {
     "nombre": "MegaStar Fm",
     "emisora": "Solo Temazos",
-    "url": "https://megastar-cope.flumotion.com/playlist.m3u8",
+    "url": "https://megastar-cope-rrcast.flumotion.com/cope/megastar.mp3",
     "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin4nMMGxQ5AqLatIxGclgpd-3vnp2-Tfx44MoYSJWh8o9WbcpEUFT5i94LV8JLjB9gWdcWt8_nVItGr7l3TBcQ_9jgdJ8fYI9RhiPdfDbVSnl56lp1EW4M4lT4QIjbhPKdKA95SledvAReJavPSCRY9-xRCs0kexKCsYyV53M6g1EcaWZe_P-Hyb1BidM/s1600/MegaS.png"
   },
   {
@@ -67,7 +67,7 @@
   },
   {
     "nombre": "iheart",
-    "emisora": "Música En Ingle y Español",
+    "emisora": "Música En Ingles y Español",
     "url": "https://stream.revma.ihrhls.com/zc10085/hls.m3u8",
     "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipB904xXgyQdCFxWsNyjkhTUDMGazrjee5IosrSYEI9_vVKwXFMqLDs2oTb1PhgvYmZ8q4_EXz-dHyLKsXtCWWGNACMpVoT1N6TE4CenZMjPOM5dDnnll_iin6s2L5_mymwpfKg7MtLyvDsKkPRb1pk9zTkoV6_viD3mMP7ttZ8NuYSaDEyGOQ6VX850E/s1600/iHeartMIE.png"
   },
