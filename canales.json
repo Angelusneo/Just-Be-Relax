@@ -1038,8 +1038,8 @@
   },
   {
     "title": "Star Trek: The next generation",
-    "url": "https://jmp2.uk/plu-65786b94cbd0d60008f7e4d9.m3u8",
-    "thumbnailUrl": "https://images.pluto.tv/channels/65786b94cbd0d60008f7e4d9/colorLogoPNG.png",
+    "url": "https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8",
+    "thumbnailUrl": "https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/colorLogoPNG.png",
     "category": "Series",
     "disabled": false
   },
@@ -1048,7 +1048,7 @@
     "url": "https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
     "category": "Series",
-    "disabled": false
+    "disabled": true
   },
   {
     "title": "Series",
