@@ -114,6 +114,12 @@
     "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDmeVawR6A4mvaPLorFrrRjKrNkVdFUCa7_g&s"
   },
   {
+    "nombre": "Noticias",
+    "emisora": "<Noticias",
+    "url": "https://live-bauerie.sharp-stream.com/SSOUL",
+    "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEWamyNk1e4BbZLBfMMlUSE8K2Nk47SJoCbdcUZxFtcDGsTTwOphrSOcA&s=10"
+  },
+  {
     "nombre": "Sunshine Soul",
     "emisora": "Música Soul",
     "url": "https://live-bauerie.sharp-stream.com/SSOUL",
@@ -154,12 +160,6 @@
     "emisora": "The best R&B",
     "url": "https://jazz-wr08.ice.infomaniak.ch/jazz-wr08-128.mp3",
     "portada": "https://www.staimusic.com/images/genres/black-music.jpg"
-  },
-  {
-    "nombre": "Soul Radio",
-    "emisora": "The best Soul",
-    "url": "https://listen.soulradio.eu/eu",
-    "portada": "https://play-lh.googleusercontent.com/1bp5RfYZwU1_Ee05bnupch1GK7VWETYtXLmRdJwyoKa_s1AlQoDpDXC7CE6kdC7XnS8=w240-h480-rw"
   },
   {
     "nombre": "Oldies Music",
