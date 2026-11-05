@@ -29,6 +29,13 @@
   },
   {
     "title": "Antena 3",
+    "url": "https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/a3.mpd",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicmQGrgxRS1ChSlTgRGHcTohJmGRp9FU8JOhvYB4sK3Dc6qWAOkyfTstpTSyRqQjF4o7K8uqM8JCT0-TD8_Fr9u1ZAT1R4y_ek7JJbjxtiXHcS6d7Bq2kjAwmdsU_-sDMO_7RBYjFxr8hybB5NBOOQGp9mYek3CmU98uSbxkTP6JTng6tUBgO0YDAV/s1600/antena-3.png",
+    "category": "Nacional",
+    "disabled": false
+  },
+  {
+    "title": "Antena 3",
     "url": "http://31.43.191.125:8080/vip9731767352167/2238456883f4/646",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicmQGrgxRS1ChSlTgRGHcTohJmGRp9FU8JOhvYB4sK3Dc6qWAOkyfTstpTSyRqQjF4o7K8uqM8JCT0-TD8_Fr9u1ZAT1R4y_ek7JJbjxtiXHcS6d7Bq2kjAwmdsU_-sDMO_7RBYjFxr8hybB5NBOOQGp9mYek3CmU98uSbxkTP6JTng6tUBgO0YDAV/s1600/antena-3.png",
     "category": "Nacional",
@@ -43,6 +50,13 @@
   },
   {
     "title": "Cuatro",
+    "url": "https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/cuatro.mpd",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMdv0uLbnd1hTI_SoVq6qf3yH8w-8LodF-rsQ8SWJBYIXIR5Cm9UbpNszsTdxAonLb_tNT_5Tq1g9aTkNwlntIu8neoRfEJsY0eL9o2vlXeBZeCDoWI3FS60c9gbr1rjwTR9PKhEpVFLnYJNP3GXdm98cXgYr4yVnybnW4xDVAYQjILR-H1TGzLEp-/s1600/Cuatro.svg.png",
+    "category": "Nacional",
+    "disabled": false
+  },
+  {
+    "title": "Cuatro",
     "url": "http://31.43.191.125:8080/vip9731767352167/2238456883f4/651",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMdv0uLbnd1hTI_SoVq6qf3yH8w-8LodF-rsQ8SWJBYIXIR5Cm9UbpNszsTdxAonLb_tNT_5Tq1g9aTkNwlntIu8neoRfEJsY0eL9o2vlXeBZeCDoWI3FS60c9gbr1rjwTR9PKhEpVFLnYJNP3GXdm98cXgYr4yVnybnW4xDVAYQjILR-H1TGzLEp-/s1600/Cuatro.svg.png",
     "category": "Nacional",
@@ -50,8 +64,22 @@
   },
   {
     "title": "Telecinco",
+    "url": "https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/t5.mpd",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzD7Jz-YSOfmgI6PFi2Ui5tweirX5elCFBC0ig8UgyFx-wPGw16nPi6u_PaWE7snAR1qIegcog0ZpzeIQixyDcbyMsz2pQtHs5fbQzS3qwZbdu2Q-tFHx4L0bgTke3b6PpeoVnDikvZTVE6mykuQgtQKV4Qe1XH1L2F2P81UFWytBdox1-eWDyCol6/s1600/cinco.png",
+    "category": "Nacional",
+    "disabled": false
+  },
+  {
+    "title": "Telecinco",
     "url": "http://31.43.191.125:8080/vip9731767352167/2238456883f4/647",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzD7Jz-YSOfmgI6PFi2Ui5tweirX5elCFBC0ig8UgyFx-wPGw16nPi6u_PaWE7snAR1qIegcog0ZpzeIQixyDcbyMsz2pQtHs5fbQzS3qwZbdu2Q-tFHx4L0bgTke3b6PpeoVnDikvZTVE6mykuQgtQKV4Qe1XH1L2F2P81UFWytBdox1-eWDyCol6/s1600/cinco.png",
+    "category": "Nacional",
+    "disabled": false
+  },
+  {
+    "title": "La Sexta",
+    "url": "https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/la6.mpd",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWlus8DvSCbyAEuDdyXv5yrifmpVAuDscDBwmbf4ojfrUoEY0HX01e8G7WuuMpjL2lwgGsqwSnCuvpxijbh6oInf_OjnAs1YK-KAYzPpA5GtUTx62yAs7CTVFKcPBhUhZGwWmX6x2ucOPK5SzkOFtaCdl3OCxm9KaHfsIvtTzk5Cu-ENwqiJIlJ4KJ/s1600/LaSexta.png",
     "category": "Nacional",
     "disabled": false
   },
@@ -67,6 +95,13 @@
     "url": "http://31.43.191.125:8080/vip9731767352167/2238456883f4/650",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWlus8DvSCbyAEuDdyXv5yrifmpVAuDscDBwmbf4ojfrUoEY0HX01e8G7WuuMpjL2lwgGsqwSnCuvpxijbh6oInf_OjnAs1YK-KAYzPpA5GtUTx62yAs7CTVFKcPBhUhZGwWmX6x2ucOPK5SzkOFtaCdl3OCxm9KaHfsIvtTzk5Cu-ENwqiJIlJ4KJ/s1600/LaSexta.png",
     "category": "Nacional",
+    "disabled": false
+  },
+  {
+    "title": "A3 Series",
+    "url": "https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/a3s.mpd",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWdYi-MvzwBfeUmqAEo5K_-wZC2HqabvtAAaSx7rKxyD0FGNYzTVv3jaRlNZjPegDoAQ6HtBrEvqcSPvhnGi83EoeGFr0QvKQ4k7N6PhTS0MCGABudujdyVnqxqxnQ7CX-4KgfVL_15VDlWoVzJUq-NX_nh4K3aQKps6re6dPSuHHpvi_i6viZqQMS/s1600/A3SHD.png",
+    "category": "Series",
     "disabled": false
   },
   {
@@ -87,20 +122,6 @@
     "title": "DKiss",
     "url": "http://31.43.191.125:8080/vip9731767352167/2238456883f4/748",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDuKUYbdQRlES_vzXPd8ngtgq8_gbGuLs11JT1uqKrbxc8Ha9wG2FyNU8hJ9kp8zbvPJNsF-N9cHZdOVjrkB4MHNonMbPCVqsB4Yqo11e_5Rz5hwXU2qdXPaYK-2rdD8GrfZTZ366rFYuCNNSDR8Hvb3x6iW6UnjcSz0gj8CTJ-Gip-67_GRc1RCGb/s1600/DKISS.png",
-    "category": "Entretenimiento",
-    "disabled": false
-  },
-  {
-    "title": "DKiss",
-    "url": "http://31.43.191.125:8080/vip9731767352167/2238456883f4/748",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDuKUYbdQRlES_vzXPd8ngtgq8_gbGuLs11JT1uqKrbxc8Ha9wG2FyNU8hJ9kp8zbvPJNsF-N9cHZdOVjrkB4MHNonMbPCVqsB4Yqo11e_5Rz5hwXU2qdXPaYK-2rdD8GrfZTZ366rFYuCNNSDR8Hvb3x6iW6UnjcSz0gj8CTJ-Gip-67_GRc1RCGb/s1600/DKISS.png",
-    "category": "Entretenimiento",
-    "disabled": false
-  },
-  {
-    "title": "Dmax",
-    "url": "http://31.43.191.125:8080/vip9731767352167/2238456883f4/709",
-    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ4kOf3lcvBuEZVVc-_U7aQDUOviTxTWS2VzJH_EblXTxjcD3ATzhO33TWb_WyC2tiIgQv2ekCKkSJb-K_nq5CBv2qZgn6YtdKUAyAPGKiculth-IQVE6vbIsApWetNooXRw7bBZvtwf2k1EQZmEb7y3igYy66g9LBYDpOp19uCTu9XhnqPRjzOvYS/s1600/DMAX.png",
     "category": "Entretenimiento",
     "disabled": false
   },
@@ -148,8 +169,22 @@
   },
   {
     "title": "Divinity",
+    "url": "https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/dvnty.mpd",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHiBZ6S0sVz7jj3o7BFSdBbGii8MxlNyNULybPSPkFN51LCENIoSqi_lNJFna3L-n8V8SFYqJehaVLldYHqgZIkwDEcWTvtGLHOyUoi5TozNq5naSaf-auh-l1pGS3SUqk0KEWSQngWPDENvzATYhIuFwHdveHPDDw7jiDrfadIm_aWnNpNMXWpf_a/s1600/Divinity.png",
+    "category": "Series",
+    "disabled": false
+  },
+  {
+    "title": "Divinity",
     "url": "http://31.43.191.125:8080/vip9731767352167/2238456883f4/747",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHiBZ6S0sVz7jj3o7BFSdBbGii8MxlNyNULybPSPkFN51LCENIoSqi_lNJFna3L-n8V8SFYqJehaVLldYHqgZIkwDEcWTvtGLHOyUoi5TozNq5naSaf-auh-l1pGS3SUqk0KEWSQngWPDENvzATYhIuFwHdveHPDDw7jiDrfadIm_aWnNpNMXWpf_a/s1600/Divinity.png",
+    "category": "Series",
+    "disabled": false
+  },
+  {
+    "title": "Energy",
+    "url": "https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/energy.mpd",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipG7lFjM2yEGj0R19oYUQ6iSDbnxoh3YRPxvuuTNhzrqcvOZEMH-Dq1UFEQ17Y4daWIQaSI1BHVg5YqUSRyXhwzyAOhmxewfH2BmnI_1GyXxhlxiEFcyLsxdsqq3suatJ_ODlwbN46Iq2O5A2ppuxaLfeygoFSgDnY3ZwkMRZuGp9X21h_FwBwWvyB/s1600/Energy.png",
     "category": "Series",
     "disabled": false
   },
@@ -177,6 +212,13 @@
   },
   {
     "title": "Factoria de Ficción",
+    "url": "https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/fdf.mpd",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrCPGpwOh-D9uW9XPXbB-TmRCDuZp0ah9hSia4SopgZJ1M9IedEctOFEPS6IgiMt4tcU8znLb0YBvmhs9f8djPXAnrnpo3isLsGVeL_g7UxcSZRYqHrcKKAagx4rvWKKD4HptelDXvTEYzb33B5SOWGjxXd-IrbrAHvpCNOwhSgfj8NkR3geFTM-3l/s1600/Factor%C3%ADa_de_Ficci%C3%B3n.png",
+    "category": "Series",
+    "disabled": false
+  },   
+  {
+    "title": "Factoria de Ficción",
     "url": "http://31.43.191.125:8080/vip9731767352167/2238456883f4/652",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrCPGpwOh-D9uW9XPXbB-TmRCDuZp0ah9hSia4SopgZJ1M9IedEctOFEPS6IgiMt4tcU8znLb0YBvmhs9f8djPXAnrnpo3isLsGVeL_g7UxcSZRYqHrcKKAagx4rvWKKD4HptelDXvTEYzb33B5SOWGjxXd-IrbrAHvpCNOwhSgfj8NkR3geFTM-3l/s1600/Factor%C3%ADa_de_Ficci%C3%B3n.png",
     "category": "Series",
@@ -184,9 +226,23 @@
   },                                                   
   {
     "title": "Neox",
+    "url": "https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/neox.mpd",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjprdVXjcLWpQHN9ZuxOFeaoLQ2iQx2Ge-DYRUU2lg4_3r1wl_i70UkYyqRZt8YRDgpg5GsmMvPubUA5Ube2hct5ImK2Sgb0eVCIuFCE0xG8Qld1A690oYAis46_-g1fyafSfJLsxSYsOXtenKQyLuGTokhw74wiJAxdgd6-8S4xe9WwAMOxq8EB7RA/s1600/Neox.png",
+    "category": "Series",
+    "disabled": false
+  },                                             
+  {
+    "title": "Neox",
     "url": "http://31.43.191.125:8080/vip9731767352167/2238456883f4/755",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjprdVXjcLWpQHN9ZuxOFeaoLQ2iQx2Ge-DYRUU2lg4_3r1wl_i70UkYyqRZt8YRDgpg5GsmMvPubUA5Ube2hct5ImK2Sgb0eVCIuFCE0xG8Qld1A690oYAis46_-g1fyafSfJLsxSYsOXtenKQyLuGTokhw74wiJAxdgd6-8S4xe9WwAMOxq8EB7RA/s1600/Neox.png",
     "category": "Series",
+    "disabled": false
+  },
+  {
+    "title": "Mega",
+    "url": "https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/mega.mpd",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXDkQMEGiKk95I25XJb8N9bLm5w9GzeTcil2B_LRhGaRxOLjgO4TYNUZ30eHcLQSvXykq70EccununlUff6j48a4Vp8S3G4Ycbm815e66I8xNnM9J7qD4snZC1dDtMYaRqNq3VkpZRQD3HmUmw7NKKyuPNm89MLbaNQsLtb0BhkQ_X0wgRCrhyNcJv/s1600/Mega.png",
+    "category": "Entretenimiento",
     "disabled": false
   },
   {
@@ -198,7 +254,7 @@
   },
   {
     "title": "Nova",
-    "url": "http://31.43.191.125:8080/vip9731767352167/2238456883f4/653",
+    "url": "https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/nova.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzEDbrc1UfymIkmCSr339yppsEtO8XPrcwVQY6KV5BJPpl1Tu1MmzuURcqqNL_EVNj1sPif7ie3FyrVztfD01KGCGvFhVaQ8v88YA8cfn6kJkRxuAHSy4zZ0YFuwUamat3SBwXZ6wDy-Fo3Wis1Mm-KiaA40yGzClAf0LmUFpduwGC8uHB0ovIBats/s1600/nova.png",
     "category": "Series",
     "disabled": false
@@ -214,6 +270,13 @@
     "title": "Star Channel",
     "url": "http://31.43.191.125:8080/vip9731767352167/2238456883f4/752",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv7Gv5JUmqIaPYIu8vhih-L8u03hn8QwprhGUEoIKbzGoEgeYJI2OzZhDPDGDkbVDyClc67x3cpihOh8CDu9hehPvHCJ_ORrYge1F6lur_vSay1H_pwiXZh18IhTtJ8QILMAFFsrtxKqcXLGWUDg-vnhM28YGWFyIGp-yElRUtXPMOfVZjLbAKftFW/s1600/Star_Channel.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "Be Mad",
+    "url": "https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/bmad.mpd",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji5wNNEiJN30_HDK0s_SBz5bXacpRujDvNzi0xNAWR5itErYEoESAiCvW0h1MKYlVDm3cZS43sXm7sTmNz4FHEfDcmIdfgAl1bgyDWOS7wigdnTQePQkF3yvNgZ9AAbVI5nvjkFPbUS2EhtZGTExImgUt6d2VG_qYSqFwjFkozKiGT4l-8PiVmxQ3gXYsj/s1600/be-mad.png",
     "category": "Cine",
     "disabled": false
   },
@@ -2066,7 +2129,7 @@
   },
   {
     "title": "Boing",
-    "url": "http://31.43.191.125:8080/vip9731767352167/2238456883f4/637",
+    "url": "https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/boing.mpd",
     "thumbnailUrl": "https://iconape.com/wp-content/png_logo_vector/boing-logo.png",
     "category": "Animación",
     "disabled": false
