@@ -1,7 +1,7 @@
 [
   {
     "title": "La 1",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiymCzsPVT4TElhJa8yf7ws5jui-qgNr0hFa_S9GCegklxn5r_le2kbEtVgwVRgJqqhenSghTS4dFawGt-dxBoiBTsLL8fKn95vE9V4D1BCpnZg4fnvn2ToXNrw4Gi1DExj2Ar7K0ZMIs_01o9w9OE4iXFriJUdyDVrv9SBpZ2FImnvQeWjK0UKpl1q/s1600/Logo_TVE-1.png",
     "category": "Nacional",
     "disabled": false
@@ -22,7 +22,7 @@
   },
   {
     "title": "La 2",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivMwflgTTGNGtO6AHpQA-Ec2-Nh2nB1RkzIasQ2ZMq0-49EeSyY6l6_kNtGGzgzevCi23CALRsUmW_YPKAAPsDmgvDZwUhGTk7tJqp3nHn1ORpyFXQrU8vNid4TB9b7Q-GKY4dLMYzDP_nUES1mxYe8BE_mi5BOWROuB3Y1MMrbrlKeGc0RUyIqhwS/s1600/Logo_TVE-2.png",
     "category": "Nacional",
     "disabled": false
