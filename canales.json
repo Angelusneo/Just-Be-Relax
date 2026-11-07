@@ -722,6 +722,13 @@
     "disabled": false
   },
   {
+    "title": "Emoción Atres Tv",
+    "url": "https://jmp2.uk/rok-770c7e1794505869b1ce94c84905ecea.m3u8",
+    "thumbnailUrl": "https://www.condista.com/wp-content/uploads/2026/01/emocion.png",
+    "category": "Series",
+    "disabled": false
+  },
+  {
     "title": "El Comisario",
     "url": "https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8",
     "thumbnailUrl": "https://images.pluto.tv/channels/60c343007bcabe0007242aa6/colorLogoPNG.png",
@@ -1018,6 +1025,13 @@
   {
     "title": "H2O & Friends",
     "url": "https://amg00771-amg00771c22-amgplt0006.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00771-amg00771c22-amgplt0006/playlist.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh05bTXKnywdjCRXj0f61ml76rWvgEycmPwpchp3zn3hIhVGOqdt3hL7EhsEaits0OG3dpZlQ66Cohv0MPGb36P4OQMPOMjN6q9TvfFmpP2IqT_scO1XBVJCUNDv2WVjh3PBm8MBhVB8QJ1en2dTdZ6mkxIOFLbIZF5qJLwvr1DXYGU3JsULYOvgHDO/s1600/H20.png",
+    "category": "Series",
+    "disabled": false
+  },
+  {
+    "title": "H2O & Friends",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-6a63ab81a1deb5624927c631/?X-Plex-Token=u43AEf9AeA4rsz38fJyb",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh05bTXKnywdjCRXj0f61ml76rWvgEycmPwpchp3zn3hIhVGOqdt3hL7EhsEaits0OG3dpZlQ66Cohv0MPGb36P4OQMPOMjN6q9TvfFmpP2IqT_scO1XBVJCUNDv2WVjh3PBm8MBhVB8QJ1en2dTdZ6mkxIOFLbIZF5qJLwvr1DXYGU3JsULYOvgHDO/s1600/H20.png",
     "category": "Series",
     "disabled": false
