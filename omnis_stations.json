@@ -90,12 +90,6 @@
     "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw33X6vMxEDpXngL53nZFAX0s6Rch9UQaCd52BFwqqYqoW2LbOZHDee7K8UuOTpwUyQYzkn9MElVrFR_VyKNUKv6i4gri4wXoCKnnUnBHiMXFEQd1CMu91KWWF75qbHQVaJrVQaySCffVPLMHTzCJix7QBWPXkz9HhtC4qme0OtRqg3R45ge6DuK9iO9w/s1600/Top-40-ballads.jpg"
   },
   {
-    "nombre": "Cadena Ser",
-    "emisora": "Noticias y Actualidad",
-    "url": "https://25633.live.streamtheworld.com/SER_MALLORCA.mp3",
-    "portada": "https://instrategies.eu/sites/default/files/styles/colorbox_gran/public/cadena%20ser.png"
-  },
-  {
     "nombre": "Rock Fm",
     "emisora": "El Rock de siempre",
     "url": "https://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3",
@@ -112,6 +106,12 @@
     "emisora": "Best 60s, 70s and 80s",
     "url": "https://strm112.1.fm/allmixedup_mobile_mp3",
     "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDmeVawR6A4mvaPLorFrrRjKrNkVdFUCa7_g&s"
+  },
+  {
+    "nombre": "Cadena Ser",
+    "emisora": "Noticias y Actualidad",
+    "url": "https://25633.live.streamtheworld.com/SER_MALLORCA.mp3",
+    "portada": "https://instrategies.eu/sites/default/files/styles/colorbox_gran/public/cadena%20ser.png"
   },
   {
     "nombre": "Radio 5",
