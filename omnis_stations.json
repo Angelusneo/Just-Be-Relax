@@ -140,7 +140,7 @@
   {
     "nombre": "Hit Fm",
     "emisora": "Ultimos Hits",
-    "url": "https://bbhitfm.kissfmradio.cires21.com:8443/bbhitfm/mp3/icecast.audio?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMDkvMjAyNiAxMjo1MTo0MSBQTSZoYXNoX3ZhbHVlPXFWMWtOR3F5MzFucDlUcTNMdzdVdkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01ODU4NTYyNQ==",
+    "url": "https://streaming12.elitecomunicacion.es:8626/stream?type=.mp3",
     "portada": "https://static-media.streema.com/media/cache/b0/be/b0be5f55bc1ade4c91a75e42e96037b4.jpg"
   },
   {
