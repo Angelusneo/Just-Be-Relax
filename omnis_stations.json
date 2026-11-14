@@ -102,10 +102,16 @@
     "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOSdxwEIc3qhdVmP8V2zxqxWxI3Vw7fpgFnBaSpfmrQ9s8uFiYI5L9w4mlA8RvcaUvEwK0eqg4A7f5EtDKCOKOaczp0fDUzFp2JqttcgreLtl5ywTSgUIjDfCIkdo6y5_4gDxtjz0xXtXKpU78y6YinuQNxCAO9AdxUl804dYOZkPrKjN5qifHvjiktgc/s1600/Party.png"
   },
   {
-    "nombre": "Sunshine Music",
-    "emisora": "Best 60s, 70s and 80s",
-    "url": "https://strm112.1.fm/allmixedup_mobile_mp3",
-    "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj-IRe_TqaX6cpXwv_JBkniMctpnY9b9n9ASI8LMbcq0mxZ43GVfNG9TCEw6B-vA-Y7WBzJ7VOrNWAM3cqColFbP9Ri8qLj9lQEwyep1y11-FdKKj7vMcTNMpKxMn0aHvCs3DuxxxualsrJCrgERiZNXqJ68KpvB_hcHZ0wHEQAjV6ieJ_Mv-alkDPMLM/s1600/sunshine.png"
+    "nombre": "Love Classics",
+    "emisora": "Amor Hecho Música",
+    "url": "https://strm112.1.fm/loveclassics_mobile_mp3",
+    "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLlltXL5sQoRUkn52hId2yIbxSxh6avhobrjgc5HNIDJ2yFJDLI-tHWKJ1wawhGubSMEUS6WvYmtSdkq1xFzInii6CbjsFWx1qqaTelydPr-JU0lrQk3ko7-q9B7N7ZXeyNhBJCz3pAdcqDY9Qy6Zy9WgqGZe2-4ExUmwSmmLoNYLZv_P-EG_n84wS4DY/s1600/Love-Classics.png"
+  },
+  {
+    "nombre": "Hit Fm",
+    "emisora": "Ultimos Hits",
+    "url": "https://hitfm.ice.infomaniak.ch/hitfm-192.mp3",
+    "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN7oUSTJWBqBKca7yyikNrigmwaWLLNF24in1MVo-sCVuFjCQ5LhWErBQj1rQY1nQJv3XmHcdbd-K4RZsspAOERkscIbwxbICxpcvruVuDKcSpl8-dvUCleVllTnxocCgcQ26x4l9Pl8xDmuJ4q0S0Zonjyf_wdX69Yu2jFoYVyGdpqcwRzRakLoOwLic/s1600/hit.png"
   },
   {
     "nombre": "Cadena Ser",
@@ -120,6 +126,12 @@
     "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUw6xtVcKM2cUFtkmR62zgYrIOnLv4Rplho7927dIJM_1TV6Ddqje2Ir4_7cc2LINyl_7-IIOH5umzBe4O19GPxQNfTfUUdqRm4zrQ08Nyh3yqyZLicAralGX3Vp1G2nzBYGc1F6y9NKMAdbqFVeEALShia-cQScjzwhi7nMflpiqXRVR6erFVIN7ksUE/s1600/R5.gif"
   },
   {
+    "nombre": "Sunshine Music",
+    "emisora": "Best 60s, 70s and 80s",
+    "url": "https://strm112.1.fm/allmixedup_mobile_mp3",
+    "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj-IRe_TqaX6cpXwv_JBkniMctpnY9b9n9ASI8LMbcq0mxZ43GVfNG9TCEw6B-vA-Y7WBzJ7VOrNWAM3cqColFbP9Ri8qLj9lQEwyep1y11-FdKKj7vMcTNMpKxMn0aHvCs3DuxxxualsrJCrgERiZNXqJ68KpvB_hcHZ0wHEQAjV6ieJ_Mv-alkDPMLM/s1600/sunshine.png"
+  },
+  {
     "nombre": "Sunshine Soul",
     "emisora": "Música Soul",
     "url": "https://live-bauerie.sharp-stream.com/SSOUL",
@@ -132,34 +144,22 @@
     "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ1d_i79nlDhbu-2Le6Ogm01-AWhSTC9tT4JUesZT9_wmU5z60cjrYWcAd_6A2lZgdYfI-Tyc-hBKZJKmqRIXyor0ZLppYC9hGih_rUw1IkzAu3BNVs585P-niQegQtU05cEjiLMWfDDRoAEdvragJZBkpOUP4AyjwiFoFE8Bn8hDbAeGUCOCuoLZ05Fs/s1600/goldFM.png"
   },
   {
-    "nombre": "Love Classics",
-    "emisora": "Amor Hecho Música",
-    "url": "https://strm112.1.fm/loveclassics_mobile_mp3",
-    "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLlltXL5sQoRUkn52hId2yIbxSxh6avhobrjgc5HNIDJ2yFJDLI-tHWKJ1wawhGubSMEUS6WvYmtSdkq1xFzInii6CbjsFWx1qqaTelydPr-JU0lrQk3ko7-q9B7N7ZXeyNhBJCz3pAdcqDY9Qy6Zy9WgqGZe2-4ExUmwSmmLoNYLZv_P-EG_n84wS4DY/s1600/Love-Classics.png"
-  },
-  {
-    "nombre": "Hit Fm",
-    "emisora": "Ultimos Hits",
-    "url": "https://hitfm.ice.infomaniak.ch/hitfm-192.mp3",
-    "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN7oUSTJWBqBKca7yyikNrigmwaWLLNF24in1MVo-sCVuFjCQ5LhWErBQj1rQY1nQJv3XmHcdbd-K4RZsspAOERkscIbwxbICxpcvruVuDKcSpl8-dvUCleVllTnxocCgcQ26x4l9Pl8xDmuJ4q0S0Zonjyf_wdX69Yu2jFoYVyGdpqcwRzRakLoOwLic/s1600/hit.png"
-  },
-  {
     "nombre": "SIE7E Radio",
     "emisora": "Temas no, Temazos",
     "url": "https://stream.sieteradio.com:8020/stream",
     "portada": "https://cdn-profiles.tunein.com/s145009/images/logog.jpg"
   },
   {
-    "nombre": "The Best Oldies",
-    "emisora": "Música de Antes",
-    "url": "https://c3.auracast.net/radio/8010/radio.mp3",
-    "portada": "https://cdns-images.dzcdn.net/images/cover/58035e8ab32b6b23683d91b7df7f3820/500x500.jpg"
-  },
-  {
     "nombre": "Black Music",
     "emisora": "The best R&B",
     "url": "https://jazz-wr08.ice.infomaniak.ch/jazz-wr08-128.mp3",
     "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4EIOIL7Qu0FobPWpBYHRUcqH20rQ1VmasJAc-xLEvj5HRqVkZF92LyIb71uNzXgGqWPBg0Crj4nJUIjjmtph6XTtWawwTBzfrJIMSy6BPqegzCHtzUwmoK-ezVL50lF8S9HUSuZ0veADrQgmemIGEcsXcSHwcnVuP_-7P5AN6Hu1vSIBhGxbCtId06lo/s1600/Blackpng.png"
+  },
+  {
+    "nombre": "The Best Oldies",
+    "emisora": "Música de Antes",
+    "url": "https://c3.auracast.net/radio/8010/radio.mp3",
+    "portada": "https://cdns-images.dzcdn.net/images/cover/58035e8ab32b6b23683d91b7df7f3820/500x500.jpg"
   },
   {
     "nombre": "Oldies Music",
@@ -181,8 +181,8 @@
     "portada": "https://m.media-amazon.com/images/I/517T+5jq4FL._UF894,1000_QL80_.jpg"
   },
   {
-    "nombre": "The Beegees",
-    "emisora": "Best Of Beegees",
+    "nombre": "Bee Gees",
+    "emisora": "Best Of Bee Gees",
     "url": "https://streaming.exclusive.radio/er-app/thebeegeeshits/icecast.audio",
     "portada": "https://m.media-amazon.com/images/I/715w+qpS1DL._UF894,1000_QL80_.jpg"
   },
@@ -212,7 +212,7 @@
   },
   {
     "nombre": "Michael Jackson",
-    "emisora": "Best Of Michael",
+    "emisora": "Best Of Michael Jackson",
     "url": "https://streaming.exclusive.radio/er-app/michaeljacksonhits/icecast.audio",
     "portada": "https://play-lh.googleusercontent.com/cjwDB-n-YRsBdFzkeXSRY4dcywvIdHHUbGMeh4oV9izfbuipOvnLJUnyo52nsFiGKQ"
   },
@@ -224,7 +224,7 @@
   },
   {
     "nombre": "Billie Eilish",
-    "emisora": "Best Of Billie",
+    "emisora": "Best Of Billie Eilish",
     "url": "https://streaming.exclusive.radio/er-app/billyeilish/icecast.audio",
     "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirb_-Ye01ycS4AkP0v_b11-OiG021pfSBuQHfd2fYdiu37qsODW_cHqcUAzZrJGDqbEyB1-Ew3cbxLzXHyLa5jwxEBBvOmEXRiGtLF0I1igShttGX0I0Z0R3zghspO3y1J9sDWMv7HchvACgMAZhjXhbiHvSdOfhyphenhyphenz8_SVh8J4wjVYV_6ZJOged09j3NI/s1600/billie_Eilish.png"
   },
@@ -248,19 +248,19 @@
   },
   {
     "nombre": "Sam Smith",
-    "emisora": "Best Of Sam",
+    "emisora": "Best Of Sam Smith",
     "url": "https://streaming.exclusive.radio/er-app/samsmith/icecast.audio",
     "portada": "https://www.lahiguera.net/musicalia/artistas/sam_smith/disco/5850/tema/7896/sam_smith_like_i_can-portada.jpg"
   },
   {
     "nombre": "Whitney Houston",
-    "emisora": "Best Of Whitney",
+    "emisora": "Best Of Whitney Houston",
     "url": "https://streaming.exclusive.radio/er-app/whitneyhoustonhits/icecast.audio",
     "portada": "https://images-na.ssl-images-amazon.com/images/I/71xjLGKuYyL._SL1500_.jpg"
   },
   {
     "nombre": "Barry White",
-    "emisora": "Best Of Barry",
+    "emisora": "Best Of Barry White",
     "url": "https://streaming.exclusive.radio/er-app/barrywhitehits/icecast.audio",
     "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUI1Akrt2wFz_j1FqAMzeFyXeOHtkSFpYPHWmS9UtS_HwI3aTm16r-ncop1zp9nZId3eZO-rwEjXYlyD-hH2HWnK73Z6vEANK8bgsgAVMjWIwaZue1hUjlcbevOi9pBxJ9D3b3kClv-TGMvFnHXvuL7mn92M8KfomWv_OORkM1wCuiXsEUbVZqgvSHJMA/s1600/Barry.png"
   }
