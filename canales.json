@@ -223,14 +223,28 @@
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrCPGpwOh-D9uW9XPXbB-TmRCDuZp0ah9hSia4SopgZJ1M9IedEctOFEPS6IgiMt4tcU8znLb0YBvmhs9f8djPXAnrnpo3isLsGVeL_g7UxcSZRYqHrcKKAagx4rvWKKD4HptelDXvTEYzb33B5SOWGjxXd-IrbrAHvpCNOwhSgfj8NkR3geFTM-3l/s1600/Factor%C3%ADa_de_Ficci%C3%B3n.png",
     "category": "Series",
     "disabled": false
-  },                                                   
+  },
+  {
+    "title": "Neox",
+    "url": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/neox.mpd",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjprdVXjcLWpQHN9ZuxOFeaoLQ2iQx2Ge-DYRUU2lg4_3r1wl_i70UkYyqRZt8YRDgpg5GsmMvPubUA5Ube2hct5ImK2Sgb0eVCIuFCE0xG8Qld1A690oYAis46_-g1fyafSfJLsxSYsOXtenKQyLuGTokhw74wiJAxdgd6-8S4xe9WwAMOxq8EB7RA/s1600/Neox.png",
+    "category": "Series",
+    "disabled": false
+  },
   {
     "title": "Neox",
     "url": "https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/neox.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjprdVXjcLWpQHN9ZuxOFeaoLQ2iQx2Ge-DYRUU2lg4_3r1wl_i70UkYyqRZt8YRDgpg5GsmMvPubUA5Ube2hct5ImK2Sgb0eVCIuFCE0xG8Qld1A690oYAis46_-g1fyafSfJLsxSYsOXtenKQyLuGTokhw74wiJAxdgd6-8S4xe9WwAMOxq8EB7RA/s1600/Neox.png",
     "category": "Series",
     "disabled": false
-  },                                             
+  },
+  {
+    "title": "Neox",
+    "url": "https://ignac16.github.io/voxel-tv-streams/neox.mpd",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjprdVXjcLWpQHN9ZuxOFeaoLQ2iQx2Ge-DYRUU2lg4_3r1wl_i70UkYyqRZt8YRDgpg5GsmMvPubUA5Ube2hct5ImK2Sgb0eVCIuFCE0xG8Qld1A690oYAis46_-g1fyafSfJLsxSYsOXtenKQyLuGTokhw74wiJAxdgd6-8S4xe9WwAMOxq8EB7RA/s1600/Neox.png",
+    "category": "Series",
+    "disabled": false
+  },
   {
     "title": "Neox",
     "url": "http://31.43.191.125:8080/vip9731767352167/2238456883f4/755",
@@ -247,6 +261,13 @@
   },
   {
     "title": "Mega",
+    "url": "https://ignac16.github.io/voxel-tv-streams/mega.mpd",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXDkQMEGiKk95I25XJb8N9bLm5w9GzeTcil2B_LRhGaRxOLjgO4TYNUZ30eHcLQSvXykq70EccununlUff6j48a4Vp8S3G4Ycbm815e66I8xNnM9J7qD4snZC1dDtMYaRqNq3VkpZRQD3HmUmw7NKKyuPNm89MLbaNQsLtb0BhkQ_X0wgRCrhyNcJv/s1600/Mega.png",
+    "category": "Entretenimiento",
+    "disabled": false
+  },
+  {
+    "title": "Mega",
     "url": "http://31.43.191.125:8080/vip9731767352167/2238456883f4/753",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXDkQMEGiKk95I25XJb8N9bLm5w9GzeTcil2B_LRhGaRxOLjgO4TYNUZ30eHcLQSvXykq70EccununlUff6j48a4Vp8S3G4Ycbm815e66I8xNnM9J7qD4snZC1dDtMYaRqNq3VkpZRQD3HmUmw7NKKyuPNm89MLbaNQsLtb0BhkQ_X0wgRCrhyNcJv/s1600/Mega.png",
     "category": "Entretenimiento",
@@ -255,6 +276,13 @@
   {
     "title": "Nova",
     "url": "https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/nova.mpd",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzEDbrc1UfymIkmCSr339yppsEtO8XPrcwVQY6KV5BJPpl1Tu1MmzuURcqqNL_EVNj1sPif7ie3FyrVztfD01KGCGvFhVaQ8v88YA8cfn6kJkRxuAHSy4zZ0YFuwUamat3SBwXZ6wDy-Fo3Wis1Mm-KiaA40yGzClAf0LmUFpduwGC8uHB0ovIBats/s1600/nova.png",
+    "category": "Series",
+    "disabled": false
+  },
+  {
+    "title": "Nova",
+    "url": "https://ignac16.github.io/voxel-tv-streams/nova.mpd",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzEDbrc1UfymIkmCSr339yppsEtO8XPrcwVQY6KV5BJPpl1Tu1MmzuURcqqNL_EVNj1sPif7ie3FyrVztfD01KGCGvFhVaQ8v88YA8cfn6kJkRxuAHSy4zZ0YFuwUamat3SBwXZ6wDy-Fo3Wis1Mm-KiaA40yGzClAf0LmUFpduwGC8uHB0ovIBats/s1600/nova.png",
     "category": "Series",
     "disabled": false
@@ -309,9 +337,23 @@
     "disabled": false
   },
   {
+    "title": "AMC Seleck",
+    "url": "http://90.170.214.40:9700/stream/avatel/selekt/master.m3u8",
+    "thumbnailUrl": "https://amcglobalmedia.pt/wp-content/uploads/2026/07/AMCSELEKTTV_BLANCO.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
     "title": "Veo 7",
     "url": "http://90.163.85.113:8093/stream/52/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiurVr-tSt-oHbre472lKGem5fMTZGMAZwuXDFlkeg0nRSGb-Zp8yztaMpH-cRiCG-mXYd3903BeY0K0GP8vRIyATa-54CKPjSTSRWHr6UzalwMKbXdfNRK5AdzLW66o_OuBQ0jeURy-oqMGUyO_cbkmyEr9DPW0jcKMrxt24fQIotzJLtoMkUkSfnZ/s1600/Veo7.png",
+    "category": "Cine",
+    "disabled": false
+  },
+  {
+    "title": "AXN",
+    "url": "http://90.170.214.40:9700/stream/avatel/axn/master.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCGP1b83u6MGNyax_jQpsTCS6puK7Wab9LZt4zgHcUqhzqwODFeqFUNLHLcUaCqZ-47aL2jnichibDtjv572Da2X0-4fAk_3wRzWc-LbeTAsIXVSQTY6T6ScO6EOjTlKWyTsNVcVG12V45V2zMqIWM8JRJmoh0NdhUblSa8xlX7MOKI11CzKLGh1C9/s1600/AXN.png",
     "category": "Cine",
     "disabled": false
   },
@@ -2044,6 +2086,13 @@
     "disabled": false
   },
   {
+    "title": "Nick Jr",
+    "url": "https://streaming.onnethn.com/NICK_JR/playlist.m3u8",
+    "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxikJMbecG5uTb23OYlA40QpnZMjgXL-FD5nxACF8CK6R1mWjomDZQ-MhHE6byqv_zWJg1I_fn2KMTZjS_sWzFUSsS5VlckePCs7C91tdOJBrk0qglR4EWf_gF4FBsdLUzRH5vbxrQwQ1jcoHMtUCei-r0R75dwnojA7EyW3UD0g11H9tCljyzKn45/s1600/NickJr.png",
+    "category": "Animación",
+    "disabled": false
+  },
+  {
     "title": "TeenNick",
     "url": "http://181.78.106.127:9000/play/a0pj/index.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_Vshx4lku8GawnYTdNQqmr5hsZx1Ax-OqzqhzZCDx4t7KQZz8AuMhUgPMW-TtM-PWGBBBQo3RcYe3WNHqHcNtgRcHIjia0RrGoaBlojUpUCaUt8o28gF5p-tAH1J1DXqmCn6mlzzGAcoY85hrNvxkUvumXUuhbXBjyBjWfv63j1IAwB0SnHzM5R48/s1600/TeenNick.png",
@@ -2144,6 +2193,13 @@
   {
     "title": "Boing",
     "url": "https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/boing.mpd",
+    "thumbnailUrl": "https://iconape.com/wp-content/png_logo_vector/boing-logo.png",
+    "category": "Animación",
+    "disabled": false
+  },
+  {
+    "title": "Boing",
+    "url": "http://90.170.214.40:9700/stream/avatel/boing/master.m3u8",
     "thumbnailUrl": "https://iconape.com/wp-content/png_logo_vector/boing-logo.png",
     "category": "Animación",
     "disabled": false
@@ -2969,6 +3025,13 @@
     "title": "A Bocados",
     "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=cooking&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_abocados_ssai&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6979&ads.rakuten_streaming_id=5b6b958d-100c-4b7b-87ad-c862b870ad04&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883131&ads.xumo_channel_id=88883131&ads.xumo_contentId=2459&ads.xumo_contentName=IndigeniusBonViajeSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2459&ads.xumo_providerName=a-bocados-spa-rakutentv&ads.xumo_streamId=88883131",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihYyNlHvmXYO7NLV6Vl29bX1cAxiYW18kowBknc4jXGcqRGVBlb7BioVEfThO_GYJ5-29ZOVALx9v4r2WFZZHF5hdjKiVrCNmjQw3XOuiDQSfGUxtpDGO-JWpDzel07wABCYGksHbTbtWb7z2VB2yYTzfG324jXF46uIWrLrmcCpyUjOOS5JV1p-x2/s1600/A-Bocados.png",
+    "category": "Entretenimiento",
+    "disabled": false
+  },
+  {
+    "title": "El Gourmet",
+    "url": "https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8",
+    "thumbnailUrl": "https://cdn.storage.foromedios.com/gallery/category_7/large.gallery_11008_7_20686.png.6a839e51eea47ab6bb6fec94f1cc0ee8.png",
     "category": "Entretenimiento",
     "disabled": false
   },
