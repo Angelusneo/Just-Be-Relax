@@ -1051,6 +1051,27 @@
     "disabled": false
   },
   {
+    "title": "Embrujadas",
+    "url": "https://jmp2.uk/plu-657868a7a620e30008fdbfeb.m3u8",
+    "thumbnailUrl": "https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/colorLogoPNG.png",
+    "category": "Series",
+    "disabled": false
+  },
+  {
+    "title": "Medium",
+    "url": "https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8",
+    "thumbnailUrl": "https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png",
+    "category": "Series",
+    "disabled": false
+  },
+  {
+    "title": "NCIS",
+    "url": "https://jmp2.uk/plu-67b4aff37d8025b161069365.m3u8",
+    "thumbnailUrl": "https://images.pluto.tv/channels/67b4aff37d8025b161069365/colorLogoPNG.png",
+    "category": "Series",
+    "disabled": false
+  },
+  {
     "title": "BBC Series",
     "url": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspain-rakutenes/playlist.m3u8",
     "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivzf1wUWOE4-wo1XwOd3LCVjOEIea0nMZKNFlQ8qIn_SdUgg3-yKHBSOC5W1ZXyAfPDC6Xr30xzuGB_vhBvGuyLhy03tCxtLfz4EZt7NxDvhAu00TgY5pFrwX0505Jza2SY9rcPiKHfSKzBDbUP55cfAC-C398aXjRMQp5Ric0DxRc5H0g7LgPvk7f/s1600/bbc.png",
@@ -1135,16 +1156,9 @@
     "disabled": false
   },
   {
-    "title": "Embrujadas",
-    "url": "https://jmp2.uk/plu-657868a7a620e30008fdbfeb.m3u8",
-    "thumbnailUrl": "https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/colorLogoPNG.png",
-    "category": "Series",
-    "disabled": false
-  },
-  {
-    "title": "Medium",
-    "url": "https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8",
-    "thumbnailUrl": "https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png",
+    "title": "Star Trek: The next generation",
+    "url": "https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8",
+    "thumbnailUrl": "https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/colorLogoPNG.png",
     "category": "Series",
     "disabled": false
   },
@@ -1154,13 +1168,6 @@
     "thumbnailUrl": "https://www.paramountshop.com/cdn/shop/files/star_trek_logo_-min_900x.png?v=1689972288",
     "category": "Series",
     "disabled": true
-  },
-  {
-    "title": "Star Trek: The next generation",
-    "url": "https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8",
-    "thumbnailUrl": "https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/colorLogoPNG.png",
-    "category": "Series",
-    "disabled": false
   },
   {
     "title": "Star Trek: Voyager",
